@@ -6,7 +6,7 @@ no hace falta tocar nada de aquí.
 ## Instalar (una sola vez)
 
 1. Instala [Prism Launcher](https://prismlauncher.org/) y entra con tu cuenta de Minecraft.
-2. Descarga `Gaby_Pack_Prism.zip` y arrástralo a la ventana de Prism
+2. Descarga `Cobblemon_Modpack.zip` y arrástralo a la ventana de Prism
    (o *Añadir instancia → Importar*).
 3. Abre la instancia **Cobblemon**. La primera vez descarga todos los mods (unos minutos);
    después arranca el juego.
