@@ -1,12 +1,12 @@
-name = "Gaby - A World to Keep"
+name = "Cobblemon Modpack"
 author = "Gaby"
-version = "0.15.1"
+version = "0.15.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "32b11a7661a802019ba201781f886df5298b459ed7d37d22829ba36420921382"
+hash = "b72b8879532634bd60dbcc8a3fe48667d0a873068a5465ba816f8ea8efcd6f14"
 
 [versions]
 minecraft = "1.21.1"

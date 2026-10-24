@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "c9ac6cefbb024b6f69b2c65d49519c9ad4d5b82048c418e263ce340672c45325"
+
+[[files]]
 file = "config/biomesoplenty/generation.toml"
 hash = "69a04cf1bbbe2811fde956817d7d6aa51a3a2f82cda44f4db0f21fb65e936459"
 
@@ -162,11 +166,11 @@ hash = "23f2e5c59c4ea85a3304abced78b04298383d8c82dfd5bd4863af7269a640b55"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "88e5b92815e2572c7bc6dbcf80b1ea3d697ba1f11761841badd66303da28c933"
+hash = "2fdd9712b624781e0c7f6288db3b2e15c522425f5749415cd84815fa58c59b5b"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es.snbt"
-hash = "16ae431f8570ed979a559e1096b4b73cf374c8eb6054e0619777cfcfd023312a"
+hash = "a0d500b4077230f9b956c52dac79d537f28067682fd99906c9c10dcbe9cf5402"
 
 [[files]]
 file = "config/global_packs.toml"
@@ -11382,6 +11386,11 @@ hash = "f985516b4e49df286d7a15c5a2ec2b665f61f3cd3621ba722778d08138b5ec87"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons-2-4-5-b-1-21-1-fabric-neoforge.pw.toml"
+hash = "f0902008fa234a4e50896590a57d0bd451490a8d07c013227ec54c81aadb2e2e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps-3-11-4-minecraft-1-21-0-neoforge.pw.toml"
 hash = "9181652977624efd099abef7d1cc5cf6e2587786b242241ec795aead79867ba4"
 metafile = true
@@ -11478,12 +11487,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "242c1724f9eda9dbaf186594e14121c9cee27f54d53a8ae431ceb7c5cd67d244"
+hash = "0bec1d86136b750b220be8e8602cc8b0a9627b4a67f22a7f8fc5e9cb1e372fe3"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "3c2c92d8a29b9943a29e9f75edde604d428a0045b3bb72fdc9e91f231918abec"
+hash = "af35ad1a31541e17f0e1a45c8b9b7e1b3456fcf068922c1d46d96364330f5eec"
 metafile = true
 
 [[files]]
@@ -11503,7 +11512,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "292b54ed96f63cb2ad836d7ba98f81ee92326509f07ffacbc220e50c5bc25a03"
+hash = "7dc87faa6929fa407e4b770322c2750be7dc482b09c735651342ca312764f8a2"
 metafile = true
 
 [[files]]

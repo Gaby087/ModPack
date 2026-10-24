@@ -1,0 +1,46 @@
+# Conservative client profile for Distant Horizons 2.4.5-b / Minecraft 1.21.1.
+# Version 3 is required: otherwise DH discards this file and restores its defaults.
+_version = 3
+
+[client.advanced.autoUpdater]
+# Updates are pinned by the pack, alongside Iris and Sodium.
+enableAutoUpdater = false
+enableSilentUpdates = false
+
+[client.advanced.graphics.quality]
+# 64 chunks = 1024 blocks of radius, drawn as simplified terrain.
+lodChunkRenderDistanceRadius = 64
+horizontalQuality = "LOW"
+maxHorizontalResolution = "BLOCK"
+verticalQuality = "LOW"
+transparency = "DISABLED"
+lodBiomeBlending = 0
+vanillaFadeMode = "SINGLE_PASS"
+dhFadeFarClipPlane = false
+ditherDhFade = true
+
+[client.advanced.graphics.ssao]
+enableSsao = false
+
+[client.advanced.graphics.culling]
+enableCaveCulling = true
+
+[client.advanced.graphics.genericRendering]
+enableCloudRendering = false
+
+[client.advanced.graphics.experimental]
+# Arena plots share a dimension; distant plots must not appear around the current arena.
+ignoredDimensionCsv = "gaby_core:gyms,minecraft:the_nether"
+
+[common.multiThreading]
+# Half the running time of one worker, at low priority, leaving CPU for hosting and gameplay.
+# The menu may call this CUSTOM because it is stricter than the built-in CPU presets.
+numberOfThreads = 1
+threadRunTimeRatio = 0.5
+threadPriority = 1
+
+[common.worldGenerator]
+# Record explored chunks; do not generate or import the surrounding world in the background.
+enableDistantGeneration = false
+# If generation is enabled manually later, start with existing terrain only.
+distantGeneratorMode = "PRE_EXISTING_ONLY"
