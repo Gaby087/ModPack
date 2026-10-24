@@ -1,0 +1,100 @@
+{
+ "name": "Inventor Bonnie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "rotom",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "shadowball",
+    "voltswitch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "ampharos",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "dragonpulse",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "static",
+   "heldItem": [
+    "mega_showdown:ampharosite"
+   ]
+  },
+  {
+   "species": "manectric",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "voltswitch",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "lightningrod"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

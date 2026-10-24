@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Hagane",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "aggron",
+   "level": 77,
+   "nature": "adamant",
+   "moveset": [
+    "headsmash",
+    "heavyslam",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  },
+  {
+   "species": "klinklang",
+   "level": 76,
+   "nature": "adamant",
+   "moveset": [
+    "geargrind",
+    "wildcharge",
+    "shiftgear",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "plus"
+  },
+  {
+   "species": "klefki",
+   "level": 76,
+   "nature": "bold",
+   "moveset": [
+    "playrough",
+    "thunderwave",
+    "lightscreen",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "prankster"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

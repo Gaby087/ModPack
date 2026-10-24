@@ -1,0 +1,92 @@
+{
+ "name": "Hiker Rolf",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "tyrantrum",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "strongjaw"
+  },
+  {
+   "species": "aurorus",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "ancientpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "golem",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "ironhead",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

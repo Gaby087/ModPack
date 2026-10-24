@@ -1,0 +1,92 @@
+{
+ "name": "Elite Four Wikstrom",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "aegislash",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shadowsneak",
+    "ironhead",
+    "kingsshield",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "stancechange"
+  },
+  {
+   "species": "scizor",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bulletpunch",
+    "uturn",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "klinklang",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "geargrind",
+    "wildcharge",
+    "shiftgear",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "clearbody"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

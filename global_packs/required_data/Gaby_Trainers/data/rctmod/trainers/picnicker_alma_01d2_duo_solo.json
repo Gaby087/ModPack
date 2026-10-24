@@ -1,0 +1,146 @@
+{
+ "name": "Picnicker Alma",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "ivysaur",
+   "level": 26,
+   "nature": "adamant",
+   "moveset": [
+    "razorleaf",
+    "sleeppowder",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "overgrow"
+  },
+  {
+   "species": "gloom",
+   "level": 26,
+   "nature": "calm",
+   "moveset": [
+    "megadrain",
+    "sleeppowder",
+    "stunspore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "tangela",
+   "level": 26,
+   "nature": "bold",
+   "moveset": [
+    "vinewhip",
+    "megadrain",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "weepinbell",
+   "level": 27,
+   "nature": "adamant",
+   "moveset": [
+    "razorleaf",
+    "sleeppowder",
+    "acid",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "roselia",
+   "level": 26,
+   "nature": "timid",
+   "moveset": [
+    "megadrain",
+    "cottonspore",
+    "sleeppowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "lombre",
+   "level": 26,
+   "nature": "modest",
+   "moveset": [
+    "bubblebeam",
+    "energyball",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "raindish"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

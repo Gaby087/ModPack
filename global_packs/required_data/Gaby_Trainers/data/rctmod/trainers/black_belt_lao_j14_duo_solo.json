@@ -1,0 +1,146 @@
+{
+ "name": "Black Belt Lao",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "lucario",
+   "level": 74,
+   "nature": "timid",
+   "moveset": [
+    "aurasphere",
+    "flashcannon",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "toxicroak",
+   "level": 73,
+   "nature": "adamant",
+   "moveset": [
+    "drainpunch",
+    "gunkshot",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "breloom",
+   "level": 74,
+   "nature": "jolly",
+   "moveset": [
+    "spore",
+    "machpunch",
+    "bulletseed",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "sawk",
+   "level": 74,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "knockoff",
+    "lowsweep",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "pangoro",
+   "level": 74,
+   "nature": "adamant",
+   "moveset": [
+    "hammerarm",
+    "knockoff",
+    "partingshot",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "scrappy"
+  },
+  {
+   "species": "infernape",
+   "level": 74,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "flareblitz",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "blaze"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

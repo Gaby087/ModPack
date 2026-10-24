@@ -1,0 +1,86 @@
+{
+ "name": "Elite Four Karen",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "umbreon",
+   "level": 95,
+   "nature": "calm",
+   "moveset": [
+    "foulplay",
+    "snarl",
+    "toxic",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "synchronize",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "honchkrow",
+   "level": 96,
+   "nature": "adamant",
+   "moveset": [
+    "suckerpunch",
+    "bravebird",
+    "nightslash",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "houndoom",
+   "level": 97,
+   "nature": "timid",
+   "moveset": [
+    "darkpulse",
+    "fireblast",
+    "snarl",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

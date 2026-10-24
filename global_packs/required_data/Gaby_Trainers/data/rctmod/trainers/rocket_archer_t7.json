@@ -1,0 +1,153 @@
+{
+ "name": "Admin Archer",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "gengar",
+   "level": 47,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgebomb",
+    "hypnosis",
+    "thunderbolt"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "arbok",
+   "level": 47,
+   "nature": "adamant",
+   "moveset": [
+    "gunkshot",
+    "crunch",
+    "coil",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "honchkrow",
+   "level": 48,
+   "nature": "adamant",
+   "moveset": [
+    "suckerpunch",
+    "bravebird",
+    "nightslash",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "superluck"
+  },
+  {
+   "species": "crobat",
+   "level": 48,
+   "nature": "jolly",
+   "moveset": [
+    "crosspoison",
+    "bravebird",
+    "taunt",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "weezing",
+   "level": 48,
+   "nature": "bold",
+   "moveset": [
+    "sludgebomb",
+    "willowisp",
+    "fireblast",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "houndoom",
+   "level": 50,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "darkpulse",
+    "nastyplot",
+    "sludgebomb"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

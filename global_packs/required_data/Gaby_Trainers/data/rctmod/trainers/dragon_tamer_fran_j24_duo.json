@@ -1,0 +1,80 @@
+{
+ "name": "Dragon Tamer Fran",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "hydreigon",
+   "level": 83,
+   "nature": "timid",
+   "moveset": [
+    "dracometeor",
+    "darkpulse",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "goodra",
+   "level": 83,
+   "nature": "modest",
+   "moveset": [
+    "fireblast",
+    "sludgebomb",
+    "thunderbolt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sapsipper"
+  },
+  {
+   "species": "dragapult",
+   "level": 83,
+   "nature": "jolly",
+   "moveset": [
+    "dragondarts",
+    "phantomforce",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "clearbody"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

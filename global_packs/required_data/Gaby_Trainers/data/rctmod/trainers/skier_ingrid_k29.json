@@ -1,0 +1,96 @@
+{
+ "name": "Skier Ingrid",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "abomasnow",
+   "level": 100,
+   "nature": "mild",
+   "moveset": [
+    "blizzard",
+    "gigadrain",
+    "iceshard",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "cryogonal",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "freezedry",
+    "recover",
+    "rapidspin",
+    "haze"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "glaceon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "shadowball",
+    "calmmind",
+    "wish"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "icebody"
+  }
+ ]
+}

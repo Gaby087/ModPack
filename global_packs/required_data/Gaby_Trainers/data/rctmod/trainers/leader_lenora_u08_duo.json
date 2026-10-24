@@ -1,0 +1,100 @@
+{
+ "name": "Leader Lenora",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "watchog",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crunch",
+    "superfang",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "keeneye"
+  },
+  {
+   "species": "slaking",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "doubleedge",
+    "gigaimpact",
+    "hammerarm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "truant",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "blissey",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "seismictoss",
+    "softboiled",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

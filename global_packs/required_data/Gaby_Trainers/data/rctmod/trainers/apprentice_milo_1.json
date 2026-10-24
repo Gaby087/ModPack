@@ -1,0 +1,92 @@
+{
+ "name": "Apprentice Hay",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "eldegoss",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "gigadrain",
+    "cottonspore",
+    "pollenpuff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "appletun",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "appleacid",
+    "dracometeor",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "ripen"
+  },
+  {
+   "species": "shiftry",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "leafblade",
+    "suckerpunch",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

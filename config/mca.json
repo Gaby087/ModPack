@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "overwriteOriginalVillagers": false,
+  "overwriteOriginalZombieVillagers": false,
+  "overwriteAllZombiesWithZombieVillagers": false,
+  "fractionOfVanillaVillages": 1.0,
+  "fractionOfVanillaZombies": 1.0,
+  "innSpawnsAdventurers": false,
+  "innSpawnsCultists": false,
+  "innSpawnsWanderingTraders": false,
+  "launchIntoDestiny": false,
+  "allowDestinyTeleportation": false,
+  "giveAdvancementBooks": false,
+  "villagerRestockNotification": false,
+  "innArrivalNotification": false
+}

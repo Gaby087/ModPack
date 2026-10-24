@@ -1,0 +1,87 @@
+{
+ "name": "Beauty Samantha",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "snorlax",
+   "level": 68,
+   "nature": "careful",
+   "moveset": [
+    "bodyslam",
+    "crunch",
+    "curse",
+    "rest"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "ursaring",
+   "level": 67,
+   "nature": "adamant",
+   "moveset": [
+    "facade",
+    "closecombat",
+    "crunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "porygonz",
+   "level": 68,
+   "nature": "modest",
+   "moveset": [
+    "triattack",
+    "shadowball",
+    "thunderbolt",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "adaptability"
+  }
+ ]
+}

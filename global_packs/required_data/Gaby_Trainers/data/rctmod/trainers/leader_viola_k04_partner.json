@@ -1,0 +1,100 @@
+{
+ "name": "Photographer Sana",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "ribombee",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "bugbuzz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "shielddust"
+  },
+  {
+   "species": "heracross",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "megahorn",
+    "closecombat",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie",
+   "heldItem": [
+    "mega_showdown:heracronite"
+   ]
+  },
+  {
+   "species": "galvantula",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunder",
+    "bugbuzz",
+    "stickyweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "compoundeyes"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

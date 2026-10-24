@@ -1,0 +1,187 @@
+{
+ "name": "Leader Gordie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "coalossal",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "flamethrower",
+    "rockslide",
+    "sandstorm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "flamebody",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "stonjourner",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "heavyslam",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "powerspot",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "tyranitar",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "crunch",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sandstream"
+  },
+  {
+   "species": "rhyperior",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "megahorn",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "solidrock",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "aurorus",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "ancientpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "garganacl",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "saltcure",
+    "rockslide",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "purifyingsalt",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

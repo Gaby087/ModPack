@@ -1,0 +1,95 @@
+{
+ "name": "Apprentice Claw",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "baxcalibur",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "glaiverush",
+    "iciclecrash",
+    "dragondance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "thermalexchange"
+  },
+  {
+   "species": "dragonair",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dragontail",
+    "aquatail",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "shedskin",
+   "heldItem": [
+    "eviolite"
+   ]
+  },
+  {
+   "species": "latios",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "dracometeor",
+    "psychic",
+    "lightscreen",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

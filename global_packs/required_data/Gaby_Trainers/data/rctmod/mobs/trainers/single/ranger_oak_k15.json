@@ -1,0 +1,14 @@
+{
+ "type": "normal",
+ "series": [
+  "gaby_kalos"
+ ],
+ "optional": true,
+ "requiredDefeats": [],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

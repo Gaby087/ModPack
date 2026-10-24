@@ -1,0 +1,189 @@
+{
+ "name": "Leader Archie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "kyogre",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "originpulse",
+    "icebeam",
+    "thunder",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "drizzle",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "sharpedo",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "liquidation",
+    "crunch",
+    "closecombat",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "speedboost",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "crobat",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "crosspoison",
+    "uturn",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "muk",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "gunkshot",
+    "knockoff",
+    "shadowsneak",
+    "curse"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "poisontouch",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "mightyena",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "crunch",
+    "suckerpunch",
+    "playrough",
+    "icefang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "wailord",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "waterspout",
+    "icebeam",
+    "hydropump",
+    "hypervoice"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "waterveil",
+   "heldItem": [
+    "choice_specs"
+   ]
+  }
+ ]
+}

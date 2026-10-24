@@ -1,0 +1,986 @@
+{
+ "id": "641968C9391FEFF2",
+ "filename": "dex",
+ "group": "71C7157F1269A7DC",
+ "order_index": 19,
+ "icon": {
+  "id": "cobblemon:pokedex_red",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "1B0B6C25B3961EB6",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pokedex_red",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "register",
+     "amount": 50,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "6D860E90A361E3A0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "699A5AB03CD62BAD",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1A8D1E8F52FF7631",
+   "x": 2.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pokedex_blue",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "register",
+     "amount": 150,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1D4D3C8D89B40BDA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 9000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6220FED882545F6F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1B0B6C25B3961EB6"
+   ]
+  },
+  {
+   "id": "4B4A0010C2C9BA0B",
+   "x": 4.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pokedex_green",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "register",
+     "amount": 300,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "52AE358783FE04D8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 18000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "338B960AEA169B4E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1A8D1E8F52FF7631"
+   ]
+  },
+  {
+   "id": "71C204D712B89072",
+   "x": 6.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pokedex_red",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "register",
+     "amount": 450,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "25549E055A311A2B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 27000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "424437DFD91EA680",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:master_ball",
+      "count": 1
+     },
+     "count": 1,
+     "id": "6FCE683DEE76833F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4B4A0010C2C9BA0B"
+   ]
+  },
+  {
+   "id": "400D6FFB456875FF",
+   "x": 8.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pokedex_blue",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "register",
+     "amount": 600,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1F760DFC6B1D7AEF"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 36000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "663198C83A6ED6A5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "71C204D712B89072"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "692A557A0D92B9CE",
+   "x": 10.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pokedex_green",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "register",
+     "amount": 750,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "390100AC5360F03E"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 45000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "70FA1AD7B18D3768",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "400D6FFB456875FF"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "6C2C0771A2F651EB",
+   "x": 12.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pokedex_red",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "register",
+     "amount": 900,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1089E70B6943C661"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 54000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7760F038742A5FC7",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:master_ball",
+      "count": 1
+     },
+     "count": 1,
+     "id": "7BA8619D0F8B8C6F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "692A557A0D92B9CE"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "62A34575A29EA67C",
+   "x": 14.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pokedex_blue",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "register",
+     "amount": 1025,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "28DB7AB5097CE8BC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 61500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5DC31CC22D2ECFEA",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ability_patch",
+      "count": 1
+     },
+     "count": 1,
+     "id": "2C9F07C690739635",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6C2C0771A2F651EB"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "45C24CAC3ECA1C68",
+   "x": 0.0,
+   "y": 2.0,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "bulbasaur",
+     "id": "42ADB00BB0438EA0"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "charmander",
+     "id": "36A8488C9BBBEBD7"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "squirtle",
+     "id": "7D26941D72E98B2B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "560227182225A8F4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "67A140DC8FABC52D",
+   "x": 2.0,
+   "y": 2.0,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "chikorita",
+     "id": "1DE8EE25DBEC38F7"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cyndaquil",
+     "id": "611FB1DEAAF49E6E"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "totodile",
+     "id": "55DE052C4D9A05A3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "72647A35D99D45C6",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "4C4C882E9C8890CB",
+   "x": 4.0,
+   "y": 2.0,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "treecko",
+     "id": "2364C085EEFCAF2D"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "torchic",
+     "id": "1742E0B9EC24343F"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "mudkip",
+     "id": "6E1D8BD74721FD56"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "550BE684CF2779E4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "166CA8A6141C2301",
+   "x": 6.0,
+   "y": 2.0,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "turtwig",
+     "id": "2FB740BA89FD544F"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "chimchar",
+     "id": "5C659D330F2019CA"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "piplup",
+     "id": "76C18D6639992A81"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "407066BB088D2B03",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "2C170C9D6A10AC16",
+   "x": 8.0,
+   "y": 2.0,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "snivy",
+     "id": "64861CD4E4AB08C4"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "tepig",
+     "id": "51F2139FC202E6F4"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "oshawott",
+     "id": "673A569AB92FC951"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2D8D8D879FEB6C26",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "33C9990E2756D11B",
+   "x": 0.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "chespin",
+     "id": "10F9DBF2FB589010"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "fennekin",
+     "id": "7791EBD20302BA83"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "froakie",
+     "id": "467E86B6ACA146C8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3B3ED2073882AE28",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "1BB46636480F5B72",
+   "x": 2.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "rowlet",
+     "id": "4FB9B1F524578AC1"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "litten",
+     "id": "478B4A3DB3CC5BAA"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "popplio",
+     "id": "2734EBABBC3EAE2C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5ABEB87E34D2B74C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "579C5EC1709AAF03",
+   "x": 4.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "grookey",
+     "id": "1AA3B200AFD6904D"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "scorbunny",
+     "id": "3B9DCD5F5CA6D918"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "sobble",
+     "id": "599B2E3A93469672"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "30E8C176FB358B49",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "12704E8831365B77",
+   "x": 6.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "sprigatito",
+     "id": "73C3420039C656FC"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "fuecoco",
+     "id": "3C1DC388A08DE97C"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "quaxly",
+     "id": "18D115AA55156252"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "231E927C377090E4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "48C119FB7B795C21",
+   "x": 10.0,
+   "y": 2.0,
+   "icon": {
+    "id": "cobblemon:moon_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "vaporeon",
+     "id": "2781BAF7457DA023"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "jolteon",
+     "id": "151F563473BE4B21"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "flareon",
+     "id": "270D44B4BA196895"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "espeon",
+     "id": "6FAEE2F84F9FACAE"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "umbreon",
+     "id": "47AC7E33F7EB91AA"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "leafeon",
+     "id": "714C2547DFB1D984"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "glaceon",
+     "id": "46A5D26555EE68B4"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "sylveon",
+     "id": "458F33D7F576C21E"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "32E247C80CBBB589",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 5,
+     "id": "213CC9B46E82F802",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "name": "Leader Pryce",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "walrein",
+   "level": 80,
+   "nature": "bold",
+   "moveset": [
+    "icebeam",
+    "waterpulse",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "weavile",
+   "level": 81,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "mamoswine",
+   "level": 82,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "iceshard",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

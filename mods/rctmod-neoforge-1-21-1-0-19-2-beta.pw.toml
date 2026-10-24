@@ -1,0 +1,8 @@
+name = "rctmod-neoforge-1.21.1-0.19.2-beta"
+filename = "rctmod-neoforge-1.21.1-0.19.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/ITPewVPq/rctmod-neoforge-1.21.1-0.19.2-beta.jar"
+hash-format = "sha1"
+hash = "c290fbfc910a86740f8134bb94a73aa3bc56e055"

@@ -1,0 +1,170 @@
+{
+ "name": "Worker Clyde",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "krookodile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "highhorsepower",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "nidoking",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "earthpower",
+    "sludgebomb",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "seismitoad",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "earthpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "landorus",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "earthpower",
+    "sludgebomb",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "donphan",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "highhorsepower",
+    "knockoff",
+    "rapidspin",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "whiscash",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "waterfall",
+    "rocktomb",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "oblivious"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

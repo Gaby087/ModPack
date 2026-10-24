@@ -1,0 +1,146 @@
+{
+ "name": "Psychic Bryce",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "kadabra",
+   "level": 35,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "recover",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "synchronize"
+  },
+  {
+   "species": "drowzee",
+   "level": 35,
+   "nature": "calm",
+   "moveset": [
+    "psychic",
+    "hypnosis",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "insomnia"
+  },
+  {
+   "species": "slowpoke",
+   "level": 35,
+   "nature": "relaxed",
+   "moveset": [
+    "psychic",
+    "waterpulse",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "owntempo"
+  },
+  {
+   "species": "abra",
+   "level": 35,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "synchronize"
+  },
+  {
+   "species": "mimejr",
+   "level": 35,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "lightscreen",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "filter"
+  },
+  {
+   "species": "natu",
+   "level": 35,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "nightshade",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "synchronize"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

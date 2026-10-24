@@ -1,0 +1,177 @@
+{
+ "name": "Leader Erika",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "exeggutor",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "gigadrain",
+    "psychic",
+    "sleeppowder",
+    "leechseed"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "bellossom",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "gigadrain",
+    "moonblast",
+    "quiverdance",
+    "sleeppowder"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "tangrowth",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "powerwhip",
+    "earthquake",
+    "rockslide",
+    "sleeppowder"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "vileplume",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "gigadrain",
+    "sludgebomb",
+    "moonblast",
+    "sleeppowder"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "effectspore"
+  },
+  {
+   "species": "venusaur",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "gigadrain",
+    "sludgebomb",
+    "earthpower",
+    "sleeppowder"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "victreebel",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "leafblade",
+    "suckerpunch",
+    "poisonjab",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll",
+   "heldItem": [
+    "mega_showdown:victreebelite"
+   ]
+  }
+ ]
+}

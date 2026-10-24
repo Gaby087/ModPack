@@ -1,0 +1,170 @@
+{
+ "name": "Madame Ruth",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "sylveon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "moonblast",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "pixilate"
+  },
+  {
+   "species": "florges",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "gigadrain",
+    "lightscreen",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "flowerveil"
+  },
+  {
+   "species": "mawile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "playrough",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "clefable",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "softboiled",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "magicguard"
+  },
+  {
+   "species": "azumarill",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "aquajet",
+    "playrough",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "hugepower"
+  },
+  {
+   "species": "primarina",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "moonblast",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "liquidvoice"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

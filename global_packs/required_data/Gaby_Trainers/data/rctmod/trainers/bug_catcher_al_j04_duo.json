@@ -1,0 +1,80 @@
+{
+ "name": "Bug Catcher Al",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "scizor",
+   "level": 64,
+   "nature": "adamant",
+   "moveset": [
+    "bulletpunch",
+    "uturn",
+    "roost",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "heracross",
+   "level": 64,
+   "nature": "jolly",
+   "moveset": [
+    "megahorn",
+    "closecombat",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "yanmega",
+   "level": 65,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "airslash",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "speedboost"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

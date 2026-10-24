@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Sora",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "slowbro",
+   "level": 36,
+   "nature": "bold",
+   "moveset": [
+    "psychic",
+    "waterpulse",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "exeggcute",
+   "level": 36,
+   "nature": "modest",
+   "moveset": [
+    "psychic",
+    "sleeppowder",
+    "leechseed",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "girafarig",
+   "level": 36,
+   "nature": "modest",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

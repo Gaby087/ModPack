@@ -1,0 +1,85 @@
+{
+ "name": "Mac",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "mrmime",
+   "level": 38,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "reflect",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "filter"
+  },
+  {
+   "species": "hypno",
+   "level": 37,
+   "nature": "calm",
+   "moveset": [
+    "psychic",
+    "hypnosis",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "insomnia"
+  },
+  {
+   "species": "slowking",
+   "level": 38,
+   "nature": "relaxed",
+   "moveset": [
+    "psychic",
+    "waterpulse",
+    "slackoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "owntempo"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

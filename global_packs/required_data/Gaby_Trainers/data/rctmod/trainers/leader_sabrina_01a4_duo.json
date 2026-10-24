@@ -1,0 +1,88 @@
+{
+ "name": "Leader Sabrina",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "alakazam",
+   "level": 39,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "twisted_spoon"
+   ]
+  },
+  {
+   "species": "jynx",
+   "level": 38,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "psychic",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "espeon",
+   "level": 38,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magicbounce"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,9 @@
+{
+ "version": 13,
+ "default_locale": "en_us",
+ "fallback_locale": "en_us",
+ "default_consume_items": false,
+ "default_progression_mode": "flexible",
+ "default_autoclaim_rewards": "no_toast",
+ "disable_gui": false
+}

@@ -1,0 +1,146 @@
+{
+ "name": "Lass Ann",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "oddish",
+   "level": 25,
+   "nature": "modest",
+   "moveset": [
+    "megadrain",
+    "sleeppowder",
+    "stunspore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "bellsprout",
+   "level": 26,
+   "nature": "adamant",
+   "moveset": [
+    "vinewhip",
+    "sleeppowder",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "exeggcute",
+   "level": 25,
+   "nature": "modest",
+   "moveset": [
+    "confusion",
+    "trickroom",
+    "leechseed",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "bulbasaur",
+   "level": 26,
+   "nature": "bold",
+   "moveset": [
+    "razorleaf",
+    "sleeppowder",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "overgrow"
+  },
+  {
+   "species": "skiploom",
+   "level": 26,
+   "nature": "timid",
+   "moveset": [
+    "megadrain",
+    "stunspore",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "cottonee",
+   "level": 25,
+   "nature": "timid",
+   "moveset": [
+    "cottonspore",
+    "energyball",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "prankster"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

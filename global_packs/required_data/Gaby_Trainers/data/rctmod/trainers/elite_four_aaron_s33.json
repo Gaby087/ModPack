@@ -1,0 +1,186 @@
+{
+ "name": "Elite Four Aaron",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "dustox",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "sludgebomb",
+    "bugbuzz",
+    "quiverdance",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "shielddust"
+  },
+  {
+   "species": "beautifly",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "airslash",
+    "quiverdance",
+    "gigadrain"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swarm"
+  },
+  {
+   "species": "vespiquen",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "attackorder",
+    "defendorder",
+    "healorder",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "pressure",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "heracross",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "megahorn",
+    "closecombat",
+    "stoneedge",
+    "knockoff"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "volcarona",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "fierydance",
+    "bugbuzz",
+    "gigadrain"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flamebody",
+   "heldItem": [
+    "heavy_duty_boots"
+   ]
+  },
+  {
+   "species": "drapion",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "knockoff",
+    "poisonjab",
+    "earthquake",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sniper",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Breeder Fern",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "gogoat",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "hornleech",
+    "earthquake",
+    "milkdrink",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper"
+  },
+  {
+   "species": "jumpluff",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "acrobatics",
+    "sleeppowder",
+    "leechseed",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "sunflora",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "solarbeam",
+    "earthpower",
+    "sunnyday",
+    "sludgebomb"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "type": "e4",
+ "series": [
+  "gaby_hoenn"
+ ],
+ "optional": false,
+ "requiredDefeats": [
+  [
+   "leader_juan_h32"
+  ]
+ ],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

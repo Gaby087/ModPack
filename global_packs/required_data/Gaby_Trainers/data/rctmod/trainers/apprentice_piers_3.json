@@ -1,0 +1,95 @@
+{
+ "name": "Apprentice Amp",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "greninja",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "hydropump",
+    "darkpulse",
+    "icebeam",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "protean"
+  },
+  {
+   "species": "umbreon",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "foulplay",
+    "snarl",
+    "toxic",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "def": 4
+   },
+   "aspects": [],
+   "ability": "synchronize",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "absol",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "suckerpunch",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "justified"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

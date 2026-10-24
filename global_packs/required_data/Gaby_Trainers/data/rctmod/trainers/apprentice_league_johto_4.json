@@ -1,0 +1,80 @@
+{
+ "name": "Aide Nyx",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "weavile",
+   "level": 96,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "tyranitar",
+   "level": 96,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "crunch",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sandstream"
+  },
+  {
+   "species": "kingambit",
+   "level": 96,
+   "nature": "adamant",
+   "moveset": [
+    "kowtowcleave",
+    "ironhead",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "supremeoverlord"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

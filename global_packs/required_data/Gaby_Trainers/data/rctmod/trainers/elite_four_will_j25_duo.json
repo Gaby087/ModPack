@@ -1,0 +1,83 @@
+{
+ "name": "Elite Four Will",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "xatu",
+   "level": 86,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "airslash",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "hatterene",
+   "level": 87,
+   "nature": "quiet",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "alakazam",
+   "level": 88,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "focusblast",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

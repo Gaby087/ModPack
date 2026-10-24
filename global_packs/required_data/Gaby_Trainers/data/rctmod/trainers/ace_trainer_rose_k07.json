@@ -1,0 +1,96 @@
+{
+ "name": "Ace Trainer Rose",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "aerodactyl",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "stoneedge",
+    "dualwingbeat",
+    "earthquake",
+    "taunt"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unnerve"
+  },
+  {
+   "species": "amaura",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "earthpower",
+    "ancientpower",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "refrigerate"
+  },
+  {
+   "species": "lycanroc",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "accelerock",
+    "stoneedge",
+    "closecombat",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "steadfast"
+  }
+ ]
+}

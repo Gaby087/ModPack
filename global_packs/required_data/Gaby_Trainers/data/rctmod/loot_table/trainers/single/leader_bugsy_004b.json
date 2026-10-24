@@ -1,0 +1,30 @@
+{
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:loot_table",
+     "value": "rctmod:trainers/groups/leader"
+    }
+   ]
+  },
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "cobblemonpokemonbadges:hive_badge",
+     "conditions": [
+      {
+       "condition": "rctmod:defeat_count",
+       "comparator": "==",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "random_sequence": "rctmod:trainers/single/leader_bugsy_004b"
+}

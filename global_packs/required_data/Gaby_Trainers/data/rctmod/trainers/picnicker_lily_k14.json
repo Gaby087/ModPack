@@ -1,0 +1,96 @@
+{
+ "name": "Picnicker Lily",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "victreebel",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "powerwhip",
+    "sludgebomb",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "weepinbell",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "powerwhip",
+    "poisonjab",
+    "sleeppowder",
+    "growth"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "trevenant",
+   "level": 100,
+   "nature": "brave",
+   "moveset": [
+    "hornleech",
+    "poltergeist",
+    "woodhammer",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "harvest"
+  }
+ ]
+}

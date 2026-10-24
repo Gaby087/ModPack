@@ -1,0 +1,97 @@
+{
+ "name": "Aide Rose",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "aegislash",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shadowsneak",
+    "ironhead",
+    "kingsshield",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "stancechange"
+  },
+  {
+   "species": "seismitoad",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "earthpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "mimikyu",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "playrough",
+    "shadowclaw",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "disguise"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

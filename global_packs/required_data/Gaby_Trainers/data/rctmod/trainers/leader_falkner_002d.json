@@ -1,0 +1,180 @@
+{
+ "name": "Leader Falkner",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "pidgeot",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "hurricane",
+    "heatwave",
+    "roost",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "bigpecks"
+  },
+  {
+   "species": "skarmory",
+   "level": 62,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "spikes",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "honchkrow",
+   "level": 63,
+   "nature": "adamant",
+   "moveset": [
+    "suckerpunch",
+    "bravebird",
+    "nightslash",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "corviknight",
+   "level": 63,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "roost",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "noctowl",
+   "level": 63,
+   "nature": "timid",
+   "moveset": [
+    "hurricane",
+    "psychic",
+    "nastyplot",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "tintedlens"
+  },
+  {
+   "species": "staraptor",
+   "level": 64,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "closecombat",
+    "uturn",
+    "doubleedge"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "reckless",
+   "heldItem": [
+    "choice_band"
+   ]
+  }
+ ]
+}

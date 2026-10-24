@@ -1,0 +1,8 @@
+name = "MoreCobblemonTweaks-neoforge-1.3.5"
+filename = "MoreCobblemonTweaks-neoforge-1.3.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5KWlJ2HC/versions/sNu0sTvk/MoreCobblemonTweaks-neoforge-1.3.5.jar"
+hash-format = "sha1"
+hash = "c689cefa75ba7dfd4da362910997973eb3b603f1"

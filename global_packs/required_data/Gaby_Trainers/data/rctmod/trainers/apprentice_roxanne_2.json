@@ -1,0 +1,92 @@
+{
+ "name": "Apprentice Pebble",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "aurorus",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "ancientpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "crustle",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "xscissor",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "omastar",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "muddywater",
+    "ancientpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

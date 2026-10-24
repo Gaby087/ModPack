@@ -1,0 +1,109 @@
+{
+ "name": "Leader Erika",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "tangela",
+   "level": 27,
+   "nature": "bold",
+   "moveset": [
+    "megadrain",
+    "bind",
+    "stunspore",
+    "ancientpower"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "weepinbell",
+   "level": 27,
+   "nature": "adamant",
+   "moveset": [
+    "razorleaf",
+    "wrap",
+    "acid",
+    "sleeppowder"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "bellossom",
+   "level": 28,
+   "nature": "modest",
+   "moveset": [
+    "magicalleaf",
+    "petalblizzard",
+    "stunspore",
+    "moonlight"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "healer"
+  },
+  {
+   "species": "vileplume",
+   "level": 29,
+   "nature": "modest",
+   "moveset": [
+    "gigadrain",
+    "sludgebomb",
+    "sleeppowder",
+    "moonlight"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "effectspore",
+   "heldItem": [
+    "miracle_seed"
+   ]
+  }
+ ]
+}

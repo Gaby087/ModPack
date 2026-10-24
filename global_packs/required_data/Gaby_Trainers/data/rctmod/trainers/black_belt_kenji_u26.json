@@ -1,0 +1,96 @@
+{
+ "name": "Black Belt Kenji",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "beartic",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "superpower",
+    "aquajet",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "mienshao",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "uturn",
+    "knockoff",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "sawk",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "icepunch",
+    "knockoff",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moldbreaker"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "name": "Ranger Kai",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "staraptor",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "closecombat",
+    "uturn",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "togekiss",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "airslash",
+    "dazzlinggleam",
+    "followme",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "serenegrace"
+  },
+  {
+   "species": "noivern",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "dracometeor",
+    "hurricane",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "crobat",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "crosspoison",
+    "bravebird",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "archeops",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "stoneedge",
+    "acrobatics",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "defeatist"
+  },
+  {
+   "species": "gliscor",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "acrobatics",
+    "knockoff",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "poisonheal"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,2792 @@
+{
+ "chapter_group.71C7157F1269A7DC.title": "A World to Keep",
+ "file.0000000000000001.title": "Gaby - A World to Keep",
+ "chapter.42E1A37F318050E4.title": "Getting Started",
+ "chapter.42E1A37F318050E4.chapter_subtitle": [
+  "Your first days: a partner, a roof and a little money."
+ ],
+ "quest.640FFCE345D97BEB.title": "A World to Keep",
+ "quest.640FFCE345D97BEB.quest_desc": [
+  "Welcome! Press G to open your Trainer Pad: Pokédex, team, gyms, orders, bounties, the catalog and your settlement.",
+  "Quests are milestones, not chores. Do them in any order: the lines only suggest a path."
+ ],
+ "quest.196C011D653CC9B6.title": "Choose Your Partner",
+ "quest.196C011D653CC9B6.quest_desc": [
+  "Pick your starter Pokémon (press M if the starter screen did not open)."
+ ],
+ "quest.54212C610882C19C.title": "First Catch",
+ "quest.54212C610882C19C.quest_desc": [
+  "Weaken a wild Pokémon, then throw a ball."
+ ],
+ "reward.2A871D86FE6320A4.title": "$300",
+ "quest.5667819B446892EA.title": "A Team of Three",
+ "quest.5667819B446892EA.quest_desc": [
+  "Catch three Pokémon. Different types will help in the first gym."
+ ],
+ "quest.227C77B50C5A3AC0.title": "Growing Stronger",
+ "quest.227C77B50C5A3AC0.quest_desc": [
+  "Raise a Pokémon to level 10."
+ ],
+ "quest.7C5FB88622EF35A1.title": "Evolution!",
+ "quest.7C5FB88622EF35A1.quest_desc": [
+  "Evolve any Pokémon."
+ ],
+ "reward.443CF78F545EF0C1.title": "$500",
+ "quest.6C07AB591C7EDD50.title": "Ball Maker",
+ "quest.6C07AB591C7EDD50.quest_desc": [
+  "Apricorns grow on apricorn trees. Gather red and white ones: with iron they make Poké Balls."
+ ],
+ "quest.28C74AAC7E7C75B7.title": "Healing at Home",
+ "quest.28C74AAC7E7C75B7.quest_desc": [
+  "Build a Healing Machine so your team is always ready."
+ ],
+ "reward.4E60DC6706A4103E.title": "$400",
+ "quest.298B23A3A38226A8.title": "Pokémon Storage",
+ "quest.298B23A3A38226A8.quest_desc": [
+  "Build a PC to store the Pokémon you are not carrying."
+ ],
+ "quest.69815060263A34FD.title": "A Roof Over Your Head",
+ "quest.69815060263A34FD.quest_desc": [
+  "Build a real house: a bed, a door, a chest and light. Tick this when you are happy with it."
+ ],
+ "reward.7A07380E1FE26488.title": "$500",
+ "quest.30B9C80E18AAF3FB.title": "First Earnings",
+ "quest.30B9C80E18AAF3FB.quest_desc": [
+  "Sell goods to a town merchant (sneak + use with the stack in hand) or ship them with an Export Depot."
+ ],
+ "reward.67F0B7E49D1CB793.title": "$250",
+ "quest.12F3C106CE3F7F00.title": "A Town Needs You",
+ "quest.12F3C106CE3F7F00.quest_desc": [
+  "Complete a production order from the Orders app."
+ ],
+ "quest.4F0E3163E4436A34.title": "Bounty Hunter",
+ "quest.4F0E3163E4436A34.quest_desc": [
+  "Complete a Pokémon bounty from the Bounties app."
+ ],
+ "quest.37CFF1FEBD4E760B.title": "The First Gym",
+ "quest.37CFF1FEBD4E760B.quest_desc": [
+  "Travel to Pewter City from the Gyms app and earn the Boulder Badge."
+ ],
+ "reward.66C56A76AF9ACB2F.title": "$1,000",
+ "quest.644BB024B77E3B28.title": "Plant Your Banner",
+ "quest.644BB024B77E3B28.quest_desc": [
+  "Craft a Settlement Banner and plant it at your home: no monsters will spawn inside its perimeter."
+ ],
+ "reward.66CEA191BCB1D02C.title": "$800",
+ "chapter.468C9B8A80D96D5D.title": "Pokémon Journey: Kanto",
+ "chapter.468C9B8A80D96D5D.chapter_subtitle": [
+  "Eight gyms, the Elite Four and the Champion. Each gym caps your levels until you win."
+ ],
+ "quest.655E11939D005B3E.title": "Boulder Badge",
+ "quest.655E11939D005B3E.quest_desc": [
+  "Pewter Gym · Rock type · team around level 14.",
+  "Beat the gym trainers, then Brock. Your level cap rises with every badge."
+ ],
+ "reward.293F9199971F8C0B.title": "$1,500",
+ "quest.230B0205FD6D6202.title": "Cascade Badge",
+ "quest.230B0205FD6D6202.quest_desc": [
+  "Cerulean Gym · Water type · team around level 19.",
+  "Beat the gym trainers, then Misty. Your level cap rises with every badge."
+ ],
+ "reward.170099F2B85E9C62.title": "$2,300",
+ "quest.215E3DCAFEF8C607.title": "Thunder Badge",
+ "quest.215E3DCAFEF8C607.quest_desc": [
+  "Vermilion Gym · Electric type · team around level 24.",
+  "Beat the gym trainers, then Lt. Surge. Your level cap rises with every badge."
+ ],
+ "reward.24413D0EBFA40D47.title": "$3,100",
+ "quest.706903C3770E2325.title": "Rainbow Badge",
+ "quest.706903C3770E2325.quest_desc": [
+  "Celadon Gym · Grass type · team around level 29.",
+  "Beat the gym trainers, then Erika. Your level cap rises with every badge."
+ ],
+ "reward.5A59FEE1581F2F21.title": "$3,900",
+ "quest.4AA933C8679E0D52.title": "Soul Badge",
+ "quest.4AA933C8679E0D52.quest_desc": [
+  "Fuchsia Gym · Poison type · team around level 34.",
+  "Beat the gym trainers, then Koga. Your level cap rises with every badge."
+ ],
+ "reward.486830DA2242BEF5.title": "$4,700",
+ "quest.1764D42E174FFDEF.title": "Marsh Badge",
+ "quest.1764D42E174FFDEF.quest_desc": [
+  "Saffron Gym · Psychic type · team around level 39.",
+  "Beat the gym trainers, then Sabrina. Your level cap rises with every badge."
+ ],
+ "reward.146991DB673292F2.title": "$5,500",
+ "quest.24FB49EDCB026B48.title": "Volcano Badge",
+ "quest.24FB49EDCB026B48.quest_desc": [
+  "Cinnabar Gym · Fire type · team around level 44.",
+  "Beat the gym trainers, then Blaine. Your level cap rises with every badge."
+ ],
+ "reward.1CD541142A9F56CD.title": "$6,300",
+ "quest.3B726E402ECDDF7C.title": "Earth Badge",
+ "quest.3B726E402ECDDF7C.quest_desc": [
+  "Viridian Gym · Ground type · team around level 50.",
+  "Beat the gym trainers, then Giovanni. Your level cap rises with every badge."
+ ],
+ "reward.25D2071F69A798B4.title": "$7,100",
+ "quest.338F84D503894F42.title": "Elite Four Lorelei",
+ "quest.338F84D503894F42.quest_desc": [
+  "Defeat Lorelei at the Indigo Plateau. The Elite Four are fought back to back."
+ ],
+ "reward.351E1F527A3997D6.title": "$8,000",
+ "quest.6142431C453552A8.title": "Elite Four Bruno",
+ "quest.6142431C453552A8.quest_desc": [
+  "Defeat Bruno at the Indigo Plateau. The Elite Four are fought back to back."
+ ],
+ "reward.66CB36152BE749F8.title": "$8,000",
+ "quest.34C1E9CDA2672613.title": "Elite Four Agatha",
+ "quest.34C1E9CDA2672613.quest_desc": [
+  "Defeat Agatha at the Indigo Plateau. The Elite Four are fought back to back."
+ ],
+ "reward.4EF946FBA44700D1.title": "$8,000",
+ "quest.26C085C3D6DDA034.title": "Elite Four Lance",
+ "quest.26C085C3D6DDA034.quest_desc": [
+  "Defeat Lance at the Indigo Plateau. The Elite Four are fought back to back."
+ ],
+ "reward.23FCA9D9D16D00D3.title": "$8,000",
+ "quest.150C2AF65E137C55.title": "Kanto Champion",
+ "quest.150C2AF65E137C55.quest_desc": [
+  "Defeat Champion Blue. The Johto League opens afterwards."
+ ],
+ "reward.14948B5EFE361CF5.title": "$25,000",
+ "quest.5BBBB90E97E0C63F.title": "Battle-Ready",
+ "quest.5BBBB90E97E0C63F.quest_desc": [
+  "Raise a Pokémon to level 25."
+ ],
+ "quest.5FA1F9F1BF458A17.title": "Seasoned Team",
+ "quest.5FA1F9F1BF458A17.quest_desc": [
+  "Raise a Pokémon to level 50."
+ ],
+ "quest.21706A1F0D45B32D.title": "Road Battles",
+ "quest.21706A1F0D45B32D.quest_desc": [
+  "Win 10 battles against trainers out in the world."
+ ],
+ "reward.54DE27E0076A5B73.title": "$2,000",
+ "quest.7DDF886B69EFF3F9.title": "Onward to Johto",
+ "quest.7DDF886B69EFF3F9.quest_desc": [
+  "With the Kanto title won, the Johto gyms are open in your Trainer Pad."
+ ],
+ "chapter.1A969E61EA0C1760.title": "Pokémon Journey: Johto",
+ "chapter.1A969E61EA0C1760.chapter_subtitle": [
+  "Eight Johto gyms (caps 64 to 85), the Johto Elite Four and Champion Lance at level 100."
+ ],
+ "quest.135D425BA5079BE6.title": "Zephyr Badge",
+ "quest.135D425BA5079BE6.quest_desc": [
+  "Violet Gym · Flying type · team around level 64.",
+  "Beat the gym trainers, then Falkner."
+ ],
+ "reward.5837ACFFBC7CC589.title": "$9,000",
+ "quest.22650EEBF5353ED1.title": "Hive Badge",
+ "quest.22650EEBF5353ED1.quest_desc": [
+  "Azalea Gym · Bug type · team around level 67.",
+  "Beat the gym trainers, then Bugsy."
+ ],
+ "reward.175595D3994FBB1D.title": "$10,500",
+ "quest.2A5B9E1710E5E9D4.title": "Plain Badge",
+ "quest.2A5B9E1710E5E9D4.quest_desc": [
+  "Goldenrod Gym · Normal type · team around level 70.",
+  "Beat the gym trainers, then Whitney."
+ ],
+ "reward.3DB4B6FF2064BB75.title": "$12,000",
+ "quest.2E13697CBDE1B521.title": "Fog Badge",
+ "quest.2E13697CBDE1B521.quest_desc": [
+  "Ecruteak Gym · Ghost type · team around level 73.",
+  "Beat the gym trainers, then Morty."
+ ],
+ "reward.6253A87862DB4EC2.title": "$13,500",
+ "quest.3E2880CFD04362B3.title": "Storm Badge",
+ "quest.3E2880CFD04362B3.quest_desc": [
+  "Cianwood Gym · Fighting type · team around level 76.",
+  "Beat the gym trainers, then Chuck."
+ ],
+ "reward.23A3AEE0461DFA75.title": "$15,000",
+ "quest.50F47C9B80B00EFF.title": "Mineral Badge",
+ "quest.50F47C9B80B00EFF.quest_desc": [
+  "Olivine Gym · Steel type · team around level 79.",
+  "Beat the gym trainers, then Jasmine."
+ ],
+ "reward.2424CB561743551C.title": "$16,500",
+ "quest.74C21DA67B55E575.title": "Glacier Badge",
+ "quest.74C21DA67B55E575.quest_desc": [
+  "Mahogany Gym · Ice type · team around level 82.",
+  "Beat the gym trainers, then Pryce."
+ ],
+ "reward.22560EE1060171A2.title": "$18,000",
+ "quest.551FEBF3802BA33F.title": "Rising Badge",
+ "quest.551FEBF3802BA33F.quest_desc": [
+  "Blackthorn Gym · Dragon type · team around level 85.",
+  "Beat the gym trainers, then Clair."
+ ],
+ "reward.7594226B5F05B7A8.title": "$19,500",
+ "quest.642723C6D14A9904.title": "Elite Four Will",
+ "quest.642723C6D14A9904.quest_desc": [
+  "Defeat Will at the Indigo Plateau, back to back with the rest of the Elite Four."
+ ],
+ "reward.69D9461D5CCDDC45.title": "$30,000",
+ "quest.46003A5815B1A7BC.title": "Elite Four Koga",
+ "quest.46003A5815B1A7BC.quest_desc": [
+  "Defeat Koga at the Indigo Plateau, back to back with the rest of the Elite Four."
+ ],
+ "reward.2C3305593F7A10DA.title": "$30,000",
+ "quest.600BE0AB26B00208.title": "Elite Four Bruno",
+ "quest.600BE0AB26B00208.quest_desc": [
+  "Defeat Bruno at the Indigo Plateau, back to back with the rest of the Elite Four."
+ ],
+ "reward.792FBDD18B723683.title": "$30,000",
+ "quest.408512D8218A43A6.title": "Elite Four Karen",
+ "quest.408512D8218A43A6.quest_desc": [
+  "Defeat Karen at the Indigo Plateau, back to back with the rest of the Elite Four."
+ ],
+ "reward.5FDD87B99E7BF06D.title": "$30,000",
+ "quest.216ADF14D00609B7.title": "Johto Champion",
+ "quest.216ADF14D00609B7.quest_desc": [
+  "Defeat Champion Lance and his dragons at level 100. Every region after Johto is fought at level 100."
+ ],
+ "reward.1CFEE6488D449A0A.title": "$100,000",
+ "quest.61413D9184979FED.title": "Veteran Team",
+ "quest.61413D9184979FED.quest_desc": [
+  "Raise a Pokémon to level 75."
+ ],
+ "chapter.4CA8087052BA6D56.title": "Pokémon Journey: Hoenn",
+ "chapter.4CA8087052BA6D56.chapter_subtitle": [
+  "Eight Hoenn gyms and the Hoenn League. Everything is level 100: only skill decides."
+ ],
+ "quest.4795E5350DD20FB9.title": "Stone Badge",
+ "quest.4795E5350DD20FB9.quest_desc": [
+  "Rustboro Gym · Rock type · full level-100 teams.",
+  "Beat the gym trainers, then Roxanne."
+ ],
+ "reward.51697E5D86F40E5A.title": "$25,000",
+ "quest.7559F89C85543B67.title": "Knuckle Badge",
+ "quest.7559F89C85543B67.quest_desc": [
+  "Dewford Gym · Fighting type · full level-100 teams.",
+  "Beat the gym trainers, then Brawly."
+ ],
+ "reward.1807536DF84EC4D5.title": "$27,500",
+ "quest.4D332643784BEB37.title": "Dynamo Badge",
+ "quest.4D332643784BEB37.quest_desc": [
+  "Mauville Gym · Electric type · full level-100 teams.",
+  "Beat the gym trainers, then Wattson."
+ ],
+ "reward.30F6B6D2F009C295.title": "$30,000",
+ "quest.36098C569882C93C.title": "Heat Badge",
+ "quest.36098C569882C93C.quest_desc": [
+  "Lavaridge Gym · Fire type · full level-100 teams.",
+  "Beat the gym trainers, then Flannery."
+ ],
+ "reward.285808211189F5D2.title": "$32,500",
+ "quest.1EF335BE839680C4.title": "Balance Badge",
+ "quest.1EF335BE839680C4.quest_desc": [
+  "Petalburg Gym · Normal type · full level-100 teams.",
+  "Beat the gym trainers, then Norman."
+ ],
+ "reward.4B1588FBE73788EF.title": "$35,000",
+ "quest.1090E5AA8411FFFC.title": "Feather Badge",
+ "quest.1090E5AA8411FFFC.quest_desc": [
+  "Fortree Gym · Flying type · full level-100 teams.",
+  "Beat the gym trainers, then Winona."
+ ],
+ "reward.1B64D9B0CE2117C2.title": "$37,500",
+ "quest.2FB34A2F5F62F3B5.title": "Mind Badge",
+ "quest.2FB34A2F5F62F3B5.quest_desc": [
+  "Mossdeep Gym · Psychic type · full level-100 teams.",
+  "Beat the gym trainers, then Tate & Liza."
+ ],
+ "reward.70EFD16E601CE0E9.title": "$40,000",
+ "quest.5A2174C2F5BC3713.title": "Rain Badge",
+ "quest.5A2174C2F5BC3713.quest_desc": [
+  "Sootopolis Gym · Water type · full level-100 teams.",
+  "Beat the gym trainers, then Juan."
+ ],
+ "reward.386604897D89D6F3.title": "$42,500",
+ "quest.627EED1BFAE26A43.title": "Elite Four Sidney",
+ "quest.627EED1BFAE26A43.quest_desc": [
+  "Defeat Sidney, back to back with the rest of the Elite Four."
+ ],
+ "reward.4044749F32D3F855.title": "$50,000",
+ "quest.23F3076F93A203CF.title": "Elite Four Phoebe",
+ "quest.23F3076F93A203CF.quest_desc": [
+  "Defeat Phoebe, back to back with the rest of the Elite Four."
+ ],
+ "reward.675B6490DEE91753.title": "$50,000",
+ "quest.70DDC77A7D004281.title": "Elite Four Glacia",
+ "quest.70DDC77A7D004281.quest_desc": [
+  "Defeat Glacia, back to back with the rest of the Elite Four."
+ ],
+ "reward.2E77973642B15F2E.title": "$50,000",
+ "quest.100B2C116C3CD758.title": "Elite Four Drake",
+ "quest.100B2C116C3CD758.quest_desc": [
+  "Defeat Drake, back to back with the rest of the Elite Four."
+ ],
+ "reward.551CB9CF2AB764D9.title": "$50,000",
+ "quest.2775A62D57CFBAD6.title": "Hoenn Champion",
+ "quest.2775A62D57CFBAD6.quest_desc": [
+  "Defeat Champion Wallace."
+ ],
+ "reward.1054D8D3ADEBB073.title": "$250,000",
+ "chapter.418C2EF891228CC6.title": "Pokémon Journey: Sinnoh",
+ "chapter.418C2EF891228CC6.chapter_subtitle": [
+  "Eight Sinnoh gyms and the Sinnoh League. Everything is level 100: only skill decides."
+ ],
+ "quest.3C2F480120DB62F0.title": "Coal Badge",
+ "quest.3C2F480120DB62F0.quest_desc": [
+  "Oreburgh Gym · Rock type · full level-100 teams.",
+  "Beat the gym trainers, then Roark."
+ ],
+ "reward.552D9EB5EB7AF942.title": "$35,000",
+ "quest.26BA1296908A6AD4.title": "Forest Badge",
+ "quest.26BA1296908A6AD4.quest_desc": [
+  "Eterna Gym · Grass type · full level-100 teams.",
+  "Beat the gym trainers, then Gardenia."
+ ],
+ "reward.4E0726CCEE804B7A.title": "$38,500",
+ "quest.389BB5BF2C256B6F.title": "Cobble Badge",
+ "quest.389BB5BF2C256B6F.quest_desc": [
+  "Veilstone Gym · Fighting type · full level-100 teams.",
+  "Beat the gym trainers, then Maylene."
+ ],
+ "reward.5377E536E481ECCC.title": "$42,000",
+ "quest.7724659AD5366146.title": "Fen Badge",
+ "quest.7724659AD5366146.quest_desc": [
+  "Pastoria Gym · Water type · full level-100 teams.",
+  "Beat the gym trainers, then Crasher Wake."
+ ],
+ "reward.4B0075EB6B7BFAFA.title": "$45,500",
+ "quest.4AD4F8A5F844DC45.title": "Relic Badge",
+ "quest.4AD4F8A5F844DC45.quest_desc": [
+  "Hearthome Gym · Ghost type · full level-100 teams.",
+  "Beat the gym trainers, then Fantina."
+ ],
+ "reward.12BF843C4589F1B3.title": "$49,000",
+ "quest.4267194C20A87C26.title": "Mine Badge",
+ "quest.4267194C20A87C26.quest_desc": [
+  "Canalave Gym · Steel type · full level-100 teams.",
+  "Beat the gym trainers, then Byron."
+ ],
+ "reward.55150A87B35E730E.title": "$52,500",
+ "quest.117B9E4B6616F407.title": "Icicle Badge",
+ "quest.117B9E4B6616F407.quest_desc": [
+  "Snowpoint Gym · Ice type · full level-100 teams.",
+  "Beat the gym trainers, then Candice."
+ ],
+ "reward.272602CF8BC6B0A3.title": "$56,000",
+ "quest.20DFDD64A9BAB5E0.title": "Beacon Badge",
+ "quest.20DFDD64A9BAB5E0.quest_desc": [
+  "Sunyshore Gym · Electric type · full level-100 teams.",
+  "Beat the gym trainers, then Volkner."
+ ],
+ "reward.7A9100D427ED1E2C.title": "$59,500",
+ "quest.45911E39EFDF763B.title": "Elite Four Aaron",
+ "quest.45911E39EFDF763B.quest_desc": [
+  "Defeat Aaron, back to back with the rest of the Elite Four."
+ ],
+ "reward.30A6B4CE99B1E6BE.title": "$70,000",
+ "quest.7EBE6675798EDFFE.title": "Elite Four Bertha",
+ "quest.7EBE6675798EDFFE.quest_desc": [
+  "Defeat Bertha, back to back with the rest of the Elite Four."
+ ],
+ "reward.3CDC40931760D0F6.title": "$70,000",
+ "quest.6B2E96DD1F104354.title": "Elite Four Flint",
+ "quest.6B2E96DD1F104354.quest_desc": [
+  "Defeat Flint, back to back with the rest of the Elite Four."
+ ],
+ "reward.1641767A48AF7959.title": "$70,000",
+ "quest.23847BDB67649BC2.title": "Elite Four Lucian",
+ "quest.23847BDB67649BC2.quest_desc": [
+  "Defeat Lucian, back to back with the rest of the Elite Four."
+ ],
+ "reward.4915C9F7EB435FC4.title": "$70,000",
+ "quest.375C3D5CB9452825.title": "Sinnoh Champion",
+ "quest.375C3D5CB9452825.quest_desc": [
+  "Defeat Champion Cynthia."
+ ],
+ "reward.4440DFEA5E181D71.title": "$350,000",
+ "chapter.5EBD06A8FA19FC12.title": "Pokémon Journey: Unova",
+ "chapter.5EBD06A8FA19FC12.chapter_subtitle": [
+  "Eight Unova gyms and the Unova League. Everything is level 100: only skill decides."
+ ],
+ "quest.7F3D42CB7B5D659C.title": "Trio Badge",
+ "quest.7F3D42CB7B5D659C.quest_desc": [
+  "Striaton Gym · Grass, Fire, Water type · full level-100 teams.",
+  "Beat the gym trainers, then Cilan, Chili and Cress."
+ ],
+ "reward.42C888B73257B366.title": "$45,000",
+ "quest.603C2040EC5ABE4F.title": "Basic Badge",
+ "quest.603C2040EC5ABE4F.quest_desc": [
+  "Nacrene Gym · Normal type · full level-100 teams.",
+  "Beat the gym trainers, then Lenora."
+ ],
+ "reward.66A6BDE967B69519.title": "$49,500",
+ "quest.46D3F6CA9DAF8263.title": "Insect Badge",
+ "quest.46D3F6CA9DAF8263.quest_desc": [
+  "Castelia Gym · Bug type · full level-100 teams.",
+  "Beat the gym trainers, then Burgh."
+ ],
+ "reward.6E35088E468107F7.title": "$54,000",
+ "quest.12F7647EE65C4010.title": "Bolt Badge",
+ "quest.12F7647EE65C4010.quest_desc": [
+  "Nimbasa Gym · Electric type · full level-100 teams.",
+  "Beat the gym trainers, then Elesa."
+ ],
+ "reward.3A650BC21792CC2A.title": "$58,500",
+ "quest.2E380915682B82D6.title": "Quake Badge",
+ "quest.2E380915682B82D6.quest_desc": [
+  "Driftveil Gym · Ground type · full level-100 teams.",
+  "Beat the gym trainers, then Clay."
+ ],
+ "reward.341560A25E6162AD.title": "$63,000",
+ "quest.7E187A253DA47F0F.title": "Jet Badge",
+ "quest.7E187A253DA47F0F.quest_desc": [
+  "Mistralton Gym · Flying type · full level-100 teams.",
+  "Beat the gym trainers, then Skyla."
+ ],
+ "reward.4FEA75D9DE5767B0.title": "$67,500",
+ "quest.3208645FDDF478E1.title": "Freeze Badge",
+ "quest.3208645FDDF478E1.quest_desc": [
+  "Icirrus Gym · Ice type · full level-100 teams.",
+  "Beat the gym trainers, then Brycen."
+ ],
+ "reward.33CCA64A0E07DBA4.title": "$72,000",
+ "quest.3B39C662E6E7A2E6.title": "Legend Badge",
+ "quest.3B39C662E6E7A2E6.quest_desc": [
+  "Opelucid Gym · Dragon type · full level-100 teams.",
+  "Beat the gym trainers, then Drayden."
+ ],
+ "reward.26434A1DD8836861.title": "$76,500",
+ "quest.3257B693C224FDA2.title": "Elite Four Shauntal",
+ "quest.3257B693C224FDA2.quest_desc": [
+  "Defeat Shauntal, back to back with the rest of the Elite Four."
+ ],
+ "reward.61DA53000FFE12E2.title": "$90,000",
+ "quest.2EF9369EA81504FC.title": "Elite Four Grimsley",
+ "quest.2EF9369EA81504FC.quest_desc": [
+  "Defeat Grimsley, back to back with the rest of the Elite Four."
+ ],
+ "reward.6EDF8CC3E85B60FF.title": "$90,000",
+ "quest.7E8D98A32102E1A3.title": "Elite Four Caitlin",
+ "quest.7E8D98A32102E1A3.quest_desc": [
+  "Defeat Caitlin, back to back with the rest of the Elite Four."
+ ],
+ "reward.390E0B94C2CDE205.title": "$90,000",
+ "quest.1C11C2C36BFDFD62.title": "Elite Four Marshal",
+ "quest.1C11C2C36BFDFD62.quest_desc": [
+  "Defeat Marshal, back to back with the rest of the Elite Four."
+ ],
+ "reward.7A764214AB1DDD66.title": "$90,000",
+ "quest.1A67816DD45BEE29.title": "Unova Champion",
+ "quest.1A67816DD45BEE29.quest_desc": [
+  "Defeat Champion Alder."
+ ],
+ "reward.34C7E784F9415840.title": "$450,000",
+ "chapter.7F82D7A1E9FEBD42.title": "Pokémon Journey: Kalos",
+ "chapter.7F82D7A1E9FEBD42.chapter_subtitle": [
+  "Eight Kalos gyms and the Kalos League. Everything is level 100: only skill decides."
+ ],
+ "quest.7DD3288A6723B445.title": "Bug Badge",
+ "quest.7DD3288A6723B445.quest_desc": [
+  "Santalune Gym · Bug type · full level-100 teams.",
+  "Beat the gym trainers, then Viola."
+ ],
+ "reward.58305DA31A3BD9C3.title": "$55,000",
+ "quest.65C0C55C14A83610.title": "Cliff Badge",
+ "quest.65C0C55C14A83610.quest_desc": [
+  "Cyllage Gym · Rock type · full level-100 teams.",
+  "Beat the gym trainers, then Grant."
+ ],
+ "reward.5340240411FE97DF.title": "$60,500",
+ "quest.6A6AF3DF48708FA5.title": "Rumble Badge",
+ "quest.6A6AF3DF48708FA5.quest_desc": [
+  "Shalour Gym · Fighting type · full level-100 teams.",
+  "Beat the gym trainers, then Korrina."
+ ],
+ "reward.2C564A811A5A53B8.title": "$66,000",
+ "quest.1EB6C0AFDFF0CCF8.title": "Plant Badge",
+ "quest.1EB6C0AFDFF0CCF8.quest_desc": [
+  "Coumarine Gym · Grass type · full level-100 teams.",
+  "Beat the gym trainers, then Ramos."
+ ],
+ "reward.7890A1D30CA1988A.title": "$71,500",
+ "quest.285C103A4AA9358E.title": "Voltage Badge",
+ "quest.285C103A4AA9358E.quest_desc": [
+  "Lumiose Gym · Electric type · full level-100 teams.",
+  "Beat the gym trainers, then Clemont."
+ ],
+ "reward.78A01CB733B461B3.title": "$77,000",
+ "quest.2BDF199E1DA222ED.title": "Fairy Badge",
+ "quest.2BDF199E1DA222ED.quest_desc": [
+  "Laverre Gym · Fairy type · full level-100 teams.",
+  "Beat the gym trainers, then Valerie."
+ ],
+ "reward.2E8812323D798C1C.title": "$82,500",
+ "quest.271FF3EDB69C68BD.title": "Psychic Badge",
+ "quest.271FF3EDB69C68BD.quest_desc": [
+  "Anistar Gym · Psychic type · full level-100 teams.",
+  "Beat the gym trainers, then Olympia."
+ ],
+ "reward.1B99CEDE114B1475.title": "$88,000",
+ "quest.323D343A923DA522.title": "Iceberg Badge",
+ "quest.323D343A923DA522.quest_desc": [
+  "Snowbelle Gym · Ice type · full level-100 teams.",
+  "Beat the gym trainers, then Wulfric."
+ ],
+ "reward.29600B96A6F607A6.title": "$93,500",
+ "quest.187B27905029091A.title": "Elite Four Malva",
+ "quest.187B27905029091A.quest_desc": [
+  "Defeat Malva, back to back with the rest of the Elite Four."
+ ],
+ "reward.56259BCC86FD45F7.title": "$110,000",
+ "quest.16F7471C86B5C316.title": "Elite Four Siebold",
+ "quest.16F7471C86B5C316.quest_desc": [
+  "Defeat Siebold, back to back with the rest of the Elite Four."
+ ],
+ "reward.2E6B9F36F0A89AB3.title": "$110,000",
+ "quest.543436742865A749.title": "Elite Four Wikstrom",
+ "quest.543436742865A749.quest_desc": [
+  "Defeat Wikstrom, back to back with the rest of the Elite Four."
+ ],
+ "reward.12CFCAF9C6DD57BA.title": "$110,000",
+ "quest.65999B66A2533EEF.title": "Elite Four Drasna",
+ "quest.65999B66A2533EEF.quest_desc": [
+  "Defeat Drasna, back to back with the rest of the Elite Four."
+ ],
+ "reward.29B88BB3E9147629.title": "$110,000",
+ "quest.13077F571DDA5681.title": "Kalos Champion",
+ "quest.13077F571DDA5681.quest_desc": [
+  "Defeat Champion Diantha."
+ ],
+ "reward.2D87A8B141F8B118.title": "$550,000",
+ "chapter.1DE5CA8CF12864F9.title": "Pokémon Journey: Galar",
+ "chapter.1DE5CA8CF12864F9.chapter_subtitle": [
+  "Eight Galar gyms and the Galar League. Everything is level 100: only skill decides."
+ ],
+ "quest.735D5776AB70DCD8.title": "Grass Badge",
+ "quest.735D5776AB70DCD8.quest_desc": [
+  "Turffield Gym · Grass type · full level-100 teams.",
+  "Beat the gym trainers, then Milo."
+ ],
+ "reward.27B47DE9176938D8.title": "$65,000",
+ "quest.556126203974F90C.title": "Water Badge",
+ "quest.556126203974F90C.quest_desc": [
+  "Hulbury Gym · Water type · full level-100 teams.",
+  "Beat the gym trainers, then Nessa."
+ ],
+ "reward.1BCF3A4E83AA712B.title": "$71,500",
+ "quest.60A59F6785A8C7E1.title": "Fire Badge",
+ "quest.60A59F6785A8C7E1.quest_desc": [
+  "Motostoke Gym · Fire type · full level-100 teams.",
+  "Beat the gym trainers, then Kabu."
+ ],
+ "reward.327D93FD98805A07.title": "$78,000",
+ "quest.135ECA389BDDD3A8.title": "Fighting Badge",
+ "quest.135ECA389BDDD3A8.quest_desc": [
+  "Stow-on-Side Gym · Fighting type · full level-100 teams.",
+  "Beat the gym trainers, then Bea."
+ ],
+ "reward.4270C03D044399BA.title": "$84,500",
+ "quest.7D70CBA75B17153C.title": "Fairy Badge",
+ "quest.7D70CBA75B17153C.quest_desc": [
+  "Ballonlea Gym · Fairy type · full level-100 teams.",
+  "Beat the gym trainers, then Opal."
+ ],
+ "reward.392CEFA08A6C7B29.title": "$91,000",
+ "quest.48C397E8036EE661.title": "Rock Badge",
+ "quest.48C397E8036EE661.quest_desc": [
+  "Circhester Gym · Rock type · full level-100 teams.",
+  "Beat the gym trainers, then Gordie."
+ ],
+ "reward.756DC1E959861A0B.title": "$97,500",
+ "quest.235380FDD53982F1.title": "Dark Badge",
+ "quest.235380FDD53982F1.quest_desc": [
+  "Spikemuth Gym · Dark type · full level-100 teams.",
+  "Beat the gym trainers, then Piers."
+ ],
+ "reward.2E8E602F08BBB660.title": "$104,000",
+ "quest.2409DBFB4D0F3AD1.title": "Dragon Badge",
+ "quest.2409DBFB4D0F3AD1.quest_desc": [
+  "Hammerlocke Gym · Dragon type · full level-100 teams.",
+  "Beat the gym trainers, then Raihan."
+ ],
+ "reward.134D453010DEF642.title": "$110,500",
+ "quest.28374966847DB5B4.title": "Champion Cup Marnie",
+ "quest.28374966847DB5B4.quest_desc": [
+  "Defeat Marnie, back to back with the rest of the Champion Cup."
+ ],
+ "reward.76D66D27AEB71F99.title": "$130,000",
+ "quest.3A35383A62BF8AAB.title": "Champion Cup Hop",
+ "quest.3A35383A62BF8AAB.quest_desc": [
+  "Defeat Hop, back to back with the rest of the Champion Cup."
+ ],
+ "reward.4B64D9851D804120.title": "$130,000",
+ "quest.53ED3FCD329881A0.title": "Champion Cup Bede",
+ "quest.53ED3FCD329881A0.quest_desc": [
+  "Defeat Bede, back to back with the rest of the Champion Cup."
+ ],
+ "reward.2C696336B65A6BDC.title": "$130,000",
+ "quest.7147DDF389EE94C8.title": "Champion Cup Mustard",
+ "quest.7147DDF389EE94C8.quest_desc": [
+  "Defeat Mustard, back to back with the rest of the Champion Cup."
+ ],
+ "reward.4FED9603E8144851.title": "$130,000",
+ "quest.65184ABA55F67645.title": "Galar Champion",
+ "quest.65184ABA55F67645.quest_desc": [
+  "Defeat Champion Leon."
+ ],
+ "reward.2871BAF05672E794.title": "$650,000",
+ "chapter.319691D73BE3217D.title": "Legends",
+ "chapter.319691D73BE3217D.chapter_subtitle": [
+  "Beat a league and rumours of its legendary Pokémon reach you. Each lure only works where its legend lives."
+ ],
+ "quest.7A7B646BE0EBD122.title": "Rumour: Articuno",
+ "quest.7A7B646BE0EBD122.quest_desc": [
+  "Champion of Kanto or not, few have seen Articuno. Take this Legend Lure.",
+  "It is said to fly over snowfields.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.3FC25F8D50BB6DF1.title": "Articuno",
+ "quest.3FC25F8D50BB6DF1.quest_desc": [
+  "Catch Articuno.",
+  "It is said to fly over snowfields."
+ ],
+ "reward.35CD1D6C5E66D8AE.title": "$20,000",
+ "quest.3FE95CF715A1C659.title": "Rumour: Zapdos",
+ "quest.3FE95CF715A1C659.quest_desc": [
+  "Champion of Kanto or not, few have seen Zapdos. Take this Legend Lure.",
+  "It appears from the clouds during thunderstorms.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.3CC5BE8BA88816A4.title": "Zapdos",
+ "quest.3CC5BE8BA88816A4.quest_desc": [
+  "Catch Zapdos.",
+  "It appears from the clouds during thunderstorms."
+ ],
+ "reward.3071B726D8F5135B.title": "$20,000",
+ "quest.3E50B55E451C1A63.title": "Rumour: Moltres",
+ "quest.3E50B55E451C1A63.quest_desc": [
+  "Champion of Kanto or not, few have seen Moltres. Take this Legend Lure.",
+  "Legends say it was born in the fires of the Nether.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.541F4DD195CCB12C.title": "Moltres",
+ "quest.541F4DD195CCB12C.quest_desc": [
+  "Catch Moltres.",
+  "Legends say it was born in the fires of the Nether."
+ ],
+ "reward.5C4E06B6E677FF86.title": "$20,000",
+ "quest.713E7E82E3466229.title": "Rumour: Mew",
+ "quest.713E7E82E3466229.quest_desc": [
+  "Champion of Kanto or not, few have seen Mew. Take this Legend Lure.",
+  "A rumour speaks of it playing deep in the jungle.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.149E3E705F643A0A.title": "Mew",
+ "quest.149E3E705F643A0A.quest_desc": [
+  "Catch Mew.",
+  "A rumour speaks of it playing deep in the jungle."
+ ],
+ "reward.612C0224A01F93A1.title": "$20,000",
+ "quest.3AED93DC0BA67C26.title": "Rumour: Mewtwo",
+ "quest.3AED93DC0BA67C26.quest_desc": [
+  "Champion of Kanto or not, few have seen Mewtwo. Take this Legend Lure.",
+  "Something stirs in the depths, below the deepslate line.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.1925B4D977A146AE.title": "Mewtwo",
+ "quest.1925B4D977A146AE.quest_desc": [
+  "Catch Mewtwo.",
+  "Something stirs in the depths, below the deepslate line."
+ ],
+ "reward.599927154A794A23.title": "$20,000",
+ "quest.7C976185B546E9F0.title": "Rumour: Raikou",
+ "quest.7C976185B546E9F0.quest_desc": [
+  "Champion of Johto or not, few have seen Raikou. Take this Legend Lure.",
+  "It races across open plains when thunder rolls.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.74862AB7E3660979.title": "Raikou",
+ "quest.74862AB7E3660979.quest_desc": [
+  "Catch Raikou.",
+  "It races across open plains when thunder rolls."
+ ],
+ "reward.62D0AA14B3328A86.title": "$25,000",
+ "quest.24F1D48B7FD0EAF2.title": "Rumour: Entei",
+ "quest.24F1D48B7FD0EAF2.quest_desc": [
+  "Champion of Johto or not, few have seen Entei. Take this Legend Lure.",
+  "It roams the hot, red canyons of the badlands.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.627C9A94BAAB1FB0.title": "Entei",
+ "quest.627C9A94BAAB1FB0.quest_desc": [
+  "Catch Entei.",
+  "It roams the hot, red canyons of the badlands."
+ ],
+ "reward.1DE2EF4F27B87E88.title": "$25,000",
+ "quest.263991751416A2FC.title": "Rumour: Suicune",
+ "quest.263991751416A2FC.quest_desc": [
+  "Champion of Johto or not, few have seen Suicune. Take this Legend Lure.",
+  "It runs along rivers by moonlight.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.5C3DD3F302E4B1FA.title": "Suicune",
+ "quest.5C3DD3F302E4B1FA.quest_desc": [
+  "Catch Suicune.",
+  "It runs along rivers by moonlight."
+ ],
+ "reward.626607BB381A6FAF.title": "$25,000",
+ "quest.36C0B8A8E650A815.title": "Rumour: Lugia",
+ "quest.36C0B8A8E650A815.quest_desc": [
+  "Champion of Johto or not, few have seen Lugia. Take this Legend Lure.",
+  "It sleeps at the bottom of the deep ocean.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.474CF735627970E2.title": "Lugia",
+ "quest.474CF735627970E2.quest_desc": [
+  "Catch Lugia.",
+  "It sleeps at the bottom of the deep ocean."
+ ],
+ "reward.23484EB870001DD0.title": "$25,000",
+ "quest.11633047AE36780E.title": "Rumour: Ho-Oh",
+ "quest.11633047AE36780E.quest_desc": [
+  "Champion of Johto or not, few have seen Ho-Oh. Take this Legend Lure.",
+  "It is seen high above the peaks in daylight.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.4EF93A9E2CF6CFC5.title": "Ho-Oh",
+ "quest.4EF93A9E2CF6CFC5.quest_desc": [
+  "Catch Ho-Oh.",
+  "It is seen high above the peaks in daylight."
+ ],
+ "reward.4A0391D773ACEF3F.title": "$25,000",
+ "quest.108113AFC62CB009.title": "Rumour: Celebi",
+ "quest.108113AFC62CB009.quest_desc": [
+  "Champion of Johto or not, few have seen Celebi. Take this Legend Lure.",
+  "It visits quiet forests on calm days.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.1034F5B2E223EE9D.title": "Celebi",
+ "quest.1034F5B2E223EE9D.quest_desc": [
+  "Catch Celebi.",
+  "It visits quiet forests on calm days."
+ ],
+ "reward.2D8CF45F683A3A41.title": "$25,000",
+ "quest.6F7401BE736AD66C.title": "Rumour: Regirock",
+ "quest.6F7401BE736AD66C.quest_desc": [
+  "Champion of Hoenn or not, few have seen Regirock. Take this Legend Lure.",
+  "Its chamber lies beneath the desert sands.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.56DD82EC45D4ABFD.title": "Regirock",
+ "quest.56DD82EC45D4ABFD.quest_desc": [
+  "Catch Regirock.",
+  "Its chamber lies beneath the desert sands."
+ ],
+ "reward.3FD344F8D131422D.title": "$30,000",
+ "quest.6E158EA848720BB4.title": "Rumour: Regice",
+ "quest.6E158EA848720BB4.quest_desc": [
+  "Champion of Hoenn or not, few have seen Regice. Take this Legend Lure.",
+  "It was sealed in ice on a frozen plain.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.2A47B1A19FF99C26.title": "Regice",
+ "quest.2A47B1A19FF99C26.quest_desc": [
+  "Catch Regice.",
+  "It was sealed in ice on a frozen plain."
+ ],
+ "reward.3059EE7C711AEF59.title": "$30,000",
+ "quest.68F177AD6820E05C.title": "Rumour: Registeel",
+ "quest.68F177AD6820E05C.quest_desc": [
+  "Champion of Hoenn or not, few have seen Registeel. Take this Legend Lure.",
+  "It waits underground, far from the sun.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.5C14A6FF4382263B.title": "Registeel",
+ "quest.5C14A6FF4382263B.quest_desc": [
+  "Catch Registeel.",
+  "It waits underground, far from the sun."
+ ],
+ "reward.4FE4F3CDAA767D78.title": "$30,000",
+ "quest.28352B618D25DCB7.title": "Rumour: Latias",
+ "quest.28352B618D25DCB7.quest_desc": [
+  "Champion of Hoenn or not, few have seen Latias. Take this Legend Lure.",
+  "It glides above flower-filled forests by day.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.5235120DF19D8B6C.title": "Latias",
+ "quest.5235120DF19D8B6C.quest_desc": [
+  "Catch Latias.",
+  "It glides above flower-filled forests by day."
+ ],
+ "reward.7D251E61AAD5A74C.title": "$30,000",
+ "quest.4097D3BA7EB8C7B7.title": "Rumour: Latios",
+ "quest.4097D3BA7EB8C7B7.quest_desc": [
+  "Champion of Hoenn or not, few have seen Latios. Take this Legend Lure.",
+  "It soars over forests at night.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.52CE66F27E842C02.title": "Latios",
+ "quest.52CE66F27E842C02.quest_desc": [
+  "Catch Latios.",
+  "It soars over forests at night."
+ ],
+ "reward.3EA64D5692EAEC99.title": "$30,000",
+ "quest.37C5ADAA39847D69.title": "Rumour: Kyogre",
+ "quest.37C5ADAA39847D69.quest_desc": [
+  "Champion of Hoenn or not, few have seen Kyogre. Take this Legend Lure.",
+  "It rises from the ocean during heavy rain.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.205C347C87651241.title": "Kyogre",
+ "quest.205C347C87651241.quest_desc": [
+  "Catch Kyogre.",
+  "It rises from the ocean during heavy rain."
+ ],
+ "reward.476944677729A28B.title": "$30,000",
+ "quest.19BFE7287094B2DB.title": "Rumour: Groudon",
+ "quest.19BFE7287094B2DB.quest_desc": [
+  "Champion of Hoenn or not, few have seen Groudon. Take this Legend Lure.",
+  "It sleeps where the land is dry and red.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.165843B58C0D9C1F.title": "Groudon",
+ "quest.165843B58C0D9C1F.quest_desc": [
+  "Catch Groudon.",
+  "It sleeps where the land is dry and red."
+ ],
+ "reward.4F8C657AC5584AE4.title": "$30,000",
+ "quest.16098C33FD77E3DE.title": "Rumour: Rayquaza",
+ "quest.16098C33FD77E3DE.quest_desc": [
+  "Champion of Hoenn or not, few have seen Rayquaza. Take this Legend Lure.",
+  "It lives in the ozone layer, far above the clouds.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.590ACB14A3C6D9E4.title": "Rayquaza",
+ "quest.590ACB14A3C6D9E4.quest_desc": [
+  "Catch Rayquaza.",
+  "It lives in the ozone layer, far above the clouds."
+ ],
+ "reward.4B3B091C569B4C1B.title": "$30,000",
+ "quest.4C922D224FC1F43A.title": "Rumour: Jirachi",
+ "quest.4C922D224FC1F43A.quest_desc": [
+  "Champion of Hoenn or not, few have seen Jirachi. Take this Legend Lure.",
+  "It wakes on clear nights to grant wishes.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.1CD586B8A225F3B4.title": "Jirachi",
+ "quest.1CD586B8A225F3B4.quest_desc": [
+  "Catch Jirachi.",
+  "It wakes on clear nights to grant wishes."
+ ],
+ "reward.1CAF75CF328D8C25.title": "$30,000",
+ "quest.453AD283A51E07D8.title": "Rumour: Uxie",
+ "quest.453AD283A51E07D8.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Uxie. Take this Legend Lure.",
+  "The being of knowledge rests near frozen lakes.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.4A91E98074D76107.title": "Uxie",
+ "quest.4A91E98074D76107.quest_desc": [
+  "Catch Uxie.",
+  "The being of knowledge rests near frozen lakes."
+ ],
+ "reward.7EFEED3660FD6159.title": "$35,000",
+ "quest.72D5D531DC323EA7.title": "Rumour: Mesprit",
+ "quest.72D5D531DC323EA7.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Mesprit. Take this Legend Lure.",
+  "The being of emotion wanders by rivers.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.5D93DBC7BAB84634.title": "Mesprit",
+ "quest.5D93DBC7BAB84634.quest_desc": [
+  "Catch Mesprit.",
+  "The being of emotion wanders by rivers."
+ ],
+ "reward.5FF9756E88B23C7B.title": "$35,000",
+ "quest.54E00663FF957799.title": "Rumour: Azelf",
+ "quest.54E00663FF957799.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Azelf. Take this Legend Lure.",
+  "The being of willpower sleeps in mountain lakes.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.458D827010F2CB05.title": "Azelf",
+ "quest.458D827010F2CB05.quest_desc": [
+  "Catch Azelf.",
+  "The being of willpower sleeps in mountain lakes."
+ ],
+ "reward.5E13F2B00BD448B7.title": "$35,000",
+ "quest.4C1A1AF6D39C290D.title": "Rumour: Dialga",
+ "quest.4C1A1AF6D39C290D.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Dialga. Take this Legend Lure.",
+  "Time bends on high peaks in daylight.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.6CC03077CA927AB6.title": "Dialga",
+ "quest.6CC03077CA927AB6.quest_desc": [
+  "Catch Dialga.",
+  "Time bends on high peaks in daylight."
+ ],
+ "reward.393F15DCEB6592B6.title": "$35,000",
+ "quest.14AC5E25C9B3E036.title": "Rumour: Palkia",
+ "quest.14AC5E25C9B3E036.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Palkia. Take this Legend Lure.",
+  "Space ripples over the deep ocean at night.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.32B0724FF0F7FC88.title": "Palkia",
+ "quest.32B0724FF0F7FC88.quest_desc": [
+  "Catch Palkia.",
+  "Space ripples over the deep ocean at night."
+ ],
+ "reward.4D2899775E555433.title": "$35,000",
+ "quest.141260997437AE4D.title": "Rumour: Giratina",
+ "quest.141260997437AE4D.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Giratina. Take this Legend Lure.",
+  "It was banished to a world beyond: the End.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.5079A429D9975117.title": "Giratina",
+ "quest.5079A429D9975117.quest_desc": [
+  "Catch Giratina.",
+  "It was banished to a world beyond: the End."
+ ],
+ "reward.193715E3CD4128B9.title": "$35,000",
+ "quest.19B2F5C4245EF2F2.title": "Rumour: Heatran",
+ "quest.19B2F5C4245EF2F2.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Heatran. Take this Legend Lure.",
+  "It dwells in the volcanic Nether.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.5EDE5A20C9D6F8E8.title": "Heatran",
+ "quest.5EDE5A20C9D6F8E8.quest_desc": [
+  "Catch Heatran.",
+  "It dwells in the volcanic Nether."
+ ],
+ "reward.5DB176E7E64D78BD.title": "$35,000",
+ "quest.3AB827748797E84A.title": "Rumour: Cresselia",
+ "quest.3AB827748797E84A.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Cresselia. Take this Legend Lure.",
+  "It brings good dreams on clear nights.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.3E106E06BB2EAABC.title": "Cresselia",
+ "quest.3E106E06BB2EAABC.quest_desc": [
+  "Catch Cresselia.",
+  "It brings good dreams on clear nights."
+ ],
+ "reward.1293D5D39029B626.title": "$35,000",
+ "quest.28F2D1FD2B0FEB15.title": "Rumour: Regigigas",
+ "quest.28F2D1FD2B0FEB15.quest_desc": [
+  "Champion of Sinnoh or not, few have seen Regigigas. Take this Legend Lure.",
+  "The colossus slumbers in the deepest caverns.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.3CAF45830F025BAA.title": "Regigigas",
+ "quest.3CAF45830F025BAA.quest_desc": [
+  "Catch Regigigas.",
+  "The colossus slumbers in the deepest caverns."
+ ],
+ "reward.14F76F4F2A787BB6.title": "$35,000",
+ "quest.7CA133AFB55DA1B7.title": "Rumour: Cobalion",
+ "quest.7CA133AFB55DA1B7.quest_desc": [
+  "Champion of Unova or not, few have seen Cobalion. Take this Legend Lure.",
+  "It guards the mountains.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.315970B0E11BAC9A.title": "Cobalion",
+ "quest.315970B0E11BAC9A.quest_desc": [
+  "Catch Cobalion.",
+  "It guards the mountains."
+ ],
+ "reward.5FD459F462C45395.title": "$40,000",
+ "quest.2EC55468BC76B778.title": "Rumour: Terrakion",
+ "quest.2EC55468BC76B778.quest_desc": [
+  "Champion of Unova or not, few have seen Terrakion. Take this Legend Lure.",
+  "It stands watch in deep caves.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.34FD8A6FAEFCB203.title": "Terrakion",
+ "quest.34FD8A6FAEFCB203.quest_desc": [
+  "Catch Terrakion.",
+  "It stands watch in deep caves."
+ ],
+ "reward.5ACA036941C21337.title": "$40,000",
+ "quest.22B431DBD6E7EE9D.title": "Rumour: Virizion",
+ "quest.22B431DBD6E7EE9D.quest_desc": [
+  "Champion of Unova or not, few have seen Virizion. Take this Legend Lure.",
+  "It moves through forests like the wind.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.3F88114E4461E1AB.title": "Virizion",
+ "quest.3F88114E4461E1AB.quest_desc": [
+  "Catch Virizion.",
+  "It moves through forests like the wind."
+ ],
+ "reward.27B97E3F2AEEA770.title": "$40,000",
+ "quest.5D6A8BDAB69CDC31.title": "Rumour: Tornadus",
+ "quest.5D6A8BDAB69CDC31.quest_desc": [
+  "Champion of Unova or not, few have seen Tornadus. Take this Legend Lure.",
+  "Storms follow it over open land.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.71FCA02B094705B8.title": "Tornadus",
+ "quest.71FCA02B094705B8.quest_desc": [
+  "Catch Tornadus.",
+  "Storms follow it over open land."
+ ],
+ "reward.778F68F2EEA36FC7.title": "$40,000",
+ "quest.17623ED81B9B452D.title": "Rumour: Thundurus",
+ "quest.17623ED81B9B452D.quest_desc": [
+  "Champion of Unova or not, few have seen Thundurus. Take this Legend Lure.",
+  "It shoots bolts from thunderclouds.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.1B2665B870AF5AF4.title": "Thundurus",
+ "quest.1B2665B870AF5AF4.quest_desc": [
+  "Catch Thundurus.",
+  "It shoots bolts from thunderclouds."
+ ],
+ "reward.1E2A0906831D0C1B.title": "$40,000",
+ "quest.254DECDB3AD0F2D4.title": "Rumour: Landorus",
+ "quest.254DECDB3AD0F2D4.quest_desc": [
+  "Champion of Unova or not, few have seen Landorus. Take this Legend Lure.",
+  "Fields grow rich where it lands.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.6CD80C2A38D480EB.title": "Landorus",
+ "quest.6CD80C2A38D480EB.quest_desc": [
+  "Catch Landorus.",
+  "Fields grow rich where it lands."
+ ],
+ "reward.667F94E017D4821A.title": "$40,000",
+ "quest.7D57518F2DDFE75B.title": "Rumour: Reshiram",
+ "quest.7D57518F2DDFE75B.quest_desc": [
+  "Champion of Unova or not, few have seen Reshiram. Take this Legend Lure.",
+  "The white dragon of truth seeks the desert sun.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.306F36E3E7D1FB10.title": "Reshiram",
+ "quest.306F36E3E7D1FB10.quest_desc": [
+  "Catch Reshiram.",
+  "The white dragon of truth seeks the desert sun."
+ ],
+ "reward.6C64FCD0D6644BA2.title": "$40,000",
+ "quest.2620637A570C9335.title": "Rumour: Zekrom",
+ "quest.2620637A570C9335.quest_desc": [
+  "Champion of Unova or not, few have seen Zekrom. Take this Legend Lure.",
+  "The black dragon of ideals comes with the storm at night.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.4BAE71AE37BAD10A.title": "Zekrom",
+ "quest.4BAE71AE37BAD10A.quest_desc": [
+  "Catch Zekrom.",
+  "The black dragon of ideals comes with the storm at night."
+ ],
+ "reward.12053FCF4F19FEF9.title": "$40,000",
+ "quest.198EB8EA7DB2F7E6.title": "Rumour: Kyurem",
+ "quest.198EB8EA7DB2F7E6.quest_desc": [
+  "Champion of Unova or not, few have seen Kyurem. Take this Legend Lure.",
+  "An empty dragon of ice haunts snowfields at night.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.3891831586EE5A84.title": "Kyurem",
+ "quest.3891831586EE5A84.quest_desc": [
+  "Catch Kyurem.",
+  "An empty dragon of ice haunts snowfields at night."
+ ],
+ "reward.5690EE94E11CE142.title": "$40,000",
+ "quest.21CC77B9AA4DEBD8.title": "Rumour: Xerneas",
+ "quest.21CC77B9AA4DEBD8.quest_desc": [
+  "Champion of Kalos or not, few have seen Xerneas. Take this Legend Lure.",
+  "The tree of life glows in forests by day.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.6F9158D2BDD98F37.title": "Xerneas",
+ "quest.6F9158D2BDD98F37.quest_desc": [
+  "Catch Xerneas.",
+  "The tree of life glows in forests by day."
+ ],
+ "reward.5194E917C32C8248.title": "$45,000",
+ "quest.2D681B78EA78F228.title": "Rumour: Yveltal",
+ "quest.2D681B78EA78F228.quest_desc": [
+  "Champion of Kalos or not, few have seen Yveltal. Take this Legend Lure.",
+  "Its shadow falls over dark forests at night.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.16CEF089568295FA.title": "Yveltal",
+ "quest.16CEF089568295FA.quest_desc": [
+  "Catch Yveltal.",
+  "Its shadow falls over dark forests at night."
+ ],
+ "reward.2E9266627BE1D57E.title": "$45,000",
+ "quest.273FD30EC402DB51.title": "Rumour: Zygarde",
+ "quest.273FD30EC402DB51.quest_desc": [
+  "Champion of Kalos or not, few have seen Zygarde. Take this Legend Lure.",
+  "It watches the ecosystem from deep underground.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.6B573C359137FF20.title": "Zygarde",
+ "quest.6B573C359137FF20.quest_desc": [
+  "Catch Zygarde.",
+  "It watches the ecosystem from deep underground."
+ ],
+ "reward.7B81957B20FA7D87.title": "$45,000",
+ "quest.701E69A6DBAF7058.title": "Rumour: Zacian",
+ "quest.701E69A6DBAF7058.quest_desc": [
+  "Champion of Galar or not, few have seen Zacian. Take this Legend Lure.",
+  "The hero's sword rests in a forest by day.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.6945CF4FB02041F6.title": "Zacian",
+ "quest.6945CF4FB02041F6.quest_desc": [
+  "Catch Zacian.",
+  "The hero's sword rests in a forest by day."
+ ],
+ "reward.5EA9532D3BE1F543.title": "$50,000",
+ "quest.7F860B1C5EF472DC.title": "Rumour: Zamazenta",
+ "quest.7F860B1C5EF472DC.quest_desc": [
+  "Champion of Galar or not, few have seen Zamazenta. Take this Legend Lure.",
+  "The hero's shield guards the forest by night.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.339B72B61D45F8A2.title": "Zamazenta",
+ "quest.339B72B61D45F8A2.quest_desc": [
+  "Catch Zamazenta.",
+  "The hero's shield guards the forest by night."
+ ],
+ "reward.7885D4879D2B11A8.title": "$50,000",
+ "quest.10D3DA38EB18D0AB.title": "Rumour: Eternatus",
+ "quest.10D3DA38EB18D0AB.quest_desc": [
+  "Champion of Galar or not, few have seen Eternatus. Take this Legend Lure.",
+  "A dark star fell to the End.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.61CC195BCA8DA14C.title": "Eternatus",
+ "quest.61CC195BCA8DA14C.quest_desc": [
+  "Catch Eternatus.",
+  "A dark star fell to the End."
+ ],
+ "reward.4D68649CA63BD3B0.title": "$50,000",
+ "quest.360CD1DAD481C1C0.title": "Rumour: Kubfu",
+ "quest.360CD1DAD481C1C0.quest_desc": [
+  "Champion of Galar or not, few have seen Kubfu. Take this Legend Lure.",
+  "It trains on mountain slopes.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.3FCED1A3B96CB5DD.title": "Kubfu",
+ "quest.3FCED1A3B96CB5DD.quest_desc": [
+  "Catch Kubfu.",
+  "It trains on mountain slopes."
+ ],
+ "reward.37AEC8578BE0360D.title": "$50,000",
+ "quest.3587BCBD4F24B61A.title": "Rumour: Regieleki",
+ "quest.3587BCBD4F24B61A.quest_desc": [
+  "Champion of Galar or not, few have seen Regieleki. Take this Legend Lure.",
+  "It sparks under thunderstorms.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.51B5E557816BAF4B.title": "Regieleki",
+ "quest.51B5E557816BAF4B.quest_desc": [
+  "Catch Regieleki.",
+  "It sparks under thunderstorms."
+ ],
+ "reward.72D2D82A7EC27890.title": "$50,000",
+ "quest.7F2A065ECBCB10FD.title": "Rumour: Regidrago",
+ "quest.7F2A065ECBCB10FD.quest_desc": [
+  "Champion of Galar or not, few have seen Regidrago. Take this Legend Lure.",
+  "Its draconic chamber lies under the badlands.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.56351FEBBD92780D.title": "Regidrago",
+ "quest.56351FEBBD92780D.quest_desc": [
+  "Catch Regidrago.",
+  "Its draconic chamber lies under the badlands."
+ ],
+ "reward.3462A3CB4A0BD062.title": "$50,000",
+ "quest.3F110A335747BF2D.title": "Rumour: Calyrex",
+ "quest.3F110A335747BF2D.quest_desc": [
+  "Champion of Galar or not, few have seen Calyrex. Take this Legend Lure.",
+  "The king of bountiful harvests visits snowy fields.",
+  "Use the lure there (right-click) to call it, then battle and catch it. Bring strong Poké Balls."
+ ],
+ "quest.4234272AB75B4B01.title": "Calyrex",
+ "quest.4234272AB75B4B01.quest_desc": [
+  "Catch Calyrex.",
+  "The king of bountiful harvests visits snowy fields."
+ ],
+ "reward.457A55A18B3CBF0F.title": "$50,000",
+ "chapter.79654F98BB07447F.title": "Industry",
+ "chapter.79654F98BB07447F.chapter_subtitle": [
+  "Create, one age at a time: from a water wheel to an automated Poké Ball factory."
+ ],
+ "quest.6824376BC476315C.title": "Andesite Alloy",
+ "quest.6824376BC476315C.quest_desc": [
+  "The first Create material: andesite + iron nuggets (or zinc)."
+ ],
+ "reward.1A7C58CCC210A2D0.title": "$300",
+ "quest.1A1ADEDBE50F9D62.title": "Rotational Power",
+ "quest.1A1ADEDBE50F9D62.quest_desc": [
+  "Build a Water Wheel (or a windmill) and move your first shaft."
+ ],
+ "quest.26DFE8F0A02410F7.title": "Press and Mill",
+ "quest.26DFE8F0A02410F7.quest_desc": [
+  "A Mechanical Press and a Millstone: sheets and flour without hand work."
+ ],
+ "reward.70DA6A6E2D3F659E.title": "$600",
+ "quest.6B9523CA6BA3EA52.title": "On the Belt",
+ "quest.6B9523CA6BA3EA52.quest_desc": [
+  "Belts, funnels and depots move items between machines."
+ ],
+ "quest.452058BE3DB826FB.title": "Bulk Processing",
+ "quest.452058BE3DB826FB.quest_desc": [
+  "An Encased Fan washes, smelts and smokes items in bulk."
+ ],
+ "reward.17E733DEBF1CF227.title": "$500",
+ "quest.44393D58521EACA2.title": "Export Depot",
+ "quest.44393D58521EACA2.quest_desc": [
+  "Build an Export Depot and feed it from a belt or hopper: it ships goods every two seconds, orders first."
+ ],
+ "reward.45874A134C3AB73D.title": "$1,000",
+ "quest.3BBC545EBD1B32E6.title": "Mixing",
+ "quest.3BBC545EBD1B32E6.quest_desc": [
+  "A Mechanical Mixer with a basin: the gateway to brass."
+ ],
+ "reward.16A1257C87F3FE1B.title": "$600",
+ "quest.3606AE0F402C0C0D.title": "The Brass Age",
+ "quest.3606AE0F402C0C0D.quest_desc": [
+  "Mix copper and zinc into brass. A Blaze Burner heats the basin."
+ ],
+ "reward.2394443E610D7F47.title": "$1,500",
+ "quest.7F74AD496CAEBC22.title": "Mechanical Arms",
+ "quest.7F74AD496CAEBC22.quest_desc": [
+  "Arms sort and feed machines without belts everywhere."
+ ],
+ "reward.22F9A5E25FADFB11.title": "$1,000",
+ "quest.26DF5B09C41CAD1F.title": "Precision Mechanism",
+ "quest.26DF5B09C41CAD1F.quest_desc": [
+  "The heart of advanced Create machines, assembled on a belt with deployers."
+ ],
+ "reward.750A1AE4DB752350.title": "$2,500",
+ "quest.19872B9ACC5179D1.title": "Mechanical Crafting",
+ "quest.19872B9ACC5179D1.quest_desc": [
+  "Mechanical Crafters build large recipes automatically."
+ ],
+ "reward.2830311DA727FD08.title": "$1,500",
+ "quest.24D76E6BDBD7B706.title": "Steam Power",
+ "quest.24D76E6BDBD7B706.quest_desc": [
+  "A Steam Engine on a heated Fluid Tank: real power for a real factory."
+ ],
+ "reward.6E9D0518EDE56025.title": "$3,000",
+ "quest.75ACFC896AF3BB36.title": "Electricity",
+ "quest.75ACFC896AF3BB36.quest_desc": [
+  "Create Crafts and Additions: alternators turn rotation into energy, electric motors turn it back."
+ ],
+ "reward.589B550CC4495D2A.title": "$3,000",
+ "quest.4E7EB34A93936F83.title": "Poké Ball Factory",
+ "quest.4E7EB34A93936F83.quest_desc": [
+  "Automate Poké Ball production: have 64 Poké Balls, 32 Great Balls and 16 Ultra Balls."
+ ],
+ "reward.5CDD4653AF03B328.title": "$5,000",
+ "quest.24102E8EA85A04FC.title": "Automatic Harvest",
+ "quest.24102E8EA85A04FC.quest_desc": [
+  "Slice and Dice slicers and sprinklers keep a kitchen line running."
+ ],
+ "reward.2AA013E432960235.title": "$1,000",
+ "chapter.437B8CAEE3B7AC83.title": "Economy",
+ "chapter.437B8CAEE3B7AC83.chapter_subtitle": [
+  "Money that matters on day 1 and day 1000. Variety pays better than one huge farm."
+ ],
+ "quest.357C1F4945D52D06.title": "First Sale",
+ "quest.357C1F4945D52D06.quest_desc": [
+  "Sell anything from the market list to a town merchant or through an Export Depot."
+ ],
+ "reward.3CF3C7D0C5BD3116.title": "$200",
+ "quest.5056A840BC79E6E3.title": "Orders: 1",
+ "quest.5056A840BC79E6E3.quest_desc": [
+  "Complete 1 production order."
+ ],
+ "reward.77443B30DA653B21.title": "$500",
+ "quest.2D53BFB41D72D088.title": "Orders: 10",
+ "quest.2D53BFB41D72D088.quest_desc": [
+  "Complete 10 production orders."
+ ],
+ "reward.1B2513A587CCBA20.title": "$3,000",
+ "quest.75616476663C62C5.title": "Orders: 50",
+ "quest.75616476663C62C5.quest_desc": [
+  "Complete 50 production orders."
+ ],
+ "reward.1C6835BB9F880454.title": "$15,000",
+ "quest.7FA243F2EA632C87.title": "Orders: 200",
+ "quest.7FA243F2EA632C87.quest_desc": [
+  "Complete 200 production orders."
+ ],
+ "reward.13FF72737D34256B.title": "$50,000",
+ "quest.1D17EE48163CE4B7.title": "Bounties: 1",
+ "quest.1D17EE48163CE4B7.quest_desc": [
+  "Complete 1 Pokémon bounty."
+ ],
+ "reward.58ECDC38F9AF4834.title": "$500",
+ "quest.3BB5FE05739C0EC1.title": "Bounties: 10",
+ "quest.3BB5FE05739C0EC1.quest_desc": [
+  "Complete 10 Pokémon bounties."
+ ],
+ "reward.6D4BF16E83DC8CF9.title": "$4,000",
+ "quest.112B7079757397CD.title": "Bounties: 50",
+ "quest.112B7079757397CD.quest_desc": [
+  "Complete 50 Pokémon bounties."
+ ],
+ "reward.5FEFCE57EDB0ED8E.title": "$20,000",
+ "quest.2A993E78D81C5AD2.title": "$10,000",
+ "quest.2A993E78D81C5AD2.quest_desc": [
+  "Have $10,000 at once."
+ ],
+ "quest.20145E804FBBE324.title": "$100,000",
+ "quest.20145E804FBBE324.quest_desc": [
+  "Have $100,000 at once."
+ ],
+ "quest.39B4A39BD9EFEBB0.title": "$1,000,000",
+ "quest.39B4A39BD9EFEBB0.quest_desc": [
+  "Have $1,000,000 at once."
+ ],
+ "quest.3075A65947E42D68.title": "Cargo Run",
+ "quest.3075A65947E42D68.quest_desc": [
+  "From 4 badges a cargo order sometimes takes an order slot: dozens of stacks of a far biome's goods. Fly there, fill the hold and deliver it by hand or through an Export Depot."
+ ],
+ "reward.67FDBE6D3D988C17.title": "$5,000",
+ "chapter.5ADC2F35681FCCE9.title": "Settlement and Defence",
+ "chapter.5ADC2F35681FCCE9.chapter_subtitle": [
+  "A home worth defending: perimeter, people, walls, cannons and Team Rocket."
+ ],
+ "quest.2B120CE4C3AAB8B9.title": "Plant Your Banner",
+ "quest.2B120CE4C3AAB8B9.quest_desc": [
+  "Plant a Settlement Banner. Hold it to see your border."
+ ],
+ "reward.7011000A276815E5.title": "$800",
+ "quest.273E7FA4B5E27557.title": "Walls and Gates",
+ "quest.273E7FA4B5E27557.quest_desc": [
+  "Wall in the heart of your base. Monsters cannot spawn inside the perimeter, but they can still walk in."
+ ],
+ "reward.3BDF5F78745A84F5.title": "$1,000",
+ "quest.7A1CA4A61EDD05D4.title": "A Guard for Good",
+ "quest.7A1CA4A61EDD05D4.quest_desc": [
+  "Hire a guard from the Settlement app. Hired people stay for good."
+ ],
+ "reward.6CFAC2FCF614D3AB.title": "$1,500",
+ "quest.71AAFFE1F07D2AA6.title": "Eyes on the Walls",
+ "quest.71AAFFE1F07D2AA6.quest_desc": [
+  "Hire an archer."
+ ],
+ "reward.6C107997040CD7C7.title": "$1,500",
+ "quest.6AE4AA8CC72D40D8.title": "New Neighbours",
+ "quest.6AE4AA8CC72D40D8.quest_desc": [
+  "Invite a settler: villagers take jobs and bring your town to life."
+ ],
+ "reward.7CF8EC8F74638426.title": "$500",
+ "quest.57F94B0A3E0ADD12.title": "A Real Town",
+ "quest.57F94B0A3E0ADD12.quest_desc": [
+  "Have five settlers."
+ ],
+ "reward.402B572BF27D6CFE.title": "$4,000",
+ "quest.2741426CB24654E1.title": "Room to Grow",
+ "quest.2741426CB24654E1.quest_desc": [
+  "Expand your perimeter from the Settlement app."
+ ],
+ "reward.71EFBBE7409A1E52.title": "$2,000",
+ "quest.6AC3F03F48ED8C74.title": "A Province",
+ "quest.6AC3F03F48ED8C74.quest_desc": [
+  "Expand your perimeter to the maximum size (300×300)."
+ ],
+ "reward.63100544C1CC1990.title": "$20,000",
+ "quest.1C9A7F69886A243F.title": "Ready for Sieges",
+ "quest.1C9A7F69886A243F.quest_desc": [
+  "Turn sieges on when your defences are ready (Settlement app). You choose how often they come."
+ ],
+ "reward.27F3210218767A40.title": "$1,000",
+ "quest.6FB79DD12FB3AC0C.title": "Team Rocket Repelled",
+ "quest.6FB79DD12FB3AC0C.quest_desc": [
+  "Survive the waves and defeat the Team Rocket admin who leads the siege."
+ ],
+ "reward.429F31A9BC2304C2.title": "$3,000",
+ "quest.76EABDCE4CD25C96.title": "Fortress",
+ "quest.76EABDCE4CD25C96.quest_desc": [
+  "Win five sieges."
+ ],
+ "reward.67DD07962A7A9132.title": "$15,000",
+ "quest.2D64F03528601101.title": "Unbreakable",
+ "quest.2D64F03528601101.quest_desc": [
+  "Win twenty sieges. Team Rocket will think twice."
+ ],
+ "reward.5E86A87FAF5D5263.title": "$60,000",
+ "quest.785809933014162B.title": "Artillery",
+ "quest.785809933014162B.quest_desc": [
+  "Create Big Cannons: a cannon mount with a cast-iron barrel and chamber."
+ ],
+ "reward.2FCD346BD16F07DD.title": "$4,000",
+ "quest.7CA151076FBD3C1D.title": "Rapid Fire",
+ "quest.7CA151076FBD3C1D.quest_desc": [
+  "An autocannon tears through siege waves."
+ ],
+ "reward.220C4CD168BE3269.title": "$5,000",
+ "chapter.71BAFEFE06A0061D.title": "Skies and Roads",
+ "chapter.71BAFEFE06A0061D.chapter_subtitle": [
+  "Create Aeronautics and Offroad: balloons, airships, a shipyard and vehicles."
+ ],
+ "quest.1F176F3B34EAF89D.title": "Physics Assembler",
+ "quest.1F176F3B34EAF89D.quest_desc": [
+  "Anything you build can become a moving contraption with a Physics Assembler."
+ ],
+ "reward.192A0C41A7E9C735.title": "$1,000",
+ "quest.37F6F8526051BFBD.title": "Hot Air Balloon",
+ "quest.37F6F8526051BFBD.quest_desc": [
+  "Envelopes and a Hot Air Burner: lift off."
+ ],
+ "reward.17EAF8817D5EB7BF.title": "$2,000",
+ "quest.19B738C6A012C58B.title": "Propulsion",
+ "quest.19B738C6A012C58B.quest_desc": [
+  "A Propeller Bearing with propeller blades pushes your craft through the air."
+ ],
+ "reward.6A0B38FDB3ED26B4.title": "$2,000",
+ "quest.4E2B57B8BB855DB1.title": "First Airship",
+ "quest.4E2B57B8BB855DB1.quest_desc": [
+  "Build an airship that can fly from your base to a town and back. Tick it after the round trip."
+ ],
+ "reward.47F6E394D022EBD8.title": "$8,000",
+ "quest.25A2E6F66B0D1ECA.title": "Levitite",
+ "quest.25A2E6F66B0D1ECA.quest_desc": [
+  "Levitite floats on its own: the key to large, heavy ships."
+ ],
+ "reward.18358E2AD30DE85D.title": "$4,000",
+ "quest.6C6DC46C465C4BA5.title": "Navigation",
+ "quest.6C6DC46C465C4BA5.quest_desc": [
+  "A Navigation Table and a Gyroscopic Propeller Bearing keep long voyages on course."
+ ],
+ "reward.3F1A29B8FD649F9B.title": "$4,000",
+ "quest.446F9F297C029029.title": "Expedition Base",
+ "quest.446F9F297C029029.quest_desc": [
+  "Build an Expedition Base into an airship and use it: you respawn on the ship, and aboard the Pad's Pokémon Center heals with no wait and opens your PC, no licences needed."
+ ],
+ "reward.4FD74EEE389F196E.title": "$5,000",
+ "quest.44FDE6415AA4A2A4.title": "The Shipyard",
+ "quest.44FDE6415AA4A2A4.quest_desc": [
+  "Build a shipyard: a hangar or dock where you assemble and park your fleet."
+ ],
+ "reward.77BCB410A22E1CA9.title": "$10,000",
+ "quest.494C928E24444ACB.title": "A Fleet",
+ "quest.494C928E24444ACB.quest_desc": [
+  "Own three working craft: transport, cargo and something just for fun."
+ ],
+ "reward.1192B0C590FE2E3F.title": "$25,000",
+ "quest.7EEC26C6BDD0929A.title": "Off the Road",
+ "quest.7EEC26C6BDD0929A.quest_desc": [
+  "Offroad: wheel mounts and tires make ground vehicles."
+ ],
+ "reward.323D48D9A2E24D20.title": "$2,000",
+ "quest.59309F00572DF65D.title": "Tunnel Borer",
+ "quest.59309F00572DF65D.quest_desc": [
+  "A Borehead Bearing with a Rock Cutting Wheel digs tunnels while it drives."
+ ],
+ "reward.1C7DE8AE0A38AD52.title": "$4,000",
+ "chapter.598CBB1CE89E3BCA.title": "Pokémon Mastery",
+ "chapter.598CBB1CE89E3BCA.chapter_subtitle": [
+  "Breeding, battle gimmicks and the team you always wanted."
+ ],
+ "quest.33691055F2D5BF67.title": "Pokédex: 30",
+ "quest.33691055F2D5BF67.quest_desc": [
+  "Register 30 Pokémon as caught."
+ ],
+ "reward.294705E4BDE55662.title": "$1,500",
+ "quest.38B99D6AB6AD7415.title": "Pokédex: 100",
+ "quest.38B99D6AB6AD7415.quest_desc": [
+  "Register 100 Pokémon."
+ ],
+ "reward.60503017FABF4CE9.title": "$8,000",
+ "quest.1F953AE3F9AD0FD4.title": "Pokédex: 250",
+ "quest.1F953AE3F9AD0FD4.quest_desc": [
+  "Register 250 Pokémon."
+ ],
+ "reward.17BD7F95BB7D7060.title": "$30,000",
+ "quest.115D2199210B5D16.title": "Something Is Hatching",
+ "quest.115D2199210B5D16.quest_desc": [
+  "Breed two compatible Pokémon at a Pasture and hatch the egg."
+ ],
+ "quest.2B70AEB9DFC4C0B2.title": "Shiny!",
+ "quest.2B70AEB9DFC4C0B2.quest_desc": [
+  "Catch a shiny Pokémon."
+ ],
+ "reward.469FB33652455270.title": "$10,000",
+ "quest.161228A54390C38D.title": "Back from the Past",
+ "quest.161228A54390C38D.quest_desc": [
+  "Revive a fossil with the Fossil Analyzer and Restoration Tank."
+ ],
+ "reward.1D472A8D16478674.title": "$3,000",
+ "quest.2D5DC852094E50D0.title": "Mega Evolution",
+ "quest.2D5DC852094E50D0.quest_desc": [
+  "Get a Mega Bracelet and Mega Evolve in battle."
+ ],
+ "reward.2695AFE08F12C5F5.title": "$5,000",
+ "quest.59DA113BAA514712.title": "Z-Power",
+ "quest.59DA113BAA514712.quest_desc": [
+  "Use a Z-Move."
+ ],
+ "reward.4CDA9249848CFBAD.title": "$4,000",
+ "quest.4DC63FDD42170EC8.title": "Dynamax",
+ "quest.4DC63FDD42170EC8.quest_desc": [
+  "Dynamax a Pokémon (at a Power Spot, with a Dynamax Band)."
+ ],
+ "reward.1636698F31474F71.title": "$4,000",
+ "quest.3F37873CB01929BD.title": "Terastallize",
+ "quest.3F37873CB01929BD.quest_desc": [
+  "Terastallize a Pokémon."
+ ],
+ "reward.78CE3101C7DD57C2.title": "$4,000",
+ "quest.16A74B2EAA9CF57C.title": "Level 100",
+ "quest.16A74B2EAA9CF57C.quest_desc": [
+  "Raise a Pokémon to level 100."
+ ],
+ "quest.14FF719781B2C3BE.title": "Lucario",
+ "quest.14FF719781B2C3BE.quest_desc": [
+  "Register Lucario: one of the team goals for the long game."
+ ],
+ "reward.2922550EB113E617.title": "$5,000",
+ "quest.6C2318F12B617543.title": "Dragapult",
+ "quest.6C2318F12B617543.quest_desc": [
+  "Register Dragapult: one of the team goals for the long game."
+ ],
+ "reward.147834156BF48ACA.title": "$5,000",
+ "quest.5428B31FFA28649A.title": "Grimmsnarl",
+ "quest.5428B31FFA28649A.quest_desc": [
+  "Register Grimmsnarl: one of the team goals for the long game."
+ ],
+ "reward.3209BE028DB030F4.title": "$5,000",
+ "quest.52BD0D18FEE03E36.title": "Amoonguss",
+ "quest.52BD0D18FEE03E36.quest_desc": [
+  "Register Amoonguss: one of the team goals for the long game."
+ ],
+ "reward.201C70F11DE7BAA9.title": "$5,000",
+ "quest.2522D4248E7DAE6C.title": "Ceruledge",
+ "quest.2522D4248E7DAE6C.quest_desc": [
+  "Register Ceruledge: one of the team goals for the long game."
+ ],
+ "reward.5F69683DD8971EF2.title": "$5,000",
+ "quest.63A7898D6824CC97.title": "Corviknight",
+ "quest.63A7898D6824CC97.quest_desc": [
+  "Register Corviknight: one of the team goals for the long game."
+ ],
+ "reward.328A5680C4CF60D0.title": "$5,000",
+ "chapter.41A775F8954D327D.title": "Living off the Land",
+ "chapter.41A775F8954D327D.chapter_subtitle": [
+  "Farming, cooking and fishing: short and to the point."
+ ],
+ "quest.732CB919EA195753.title": "First Field",
+ "quest.732CB919EA195753.quest_desc": [
+  "Plant and harvest a field: 32 wheat."
+ ],
+ "reward.1B623FC930BDB511.title": "$200",
+ "quest.7215B25D7C7D9967.title": "Kitchen",
+ "quest.7215B25D7C7D9967.quest_desc": [
+  "Farmer's Delight: a Cooking Pot, a Skillet and a Cutting Board."
+ ],
+ "reward.3460263C45EFC3D5.title": "$600",
+ "quest.24E087CC24FBB4EC.title": "Exotic Garden",
+ "quest.24E087CC24FBB4EC.quest_desc": [
+  "Croptopia seeds come from grass and village chests. Grow three different crops."
+ ],
+ "reward.3E3AB9C21C05674A.title": "$800",
+ "quest.14ECC702A712EB70.title": "A Proper Meal",
+ "quest.14ECC702A712EB70.quest_desc": [
+  "Cook a stew in the Cooking Pot."
+ ],
+ "reward.32EF310B1343AE35.title": "$400",
+ "quest.6D9F942CFE500BDD.title": "Rich Soil",
+ "quest.6D9F942CFE500BDD.quest_desc": [
+  "Organic Compost turns into Rich Soil: crops grow faster."
+ ],
+ "reward.7E9975004FDBD9CE.title": "$800",
+ "quest.371777C47EED1422.title": "Gone Fishing",
+ "quest.371777C47EED1422.quest_desc": [
+  "Aquaculture: an Iron Fishing Rod and a Tackle Box."
+ ],
+ "reward.11E51FE249418032.title": "$600",
+ "quest.466B774A01FF9585.title": "Neptune's Bounty",
+ "quest.466B774A01FF9585.quest_desc": [
+  "Fish up Neptune's treasure and forge Neptunium."
+ ],
+ "reward.73DBE8CB6B23465E.title": "$5,000",
+ "chapter.2FF543B3ADE9F7D3.title": "Exploration and The End",
+ "chapter.2FF543B3ADE9F7D3.chapter_subtitle": [
+  "Waystones, the Nether, the End and what lies beyond."
+ ],
+ "quest.1E125CA627BD2658.title": "Waystones",
+ "quest.1E125CA627BD2658.quest_desc": [
+  "Activate a waystone in a town to travel back later."
+ ],
+ "reward.2C545F2E889C6AC7.title": "$800",
+ "quest.519563ED6ABFC96D.title": "Finders",
+ "quest.519563ED6ABFC96D.quest_desc": [
+  "A Nature's Compass and an Explorer's Compass find biomes and structures."
+ ],
+ "reward.61921597E7F3AE64.title": "$1,500",
+ "quest.263B22179E0C6532.title": "Pack Your Bags",
+ "quest.263B22179E0C6532.quest_desc": [
+  "A Sophisticated Backpack for long trips."
+ ],
+ "reward.317C777D99130D9F.title": "$500",
+ "quest.423F30A393068090.title": "Into the Nether",
+ "quest.423F30A393068090.quest_desc": [
+  "Enter the Nether."
+ ],
+ "reward.54FDC80DC21C68D4.title": "$2,000",
+ "quest.29416E187F2FE373.title": "Blaze Rods",
+ "quest.29416E187F2FE373.quest_desc": [
+  "Blaze rods: for Blaze Burners and the eyes of ender."
+ ],
+ "reward.5594B98477AA32D4.title": "$1,500",
+ "quest.11A8879E6EDBDE9A.title": "The End",
+ "quest.11A8879E6EDBDE9A.quest_desc": [
+  "Enter the End."
+ ],
+ "reward.5B5FD5C35E6B487C.title": "$4,000",
+ "quest.6881DC4BE2D4C852.title": "Free the End",
+ "quest.6881DC4BE2D4C852.quest_desc": [
+  "Defeat the Ender Dragon and take the egg."
+ ],
+ "reward.2E6985DD96931BE0.title": "$15,000",
+ "quest.22C9F8CE86E1C59B.title": "Outbreak Camper",
+ "quest.22C9F8CE86E1C59B.quest_desc": [
+  "Stay around a mass outbreak until your streak reaches its last level, at the end of the sixth day there: the only one with perfect IVs."
+ ],
+ "reward.292A2A65EFAB7CDF.title": "$10,000",
+ "quest.3997AE49B0BD047C.title": "Wings",
+ "quest.3997AE49B0BD047C.quest_desc": [
+  "Find an Elytra in an End City."
+ ],
+ "reward.45149C5C24B9D2E7.title": "$5,000",
+ "quest.2E7DE4F5B74FE100.title": "Unusual End",
+ "quest.2E7DE4F5B74FE100.quest_desc": [
+  "Explore the Unusual End and craft Pearlescent gear."
+ ],
+ "reward.5AB76564D65A6A5C.title": "$6,000",
+ "chapter.658B7F3F41652E50.title": "Type Specialist",
+ "chapter.658B7F3F41652E50.chapter_subtitle": [
+  "Catch Pokémon of every type. Each type has three tiers."
+ ],
+ "quest.63339F55A8240D1F.title": "Normal Trainer",
+ "quest.63339F55A8240D1F.quest_desc": [
+  "Catch 5 Normal-type Pokémon."
+ ],
+ "reward.5F39949BCE2539E3.title": "$800",
+ "quest.4C90A1CD49D38E60.title": "Normal Expert",
+ "quest.4C90A1CD49D38E60.quest_desc": [
+  "Catch 25 Normal-type Pokémon."
+ ],
+ "reward.28A1EA4B992451C4.title": "$4,000",
+ "quest.1502CA12CA4E8DC7.title": "Normal Master",
+ "quest.1502CA12CA4E8DC7.quest_desc": [
+  "Catch 60 Normal-type Pokémon."
+ ],
+ "reward.2FF8AF50BEF07B85.title": "$12,000",
+ "quest.1513843697A5852C.title": "Fire Trainer",
+ "quest.1513843697A5852C.quest_desc": [
+  "Catch 5 Fire-type Pokémon."
+ ],
+ "reward.31E7A757F37C2A0B.title": "$800",
+ "quest.11CF4D168A5F3262.title": "Fire Expert",
+ "quest.11CF4D168A5F3262.quest_desc": [
+  "Catch 25 Fire-type Pokémon."
+ ],
+ "reward.1F3F3AB2DFBB96ED.title": "$4,000",
+ "quest.646F980368ECB736.title": "Fire Master",
+ "quest.646F980368ECB736.quest_desc": [
+  "Catch 60 Fire-type Pokémon."
+ ],
+ "reward.6C0D42CBB6826E4F.title": "$12,000",
+ "quest.4FAE0610304BE4B2.title": "Water Trainer",
+ "quest.4FAE0610304BE4B2.quest_desc": [
+  "Catch 5 Water-type Pokémon."
+ ],
+ "reward.12939F6C54C0F47F.title": "$800",
+ "quest.1B3FD603D512F138.title": "Water Expert",
+ "quest.1B3FD603D512F138.quest_desc": [
+  "Catch 25 Water-type Pokémon."
+ ],
+ "reward.4FEA4356AE3B652B.title": "$4,000",
+ "quest.3D6D654CD13512CF.title": "Water Master",
+ "quest.3D6D654CD13512CF.quest_desc": [
+  "Catch 60 Water-type Pokémon."
+ ],
+ "reward.721D9D671F9305FB.title": "$12,000",
+ "quest.5AC476795AFF8E2D.title": "Grass Trainer",
+ "quest.5AC476795AFF8E2D.quest_desc": [
+  "Catch 5 Grass-type Pokémon."
+ ],
+ "reward.6DDA592583A59FFA.title": "$800",
+ "quest.642BAFB4C3D06636.title": "Grass Expert",
+ "quest.642BAFB4C3D06636.quest_desc": [
+  "Catch 25 Grass-type Pokémon."
+ ],
+ "reward.114D8C326A547EBA.title": "$4,000",
+ "quest.590EA682A44AFC92.title": "Grass Master",
+ "quest.590EA682A44AFC92.quest_desc": [
+  "Catch 60 Grass-type Pokémon."
+ ],
+ "reward.4E9CEE910867FD9A.title": "$12,000",
+ "quest.5D2D79E105C0E282.title": "Electric Trainer",
+ "quest.5D2D79E105C0E282.quest_desc": [
+  "Catch 5 Electric-type Pokémon."
+ ],
+ "reward.3C9BAC1547B00827.title": "$800",
+ "quest.4E8A1B1776512164.title": "Electric Expert",
+ "quest.4E8A1B1776512164.quest_desc": [
+  "Catch 25 Electric-type Pokémon."
+ ],
+ "reward.3ED6E2DF417C1CB6.title": "$4,000",
+ "quest.60A7ED4B636D18FA.title": "Electric Master",
+ "quest.60A7ED4B636D18FA.quest_desc": [
+  "Catch 60 Electric-type Pokémon."
+ ],
+ "reward.67A74BFB32389FB1.title": "$12,000",
+ "quest.3F1F32116A8ED36E.title": "Ice Trainer",
+ "quest.3F1F32116A8ED36E.quest_desc": [
+  "Catch 5 Ice-type Pokémon."
+ ],
+ "reward.468EB9531ED75305.title": "$800",
+ "quest.40E8EE7861F9F068.title": "Ice Expert",
+ "quest.40E8EE7861F9F068.quest_desc": [
+  "Catch 25 Ice-type Pokémon."
+ ],
+ "reward.5732EDF520A37967.title": "$4,000",
+ "quest.2406EF62463587B9.title": "Ice Master",
+ "quest.2406EF62463587B9.quest_desc": [
+  "Catch 60 Ice-type Pokémon."
+ ],
+ "reward.22BEC421C77340EA.title": "$12,000",
+ "quest.5CB579C75082B707.title": "Fighting Trainer",
+ "quest.5CB579C75082B707.quest_desc": [
+  "Catch 5 Fighting-type Pokémon."
+ ],
+ "reward.58ABDB9E117CCE4C.title": "$800",
+ "quest.1560EDED6A27420A.title": "Fighting Expert",
+ "quest.1560EDED6A27420A.quest_desc": [
+  "Catch 25 Fighting-type Pokémon."
+ ],
+ "reward.2CEB2E8DD1D8FE55.title": "$4,000",
+ "quest.30BA32948C8EE56B.title": "Fighting Master",
+ "quest.30BA32948C8EE56B.quest_desc": [
+  "Catch 60 Fighting-type Pokémon."
+ ],
+ "reward.293709AAC59105B7.title": "$12,000",
+ "quest.3E0D797190769126.title": "Poison Trainer",
+ "quest.3E0D797190769126.quest_desc": [
+  "Catch 5 Poison-type Pokémon."
+ ],
+ "reward.4D02104B098D3159.title": "$800",
+ "quest.5E89D34927FE5175.title": "Poison Expert",
+ "quest.5E89D34927FE5175.quest_desc": [
+  "Catch 25 Poison-type Pokémon."
+ ],
+ "reward.2E1EE2E754D6B5E7.title": "$4,000",
+ "quest.36D63E1C558A1F11.title": "Poison Master",
+ "quest.36D63E1C558A1F11.quest_desc": [
+  "Catch 60 Poison-type Pokémon."
+ ],
+ "reward.1E894EADAEC1AB92.title": "$12,000",
+ "quest.4703BE8EB0CC77DB.title": "Ground Trainer",
+ "quest.4703BE8EB0CC77DB.quest_desc": [
+  "Catch 5 Ground-type Pokémon."
+ ],
+ "reward.4AF5E83BDF0F2C5F.title": "$800",
+ "quest.5449E3FFD0843888.title": "Ground Expert",
+ "quest.5449E3FFD0843888.quest_desc": [
+  "Catch 25 Ground-type Pokémon."
+ ],
+ "reward.34A31EDC3F43E3A3.title": "$4,000",
+ "quest.5BDBB0FBF3A09BD9.title": "Ground Master",
+ "quest.5BDBB0FBF3A09BD9.quest_desc": [
+  "Catch 60 Ground-type Pokémon."
+ ],
+ "reward.4C883E722A6AC67E.title": "$12,000",
+ "quest.422CF72899B6477C.title": "Flying Trainer",
+ "quest.422CF72899B6477C.quest_desc": [
+  "Catch 5 Flying-type Pokémon."
+ ],
+ "reward.7DECCC95EC388FA9.title": "$800",
+ "quest.7DD3AC61C9A23E23.title": "Flying Expert",
+ "quest.7DD3AC61C9A23E23.quest_desc": [
+  "Catch 25 Flying-type Pokémon."
+ ],
+ "reward.2CAFDD2FC99C6E37.title": "$4,000",
+ "quest.448EC8B26DA10911.title": "Flying Master",
+ "quest.448EC8B26DA10911.quest_desc": [
+  "Catch 60 Flying-type Pokémon."
+ ],
+ "reward.1036FE97255FDE60.title": "$12,000",
+ "quest.4194E3B068B973EF.title": "Psychic Trainer",
+ "quest.4194E3B068B973EF.quest_desc": [
+  "Catch 5 Psychic-type Pokémon."
+ ],
+ "reward.2A8BEC1010EB7598.title": "$800",
+ "quest.4AC1D8A9C8F9DD10.title": "Psychic Expert",
+ "quest.4AC1D8A9C8F9DD10.quest_desc": [
+  "Catch 25 Psychic-type Pokémon."
+ ],
+ "reward.7F5BB5BBACC392F9.title": "$4,000",
+ "quest.7BB50092FB1F4A56.title": "Psychic Master",
+ "quest.7BB50092FB1F4A56.quest_desc": [
+  "Catch 60 Psychic-type Pokémon."
+ ],
+ "reward.39D8651EA8F9AB4A.title": "$12,000",
+ "quest.4A9393ACD8F746BE.title": "Bug Trainer",
+ "quest.4A9393ACD8F746BE.quest_desc": [
+  "Catch 5 Bug-type Pokémon."
+ ],
+ "reward.440C2B181C85B416.title": "$800",
+ "quest.3BC6D3B2A9215E56.title": "Bug Expert",
+ "quest.3BC6D3B2A9215E56.quest_desc": [
+  "Catch 25 Bug-type Pokémon."
+ ],
+ "reward.7CE106043953C875.title": "$4,000",
+ "quest.2DE5386E03EE7C79.title": "Bug Master",
+ "quest.2DE5386E03EE7C79.quest_desc": [
+  "Catch 60 Bug-type Pokémon."
+ ],
+ "reward.60F4F8439E73A989.title": "$12,000",
+ "quest.116F802A385195F9.title": "Rock Trainer",
+ "quest.116F802A385195F9.quest_desc": [
+  "Catch 5 Rock-type Pokémon."
+ ],
+ "reward.218AED87FE129FF1.title": "$800",
+ "quest.1AC1DDA23BB7DF6C.title": "Rock Expert",
+ "quest.1AC1DDA23BB7DF6C.quest_desc": [
+  "Catch 25 Rock-type Pokémon."
+ ],
+ "reward.14AEE8B7F97197B8.title": "$4,000",
+ "quest.53A47B0E798E58E9.title": "Rock Master",
+ "quest.53A47B0E798E58E9.quest_desc": [
+  "Catch 60 Rock-type Pokémon."
+ ],
+ "reward.4D3C15388E1B38EA.title": "$12,000",
+ "quest.5D7CA07871A79F3E.title": "Ghost Trainer",
+ "quest.5D7CA07871A79F3E.quest_desc": [
+  "Catch 5 Ghost-type Pokémon."
+ ],
+ "reward.2B3BB560A79863EE.title": "$800",
+ "quest.2F5D2BFE0B8B167E.title": "Ghost Expert",
+ "quest.2F5D2BFE0B8B167E.quest_desc": [
+  "Catch 25 Ghost-type Pokémon."
+ ],
+ "reward.7DBA88DFB6A71DDF.title": "$4,000",
+ "quest.668CB54D321AF8E4.title": "Ghost Master",
+ "quest.668CB54D321AF8E4.quest_desc": [
+  "Catch 60 Ghost-type Pokémon."
+ ],
+ "reward.7BBEFE7EDC3A486C.title": "$12,000",
+ "quest.1B70B16D67F98A77.title": "Dragon Trainer",
+ "quest.1B70B16D67F98A77.quest_desc": [
+  "Catch 5 Dragon-type Pokémon."
+ ],
+ "reward.2258B0921A11D8BA.title": "$800",
+ "quest.3EB0A2F427CDFB8E.title": "Dragon Expert",
+ "quest.3EB0A2F427CDFB8E.quest_desc": [
+  "Catch 25 Dragon-type Pokémon."
+ ],
+ "reward.696F3BC37917E902.title": "$4,000",
+ "quest.31394EEA0844C5DC.title": "Dragon Master",
+ "quest.31394EEA0844C5DC.quest_desc": [
+  "Catch 60 Dragon-type Pokémon."
+ ],
+ "reward.13A89EB869B412ED.title": "$12,000",
+ "quest.597095D8FB350BE3.title": "Dark Trainer",
+ "quest.597095D8FB350BE3.quest_desc": [
+  "Catch 5 Dark-type Pokémon."
+ ],
+ "reward.2D5471745B11FE69.title": "$800",
+ "quest.328F4C1CE98F7127.title": "Dark Expert",
+ "quest.328F4C1CE98F7127.quest_desc": [
+  "Catch 25 Dark-type Pokémon."
+ ],
+ "reward.1BA54F2772BCE60C.title": "$4,000",
+ "quest.324189E0ABC17351.title": "Dark Master",
+ "quest.324189E0ABC17351.quest_desc": [
+  "Catch 60 Dark-type Pokémon."
+ ],
+ "reward.2406DC9351AF06CA.title": "$12,000",
+ "quest.2E12D741BF8C4EAC.title": "Steel Trainer",
+ "quest.2E12D741BF8C4EAC.quest_desc": [
+  "Catch 5 Steel-type Pokémon."
+ ],
+ "reward.60E157F815B39F4F.title": "$800",
+ "quest.287536EC3A63EF39.title": "Steel Expert",
+ "quest.287536EC3A63EF39.quest_desc": [
+  "Catch 25 Steel-type Pokémon."
+ ],
+ "reward.3C7ECFB81BFF2B48.title": "$4,000",
+ "quest.24DB25EAFB0EE653.title": "Steel Master",
+ "quest.24DB25EAFB0EE653.quest_desc": [
+  "Catch 60 Steel-type Pokémon."
+ ],
+ "reward.70D671ADA72D02A5.title": "$12,000",
+ "quest.50495A2B54EEBAA2.title": "Fairy Trainer",
+ "quest.50495A2B54EEBAA2.quest_desc": [
+  "Catch 5 Fairy-type Pokémon."
+ ],
+ "reward.3A71756374DF7D8C.title": "$800",
+ "quest.21665D0ECC19E36F.title": "Fairy Expert",
+ "quest.21665D0ECC19E36F.quest_desc": [
+  "Catch 25 Fairy-type Pokémon."
+ ],
+ "reward.3CBE16F8C49F5D8E.title": "$4,000",
+ "quest.444C241A373A68BA.title": "Fairy Master",
+ "quest.444C241A373A68BA.quest_desc": [
+  "Catch 60 Fairy-type Pokémon."
+ ],
+ "reward.1FA8482A7EFE6D6C.title": "$12,000",
+ "chapter.3EA719A88399BBDC.title": "Trainer's Road",
+ "chapter.3EA719A88399BBDC.chapter_subtitle": [
+  "Battles, catches and evolutions that add up over the whole adventure."
+ ],
+ "quest.5FDBE9484602BC64.title": "Catches: 25",
+ "quest.5FDBE9484602BC64.quest_desc": [
+  "Catch 25 Pokémon."
+ ],
+ "reward.4B6D2926B46D8FB0.title": "$1,500",
+ "quest.1B151051A62B1A61.title": "Catches: 100",
+ "quest.1B151051A62B1A61.quest_desc": [
+  "Catch 100 Pokémon."
+ ],
+ "reward.6962A8C8CF5F9B7D.title": "$6,000",
+ "quest.213344DDA9841D38.title": "Catches: 300",
+ "quest.213344DDA9841D38.quest_desc": [
+  "Catch 300 Pokémon."
+ ],
+ "reward.4F70B65760FB5EE1.title": "$18,000",
+ "quest.73C28CFE5076F9AE.title": "Catches: 1000",
+ "quest.73C28CFE5076F9AE.quest_desc": [
+  "Catch 1000 Pokémon."
+ ],
+ "reward.1A2D9C7273BAC4BE.title": "$60,000",
+ "quest.52B9042564CA3AF9.title": "Wild Battles: 50",
+ "quest.52B9042564CA3AF9.quest_desc": [
+  "Defeat 50 wild Pokémon."
+ ],
+ "reward.4A125E13A23E00B6.title": "$1,000",
+ "quest.249C1574B9164FA3.title": "Wild Battles: 250",
+ "quest.249C1574B9164FA3.quest_desc": [
+  "Defeat 250 wild Pokémon."
+ ],
+ "reward.4B1C8564F29B4857.title": "$5,000",
+ "quest.55A396094904DFF3.title": "Wild Battles: 1000",
+ "quest.55A396094904DFF3.quest_desc": [
+  "Defeat 1000 wild Pokémon."
+ ],
+ "reward.38B196B24FD3E768.title": "$15,000",
+ "quest.5D5CC965E90A2E67.title": "Wild Battles: 3000",
+ "quest.5D5CC965E90A2E67.quest_desc": [
+  "Defeat 3000 wild Pokémon."
+ ],
+ "reward.3D85E8676192DA96.title": "$40,000",
+ "quest.47D1F2AAE6027A5A.title": "Trainer Battles: 10",
+ "quest.47D1F2AAE6027A5A.quest_desc": [
+  "Win 10 battles against trainers you meet in the world."
+ ],
+ "reward.4E41556A46B6EB51.title": "$2,000",
+ "quest.4856EFEF4F4E1650.title": "Trainer Battles: 50",
+ "quest.4856EFEF4F4E1650.quest_desc": [
+  "Win 50 battles against trainers you meet in the world."
+ ],
+ "reward.1B637E6091BF3932.title": "$8,000",
+ "quest.4C30D7780BEA3E8A.title": "Trainer Battles: 150",
+ "quest.4C30D7780BEA3E8A.quest_desc": [
+  "Win 150 battles against trainers you meet in the world."
+ ],
+ "reward.2D9B417C396A47E2.title": "$20,000",
+ "quest.355663C4374C1BEA.title": "Trainer Battles: 400",
+ "quest.355663C4374C1BEA.quest_desc": [
+  "Win 400 battles against trainers you meet in the world."
+ ],
+ "reward.43EDF304C6DA37BB.title": "$50,000",
+ "quest.20FD505B661DA6CA.title": "Evolutions: 5",
+ "quest.20FD505B661DA6CA.quest_desc": [
+  "Evolve 5 Pokémon."
+ ],
+ "reward.650A5D92E888D236.title": "$1,500",
+ "quest.2B721676FC588A9E.title": "Evolutions: 25",
+ "quest.2B721676FC588A9E.quest_desc": [
+  "Evolve 25 Pokémon."
+ ],
+ "reward.3D9518B52C4A381E.title": "$6,000",
+ "quest.64B9B0D06F2E4BFA.title": "Evolutions: 75",
+ "quest.64B9B0D06F2E4BFA.quest_desc": [
+  "Evolve 75 Pokémon."
+ ],
+ "reward.3D81F36A8B671E0F.title": "$15,000",
+ "quest.4CD6D54ED38E0B60.title": "Evolutions: 200",
+ "quest.4CD6D54ED38E0B60.quest_desc": [
+  "Evolve 200 Pokémon."
+ ],
+ "reward.105A1E2AF4C04BCD.title": "$40,000",
+ "quest.2109DDB64246B508.title": "Level Ups: 100",
+ "quest.2109DDB64246B508.quest_desc": [
+  "Level up your Pokémon 100 times."
+ ],
+ "quest.7DDC4321BA39D586.title": "Level Ups: 500",
+ "quest.7DDC4321BA39D586.quest_desc": [
+  "Level up your Pokémon 500 times."
+ ],
+ "quest.14AE01862CBC18DB.title": "Level Ups: 2000",
+ "quest.14AE01862CBC18DB.quest_desc": [
+  "Level up your Pokémon 2000 times."
+ ],
+ "quest.5AB026FDFBD81E80.title": "Level Ups: 6000",
+ "quest.5AB026FDFBD81E80.quest_desc": [
+  "Level up your Pokémon 6000 times."
+ ],
+ "quest.568BD9573FF012AE.title": "Pokémon Fishing: 1",
+ "quest.568BD9573FF012AE.quest_desc": [
+  "Hook 1 Pokémon with a Poké Rod."
+ ],
+ "reward.2D0695245658F858.title": "$800",
+ "quest.3985FB4B3AFD44C5.title": "Pokémon Fishing: 25",
+ "quest.3985FB4B3AFD44C5.quest_desc": [
+  "Hook 25 Pokémon with a Poké Rod."
+ ],
+ "reward.20DA84BBF579477C.title": "$5,000",
+ "quest.3052FE4C5EDB8A15.title": "Pokémon Fishing: 100",
+ "quest.3052FE4C5EDB8A15.quest_desc": [
+  "Hook 100 Pokémon with a Poké Rod."
+ ],
+ "reward.2D3D5882FCA06974.title": "$15,000",
+ "quest.3829C7CB370E3E82.title": "Raid Victories: 1",
+ "quest.3829C7CB370E3E82.quest_desc": [
+  "Win 1 raid battles at Raid Dens."
+ ],
+ "reward.153127A68C2EE0D7.title": "$5,000",
+ "quest.662271F96FA588F7.title": "Raid Victories: 10",
+ "quest.662271F96FA588F7.quest_desc": [
+  "Win 10 raid battles at Raid Dens."
+ ],
+ "reward.5F4B65EA48D5DD17.title": "$25,000",
+ "quest.24407A27A4C5551E.title": "Raid Victories: 50",
+ "quest.24407A27A4C5551E.quest_desc": [
+  "Win 50 raid battles at Raid Dens."
+ ],
+ "reward.5037D51724A70B06.title": "$80,000",
+ "quest.1AEBEBCFC7124778.title": "Shiny Hunter: 3",
+ "quest.1AEBEBCFC7124778.quest_desc": [
+  "Catch 3 shiny Pokémon."
+ ],
+ "reward.72777E5D7E432F73.title": "$15,000",
+ "quest.23552E9D0E065D62.title": "Shiny Hunter: 10",
+ "quest.23552E9D0E065D62.quest_desc": [
+  "Catch 10 shiny Pokémon."
+ ],
+ "reward.16FB8ADFDF7E6693.title": "$50,000",
+ "quest.159EC374AFFF81B4.title": "Shiny Hunter: 25",
+ "quest.159EC374AFFF81B4.quest_desc": [
+  "Catch 25 shiny Pokémon."
+ ],
+ "reward.2785C1FED7C04A0C.title": "$150,000",
+ "quest.7BAF765D1E869A32.title": "Caught in a Love Ball",
+ "quest.7BAF765D1E869A32.quest_desc": [
+  "Catch a Pokémon with a Love Ball."
+ ],
+ "quest.4FEDC2A77E0B9A88.title": "Caught in a Moon Ball",
+ "quest.4FEDC2A77E0B9A88.quest_desc": [
+  "Catch a Pokémon with a Moon Ball."
+ ],
+ "quest.75D4377AB64336EA.title": "Caught in a Fast Ball",
+ "quest.75D4377AB64336EA.quest_desc": [
+  "Catch a Pokémon with a Fast Ball."
+ ],
+ "quest.5ABA672F399A7897.title": "Caught in a Heavy Ball",
+ "quest.5ABA672F399A7897.quest_desc": [
+  "Catch a Pokémon with a Heavy Ball."
+ ],
+ "quest.158BE1301A33A1F7.title": "Caught in a Dusk Ball",
+ "quest.158BE1301A33A1F7.quest_desc": [
+  "Catch a Pokémon with a Dusk Ball."
+ ],
+ "quest.5F394A99B3BB7053.title": "Caught in a Net Ball",
+ "quest.5F394A99B3BB7053.quest_desc": [
+  "Catch a Pokémon with a Net Ball."
+ ],
+ "quest.1CB228AC5F87CC9F.title": "Caught in a Quick Ball",
+ "quest.1CB228AC5F87CC9F.quest_desc": [
+  "Catch a Pokémon with a Quick Ball."
+ ],
+ "quest.257FBFA357F29FEF.title": "Caught in a Luxury Ball",
+ "quest.257FBFA357F29FEF.quest_desc": [
+  "Catch a Pokémon with a Luxury Ball."
+ ],
+ "chapter.42D850A8C9B8379B.title": "Breeding Lab",
+ "chapter.42D850A8C9B8379B.chapter_subtitle": [
+  "Eggs, natures and the perfect partner. Breeding gear is in every shop from day one."
+ ],
+ "quest.41C41BF9D8885A23.title": "The Universal Partner",
+ "quest.41C41BF9D8885A23.quest_desc": [
+  "Catch a Ditto: it breeds with almost anything."
+ ],
+ "reward.5A08D7F1220100D5.title": "$3,000",
+ "quest.14BC5458D4137167.title": "A Breeding Pen",
+ "quest.14BC5458D4137167.quest_desc": [
+  "Build a Pasture block and keep two compatible Pokémon in it."
+ ],
+ "reward.197877BB5D11C5D1.title": "$800",
+ "quest.6305936C49C769C6.title": "Eggs: 5",
+ "quest.6305936C49C769C6.quest_desc": [
+  "Collect 5 eggs."
+ ],
+ "reward.7050648CFD72B459.title": "$1,500",
+ "quest.66CBA99B0B640AE4.title": "Eggs: 25",
+ "quest.66CBA99B0B640AE4.quest_desc": [
+  "Collect 25 eggs."
+ ],
+ "reward.4A715D9B90D6C673.title": "$6,000",
+ "quest.59405719EA33BF88.title": "Eggs: 100",
+ "quest.59405719EA33BF88.quest_desc": [
+  "Collect 100 eggs."
+ ],
+ "reward.66AC4A6CEC46B97E.title": "$15,000",
+ "quest.67EE99B8AA2FA3A3.title": "Eggs: 300",
+ "quest.67EE99B8AA2FA3A3.quest_desc": [
+  "Collect 300 eggs."
+ ],
+ "reward.6CF011239F857E6C.title": "$40,000",
+ "quest.58F731339A50085B.title": "Hatched: 5",
+ "quest.58F731339A50085B.quest_desc": [
+  "Hatch 5 eggs."
+ ],
+ "reward.676F4225B4703C5C.title": "$1,500",
+ "quest.3E276E522B989592.title": "Hatched: 25",
+ "quest.3E276E522B989592.quest_desc": [
+  "Hatch 25 eggs."
+ ],
+ "reward.6CDE363B170A7693.title": "$6,000",
+ "quest.3D46F65CFD40E250.title": "Hatched: 100",
+ "quest.3D46F65CFD40E250.quest_desc": [
+  "Hatch 100 eggs."
+ ],
+ "reward.24B0C74F55D53DCA.title": "$15,000",
+ "quest.411BE8392D990EA2.title": "Hatched: 300",
+ "quest.411BE8392D990EA2.quest_desc": [
+  "Hatch 300 eggs."
+ ],
+ "reward.10FD7A80889943A5.title": "$40,000",
+ "quest.1B438D9284E0D697.title": "Masuda's Luck",
+ "quest.1B438D9284E0D697.quest_desc": [
+  "Hatch a shiny Pokémon."
+ ],
+ "reward.4FB0C2B6F54147DB.title": "$30,000",
+ "quest.260F193514A7CA8A.title": "Born Adamant",
+ "quest.260F193514A7CA8A.quest_desc": [
+  "Hatch a Pokémon with a Adamant nature (an Everstone passes the parent's nature)."
+ ],
+ "quest.3CCA9ADC01D1B06B.title": "Born Jolly",
+ "quest.3CCA9ADC01D1B06B.quest_desc": [
+  "Hatch a Pokémon with a Jolly nature (an Everstone passes the parent's nature)."
+ ],
+ "quest.38447840B03DFA4B.title": "Born Modest",
+ "quest.38447840B03DFA4B.quest_desc": [
+  "Hatch a Pokémon with a Modest nature (an Everstone passes the parent's nature)."
+ ],
+ "quest.63A81EE5733AD3F6.title": "Born Timid",
+ "quest.63A81EE5733AD3F6.quest_desc": [
+  "Hatch a Pokémon with a Timid nature (an Everstone passes the parent's nature)."
+ ],
+ "quest.443AC867A931974A.title": "Born Bold",
+ "quest.443AC867A931974A.quest_desc": [
+  "Hatch a Pokémon with a Bold nature (an Everstone passes the parent's nature)."
+ ],
+ "quest.1902B7CFEE14ED05.title": "Born Calm",
+ "quest.1902B7CFEE14ED05.quest_desc": [
+  "Hatch a Pokémon with a Calm nature (an Everstone passes the parent's nature)."
+ ],
+ "quest.45F0CE86ACD9CFB6.title": "Destiny Knot",
+ "quest.45F0CE86ACD9CFB6.quest_desc": [
+  "Own a Destiny Knot: passes five IVs from the parents."
+ ],
+ "reward.519092B876E351DC.title": "$1,000",
+ "quest.30B72F4BE1FD62E4.title": "Everstone",
+ "quest.30B72F4BE1FD62E4.quest_desc": [
+  "Own a Everstone: passes the nature."
+ ],
+ "reward.7BF1A7CFDAEDB54F.title": "$1,000",
+ "quest.1002A1B1F9BE2FE5.title": "Ability Capsule",
+ "quest.1002A1B1F9BE2FE5.quest_desc": [
+  "Own a Ability Capsule: switches the ability."
+ ],
+ "reward.39D10D44321D0E1E.title": "$1,000",
+ "chapter.641968C9391FEFF2.title": "Pokédex",
+ "chapter.641968C9391FEFF2.chapter_subtitle": [
+  "Register every Pokémon there is."
+ ],
+ "quest.1B0B6C25B3961EB6.title": "Pokédex: 50",
+ "quest.1B0B6C25B3961EB6.quest_desc": [
+  "Register 50 Pokémon as caught."
+ ],
+ "reward.699A5AB03CD62BAD.title": "$3,000",
+ "quest.1A8D1E8F52FF7631.title": "Pokédex: 150",
+ "quest.1A8D1E8F52FF7631.quest_desc": [
+  "Register 150 Pokémon as caught."
+ ],
+ "reward.6220FED882545F6F.title": "$9,000",
+ "quest.4B4A0010C2C9BA0B.title": "Pokédex: 300",
+ "quest.4B4A0010C2C9BA0B.quest_desc": [
+  "Register 300 Pokémon as caught."
+ ],
+ "reward.338B960AEA169B4E.title": "$18,000",
+ "quest.71C204D712B89072.title": "Pokédex: 450",
+ "quest.71C204D712B89072.quest_desc": [
+  "Register 450 Pokémon as caught."
+ ],
+ "reward.424437DFD91EA680.title": "$27,000",
+ "quest.400D6FFB456875FF.title": "Pokédex: 600",
+ "quest.400D6FFB456875FF.quest_desc": [
+  "Register 600 Pokémon as caught."
+ ],
+ "reward.663198C83A6ED6A5.title": "$36,000",
+ "quest.692A557A0D92B9CE.title": "Pokédex: 750",
+ "quest.692A557A0D92B9CE.quest_desc": [
+  "Register 750 Pokémon as caught."
+ ],
+ "reward.70FA1AD7B18D3768.title": "$45,000",
+ "quest.6C2C0771A2F651EB.title": "Pokédex: 900",
+ "quest.6C2C0771A2F651EB.quest_desc": [
+  "Register 900 Pokémon as caught."
+ ],
+ "reward.7760F038742A5FC7.title": "$54,000",
+ "quest.62A34575A29EA67C.title": "Pokédex: 1025",
+ "quest.62A34575A29EA67C.quest_desc": [
+  "Register 1025 Pokémon as caught."
+ ],
+ "reward.5DC31CC22D2ECFEA.title": "$61,500",
+ "quest.45C24CAC3ECA1C68.title": "Kanto Starters",
+ "quest.45C24CAC3ECA1C68.quest_desc": [
+  "Register all three Kanto starters (breeding helps)."
+ ],
+ "reward.560227182225A8F4.title": "$5,000",
+ "quest.67A140DC8FABC52D.title": "Johto Starters",
+ "quest.67A140DC8FABC52D.quest_desc": [
+  "Register all three Johto starters (breeding helps)."
+ ],
+ "reward.72647A35D99D45C6.title": "$5,000",
+ "quest.4C4C882E9C8890CB.title": "Hoenn Starters",
+ "quest.4C4C882E9C8890CB.quest_desc": [
+  "Register all three Hoenn starters (breeding helps)."
+ ],
+ "reward.550BE684CF2779E4.title": "$5,000",
+ "quest.166CA8A6141C2301.title": "Sinnoh Starters",
+ "quest.166CA8A6141C2301.quest_desc": [
+  "Register all three Sinnoh starters (breeding helps)."
+ ],
+ "reward.407066BB088D2B03.title": "$5,000",
+ "quest.2C170C9D6A10AC16.title": "Unova Starters",
+ "quest.2C170C9D6A10AC16.quest_desc": [
+  "Register all three Unova starters (breeding helps)."
+ ],
+ "reward.2D8D8D879FEB6C26.title": "$5,000",
+ "quest.33C9990E2756D11B.title": "Kalos Starters",
+ "quest.33C9990E2756D11B.quest_desc": [
+  "Register all three Kalos starters (breeding helps)."
+ ],
+ "reward.3B3ED2073882AE28.title": "$5,000",
+ "quest.1BB46636480F5B72.title": "Alola Starters",
+ "quest.1BB46636480F5B72.quest_desc": [
+  "Register all three Alola starters (breeding helps)."
+ ],
+ "reward.5ABEB87E34D2B74C.title": "$5,000",
+ "quest.579C5EC1709AAF03.title": "Galar Starters",
+ "quest.579C5EC1709AAF03.quest_desc": [
+  "Register all three Galar starters (breeding helps)."
+ ],
+ "reward.30E8C176FB358B49.title": "$5,000",
+ "quest.12704E8831365B77.title": "Paldea Starters",
+ "quest.12704E8831365B77.quest_desc": [
+  "Register all three Paldea starters (breeding helps)."
+ ],
+ "reward.231E927C377090E4.title": "$5,000",
+ "quest.48C119FB7B795C21.title": "Eeveelutions",
+ "quest.48C119FB7B795C21.quest_desc": [
+  "Register all eight evolutions of Eevee."
+ ],
+ "reward.32E247C80CBBB589.title": "$20,000",
+ "chapter.4E20CDE1FA023F62.title": "Engineering",
+ "chapter.4E20CDE1FA023F62.chapter_subtitle": [
+  "Create beyond the basics: trains, logistics, contraptions and the factory floor."
+ ],
+ "quest.52819E90DE52378E.title": "Engineer's Goggles",
+ "quest.52819E90DE52378E.quest_desc": [
+  "See stress and speed."
+ ],
+ "reward.24F175E47116A1F7.title": "$1,600",
+ "quest.43097513DDEE0B05.title": "Power Routing",
+ "quest.43097513DDEE0B05.quest_desc": [
+  "Gearboxes, clutches and chain drives route your rotation."
+ ],
+ "reward.4F7FE5E268335E15.title": "$2,600",
+ "quest.4E20158FB6AA0E0C.title": "Speed Control",
+ "quest.4E20158FB6AA0E0C.quest_desc": [
+  "A Rotation Speed Controller and a Sequenced Gearshift."
+ ],
+ "reward.2A29C43B6F492DDA.title": "$2,800",
+ "quest.5988B2296BF6D03D.title": "Crushing Wheels",
+ "quest.5988B2296BF6D03D.quest_desc": [
+  "Ore doubling: a pair of Crushing Wheels."
+ ],
+ "reward.1E1D2C322B973741.title": "$2,400",
+ "quest.6A5AA02494340D85.title": "Deployers",
+ "quest.6A5AA02494340D85.quest_desc": [
+  "A Deployer uses items like a player."
+ ],
+ "reward.1DB582D4002D575B.title": "$2,400",
+ "quest.18D984303FE04A4B.title": "Fluids",
+ "quest.18D984303FE04A4B.quest_desc": [
+  "Pipes, a Mechanical Pump, a Spout and an Item Drain."
+ ],
+ "reward.674E357518E47650.title": "$3,000",
+ "quest.7D705401E05F11C7.title": "Bulk Storage",
+ "quest.7D705401E05F11C7.quest_desc": [
+  "An Item Vault and Smart Chutes."
+ ],
+ "reward.3B1C0B003FF5B9E0.title": "$2,200",
+ "quest.31F8B64ED9BD0D68.title": "Tree Farm",
+ "quest.31F8B64ED9BD0D68.quest_desc": [
+  "A Mechanical Saw on a bearing or a train fells trees for you."
+ ],
+ "reward.264D7C3AB3541026.title": "$3,400",
+ "quest.31100B90ECCB89AA.title": "Mining Machine",
+ "quest.31100B90ECCB89AA.quest_desc": [
+  "A drill on a contraption: mine without lifting a pickaxe."
+ ],
+ "reward.6D2580C04CC6B680.title": "$3,400",
+ "quest.7171A2CD90646723.title": "Field Machine",
+ "quest.7171A2CD90646723.quest_desc": [
+  "Mechanical Harvesters and Ploughs farm whole fields."
+ ],
+ "reward.6DFE83909493FCA0.title": "$3,400",
+ "quest.709EFF1E6DD235A2.title": "Windmill",
+ "quest.709EFF1E6DD235A2.quest_desc": [
+  "A Windmill Bearing with sails: power anywhere."
+ ],
+ "reward.6C03695E49138BE3.title": "$1,800",
+ "quest.50D96E6B1990048C.title": "Wireless",
+ "quest.50D96E6B1990048C.quest_desc": [
+  "Redstone Links and a Linked Controller."
+ ],
+ "reward.1FAE936900192A19.title": "$3,400",
+ "quest.6D3707815EBF96AA.title": "Display Boards",
+ "quest.6D3707815EBF96AA.quest_desc": [
+  "Show stock and status on Display Boards."
+ ],
+ "reward.7FB95F4E87265677.title": "$3,600",
+ "quest.4C53AEF6424A4648.title": "Logistics",
+ "quest.4C53AEF6424A4648.quest_desc": [
+  "Create's logistics: a Packager, a Stock Link and a Frogport."
+ ],
+ "reward.71317C3095A9AE7C.title": "$3,200",
+ "quest.34355AE4A8A8C896.title": "Stock Keeper",
+ "quest.34355AE4A8A8C896.quest_desc": [
+  "A Stock Ticker lets you order anything from your network."
+ ],
+ "reward.54F44C5124482DEA.title": "$3,000",
+ "quest.75658E2EBF0C84A8.title": "First Railway",
+ "quest.75658E2EBF0C84A8.quest_desc": [
+  "Lay 64 Train Tracks and build a Train Station."
+ ],
+ "reward.285B74E81C867F58.title": "$4,000",
+ "quest.7411AB09A21F34E5.title": "All Aboard",
+ "quest.7411AB09A21F34E5.quest_desc": [
+  "Build a train with Train Controls and give it a Schedule. Tick once it runs a route."
+ ],
+ "reward.2D950DC1E91B5447.title": "$4,600",
+ "quest.744E3B10FA6C6587.title": "Diving Gear",
+ "quest.744E3B10FA6C6587.quest_desc": [
+  "A Copper Backtank and an Extendo Grip."
+ ],
+ "reward.62571383BD808A62.title": "$2,800",
+ "quest.357F5CFBD91DAF47.title": "Netherite Backtank",
+ "quest.357F5CFBD91DAF47.quest_desc": [
+  "The fire-proof backtank for the Nether."
+ ],
+ "reward.22BB3958B32467AD.title": "$3,000",
+ "quest.407EA49998DC4797.title": "Potato Cannon",
+ "quest.407EA49998DC4797.quest_desc": [
+  "Create's own cannon. Not just for potatoes."
+ ],
+ "reward.38412A4C955E8248.title": "$3,000",
+ "quest.2915882E194EDCC2.title": "Blueprints",
+ "quest.2915882E194EDCC2.quest_desc": [
+  "A Schematicannon builds anything from a schematic."
+ ],
+ "reward.1DCFF281F3A6E38C.title": "$4,200",
+ "quest.2721DADDFAC02A4E.title": "Elevator",
+ "quest.2721DADDFAC02A4E.quest_desc": [
+  "An Elevator Pulley for your tower."
+ ],
+ "reward.16E64EAE7A3EBAF5.title": "$3,600",
+ "quest.3E38CBC9874CBB9C.title": "Launchers",
+ "quest.3E38CBC9874CBB9C.quest_desc": [
+  "Weighted Ejectors throw items across your base."
+ ],
+ "reward.237FEFECAFA0F542.title": "$2,400",
+ "quest.292635A73C49FF19.title": "Enchanting Industry",
+ "quest.292635A73C49FF19.quest_desc": [
+  "Create: Enchantment Industry: a Blaze Enchanter and a Printer."
+ ],
+ "reward.24A6833FD2958123.title": "$2,800",
+ "quest.3EEC62A809671A71.title": "Blaze Forger",
+ "quest.3EEC62A809671A71.quest_desc": [
+  "The Blaze Forger tempers your gear with fire."
+ ],
+ "reward.63ADAA56765C5267.title": "$3,000",
+ "quest.42412E682932DE06.title": "Mechanical Grindstone",
+ "quest.42412E682932DE06.quest_desc": [
+  "Strip enchantments into liquid experience."
+ ],
+ "reward.687779FCCC40CC68.title": "$3,000",
+ "chapter.1ACD9E6E157ACDD6.title": "Kitchen and Garden",
+ "chapter.1ACD9E6E157ACDD6.chapter_subtitle": [
+  "Grow, cook and fish: a well-fed trainer travels further."
+ ],
+ "quest.199277FDBEBB2519.title": "Rice",
+ "quest.199277FDBEBB2519.quest_desc": [
+  "Harvest 32 rice."
+ ],
+ "reward.5D3E5625CBD067DA.title": "$250",
+ "quest.5E1009F579811744.title": "Onion",
+ "quest.5E1009F579811744.quest_desc": [
+  "Harvest 32 onion."
+ ],
+ "reward.1E2C45E6A47B1ABA.title": "$250",
+ "quest.3567910612B77A67.title": "Tomato",
+ "quest.3567910612B77A67.quest_desc": [
+  "Harvest 32 tomato."
+ ],
+ "reward.527392C2D3CC0B3E.title": "$250",
+ "quest.1CAF56AA73700374.title": "Cabbage",
+ "quest.1CAF56AA73700374.quest_desc": [
+  "Harvest 32 cabbage."
+ ],
+ "reward.1705895EB97B1213.title": "$250",
+ "quest.51DBA8AA87D6CD5F.title": "Corn",
+ "quest.51DBA8AA87D6CD5F.quest_desc": [
+  "Harvest 32 corn."
+ ],
+ "reward.137EC8DB27E291F9.title": "$250",
+ "quest.60756A95974BAC54.title": "Strawberry",
+ "quest.60756A95974BAC54.quest_desc": [
+  "Harvest 32 strawberry."
+ ],
+ "reward.2CF554C9EF8922AF.title": "$250",
+ "quest.1B448F03C9DA6324.title": "Pineapple",
+ "quest.1B448F03C9DA6324.quest_desc": [
+  "Harvest 16 pineapple."
+ ],
+ "reward.1DFDCDC8971F6D05.title": "$250",
+ "quest.22E71ADEC08FAB70.title": "Coffee",
+ "quest.22E71ADEC08FAB70.quest_desc": [
+  "Harvest 32 coffee."
+ ],
+ "reward.28D0CBC1D1CB79BF.title": "$250",
+ "quest.69FF14AF8D9A1D64.title": "Tea",
+ "quest.69FF14AF8D9A1D64.quest_desc": [
+  "Harvest 32 tea."
+ ],
+ "reward.1D4C8836A726800B.title": "$250",
+ "quest.36EF8A620890ADF2.title": "Banana",
+ "quest.36EF8A620890ADF2.quest_desc": [
+  "Harvest 16 banana."
+ ],
+ "reward.5AEE748D1D51E072.title": "$250",
+ "quest.718E9584EB95152B.title": "Mango",
+ "quest.718E9584EB95152B.quest_desc": [
+  "Harvest 16 mango."
+ ],
+ "reward.5F12D88D7DE108A2.title": "$250",
+ "quest.235F86BD9630EA03.title": "Vanilla",
+ "quest.235F86BD9630EA03.quest_desc": [
+  "Harvest 16 vanilla."
+ ],
+ "reward.424E8CE04D9CEE9B.title": "$250",
+ "quest.537479AA65018E7E.title": "Mixed Salad",
+ "quest.537479AA65018E7E.quest_desc": [
+  "Cook it."
+ ],
+ "reward.7EA326ECDE1E226E.title": "$400",
+ "quest.2C54EB9B1D93D334.title": "Dumplings",
+ "quest.2C54EB9B1D93D334.quest_desc": [
+  "Cook it."
+ ],
+ "reward.34839F6A69060CA9.title": "$400",
+ "quest.140CCB337CC210CD.title": "Fish Stew",
+ "quest.140CCB337CC210CD.quest_desc": [
+  "Cook it."
+ ],
+ "reward.35AB41368BBAFDD4.title": "$400",
+ "quest.106AEA0618E8C424.title": "Pasta With Meatballs",
+ "quest.106AEA0618E8C424.quest_desc": [
+  "Cook it."
+ ],
+ "reward.579128E8A500A101.title": "$400",
+ "quest.217517FDEA7717C3.title": "Steak And Potatoes",
+ "quest.217517FDEA7717C3.quest_desc": [
+  "Cook it."
+ ],
+ "reward.424487C078644BB0.title": "$400",
+ "quest.3AAB8FFAF2486C76.title": "Pizza",
+ "quest.3AAB8FFAF2486C76.quest_desc": [
+  "Cook it."
+ ],
+ "reward.1A13FBEE966F7A95.title": "$400",
+ "quest.1E313A57DEDF159F.title": "Sushi",
+ "quest.1E313A57DEDF159F.quest_desc": [
+  "Cook it."
+ ],
+ "reward.17E22C362A5F523E.title": "$400",
+ "quest.20FEF1242879E257.title": "Cheese",
+ "quest.20FEF1242879E257.quest_desc": [
+  "Cook it."
+ ],
+ "reward.31C8D9AB87C4822B.title": "$400",
+ "quest.487C7D607D8C5C08.title": "Roast Chicken Feast",
+ "quest.487C7D607D8C5C08.quest_desc": [
+  "Cook a whole feast block."
+ ],
+ "reward.724F19128B92B6EC.title": "$1,500",
+ "quest.6A2745FE9F55CD09.title": "Stuffed Pumpkin Feast",
+ "quest.6A2745FE9F55CD09.quest_desc": [
+  "Cook a whole feast block."
+ ],
+ "reward.6269C25119BAD7B8.title": "$1,500",
+ "quest.7B23FBC0DF24EAB7.title": "Honey Glazed Ham Feast",
+ "quest.7B23FBC0DF24EAB7.quest_desc": [
+  "Cook a whole feast block."
+ ],
+ "reward.6ABA51A7B37ECDB9.title": "$1,500",
+ "quest.505105D74ADEBC43.title": "Shepherds Pie Feast",
+ "quest.505105D74ADEBC43.quest_desc": [
+  "Cook a whole feast block."
+ ],
+ "reward.36BB5B19D9EB13D4.title": "$1,500",
+ "quest.27D1C068532200BD.title": "Apricorn Orchard",
+ "quest.27D1C068532200BD.quest_desc": [
+  "Grow all seven colours of apricorn: the raw material for every kind of ball."
+ ],
+ "reward.58A088C9D8DF6113.title": "$3,000",
+ "quest.5AF5F8EF51205E01.title": "Berry Farmer",
+ "quest.5AF5F8EF51205E01.quest_desc": [
+  "Grow six kinds of berries for your team."
+ ],
+ "reward.659E00BA857E776E.title": "$3,000",
+ "quest.3F4EEC776989A755.title": "Medicine Garden",
+ "quest.3F4EEC776989A755.quest_desc": [
+  "Grow Revival Herbs, Medicinal Leeks and Big Roots."
+ ],
+ "reward.1F28D2E5BE740F3E.title": "$2,000",
+ "quest.3B88DC548AD0DB54.title": "Atlantic Cod",
+ "quest.3B88DC548AD0DB54.quest_desc": [
+  "Catch a atlantic cod (Aquaculture)."
+ ],
+ "reward.5B07B47A493951CE.title": "$300",
+ "quest.296022E1518D9923.title": "Pacific Halibut",
+ "quest.296022E1518D9923.quest_desc": [
+  "Catch a pacific halibut (Aquaculture)."
+ ],
+ "reward.47E12166166B831C.title": "$300",
+ "quest.5D6439424948A50D.title": "Tuna",
+ "quest.5D6439424948A50D.quest_desc": [
+  "Catch a tuna (Aquaculture)."
+ ],
+ "reward.1141C486A0A385DB.title": "$300",
+ "quest.4247E7B7DEDAAB30.title": "Catfish",
+ "quest.4247E7B7DEDAAB30.quest_desc": [
+  "Catch a catfish (Aquaculture)."
+ ],
+ "reward.7F8D952C77C6F4AD.title": "$300",
+ "quest.3A837C059C6FAE8A.title": "Bluegill",
+ "quest.3A837C059C6FAE8A.quest_desc": [
+  "Catch a bluegill (Aquaculture)."
+ ],
+ "reward.1FE549BBA1AB0615.title": "$300",
+ "quest.3C7E1D59D83B08DE.title": "Arapaima",
+ "quest.3C7E1D59D83B08DE.quest_desc": [
+  "Catch a arapaima (Aquaculture)."
+ ],
+ "reward.288B2CE6F2E21E0F.title": "$300",
+ "quest.415DD5B3B96E8231.title": "Piranha",
+ "quest.415DD5B3B96E8231.quest_desc": [
+  "Catch a piranha (Aquaculture)."
+ ],
+ "reward.56FDF79090A0A6AD.title": "$300",
+ "quest.7AD9D545A7E4E378.title": "Goldfish",
+ "quest.7AD9D545A7E4E378.quest_desc": [
+  "Catch a goldfish (Aquaculture)."
+ ],
+ "reward.3E38F37AE7C08127.title": "$300",
+ "quest.2E7E58A4B52EF8EB.title": "Jellyfish",
+ "quest.2E7E58A4B52EF8EB.quest_desc": [
+  "Catch a jellyfish (Aquaculture)."
+ ],
+ "reward.218B77FE3707E902.title": "$300",
+ "quest.1AB87F716CCFF4DF.title": "Turtle Collector",
+ "quest.1AB87F716CCFF4DF.quest_desc": [
+  "Fish up a Box Turtle, an Arrau Turtle and a Starshell Turtle."
+ ],
+ "reward.131C7755664D95E1.title": "$2,500",
+ "chapter.78CB8E5DBD02574E.title": "Wanderer",
+ "chapter.78CB8E5DBD02574E.chapter_subtitle": [
+  "See the world: rare biomes, lost structures and the toughest bosses."
+ ],
+ "quest.2EFC7852CA925C20.title": "Cherry Grove",
+ "quest.2EFC7852CA925C20.quest_desc": [
+  "Visit the Cherry Grove."
+ ],
+ "reward.38B39E9107F2ECEA.title": "$500",
+ "quest.7C497AD607B53F7A.title": "Mushroom Fields",
+ "quest.7C497AD607B53F7A.quest_desc": [
+  "Visit the Mushroom Fields."
+ ],
+ "reward.664930292ECB69A5.title": "$500",
+ "quest.4F9766877527403A.title": "Ice Spikes",
+ "quest.4F9766877527403A.quest_desc": [
+  "Visit the Ice Spikes."
+ ],
+ "reward.5294F046B644DAF6.title": "$500",
+ "quest.2E11472C4EC6770A.title": "Badlands",
+ "quest.2E11472C4EC6770A.quest_desc": [
+  "Visit the Badlands."
+ ],
+ "reward.3F05FC3F19E8DCC9.title": "$500",
+ "quest.13EC7C22410F3CA3.title": "Jungle",
+ "quest.13EC7C22410F3CA3.quest_desc": [
+  "Visit the Jungle."
+ ],
+ "reward.4D3D5CBDA2AC2093.title": "$500",
+ "quest.32CF835F82553EB7.title": "The Deep Dark",
+ "quest.32CF835F82553EB7.quest_desc": [
+  "Visit the The Deep Dark."
+ ],
+ "reward.63BB64475A150D06.title": "$500",
+ "quest.4B5B619C7FC1147C.title": "Lush Caves",
+ "quest.4B5B619C7FC1147C.quest_desc": [
+  "Visit the Lush Caves."
+ ],
+ "reward.2559EC9CB4E8EDD2.title": "$500",
+ "quest.4A03D49592EDBFDD.title": "Dripstone Caves",
+ "quest.4A03D49592EDBFDD.quest_desc": [
+  "Visit the Dripstone Caves."
+ ],
+ "reward.1F2A61B64A562A79.title": "$500",
+ "quest.1676270B38EB0EC4.title": "Mangrove Swamp",
+ "quest.1676270B38EB0EC4.quest_desc": [
+  "Visit the Mangrove Swamp."
+ ],
+ "reward.341774A9B85FD135.title": "$500",
+ "quest.72095BCADD09B2B2.title": "Coral Reef",
+ "quest.72095BCADD09B2B2.quest_desc": [
+  "Visit the Coral Reef."
+ ],
+ "reward.1AD2257767A0DF2C.title": "$500",
+ "quest.661658B455F6616A.title": "Flower Forest",
+ "quest.661658B455F6616A.quest_desc": [
+  "Visit the Flower Forest."
+ ],
+ "reward.6451AA459DE0CE62.title": "$500",
+ "quest.4A5B87721B3D4818.title": "Jagged Peaks",
+ "quest.4A5B87721B3D4818.quest_desc": [
+  "Visit the Jagged Peaks."
+ ],
+ "reward.5F5195DD55945289.title": "$500",
+ "quest.7F5D197CDAF00CBC.title": "Crimson Forest",
+ "quest.7F5D197CDAF00CBC.quest_desc": [
+  "Visit the Crimson Forest."
+ ],
+ "reward.7FB69852A6E63D75.title": "$500",
+ "quest.707E371A90DA78AC.title": "Warped Forest",
+ "quest.707E371A90DA78AC.quest_desc": [
+  "Visit the Warped Forest."
+ ],
+ "reward.3083CDC726B39F1B.title": "$500",
+ "quest.47ADBAE58A7B2E25.title": "Soul Sand Valley",
+ "quest.47ADBAE58A7B2E25.quest_desc": [
+  "Visit the Soul Sand Valley."
+ ],
+ "reward.5DD36833982228C3.title": "$500",
+ "quest.103DE44BAF7DD155.title": "Basalt Deltas",
+ "quest.103DE44BAF7DD155.quest_desc": [
+  "Visit the Basalt Deltas."
+ ],
+ "reward.7C47C40DCFD0FF21.title": "$500",
+ "quest.248A0E873C124B33.title": "A Village",
+ "quest.248A0E873C124B33.quest_desc": [
+  "Find A Village."
+ ],
+ "reward.7227C9F0F39E81ED.title": "$1,500",
+ "quest.54DA38DD6A3752E7.title": "Ancient City",
+ "quest.54DA38DD6A3752E7.quest_desc": [
+  "Find the Ancient City."
+ ],
+ "reward.2B63E9714C615F35.title": "$1,500",
+ "quest.41C71B0ADB56EE5B.title": "Trial Chambers",
+ "quest.41C71B0ADB56EE5B.quest_desc": [
+  "Find the Trial Chambers."
+ ],
+ "reward.417AC6A9E2D87BF0.title": "$1,500",
+ "quest.49F4361810D36F16.title": "Ocean Monument",
+ "quest.49F4361810D36F16.quest_desc": [
+  "Find the Ocean Monument."
+ ],
+ "reward.3614322A6C207D02.title": "$1,500",
+ "quest.66A3FB9FC1836EB8.title": "Woodland Mansion",
+ "quest.66A3FB9FC1836EB8.quest_desc": [
+  "Find the Woodland Mansion."
+ ],
+ "reward.1F4D40417E3B48D4.title": "$1,500",
+ "quest.73C5B1C42B9EBF26.title": "Stronghold",
+ "quest.73C5B1C42B9EBF26.quest_desc": [
+  "Find the Stronghold."
+ ],
+ "reward.64FFAFC310FFA163.title": "$1,500",
+ "quest.2467782AAA224946.title": "Nether Fortress",
+ "quest.2467782AAA224946.quest_desc": [
+  "Find the Nether Fortress."
+ ],
+ "reward.18D73AF1CC078772.title": "$1,500",
+ "quest.70C4F6EF26FED7C2.title": "Bastion Remnant",
+ "quest.70C4F6EF26FED7C2.quest_desc": [
+  "Find the Bastion Remnant."
+ ],
+ "reward.30B4A3AF5D8EB392.title": "$1,500",
+ "quest.18268E78784E056D.title": "End City",
+ "quest.18268E78784E056D.quest_desc": [
+  "Find the End City."
+ ],
+ "reward.7C3904EC79289604.title": "$1,500",
+ "quest.1D90AD2DEAC943C5.title": "Desert Pyramid",
+ "quest.1D90AD2DEAC943C5.quest_desc": [
+  "Find the Desert Pyramid."
+ ],
+ "reward.66763553ED4863AE.title": "$1,500",
+ "quest.65AD1D815D8FD480.title": "Jungle Temple",
+ "quest.65AD1D815D8FD480.quest_desc": [
+  "Find the Jungle Temple."
+ ],
+ "reward.1F1C8EE043236B96.title": "$1,500",
+ "quest.584DD12D4A0B6EDA.title": "Igloo",
+ "quest.584DD12D4A0B6EDA.quest_desc": [
+  "Find the Igloo."
+ ],
+ "reward.5127995F146F3142.title": "$1,500",
+ "quest.7EC5D489425F4882.title": "Elder Guardian",
+ "quest.7EC5D489425F4882.quest_desc": [
+  "Defeat Elder Guardian."
+ ],
+ "reward.584F09805BAE1867.title": "$8,000",
+ "quest.3464FAD73E97ECA9.title": "The Warden",
+ "quest.3464FAD73E97ECA9.quest_desc": [
+  "Defeat The Warden."
+ ],
+ "reward.753960D03C7FCB02.title": "$20,000",
+ "quest.3F36892991E6C24B.title": "The Wither",
+ "quest.3F36892991E6C24B.quest_desc": [
+  "Defeat The Wither."
+ ],
+ "reward.10460747A81DC415.title": "$25,000"
+}

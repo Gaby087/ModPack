@@ -1,0 +1,84 @@
+{
+ "name": "Skier Roxanne",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "weavile",
+   "level": 79,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "iceshard",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "froslass",
+   "level": 79,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "spikes",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "glaceon",
+   "level": 79,
+   "nature": "modest",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "freezedry",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "icebody"
+  }
+ ]
+}

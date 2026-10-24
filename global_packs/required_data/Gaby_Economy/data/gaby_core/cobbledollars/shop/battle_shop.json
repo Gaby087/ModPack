@@ -1,0 +1,271 @@
+[
+ {
+  "name": "Held Items",
+  "offers": [
+   {
+    "item": "cobblemon:leftovers",
+    "price": "15000"
+   },
+   {
+    "item": "cobblemon:life_orb",
+    "price": "20000"
+   },
+   {
+    "item": "cobblemon:choice_band",
+    "price": "20000"
+   },
+   {
+    "item": "cobblemon:choice_scarf",
+    "price": "20000"
+   },
+   {
+    "item": "cobblemon:choice_specs",
+    "price": "20000"
+   },
+   {
+    "item": "cobblemon:focus_sash",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:assault_vest",
+    "price": "15000"
+   },
+   {
+    "item": "cobblemon:rocky_helmet",
+    "price": "12000"
+   },
+   {
+    "item": "cobblemon:eviolite",
+    "price": "15000"
+   },
+   {
+    "item": "cobblemon:expert_belt",
+    "price": "12000"
+   },
+   {
+    "item": "cobblemon:muscle_band",
+    "price": "8000"
+   },
+   {
+    "item": "cobblemon:wise_glasses",
+    "price": "8000"
+   },
+   {
+    "item": "cobblemon:scope_lens",
+    "price": "8000"
+   },
+   {
+    "item": "cobblemon:razor_claw",
+    "price": "8000"
+   },
+   {
+    "item": "cobblemon:light_clay",
+    "price": "8000"
+   },
+   {
+    "item": "cobblemon:heavy_duty_boots",
+    "price": "12000"
+   },
+   {
+    "item": "cobblemon:weakness_policy",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:air_balloon",
+    "price": "6000"
+   },
+   {
+    "item": "cobblemon:lum_berry",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:sitrus_berry",
+    "price": "2000"
+   }
+  ]
+ },
+ {
+  "name": "Breeding",
+  "offers": [
+   {
+    "item": "cobblemon:destiny_knot",
+    "price": "30000"
+   },
+   {
+    "item": "cobblemon:power_anklet",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_band",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_belt",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_bracer",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_lens",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_weight",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:lucky_egg",
+    "price": "30000"
+   },
+   {
+    "item": "cobblemon:exp_share",
+    "price": "15000"
+   },
+   {
+    "item": "cobblemon:soothe_bell",
+    "price": "8000"
+   }
+  ]
+ },
+ {
+  "name": "Mints",
+  "offers": [
+   {
+    "item": "cobblemon:lonely_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:adamant_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:naughty_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:brave_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:bold_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:impish_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:lax_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:relaxed_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:modest_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:mild_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:rash_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:quiet_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:calm_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:gentle_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:careful_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:sassy_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:timid_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:hasty_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:jolly_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:naive_mint",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:serious_mint",
+    "price": "10000"
+   }
+  ]
+ },
+ {
+  "name": "Abilities",
+  "offers": [
+   {
+    "item": "cobblemon:ability_capsule",
+    "price": "25000"
+   },
+   {
+    "item": "cobblemon:ability_patch",
+    "price": "80000"
+   }
+  ]
+ },
+ {
+  "name": "Battle Items",
+  "offers": [
+   {
+    "item": "cobblemon:x_attack",
+    "price": "1000"
+   },
+   {
+    "item": "cobblemon:x_defence",
+    "price": "1000"
+   },
+   {
+    "item": "cobblemon:x_special_attack",
+    "price": "1000"
+   },
+   {
+    "item": "cobblemon:x_special_defence",
+    "price": "1000"
+   },
+   {
+    "item": "cobblemon:x_speed",
+    "price": "1000"
+   },
+   {
+    "item": "cobblemon:x_accuracy",
+    "price": "1000"
+   },
+   {
+    "item": "cobblemon:dire_hit",
+    "price": "1000"
+   },
+   {
+    "item": "cobblemon:guard_spec",
+    "price": "1500"
+   }
+  ]
+ }
+]

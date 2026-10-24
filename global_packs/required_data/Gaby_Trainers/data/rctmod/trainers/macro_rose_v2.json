@@ -1,0 +1,186 @@
+{
+ "name": "Chairman Rose",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "copperajah",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "playrough",
+    "superpower",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "sheerforce",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "ferrothorn",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "powerwhip",
+    "gyroball",
+    "stealthrock",
+    "leechseed"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "ironbarbs",
+   "heldItem": [
+    "rocky_helmet"
+   ]
+  },
+  {
+   "species": "perrserker",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "closecombat",
+    "crunch",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "toughclaws"
+  },
+  {
+   "species": "escavalier",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "megahorn",
+    "knockoff",
+    "drillrun"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "overcoat",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "klinklang",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shiftgear",
+    "geargrind",
+    "wildcharge",
+    "substitute"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "clearbody"
+  },
+  {
+   "species": "eternatus",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "dynamaxcannon",
+    "sludgebomb",
+    "flamethrower",
+    "recover"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "pressure",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

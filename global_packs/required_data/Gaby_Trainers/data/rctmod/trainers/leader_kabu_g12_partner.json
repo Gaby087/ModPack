@@ -1,0 +1,97 @@
+{
+ "name": "Stoker Ember",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "coalossal",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "flamethrower",
+    "rockslide",
+    "sandstorm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "talonflame",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "flareblitz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "galewings"
+  },
+  {
+   "species": "ninetales",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "heatwave",
+    "solarbeam",
+    "sunnyday",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "drought"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

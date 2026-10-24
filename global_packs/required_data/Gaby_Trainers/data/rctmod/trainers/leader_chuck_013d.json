@@ -1,0 +1,183 @@
+{
+ "name": "Leader Chuck",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "hariyama",
+   "level": 74,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "heavyslam",
+    "knockoff",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "lucario",
+   "level": 75,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "meteormash",
+    "extremespeed",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "justified"
+  },
+  {
+   "species": "machamp",
+   "level": 75,
+   "nature": "adamant",
+   "moveset": [
+    "dynamicpunch",
+    "knockoff",
+    "stoneedge",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "noguard"
+  },
+  {
+   "species": "conkeldurr",
+   "level": 75,
+   "nature": "adamant",
+   "moveset": [
+    "machpunch",
+    "drainpunch",
+    "knockoff",
+    "icepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "poliwrath",
+   "level": 75,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "liquidation",
+    "bulkup",
+    "icepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "annihilape",
+   "level": 76,
+   "nature": "adamant",
+   "moveset": [
+    "ragefist",
+    "drainpunch",
+    "bulkup",
+    "gunkshot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "defiant",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "name": "Sailor Rex",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "electabuzz",
+   "level": 23,
+   "nature": "jolly",
+   "moveset": [
+    "thunderpunch",
+    "lowkick",
+    "followme",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 21,
+    "atk": 21,
+    "def": 21,
+    "spa": 21,
+    "spd": 21,
+    "spe": 21
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "pikachu",
+   "level": 22,
+   "nature": "timid",
+   "moveset": [
+    "electroball",
+    "nuzzle",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 21,
+    "atk": 21,
+    "def": 21,
+    "spa": 21,
+    "spd": 21,
+    "spe": 21
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "flaaffy",
+   "level": 24,
+   "nature": "modest",
+   "moveset": [
+    "thunderwave",
+    "electroweb",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 21,
+    "atk": 21,
+    "def": 21,
+    "spa": 21,
+    "spd": 21,
+    "spe": 21
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

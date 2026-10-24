@@ -1,0 +1,107 @@
+{
+ "name": "Jessie & James",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "arbok",
+   "level": 24,
+   "nature": "adamant",
+   "moveset": [
+    "bite",
+    "poisonfang",
+    "glare",
+    "acid"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "weezing",
+   "level": 24,
+   "nature": "bold",
+   "moveset": [
+    "sludge",
+    "smokescreen",
+    "willowisp",
+    "clearsmog"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "meowth",
+   "level": 24,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "payday",
+    "bite",
+    "furyswipes"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pickup"
+  },
+  {
+   "species": "victreebel",
+   "level": 24,
+   "nature": "adamant",
+   "moveset": [
+    "razorleaf",
+    "acid",
+    "wrap",
+    "sleeppowder"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

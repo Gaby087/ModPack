@@ -1,0 +1,192 @@
+{
+ "name": "Elite Four Grimsley",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "liepard",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "foulplay",
+    "knockoff",
+    "encore",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "scrafty",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "drainpunch",
+    "knockoff",
+    "bulkup",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "krookodile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "knockoff",
+    "stoneedge",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "bisharp",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "suckerpunch",
+    "ironhead",
+    "knockoff",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "defiant",
+   "heldItem": [
+    "black_glasses"
+   ]
+  },
+  {
+   "species": "honchkrow",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bravebird",
+    "suckerpunch",
+    "superpower",
+    "heatwave"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "hydreigon",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "darkpulse",
+    "dracometeor",
+    "flamethrower",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

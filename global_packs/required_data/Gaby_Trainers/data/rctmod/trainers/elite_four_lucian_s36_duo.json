@@ -1,0 +1,95 @@
+{
+ "name": "Elite Four Lucian",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "alakazam",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "focusblast",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "bronzong",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "gyroball",
+    "psychic",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "gallade",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "sacredsword",
+    "psychocut",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sharpness"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

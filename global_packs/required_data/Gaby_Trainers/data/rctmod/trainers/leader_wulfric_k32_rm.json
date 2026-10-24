@@ -1,0 +1,192 @@
+{
+ "name": "Leader Wulfric",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "avalugg",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "avalanche",
+    "bodypress",
+    "recover",
+    "rapidspin"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "abomasnow",
+   "level": 100,
+   "nature": "mild",
+   "moveset": [
+    "blizzard",
+    "gigadrain",
+    "iceshard",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "cryogonal",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "freezedry",
+    "recover",
+    "rapidspin",
+    "haze"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "beartic",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "superpower",
+    "aquajet",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "mamoswine",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "iciclecrash",
+    "iceshard",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "glaceon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "shadowball",
+    "calmmind",
+    "wish"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "icebody",
+   "heldItem": [
+    "mega_showdown:froslassite"
+   ]
+  }
+ ]
+}

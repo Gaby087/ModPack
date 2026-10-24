@@ -1,0 +1,153 @@
+{
+ "name": "Executive Archer",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "crobat",
+   "level": 60,
+   "nature": "jolly",
+   "moveset": [
+    "crosspoison",
+    "bravebird",
+    "taunt",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "weezing",
+   "level": 59,
+   "nature": "bold",
+   "moveset": [
+    "sludgebomb",
+    "willowisp",
+    "fireblast",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "gengar",
+   "level": 60,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgebomb",
+    "focusblast",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "honchkrow",
+   "level": 61,
+   "nature": "adamant",
+   "moveset": [
+    "suckerpunch",
+    "bravebird",
+    "nightslash",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "superluck"
+  },
+  {
+   "species": "houndoom",
+   "level": 61,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "darkpulse",
+    "nastyplot",
+    "sludgebomb"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "tyranitar",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "crunch",
+    "earthquake",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sandstream",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  }
+ ]
+}

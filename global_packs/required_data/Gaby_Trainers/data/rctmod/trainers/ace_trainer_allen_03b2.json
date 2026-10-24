@@ -1,0 +1,57 @@
+{
+ "name": "Ace Trainer Allen",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "sandslash",
+   "level": 46,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "slash",
+    "rockslide",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sandrush"
+  },
+  {
+   "species": "dugtrio",
+   "level": 46,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "suckerpunch",
+    "slash",
+    "rockslide"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "arenatrap"
+  }
+ ]
+}

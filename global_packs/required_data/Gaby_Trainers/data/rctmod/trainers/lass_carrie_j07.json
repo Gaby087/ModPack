@@ -1,0 +1,84 @@
+{
+ "name": "Lass Carrie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "clefable",
+   "level": 67,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "calmmind",
+    "softboiled",
+    "flamethrower"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magicguard"
+  },
+  {
+   "species": "wigglytuff",
+   "level": 66,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "dazzlinggleam",
+    "fireblast",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "competitive"
+  },
+  {
+   "species": "blissey",
+   "level": 67,
+   "nature": "bold",
+   "moveset": [
+    "seismictoss",
+    "softboiled",
+    "toxic",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure"
+  }
+ ]
+}

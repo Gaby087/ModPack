@@ -1,0 +1,4046 @@
+{
+ "id": "319691D73BE3217D",
+ "filename": "legends",
+ "group": "71C7157F1269A7DC",
+ "order_index": 8,
+ "icon": {
+  "id": "gaby_core:legend_lure",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "7A7B646BE0EBD122",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_terry_01b6",
+     "criterion": "",
+     "id": "3B8B8741405D43CA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "articuno",
+        "hint": "It is said to fly over snowfields."
+       }
+      }
+     },
+     "count": 1,
+     "id": "46A16FFFA9C93CA8",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3FC25F8D50BB6DF1",
+   "x": 1.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "articuno",
+     "id": "7546135211A59558"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "35CD1D6C5E66D8AE",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "5B3FAB643F0D4177",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7A7B646BE0EBD122"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "3FE95CF715A1C659",
+   "x": 2.0,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_terry_01b6",
+     "criterion": "",
+     "id": "7F2AF7AE2E6EB61B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "zapdos",
+        "hint": "It appears from the clouds during thunderstorms."
+       }
+      }
+     },
+     "count": 1,
+     "id": "56F32F7DA0107811",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3CC5BE8BA88816A4",
+   "x": 3.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "zapdos",
+     "id": "2053A309DE68CED5"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3071B726D8F5135B",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "4167CE4D178517C6",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3FE95CF715A1C659"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "3E50B55E451C1A63",
+   "x": 4.0,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_terry_01b6",
+     "criterion": "",
+     "id": "23E3CD83429680FA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "moltres",
+        "hint": "Legends say it was born in the fires of the Nether."
+       }
+      }
+     },
+     "count": 1,
+     "id": "5DE7F3750CE5DBB4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "541F4DD195CCB12C",
+   "x": 5.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "moltres",
+     "id": "5F7803AF4C883B8B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5C4E06B6E677FF86",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "79A42EC5B8EF3D16",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3E50B55E451C1A63"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "713E7E82E3466229",
+   "x": 6.0,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_terry_01b6",
+     "criterion": "",
+     "id": "187C9409E27747F1"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "mew",
+        "hint": "A rumour speaks of it playing deep in the jungle."
+       }
+      }
+     },
+     "count": 1,
+     "id": "16F6974C1B6E9FA5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "149E3E705F643A0A",
+   "x": 7.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "mew",
+     "id": "13BCCECB46CA3700"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "612C0224A01F93A1",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "5423750C32D5DEC3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "713E7E82E3466229"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "3AED93DC0BA67C26",
+   "x": 8.0,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_terry_01b6",
+     "criterion": "",
+     "id": "379ADB152A7CB859"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "mewtwo",
+        "hint": "Something stirs in the depths, below the deepslate line."
+       }
+      }
+     },
+     "count": 1,
+     "id": "4641D9E5E54796E4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "1925B4D977A146AE",
+   "x": 9.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "mewtwo",
+     "id": "2BC24EBC612C0ADD"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "599927154A794A23",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "7DF2FFB9FF91789E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3AED93DC0BA67C26"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "7C976185B546E9F0",
+   "x": 0.0,
+   "y": 2.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_lance_j29",
+     "criterion": "",
+     "id": "1D514CF274CA24D1"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "raikou",
+        "hint": "It races across open plains when thunder rolls."
+       }
+      }
+     },
+     "count": 1,
+     "id": "309F398518C142AB",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "74862AB7E3660979",
+   "x": 1.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "raikou",
+     "id": "100F8BD26E3EAD51"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 25000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "62D0AA14B3328A86",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "6C3BF9AEA3C58520",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7C976185B546E9F0"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "24F1D48B7FD0EAF2",
+   "x": 2.0,
+   "y": 2.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_lance_j29",
+     "criterion": "",
+     "id": "5077BF577C46AFB2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "entei",
+        "hint": "It roams the hot, red canyons of the badlands."
+       }
+      }
+     },
+     "count": 1,
+     "id": "74191EAF0C635391",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "627C9A94BAAB1FB0",
+   "x": 3.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "entei",
+     "id": "65696B5C01E53459"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 25000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1DE2EF4F27B87E88",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "3FB11635535F49EC",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "24F1D48B7FD0EAF2"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "263991751416A2FC",
+   "x": 4.0,
+   "y": 2.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_lance_j29",
+     "criterion": "",
+     "id": "4BFC9A2B1BBA7E10"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "suicune",
+        "hint": "It runs along rivers by moonlight."
+       }
+      }
+     },
+     "count": 1,
+     "id": "6D0FD3EF0D3EEDEC",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "5C3DD3F302E4B1FA",
+   "x": 5.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "suicune",
+     "id": "5B3D8D5D447516FC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 25000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "626607BB381A6FAF",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2E39E81EEB8FD4BC",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "263991751416A2FC"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "36C0B8A8E650A815",
+   "x": 6.0,
+   "y": 2.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_lance_j29",
+     "criterion": "",
+     "id": "20A1BAE6171F6B69"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "lugia",
+        "hint": "It sleeps at the bottom of the deep ocean."
+       }
+      }
+     },
+     "count": 1,
+     "id": "7CF3E83ECC81F15F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "474CF735627970E2",
+   "x": 7.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "lugia",
+     "id": "10BDDB7844D15442"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 25000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "23484EB870001DD0",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "5DF69B3ECE680CB3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "36C0B8A8E650A815"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "11633047AE36780E",
+   "x": 8.0,
+   "y": 2.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_lance_j29",
+     "criterion": "",
+     "id": "6E7935E6AEEBCB4C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "hooh",
+        "hint": "It is seen high above the peaks in daylight."
+       }
+      }
+     },
+     "count": 1,
+     "id": "4696B3D52CDB4948",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "4EF93A9E2CF6CFC5",
+   "x": 9.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "hooh",
+     "id": "5DAEEE224A842E54"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 25000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4A0391D773ACEF3F",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "61CB007F47EBDC6C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "11633047AE36780E"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "108113AFC62CB009",
+   "x": 10.0,
+   "y": 2.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_lance_j29",
+     "criterion": "",
+     "id": "7781A29936346E75"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "celebi",
+        "hint": "It visits quiet forests on calm days."
+       }
+      }
+     },
+     "count": 1,
+     "id": "411E1B0E2CDE4B93",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "1034F5B2E223EE9D",
+   "x": 11.0,
+   "y": 3.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "celebi",
+     "id": "58EE6AA9606E0F25"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 25000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2D8CF45F683A3A41",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "1001E8D46A14DB69",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "108113AFC62CB009"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "6F7401BE736AD66C",
+   "x": 0.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "21D179AFDA0D18E7"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "regirock",
+        "hint": "Its chamber lies beneath the desert sands."
+       }
+      }
+     },
+     "count": 1,
+     "id": "74E2C070BC66A186",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "56DD82EC45D4ABFD",
+   "x": 1.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "regirock",
+     "id": "63B8EEE5E41398E2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3FD344F8D131422D",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2250B306E711B375",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6F7401BE736AD66C"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "6E158EA848720BB4",
+   "x": 2.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "6825D678F88FC44B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "regice",
+        "hint": "It was sealed in ice on a frozen plain."
+       }
+      }
+     },
+     "count": 1,
+     "id": "21ECFA32EC90D127",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "2A47B1A19FF99C26",
+   "x": 3.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "regice",
+     "id": "36176F98266644DE"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3059EE7C711AEF59",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "4F4ABE5E674D0F00",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6E158EA848720BB4"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "68F177AD6820E05C",
+   "x": 4.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "2C6279F281AB295D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "registeel",
+        "hint": "It waits underground, far from the sun."
+       }
+      }
+     },
+     "count": 1,
+     "id": "4B3470AE0A443DDF",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "5C14A6FF4382263B",
+   "x": 5.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "registeel",
+     "id": "6DB8642AAFC1B146"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4FE4F3CDAA767D78",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "6EE32BAE14AB7AF6",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "68F177AD6820E05C"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "28352B618D25DCB7",
+   "x": 6.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "3622274D27C63AD4"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "latias",
+        "hint": "It glides above flower-filled forests by day."
+       }
+      }
+     },
+     "count": 1,
+     "id": "1D944BEBE30D1D9A",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "5235120DF19D8B6C",
+   "x": 7.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "latias",
+     "id": "3C00401BBB76B2C5"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7D251E61AAD5A74C",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "59DCA4A2FB9C6CB8",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "28352B618D25DCB7"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "4097D3BA7EB8C7B7",
+   "x": 8.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "5A1F2F721E8ECE09"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "latios",
+        "hint": "It soars over forests at night."
+       }
+      }
+     },
+     "count": 1,
+     "id": "6EFCC82317ED3E7E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "52CE66F27E842C02",
+   "x": 9.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "latios",
+     "id": "6F92CC2773973A0C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3EA64D5692EAEC99",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "134E03D77DD3D11A",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4097D3BA7EB8C7B7"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "37C5ADAA39847D69",
+   "x": 10.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "7072CCBBC6F423D7"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "kyogre",
+        "hint": "It rises from the ocean during heavy rain."
+       }
+      }
+     },
+     "count": 1,
+     "id": "7E33870F5C478AE7",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "205C347C87651241",
+   "x": 11.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "kyogre",
+     "id": "64FEC835FC6E3851"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "476944677729A28B",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "170D4ABA996AB79E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "37C5ADAA39847D69"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "19BFE7287094B2DB",
+   "x": 12.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "59268A8CD4BABD11"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "groudon",
+        "hint": "It sleeps where the land is dry and red."
+       }
+      }
+     },
+     "count": 1,
+     "id": "467EA75022F4EC53",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "165843B58C0D9C1F",
+   "x": 13.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "groudon",
+     "id": "66499771BA6ADAF2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4F8C657AC5584AE4",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2128CE02DFD6188D",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "19BFE7287094B2DB"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "16098C33FD77E3DE",
+   "x": 14.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "144A73ACF6F5A159"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "rayquaza",
+        "hint": "It lives in the ozone layer, far above the clouds."
+       }
+      }
+     },
+     "count": 1,
+     "id": "1981DC8F11B4E178",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "590ACB14A3C6D9E4",
+   "x": 15.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "rayquaza",
+     "id": "65386F12C1DDEC0F"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4B3B091C569B4C1B",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "4320E38422DE7BB2",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "16098C33FD77E3DE"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "4C922D224FC1F43A",
+   "x": 16.0,
+   "y": 5.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_wallace_h37",
+     "criterion": "",
+     "id": "4307D5FEAEA0425F"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "jirachi",
+        "hint": "It wakes on clear nights to grant wishes."
+       }
+      }
+     },
+     "count": 1,
+     "id": "147624FA44093DA0",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "1CD586B8A225F3B4",
+   "x": 17.0,
+   "y": 6.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "jirachi",
+     "id": "1932E4B9F43E5AC8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1CAF75CF328D8C25",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "65C058DAB4B829A7",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4C922D224FC1F43A"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "453AD283A51E07D8",
+   "x": 0.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "1D46FFDB438D9F9B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "uxie",
+        "hint": "The being of knowledge rests near frozen lakes."
+       }
+      }
+     },
+     "count": 1,
+     "id": "196C837E0813DD01",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "4A91E98074D76107",
+   "x": 1.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "uxie",
+     "id": "2E71949DF01A1947"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7EFEED3660FD6159",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "108E79B1F976ED2B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "453AD283A51E07D8"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "72D5D531DC323EA7",
+   "x": 2.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "369C5BB31F043F15"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "mesprit",
+        "hint": "The being of emotion wanders by rivers."
+       }
+      }
+     },
+     "count": 1,
+     "id": "7F595C4E715360E6",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "5D93DBC7BAB84634",
+   "x": 3.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "mesprit",
+     "id": "1AD367E97D783BF2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5FF9756E88B23C7B",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "61F4E1A535377B77",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "72D5D531DC323EA7"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "54E00663FF957799",
+   "x": 4.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "3071A0376C64A560"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "azelf",
+        "hint": "The being of willpower sleeps in mountain lakes."
+       }
+      }
+     },
+     "count": 1,
+     "id": "68DF1347DA980313",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "458D827010F2CB05",
+   "x": 5.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "azelf",
+     "id": "7C8451C7EA832E77"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5E13F2B00BD448B7",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2F7D530CC3C23612",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "54E00663FF957799"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "4C1A1AF6D39C290D",
+   "x": 6.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "2C069E442F503E48"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "dialga",
+        "hint": "Time bends on high peaks in daylight."
+       }
+      }
+     },
+     "count": 1,
+     "id": "64EA0625B590746F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "6CC03077CA927AB6",
+   "x": 7.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "dialga",
+     "id": "5426682DBB820E00"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "393F15DCEB6592B6",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "126B745BA4D0E7D9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4C1A1AF6D39C290D"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "14AC5E25C9B3E036",
+   "x": 8.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "3C491B7F22BCFC12"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "palkia",
+        "hint": "Space ripples over the deep ocean at night."
+       }
+      }
+     },
+     "count": 1,
+     "id": "2BAA77392ABCC231",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "32B0724FF0F7FC88",
+   "x": 9.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "palkia",
+     "id": "4E7B22E225AE3219"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4D2899775E555433",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "5180F5835F616A6C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14AC5E25C9B3E036"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "141260997437AE4D",
+   "x": 10.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "642EB77FAC43417A"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "giratina",
+        "hint": "It was banished to a world beyond: the End."
+       }
+      }
+     },
+     "count": 1,
+     "id": "7BFE127E3DF3892A",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "5079A429D9975117",
+   "x": 11.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "giratina",
+     "id": "2DFCA751171DA5A2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "193715E3CD4128B9",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "148ACD6B80928992",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "141260997437AE4D"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "19B2F5C4245EF2F2",
+   "x": 12.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "5AB6A070817C5019"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "heatran",
+        "hint": "It dwells in the volcanic Nether."
+       }
+      }
+     },
+     "count": 1,
+     "id": "4783967CEF4F4B6F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "5EDE5A20C9D6F8E8",
+   "x": 13.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "heatran",
+     "id": "6E468E3FB224E28C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5DB176E7E64D78BD",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "6EC09043702947B8",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "19B2F5C4245EF2F2"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "3AB827748797E84A",
+   "x": 14.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "50C8B0A4C9280746"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "cresselia",
+        "hint": "It brings good dreams on clear nights."
+       }
+      }
+     },
+     "count": 1,
+     "id": "3CA2E0C032BD70E5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3E106E06BB2EAABC",
+   "x": 15.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cresselia",
+     "id": "77D6A81308E5F0CC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1293D5D39029B626",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "292FE458AB865A62",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3AB827748797E84A"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "28F2D1FD2B0FEB15",
+   "x": 16.0,
+   "y": 7.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_cynthia_s37",
+     "criterion": "",
+     "id": "1F77AD093D82DBBA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "regigigas",
+        "hint": "The colossus slumbers in the deepest caverns."
+       }
+      }
+     },
+     "count": 1,
+     "id": "1E457E117EDD9AE4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3CAF45830F025BAA",
+   "x": 17.0,
+   "y": 8.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "regigigas",
+     "id": "1445AF52FF674CEF"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 35000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "14F76F4F2A787BB6",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "298D4904311A380C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "28F2D1FD2B0FEB15"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "7CA133AFB55DA1B7",
+   "x": 0.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "7CD3FB40B2B8E1D9"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "cobalion",
+        "hint": "It guards the mountains."
+       }
+      }
+     },
+     "count": 1,
+     "id": "1E07AAEFD0DC36E5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "315970B0E11BAC9A",
+   "x": 1.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobalion",
+     "id": "288CD50D22D5CCAC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5FD459F462C45395",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "314A8A171B68F62F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7CA133AFB55DA1B7"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "2EC55468BC76B778",
+   "x": 2.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "77E3E6B64B009F79"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "terrakion",
+        "hint": "It stands watch in deep caves."
+       }
+      }
+     },
+     "count": 1,
+     "id": "5CA374F6B201E499",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "34FD8A6FAEFCB203",
+   "x": 3.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "terrakion",
+     "id": "13685F37777B487B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5ACA036941C21337",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "6D0E73BC7378B2F5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2EC55468BC76B778"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "22B431DBD6E7EE9D",
+   "x": 4.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "59362063D4B6BDCD"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "virizion",
+        "hint": "It moves through forests like the wind."
+       }
+      }
+     },
+     "count": 1,
+     "id": "1A21076EB1F5DF56",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3F88114E4461E1AB",
+   "x": 5.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "virizion",
+     "id": "1CE8F81831DB5EC1"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "27B97E3F2AEEA770",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "231A3B58058AAF6E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "22B431DBD6E7EE9D"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "5D6A8BDAB69CDC31",
+   "x": 6.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "37ADD964543A5737"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "tornadus",
+        "hint": "Storms follow it over open land."
+       }
+      }
+     },
+     "count": 1,
+     "id": "223BD7A062935C45",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "71FCA02B094705B8",
+   "x": 7.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "tornadus",
+     "id": "7BD6C6D5E2D3DD53"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "778F68F2EEA36FC7",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "7FF2943CAF0465E3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5D6A8BDAB69CDC31"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "17623ED81B9B452D",
+   "x": 8.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "2C479123C3348DCF"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "thundurus",
+        "hint": "It shoots bolts from thunderclouds."
+       }
+      }
+     },
+     "count": 1,
+     "id": "21F9EC1483EFF225",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "1B2665B870AF5AF4",
+   "x": 9.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "thundurus",
+     "id": "5859D67F4901A0A3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1E2A0906831D0C1B",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "771E43A987FF997E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "17623ED81B9B452D"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "254DECDB3AD0F2D4",
+   "x": 10.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "3E47901BDA858220"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "landorus",
+        "hint": "Fields grow rich where it lands."
+       }
+      }
+     },
+     "count": 1,
+     "id": "1FDFC58DA5966AA5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "6CD80C2A38D480EB",
+   "x": 11.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "landorus",
+     "id": "433997EF26846116"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "667F94E017D4821A",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "208AC6EA40C971D9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "254DECDB3AD0F2D4"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "7D57518F2DDFE75B",
+   "x": 12.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "192F3B708D96C1E0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "reshiram",
+        "hint": "The white dragon of truth seeks the desert sun."
+       }
+      }
+     },
+     "count": 1,
+     "id": "11E6FA1171B4BB14",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "306F36E3E7D1FB10",
+   "x": 13.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "reshiram",
+     "id": "67111395FD5079FD"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6C64FCD0D6644BA2",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "608E3EE98816FD37",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7D57518F2DDFE75B"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "2620637A570C9335",
+   "x": 14.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "3EF1194D97B23CA3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "zekrom",
+        "hint": "The black dragon of ideals comes with the storm at night."
+       }
+      }
+     },
+     "count": 1,
+     "id": "1AC4589646341821",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "4BAE71AE37BAD10A",
+   "x": 15.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "zekrom",
+     "id": "732B1826460823FA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "12053FCF4F19FEF9",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "3E7F188E7D9656B2",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2620637A570C9335"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "198EB8EA7DB2F7E6",
+   "x": 16.0,
+   "y": 10.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_alder_u37",
+     "criterion": "",
+     "id": "37B140C79501AB87"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "kyurem",
+        "hint": "An empty dragon of ice haunts snowfields at night."
+       }
+      }
+     },
+     "count": 1,
+     "id": "6402F367B018528A",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3891831586EE5A84",
+   "x": 17.0,
+   "y": 11.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "kyurem",
+     "id": "2CAA6173EEAB7BBD"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5690EE94E11CE142",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "210BCBD2613B340C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "198EB8EA7DB2F7E6"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "21CC77B9AA4DEBD8",
+   "x": 0.0,
+   "y": 12.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_diantha_k37",
+     "criterion": "",
+     "id": "65EAA87CAC5829E3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "xerneas",
+        "hint": "The tree of life glows in forests by day."
+       }
+      }
+     },
+     "count": 1,
+     "id": "10668F8874D9E5F8",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "6F9158D2BDD98F37",
+   "x": 1.0,
+   "y": 13.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "xerneas",
+     "id": "1D6ABFDEFF6A7FA3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 45000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5194E917C32C8248",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "55C2B5BCC4E34EF1",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "21CC77B9AA4DEBD8"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "2D681B78EA78F228",
+   "x": 2.0,
+   "y": 12.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_diantha_k37",
+     "criterion": "",
+     "id": "7664314758BFF78D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "yveltal",
+        "hint": "Its shadow falls over dark forests at night."
+       }
+      }
+     },
+     "count": 1,
+     "id": "56F34F927B741355",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "16CEF089568295FA",
+   "x": 3.0,
+   "y": 13.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "yveltal",
+     "id": "754207F742521416"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 45000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2E9266627BE1D57E",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2EC570386EFEA071",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D681B78EA78F228"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "273FD30EC402DB51",
+   "x": 4.0,
+   "y": 12.5,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_diantha_k37",
+     "criterion": "",
+     "id": "1AEDAFC04769D4D5"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "zygarde",
+        "hint": "It watches the ecosystem from deep underground."
+       }
+      }
+     },
+     "count": 1,
+     "id": "5DAE5BA5F9DDA49E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "6B573C359137FF20",
+   "x": 5.0,
+   "y": 13.5,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "zygarde",
+     "id": "5A99591A0912CA5D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 45000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7B81957B20FA7D87",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "3D6FF8706E89E485",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "273FD30EC402DB51"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "701E69A6DBAF7058",
+   "x": 0.0,
+   "y": 15.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_leon_g37",
+     "criterion": "",
+     "id": "5D3D0D0E781B459F"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "zacian",
+        "hint": "The hero's sword rests in a forest by day."
+       }
+      }
+     },
+     "count": 1,
+     "id": "50438CC8FF2354D5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "6945CF4FB02041F6",
+   "x": 1.0,
+   "y": 16.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "zacian",
+     "id": "3195C6E60567E7C0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 50000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5EA9532D3BE1F543",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2CDDB1766DA18923",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "701E69A6DBAF7058"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "7F860B1C5EF472DC",
+   "x": 2.0,
+   "y": 15.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_leon_g37",
+     "criterion": "",
+     "id": "6D54034435A45D8B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "zamazenta",
+        "hint": "The hero's shield guards the forest by night."
+       }
+      }
+     },
+     "count": 1,
+     "id": "20D35C7505D79E01",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "339B72B61D45F8A2",
+   "x": 3.0,
+   "y": 16.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "zamazenta",
+     "id": "18EAAB449526E1CB"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 50000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7885D4879D2B11A8",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "269B99639E174590",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7F860B1C5EF472DC"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "10D3DA38EB18D0AB",
+   "x": 4.0,
+   "y": 15.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_leon_g37",
+     "criterion": "",
+     "id": "26286F7D0010A616"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "eternatus",
+        "hint": "A dark star fell to the End."
+       }
+      }
+     },
+     "count": 1,
+     "id": "359DF6075928A2CE",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "61CC195BCA8DA14C",
+   "x": 5.0,
+   "y": 16.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "eternatus",
+     "id": "7AA925EE439FED94"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 50000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4D68649CA63BD3B0",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "3D255AEB123E3010",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "10D3DA38EB18D0AB"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "360CD1DAD481C1C0",
+   "x": 6.0,
+   "y": 15.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_leon_g37",
+     "criterion": "",
+     "id": "1C422A9B55C4E0AA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "kubfu",
+        "hint": "It trains on mountain slopes."
+       }
+      }
+     },
+     "count": 1,
+     "id": "331A3E37A41AE71B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3FCED1A3B96CB5DD",
+   "x": 7.0,
+   "y": 16.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "kubfu",
+     "id": "5B30AD063172D687"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 50000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "37AEC8578BE0360D",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "4D678217D64AE4AA",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "360CD1DAD481C1C0"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "3587BCBD4F24B61A",
+   "x": 8.0,
+   "y": 15.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_leon_g37",
+     "criterion": "",
+     "id": "29840FB005C1D938"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "regieleki",
+        "hint": "It sparks under thunderstorms."
+       }
+      }
+     },
+     "count": 1,
+     "id": "4F7C72EB50BD203B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "51B5E557816BAF4B",
+   "x": 9.0,
+   "y": 16.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "regieleki",
+     "id": "1F7FAAF5E7E0F031"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 50000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "72D2D82A7EC27890",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "6B47FDF3449156E9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3587BCBD4F24B61A"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "7F2A065ECBCB10FD",
+   "x": 10.0,
+   "y": 15.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_leon_g37",
+     "criterion": "",
+     "id": "746F3ACC34D17B72"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "regidrago",
+        "hint": "Its draconic chamber lies under the badlands."
+       }
+      }
+     },
+     "count": 1,
+     "id": "12B0C4A7EF33B88B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "56351FEBBD92780D",
+   "x": 11.0,
+   "y": 16.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "regidrago",
+     "id": "7A600282DBCCF4B0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 50000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3462A3CB4A0BD062",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "25BBA486F7E16E48",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7F2A065ECBCB10FD"
+   ],
+   "shape": "gear"
+  },
+  {
+   "id": "3F110A335747BF2D",
+   "x": 12.0,
+   "y": 15.0,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_leon_g37",
+     "criterion": "",
+     "id": "3F9C7C3032C35BF8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "gaby_core:legend_lure",
+      "count": 1,
+      "components": {
+       "minecraft:custom_data": {
+        "legend": "calyrex",
+        "hint": "The king of bountiful harvests visits snowy fields."
+       }
+      }
+     },
+     "count": 1,
+     "id": "65FE5C24C9AA3325",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "4234272AB75B4B01",
+   "x": 13.0,
+   "y": 16.0,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "calyrex",
+     "id": "52BBE6A515D68C8A"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 50000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "457A55A18B3CBF0F",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "6500E33E0B7CA5CD",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F110A335747BF2D"
+   ],
+   "shape": "gear"
+  }
+ ]
+}

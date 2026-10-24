@@ -1,0 +1,170 @@
+{
+ "name": "Sailor Ray",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "empoleon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hydropump",
+    "flashcannon",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "torrent"
+  },
+  {
+   "species": "crawdaunt",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crabhammer",
+    "knockoff",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "adaptability"
+  },
+  {
+   "species": "ludicolo",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hydropump",
+    "gigadrain",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "primarina",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "moonblast",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "liquidvoice"
+  },
+  {
+   "species": "sharpedo",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "crunch",
+    "icefang",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "jellicent",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "shadowball",
+    "willowisp",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

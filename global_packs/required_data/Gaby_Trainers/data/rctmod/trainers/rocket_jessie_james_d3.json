@@ -1,0 +1,151 @@
+{
+ "name": "Jessie & James",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "arbok",
+   "level": 44,
+   "nature": "adamant",
+   "moveset": [
+    "crunch",
+    "poisonjab",
+    "glare",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "weezing",
+   "level": 44,
+   "nature": "bold",
+   "moveset": [
+    "sludgebomb",
+    "willowisp",
+    "fireblast",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "wobbuffet",
+   "level": 44,
+   "nature": "bold",
+   "moveset": [
+    "counter",
+    "mirrorcoat",
+    "encore",
+    "safeguard"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "shadowtag"
+  },
+  {
+   "species": "cacturne",
+   "level": 44,
+   "nature": "adamant",
+   "moveset": [
+    "seedbomb",
+    "suckerpunch",
+    "spikes",
+    "leechseed"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "seviper",
+   "level": 44,
+   "nature": "naive",
+   "moveset": [
+    "poisonjab",
+    "crunch",
+    "glare",
+    "flamethrower"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "shedskin"
+  },
+  {
+   "species": "meowth",
+   "level": 44,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "payday",
+    "bite",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

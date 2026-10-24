@@ -1,0 +1,149 @@
+{
+ "name": "Elite Four Agatha",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "crobat",
+   "level": 54,
+   "nature": "jolly",
+   "moveset": [
+    "crosspoison",
+    "bravebird",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "mismagius",
+   "level": 55,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "mysticalfire",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "banette",
+   "level": 56,
+   "nature": "adamant",
+   "moveset": [
+    "shadowclaw",
+    "knockoff",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "arbok",
+   "level": 55,
+   "nature": "adamant",
+   "moveset": [
+    "gunkshot",
+    "crunch",
+    "glare",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "gengar",
+   "level": 57,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgebomb",
+    "hypnosis",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody",
+   "heldItem": [
+    "spell_tag"
+   ]
+  },
+  {
+   "species": "dusknoir",
+   "level": 54,
+   "nature": "adamant",
+   "moveset": [
+    "shadowsneak",
+    "poltergeist",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pressure"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

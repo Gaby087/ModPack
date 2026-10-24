@@ -1,0 +1,100 @@
+{
+ "name": "Champion Leon",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "charizard",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "airslash",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solarpower",
+   "heldItem": [
+    "mega_showdown:charizardite_x"
+   ]
+  },
+  {
+   "species": "dragapult",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragondarts",
+    "phantomforce",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "clearbody"
+  },
+  {
+   "species": "haxorus",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "outrage",
+    "closecombat",
+    "poisonjab",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moldbreaker"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

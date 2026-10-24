@@ -1,0 +1,8 @@
+name = "ATM x MSD [v4.0]"
+filename = "ATM x MSD [v4.0].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/odZZdRCE/versions/2JPClXSG/ATM%20x%20MSD%20%5Bv4.0%5D.zip"
+hash-format = "sha1"
+hash = "05d411776564ec96934a3e5b7ed8aca8e3df780a"

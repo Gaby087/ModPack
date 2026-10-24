@@ -1,0 +1,146 @@
+{
+ "name": "Medium Martha",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "gengar",
+   "level": 70,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgebomb",
+    "willowisp",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "mismagius",
+   "level": 70,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "dazzlinggleam",
+    "thunderbolt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "dusknoir",
+   "level": 71,
+   "nature": "adamant",
+   "moveset": [
+    "shadowsneak",
+    "poltergeist",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "banette",
+   "level": 70,
+   "nature": "adamant",
+   "moveset": [
+    "shadowclaw",
+    "knockoff",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "spiritomb",
+   "level": 70,
+   "nature": "adamant",
+   "moveset": [
+    "foulplay",
+    "shadowsneak",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "drifblim",
+   "level": 71,
+   "nature": "modest",
+   "moveset": [
+    "shadowball",
+    "thunderbolt",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "unburden"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,97 @@
+{
+ "name": "Aide Mirage",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "tyrantrum",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "strongjaw"
+  },
+  {
+   "species": "aurorus",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "ancientpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "gourgeist",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "shadowsneak",
+    "seedbomb",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "frisk"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

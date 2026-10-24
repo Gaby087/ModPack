@@ -1,0 +1,8 @@
+name = "apollib-1.2.0-neoforge-21.1"
+filename = "apollib-1.2.0-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDI2Ytax/versions/zMAIdVwq/apollib-1.2.0-neoforge-21.1.jar"
+hash-format = "sha1"
+hash = "e4180e3031d4c12c3f81f20d8c1e10a8bae0c3b5"

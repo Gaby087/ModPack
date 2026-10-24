@@ -1,0 +1,96 @@
+{
+ "name": "Youngster Josh",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "solrock",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "zenheadbutt",
+    "earthquake",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "relicanth",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "headsmash",
+    "waterfall",
+    "earthquake",
+    "rockpolish"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "rockhead"
+  },
+  {
+   "species": "carbink",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "powergem",
+    "stealthrock",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ]
+}

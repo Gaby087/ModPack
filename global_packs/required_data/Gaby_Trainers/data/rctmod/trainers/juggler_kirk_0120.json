@@ -1,0 +1,57 @@
+{
+ "name": "Juggler Kirk",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "koffing",
+   "level": 30,
+   "nature": "bold",
+   "moveset": [
+    "sludge",
+    "smokescreen",
+    "tackle",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "grimer",
+   "level": 30,
+   "nature": "adamant",
+   "moveset": [
+    "sludge",
+    "harden",
+    "minimize",
+    "poisongas"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "stench"
+  }
+ ]
+}

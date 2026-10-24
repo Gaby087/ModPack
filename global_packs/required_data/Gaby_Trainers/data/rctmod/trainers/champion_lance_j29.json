@@ -1,0 +1,183 @@
+{
+ "name": "Champion Lance",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "gyarados",
+   "level": 98,
+   "nature": "jolly",
+   "moveset": [
+    "dragondance",
+    "waterfall",
+    "earthquake",
+    "icefang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "aerodactyl",
+   "level": 98,
+   "nature": "jolly",
+   "moveset": [
+    "stoneedge",
+    "earthquake",
+    "dualwingbeat",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unnerve",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "charizard",
+   "level": 99,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "airslash",
+    "dragonpulse",
+    "focusblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solarpower"
+  },
+  {
+   "species": "salamence",
+   "level": 99,
+   "nature": "naive",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "earthquake",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "garchomp",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "dragonclaw",
+    "stoneedge",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "dragonite",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dragondance",
+    "extremespeed",
+    "earthquake",
+    "firepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "multiscale",
+   "heldItem": [
+    "lum_berry"
+   ]
+  }
+ ]
+}

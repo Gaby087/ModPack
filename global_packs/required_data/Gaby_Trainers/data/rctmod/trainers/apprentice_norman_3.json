@@ -1,0 +1,95 @@
+{
+ "name": "Apprentice Ruby",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "obstagoon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "facade",
+    "knockoff",
+    "partingshot",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "persian",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "knockoff",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "ambipom",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "doublehit",
+    "uturn",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

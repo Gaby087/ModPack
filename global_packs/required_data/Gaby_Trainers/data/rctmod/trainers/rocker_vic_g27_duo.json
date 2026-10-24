@@ -1,0 +1,92 @@
+{
+ "name": "Rocker Vic",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "incineroar",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "hydreigon",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "dracometeor",
+    "darkpulse",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "kingambit",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "kowtowcleave",
+    "ironhead",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "supremeoverlord"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

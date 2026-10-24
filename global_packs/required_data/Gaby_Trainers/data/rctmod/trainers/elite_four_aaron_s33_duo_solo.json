@@ -1,0 +1,170 @@
+{
+ "name": "Elite Four Aaron",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "yanmega",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "airslash",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "scizor",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bulletpunch",
+    "uturn",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "heracross",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "megahorn",
+    "closecombat",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "volcarona",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "bugbuzz",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "vespiquen",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "attackorder",
+    "roost",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "galvantula",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunder",
+    "bugbuzz",
+    "stickyweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "compoundeyes"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

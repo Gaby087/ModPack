@@ -1,0 +1,187 @@
+{
+ "name": "Leader Skyla",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "swanna",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hurricane",
+    "scald",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "hydration"
+  },
+  {
+   "species": "skarmory",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "togekiss",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "airslash",
+    "dazzlinggleam",
+    "followme",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "serenegrace"
+  },
+  {
+   "species": "braviary",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bravebird",
+    "superpower",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sheerforce",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "noivern",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "dracometeor",
+    "hurricane",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "dragonite",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "extremespeed",
+    "dualwingbeat",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "multiscale",
+   "heldItem": [
+    "lum_berry"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

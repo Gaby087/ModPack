@@ -1,0 +1,188 @@
+{
+ "name": "Leader Volkner",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "jolteon",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "shadowball",
+    "voltswitch",
+    "alluringvoice"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "voltabsorb"
+  },
+  {
+   "species": "raichu",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "focusblast",
+    "grassknot",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "lightningrod",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "luxray",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "wildcharge",
+    "crunch",
+    "icefang",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "rotom",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "shadowball",
+    "voltswitch",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [
+    "wash"
+   ],
+   "ability": "levitate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "zeraora",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "plasmafists",
+    "closecombat",
+    "knockoff",
+    "voltswitch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "voltabsorb",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "electivire",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "wildcharge",
+    "icepunch",
+    "earthquake",
+    "crosschop"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "motordrive",
+   "heldItem": [
+    "mega_showdown:ampharosite"
+   ]
+  }
+ ]
+}

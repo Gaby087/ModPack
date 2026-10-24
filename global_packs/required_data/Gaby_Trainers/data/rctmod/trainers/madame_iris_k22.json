@@ -1,0 +1,96 @@
+{
+ "name": "Madame Iris",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "mawile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "playrough",
+    "ironhead",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "granbull",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "playrough",
+    "earthquake",
+    "closecombat",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "klefki",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "thunderwave",
+    "spikes",
+    "foulplay",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  }
+ ]
+}

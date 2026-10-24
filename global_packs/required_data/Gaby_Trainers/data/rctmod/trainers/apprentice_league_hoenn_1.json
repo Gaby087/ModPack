@@ -1,0 +1,92 @@
+{
+ "name": "Aide Rei",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "shiftry",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "leafblade",
+    "suckerpunch",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "cacturne",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "seedbomb",
+    "suckerpunch",
+    "drainpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "crawdaunt",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crabhammer",
+    "knockoff",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "adaptability"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

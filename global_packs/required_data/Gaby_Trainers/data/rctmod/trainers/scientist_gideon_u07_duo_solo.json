@@ -1,0 +1,173 @@
+{
+ "name": "Scientist Gideon",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "porygonz",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "triattack",
+    "darkpulse",
+    "icebeam",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "adaptability"
+  },
+  {
+   "species": "exploud",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "flamethrower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "scrappy"
+  },
+  {
+   "species": "zangoose",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "facade",
+    "closecombat",
+    "quickguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "toxicboost",
+   "heldItem": [
+    "toxic_orb"
+   ]
+  },
+  {
+   "species": "blissey",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "seismictoss",
+    "softboiled",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "tauros",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "doubleedge",
+    "closecombat",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "diggersby",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "return",
+    "uturn",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "hugepower"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

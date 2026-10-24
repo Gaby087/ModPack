@@ -1,0 +1,187 @@
+{
+ "name": "Leader Roark",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "rampardos",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "headsmash",
+    "zenheadbutt",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "moldbreaker",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "probopass",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "powergem",
+    "flashcannon",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "tyranitar",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "crunch",
+    "icepunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sandstream"
+  },
+  {
+   "species": "rhyperior",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "megahorn",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "solidrock",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "bastiodon",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "ironhead",
+    "rockslide",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "golem",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "ironhead",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "focus_sash"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Ace Trainer Maya",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "scizor",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bulletpunch",
+    "uturn",
+    "swordsdance",
+    "knockoff"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "kingambit",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "kowtowcleave",
+    "ironhead",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "supremeoverlord"
+  },
+  {
+   "species": "skarmory",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "spikes",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ]
+}

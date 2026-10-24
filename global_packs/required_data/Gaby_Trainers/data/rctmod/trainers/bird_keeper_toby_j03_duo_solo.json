@@ -1,0 +1,146 @@
+{
+ "name": "Bird Keeper Toby",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "togekiss",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "airslash",
+    "dazzlinggleam",
+    "followme",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "serenegrace"
+  },
+  {
+   "species": "noivern",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "dracometeor",
+    "hurricane",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "staraptor",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "closecombat",
+    "uturn",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "crobat",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "crosspoison",
+    "bravebird",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "archeops",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "stoneedge",
+    "acrobatics",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "defeatist"
+  },
+  {
+   "species": "gliscor",
+   "level": 62,
+   "nature": "impish",
+   "moveset": [
+    "acrobatics",
+    "knockoff",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "poisonheal"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

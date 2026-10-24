@@ -1,0 +1,404 @@
+{
+ "id": "437B8CAEE3B7AC83",
+ "filename": "economy",
+ "group": "71C7157F1269A7DC",
+ "order_index": 10,
+ "icon": {
+  "id": "minecraft:gold_ingot",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "357C1F4945D52D06",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:gold_ingot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/first_sale",
+     "criterion": "",
+     "id": "53A1D305FAA97EAF"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 200",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3CF3C7D0C5BD3116",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "5056A840BC79E6E3",
+   "x": 2.0,
+   "y": -1.0,
+   "icon": {
+    "id": "minecraft:writable_book",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/orders_1",
+     "criterion": "",
+     "id": "26E52CEB67758DEC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "77443B30DA653B21",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "357C1F4945D52D06"
+   ]
+  },
+  {
+   "id": "2D53BFB41D72D088",
+   "x": 4.0,
+   "y": -1.0,
+   "icon": {
+    "id": "minecraft:writable_book",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/orders_10",
+     "criterion": "",
+     "id": "217A9508182F37EF"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1B2513A587CCBA20",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5056A840BC79E6E3"
+   ]
+  },
+  {
+   "id": "75616476663C62C5",
+   "x": 6.0,
+   "y": -1.0,
+   "icon": {
+    "id": "minecraft:writable_book",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/orders_50",
+     "criterion": "",
+     "id": "1CAA1D15C78CE18B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 15000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1C6835BB9F880454",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D53BFB41D72D088"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "7FA243F2EA632C87",
+   "x": 8.0,
+   "y": -1.0,
+   "icon": {
+    "id": "minecraft:writable_book",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/orders_200",
+     "criterion": "",
+     "id": "769D0EF2F9AC5ECD"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 50000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "13FF72737D34256B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "75616476663C62C5"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "1D17EE48163CE4B7",
+   "x": 2.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/bounties_1",
+     "criterion": "",
+     "id": "2721641F29823EF3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "58ECDC38F9AF4834",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 2,
+     "id": "1760F22C863316E5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "357C1F4945D52D06"
+   ]
+  },
+  {
+   "id": "3BB5FE05739C0EC1",
+   "x": 4.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/bounties_10",
+     "criterion": "",
+     "id": "609C8DD65B07613B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6D4BF16E83DC8CF9",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 5,
+     "id": "5A88D0870EF55F1B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1D17EE48163CE4B7"
+   ]
+  },
+  {
+   "id": "112B7079757397CD",
+   "x": 6.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/bounties_50",
+     "criterion": "",
+     "id": "2236797BEBC18EF9"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5FEFCE57EDB0ED8E",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 10,
+     "id": "112DAD64E2F4802A",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3BB5FE05739C0EC1"
+   ]
+  },
+  {
+   "id": "2A993E78D81C5AD2",
+   "x": 2.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:gold_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/money_10000",
+     "criterion": "",
+     "id": "46346EC54256BCE0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 1,
+     "id": "6C1C41F816D513D3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "20145E804FBBE324",
+   "x": 4.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:gold_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/money_100000",
+     "criterion": "",
+     "id": "783D71EA789BEC89"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2DDC0AEE1AF12E47",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "39B4A39BD9EFEBB0",
+   "x": 6.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:diamond_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/money_1000000",
+     "criterion": "",
+     "id": "64D5FB05C1A091B2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 10,
+     "id": "1C0A11031FC13222",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear"
+  },
+  {
+   "id": "3075A65947E42D68",
+   "x": 0.0,
+   "y": 5.0,
+   "icon": {
+    "id": "minecraft:barrel",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/cargo",
+     "criterion": "",
+     "id": "21DC6FC20A1BC406"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "67FDBE6D3D988C17",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  }
+ ]
+}

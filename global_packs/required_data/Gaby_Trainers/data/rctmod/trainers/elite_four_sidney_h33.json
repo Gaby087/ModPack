@@ -1,0 +1,180 @@
+{
+ "name": "Elite Four Sidney",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "mightyena",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "crunch",
+    "playrough",
+    "suckerpunch",
+    "firefang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "shiftry",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "leafblade",
+    "knockoff",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "cacturne",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "seedbomb",
+    "knockoff",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "sharpedo",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "liquidation",
+    "crunch",
+    "closecombat",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "crawdaunt",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crabhammer",
+    "knockoff",
+    "aquajet",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "adaptability",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "absol",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "knockoff",
+    "suckerpunch",
+    "playrough",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "superluck",
+   "heldItem": [
+    "scope_lens"
+   ]
+  }
+ ]
+}

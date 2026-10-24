@@ -1,0 +1,19 @@
+{
+  "ui": {
+    "chapter_panel_pinned": true,
+    "show_lock_icon": true
+  },
+  "notifications": {
+    "completion_style": "toast",
+    "reward_style": "none",
+    "completion_sounds": true
+  },
+  "pinned": {
+    "auto_pin_follows": "quest",
+    "pinned_exclude_flexible": false
+  },
+  "xlate": {
+    "editing_locale": "en_us",
+    "fallback_locale": "en_us"
+  }
+}

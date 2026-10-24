@@ -1,0 +1,95 @@
+{
+ "name": "Elite Four Phoebe",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "dusknoir",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "shadowsneak",
+    "icepunch",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "chandelure",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "shadowball",
+    "heatwave",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "banette",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shadowclaw",
+    "suckerpunch",
+    "willowisp",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "frisk",
+   "heldItem": [
+    "mega_showdown:banettite"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,87 @@
+{
+ "name": "Black Belt Nob",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "conkeldurr",
+   "level": 74,
+   "nature": "adamant",
+   "moveset": [
+    "machpunch",
+    "drainpunch",
+    "knockoff",
+    "icepunch"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "hawlucha",
+   "level": 74,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "acrobatics",
+    "swordsdance",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "unburden"
+  },
+  {
+   "species": "gallade",
+   "level": 74,
+   "nature": "jolly",
+   "moveset": [
+    "sacredsword",
+    "psychocut",
+    "leafblade",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sharpness"
+  }
+ ]
+}

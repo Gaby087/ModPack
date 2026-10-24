@@ -1,0 +1,177 @@
+{
+ "name": "Leader Misty",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "golduck",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "surf",
+    "psychic",
+    "icebeam",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cloudnine"
+  },
+  {
+   "species": "vaporeon",
+   "level": 62,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "icebeam",
+    "wish",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "lapras",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "surf",
+    "icebeam",
+    "thunderbolt",
+    "sing"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "gyarados",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "waterfall",
+    "earthquake",
+    "dragondance",
+    "icefang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "kingdra",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "surf",
+    "dracometeor",
+    "icebeam",
+    "raindance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "starmie",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "hydropump",
+    "psychic",
+    "icebeam",
+    "recover"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure",
+   "heldItem": [
+    "mega_showdown:starminite"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Cooltrainer Lola",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "garchomp",
+   "level": 83,
+   "nature": "jolly",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "roughskin"
+  },
+  {
+   "species": "haxorus",
+   "level": 83,
+   "nature": "jolly",
+   "moveset": [
+    "outrage",
+    "closecombat",
+    "poisonjab",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moldbreaker"
+  },
+  {
+   "species": "kingdra",
+   "level": 82,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "hydropump",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "James",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "meowth",
+   "level": 5,
+   "nature": "jolly",
+   "moveset": [
+    "scratch",
+    "growl",
+    "bite",
+    "payday"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pickup"
+  }
+ ]
+}

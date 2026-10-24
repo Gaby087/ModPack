@@ -1,0 +1,180 @@
+{
+ "name": "Elite Four Bruno",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "hitmontop",
+   "level": 92,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "suckerpunch",
+    "rapidspin",
+    "machpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "hawlucha",
+   "level": 92,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "acrobatics",
+    "swordsdance",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unburden"
+  },
+  {
+   "species": "lucario",
+   "level": 93,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "meteormash",
+    "extremespeed",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "justified"
+  },
+  {
+   "species": "conkeldurr",
+   "level": 93,
+   "nature": "adamant",
+   "moveset": [
+    "machpunch",
+    "drainpunch",
+    "knockoff",
+    "icepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "machamp",
+   "level": 93,
+   "nature": "adamant",
+   "moveset": [
+    "dynamicpunch",
+    "knockoff",
+    "stoneedge",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "noguard"
+  },
+  {
+   "species": "kommoo",
+   "level": 94,
+   "nature": "timid",
+   "moveset": [
+    "clangoroussoul",
+    "clangingscales",
+    "closecombat",
+    "poisonjab"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "soundproof",
+   "heldItem": [
+    "throat_spray"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "name": "Artist Ben",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "ambipom",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "doublehit",
+    "uturn",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "ursaring",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "facade",
+    "closecombat",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "porygon2",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "triattack",
+    "icebeam",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "download",
+   "heldItem": [
+    "eviolite"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

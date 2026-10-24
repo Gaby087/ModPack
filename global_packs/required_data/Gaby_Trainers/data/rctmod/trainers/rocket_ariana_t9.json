@@ -1,0 +1,163 @@
+{
+ "name": "Executive Ariana",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "arbok",
+   "level": 73,
+   "nature": "adamant",
+   "moveset": [
+    "gunkshot",
+    "earthquake",
+    "suckerpunch",
+    "glare"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "vileplume",
+   "level": 73,
+   "nature": "modest",
+   "moveset": [
+    "sludgebomb",
+    "gigadrain",
+    "sleeppowder",
+    "moonblast"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "effectspore"
+  },
+  {
+   "species": "honchkrow",
+   "level": 74,
+   "nature": "adamant",
+   "moveset": [
+    "bravebird",
+    "suckerpunch",
+    "superpower",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moxie",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "houndoom",
+   "level": 74,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "darkpulse",
+    "sludgebomb",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "toxicroak",
+   "level": 74,
+   "nature": "adamant",
+   "moveset": [
+    "drainpunch",
+    "gunkshot",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "tyranitar",
+   "level": 75,
+   "nature": "jolly",
+   "moveset": [
+    "stoneedge",
+    "crunch",
+    "earthquake",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "sandstream",
+   "heldItem": [
+    "lum_berry"
+   ]
+  }
+ ]
+}

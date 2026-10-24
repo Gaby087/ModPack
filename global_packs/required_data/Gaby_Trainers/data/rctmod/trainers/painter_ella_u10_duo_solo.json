@@ -1,0 +1,170 @@
+{
+ "name": "Painter Ella",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "volcarona",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "bugbuzz",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "ribombee",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "bugbuzz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "shielddust"
+  },
+  {
+   "species": "butterfree",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "sleeppowder",
+    "stunspore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "compoundeyes"
+  },
+  {
+   "species": "galvantula",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunder",
+    "bugbuzz",
+    "stickyweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "compoundeyes"
+  },
+  {
+   "species": "durant",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "xscissor",
+    "superpower",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "hustle"
+  },
+  {
+   "species": "shuckle",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "rockslide",
+    "helpinghand",
+    "toxic",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

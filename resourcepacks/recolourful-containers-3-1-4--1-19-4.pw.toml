@@ -1,0 +1,8 @@
+name = "Recolourful Containers 3.1.4 (1.19.4+)"
+filename = "Recolourful Containers 3.1.4 (1.19.4+).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lewweaHO/versions/aQ7jLjk8/Recolourful%20Containers%203.1.4%20%281.19.4%2B%29.zip"
+hash-format = "sha1"
+hash = "802ca58c93fedc5ecbf83ba93df2dc50b6e79c41"

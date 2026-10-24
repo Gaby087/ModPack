@@ -1,0 +1,103 @@
+{
+ "name": "Leader Milo",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "eldegoss",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "gigadrain",
+    "cottonspore",
+    "pollenpuff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "rillaboom",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "grassyglide",
+    "woodhammer",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "grassysurge",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "appletun",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "appleacid",
+    "dracometeor",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "ripen"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

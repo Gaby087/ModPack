@@ -1,0 +1,84 @@
+{
+ "name": "Engineer Ryan",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "klefki",
+   "level": 77,
+   "nature": "bold",
+   "moveset": [
+    "playrough",
+    "thunderwave",
+    "spikes",
+    "foulplay"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "probopass",
+   "level": 76,
+   "nature": "modest",
+   "moveset": [
+    "powergem",
+    "flashcannon",
+    "earthpower",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "aggron",
+   "level": 77,
+   "nature": "adamant",
+   "moveset": [
+    "headsmash",
+    "heavyslam",
+    "earthquake",
+    "rockpolish"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  }
+ ]
+}

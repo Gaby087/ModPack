@@ -1,0 +1,194 @@
+{
+ "name": "Finalist Bede",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "mawile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "playrough",
+    "ironhead",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "gardevoir",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "psychic",
+    "mysticalfire",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "trace",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "rapidash",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "playrough",
+    "highhorsepower",
+    "psychocut",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [
+    "galarian"
+   ],
+   "ability": "pastelveil",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "sylveon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "calmmind",
+    "wish",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pixilate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "togekiss",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "airslash",
+    "dazzlinggleam",
+    "nastyplot",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "serenegrace",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "hatterene",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "dazzlinggleam",
+    "psychic",
+    "mysticalfire",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "magicbounce",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Lady Pippa",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "hatterene",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "dazzlinggleam",
+    "psychic",
+    "mysticalfire",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "shiinotic",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "gigadrain",
+    "spore",
+    "strengthsap"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "effectspore"
+  },
+  {
+   "species": "togekiss",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "airslash",
+    "dazzlinggleam",
+    "nastyplot",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "serenegrace"
+  }
+ ]
+}

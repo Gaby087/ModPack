@@ -1,0 +1,106 @@
+{
+ "name": "Leader Cilan",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "serperior",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "leafstorm",
+    "dragonpulse",
+    "glare",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "contrary",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "amoonguss",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "spore",
+    "ragepowder",
+    "pollenpuff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "ferrothorn",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "powerwhip",
+    "gyroball",
+    "leechseed",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "ironbarbs",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

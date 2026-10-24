@@ -1,0 +1,177 @@
+{
+ "name": "Leader Lt. Surge",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "electrode",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "voltswitch",
+    "foulplay",
+    "taunt"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "soundproof"
+  },
+  {
+   "species": "magnezone",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "flashcannon",
+    "voltswitch",
+    "magnetrise"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "jolteon",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "shadowball",
+    "voltswitch",
+    "hypervoice"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "voltabsorb"
+  },
+  {
+   "species": "manectric",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "flamethrower",
+    "voltswitch",
+    "overheat"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "lightningrod"
+  },
+  {
+   "species": "electivire",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "wildcharge",
+    "icepunch",
+    "crosschop",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "motordrive"
+  },
+  {
+   "species": "raichu",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "focusblast",
+    "grassknot",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "lightningrod",
+   "heldItem": [
+    "mega_showdown:raichunite_x"
+   ]
+  }
+ ]
+}

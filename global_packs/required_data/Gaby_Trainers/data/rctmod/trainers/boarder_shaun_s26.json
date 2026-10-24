@@ -1,0 +1,96 @@
+{
+ "name": "Boarder Shaun",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "cetitan",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "heavyslam",
+    "earthquake",
+    "bellydrum"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "frosmoth",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "icebeam",
+    "bugbuzz",
+    "gigadrain"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "icescales"
+  },
+  {
+   "species": "avalugg",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "avalanche",
+    "bodypress",
+    "rapidspin",
+    "recover"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ]
+}

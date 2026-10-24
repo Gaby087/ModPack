@@ -1,0 +1,92 @@
+{
+ "name": "Apprentice Sand",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "altaria",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dragonpulse",
+    "hurricane",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "duraludon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "flashcannon",
+    "thunderbolt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "stalwart"
+  },
+  {
+   "species": "goodra",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "sludgebomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

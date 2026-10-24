@@ -1,0 +1,192 @@
+{
+ "name": "Leader Raihan",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "flygon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "outrage",
+    "uturn",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "sandaconda",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "earthquake",
+    "coil",
+    "glare",
+    "rest"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sandspit",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "gigalith",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "earthquake",
+    "superpower",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sandstream",
+   "heldItem": [
+    "smooth_rock"
+   ]
+  },
+  {
+   "species": "goodra",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "sludgebomb",
+    "thunderbolt"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "dragapult",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragondarts",
+    "phantomforce",
+    "uturn",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "duraludon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "flashcannon",
+    "thunderbolt",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "lightmetal",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Super Nerd Glenn",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "rapidash",
+   "level": 42,
+   "nature": "jolly",
+   "moveset": [
+    "flamecharge",
+    "stomp",
+    "agility",
+    "wildcharge"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "ninetales",
+   "level": 42,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "extrasensory",
+    "confuseray",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  }
+ ]
+}

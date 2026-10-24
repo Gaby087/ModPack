@@ -1,0 +1,146 @@
+{
+ "name": "Bug Catcher Benny",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "forretress",
+   "level": 64,
+   "nature": "relaxed",
+   "moveset": [
+    "gyroball",
+    "rapidspin",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "galvantula",
+   "level": 65,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "thunder",
+    "stickyweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "compoundeyes"
+  },
+  {
+   "species": "volcarona",
+   "level": 65,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "bugbuzz",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "ribombee",
+   "level": 64,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "bugbuzz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "shielddust"
+  },
+  {
+   "species": "durant",
+   "level": 64,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "xscissor",
+    "superpower",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "hustle"
+  },
+  {
+   "species": "shuckle",
+   "level": 64,
+   "nature": "bold",
+   "moveset": [
+    "rockslide",
+    "helpinghand",
+    "toxic",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

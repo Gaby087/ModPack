@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Dale",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "nosepass",
+   "level": 11,
+   "nature": "relaxed",
+   "moveset": [
+    "rocktomb",
+    "thunderwave",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "larvitar",
+   "level": 10,
+   "nature": "jolly",
+   "moveset": [
+    "bite",
+    "rocksmash",
+    "sandstorm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "guts"
+  },
+  {
+   "species": "geodude",
+   "level": 11,
+   "nature": "adamant",
+   "moveset": [
+    "rockthrow",
+    "rollout",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

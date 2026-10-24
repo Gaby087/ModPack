@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Marina",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "horsea",
+   "level": 16,
+   "nature": "modest",
+   "moveset": [
+    "bubblebeam",
+    "twister",
+    "smokescreen",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "shellder",
+   "level": 17,
+   "nature": "adamant",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "skilllink"
+  },
+  {
+   "species": "krabby",
+   "level": 16,
+   "nature": "adamant",
+   "moveset": [
+    "visegrip",
+    "bubblebeam",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "hypercutter"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,183 @@
+{
+ "name": "Elite Four Lucian",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "mrmime",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "focusblast",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "filter"
+  },
+  {
+   "species": "girafarig",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "hypervoice",
+    "thunderbolt",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "medicham",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "zenheadbutt",
+    "icepunch",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "purepower"
+  },
+  {
+   "species": "alakazam",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "focusblast",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "bronzong",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "gyroball",
+    "earthquake",
+    "trickroom",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "gallade",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "sacredsword",
+    "psychocut",
+    "leafblade",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sharpness",
+   "heldItem": [
+    "lum_berry"
+   ]
+  }
+ ]
+}

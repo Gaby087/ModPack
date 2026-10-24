@@ -1,0 +1,170 @@
+{
+ "name": "Reporter Lea",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "ribombee",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "bugbuzz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "shielddust"
+  },
+  {
+   "species": "volcarona",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "bugbuzz",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "pinsir",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "xscissor",
+    "closecombat",
+    "stoneedge",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "galvantula",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunder",
+    "bugbuzz",
+    "stickyweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "compoundeyes"
+  },
+  {
+   "species": "leavanny",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "leafblade",
+    "xscissor",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "vespiquen",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "attackorder",
+    "roost",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

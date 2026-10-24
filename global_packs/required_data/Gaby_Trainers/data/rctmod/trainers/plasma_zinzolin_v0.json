@@ -1,0 +1,128 @@
+{
+ "name": "Sage Zinzolin",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "cryogonal",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "freezedry",
+    "recover",
+    "rapidspin",
+    "haze"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "sneasel",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "iceshard",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "liepard",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "foulplay",
+    "knockoff",
+    "encore",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "weavile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "iceshard",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "pressure",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

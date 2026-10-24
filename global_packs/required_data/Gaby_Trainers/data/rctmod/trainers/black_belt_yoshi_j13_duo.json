@@ -1,0 +1,80 @@
+{
+ "name": "Black Belt Yoshi",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "machamp",
+   "level": 73,
+   "nature": "adamant",
+   "moveset": [
+    "dynamicpunch",
+    "knockoff",
+    "bulletpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "noguard"
+  },
+  {
+   "species": "hitmonlee",
+   "level": 73,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "reckless"
+  },
+  {
+   "species": "hitmonchan",
+   "level": 73,
+   "nature": "adamant",
+   "moveset": [
+    "drainpunch",
+    "machpunch",
+    "lowsweep",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "ironfist"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

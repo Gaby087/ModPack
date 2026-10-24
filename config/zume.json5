@@ -1,0 +1,10 @@
+{
+  "isCinematicZoomEnabled": true,
+  "isZoomScrollingEnabled": true,
+  "defaultZoom": 0.5,
+  "isFirstPersonToggleModeEnabled": false,
+  "isThirdPersonToggleModeEnabled": false,
+  "zoomSmoothnessMilliseconds": 150,
+  "mouseSensitivityFloor": 0.4,
+  "zoomSpeed": 20
+}

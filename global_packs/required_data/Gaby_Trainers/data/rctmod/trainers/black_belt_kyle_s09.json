@@ -1,0 +1,96 @@
+{
+ "name": "Black Belt Kyle",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "lucario",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "meteormash",
+    "extremespeed",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "justified"
+  },
+  {
+   "species": "toxicroak",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "drainpunch",
+    "gunkshot",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "machamp",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dynamicpunch",
+    "knockoff",
+    "stoneedge",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "noguard"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "name": "Ariana",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "marowak",
+   "level": 49,
+   "nature": "adamant",
+   "moveset": [
+    "bonemerang",
+    "stoneedge",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  },
+  {
+   "species": "nidoqueen",
+   "level": 49,
+   "nature": "modest",
+   "moveset": [
+    "earthpower",
+    "sludgebomb",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "hippowdon",
+   "level": 49,
+   "nature": "impish",
+   "moveset": [
+    "highhorsepower",
+    "crunch",
+    "sandstorm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sandstream"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

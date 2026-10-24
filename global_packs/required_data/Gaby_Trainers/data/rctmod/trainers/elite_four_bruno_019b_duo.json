@@ -1,0 +1,80 @@
+{
+ "name": "Elite Four Bruno",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "hitmonchan",
+   "level": 53,
+   "nature": "adamant",
+   "moveset": [
+    "drainpunch",
+    "icepunch",
+    "lowsweep",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "ironfist"
+  },
+  {
+   "species": "poliwrath",
+   "level": 54,
+   "nature": "adamant",
+   "moveset": [
+    "liquidation",
+    "drainpunch",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "hariyama",
+   "level": 52,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "heavyslam",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

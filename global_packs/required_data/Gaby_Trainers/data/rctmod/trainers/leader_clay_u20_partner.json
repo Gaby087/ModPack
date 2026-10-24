@@ -1,0 +1,100 @@
+{
+ "name": "Foreman Duke",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "garchomp",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "rhyperior",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "megahorn",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "solidrock"
+  },
+  {
+   "species": "flygon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragonclaw",
+    "uturn",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

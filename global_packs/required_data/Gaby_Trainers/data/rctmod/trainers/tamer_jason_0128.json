@@ -1,0 +1,57 @@
+{
+ "name": "Tamer Jason",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "arbok",
+   "level": 32,
+   "nature": "adamant",
+   "moveset": [
+    "poisonfang",
+    "bite",
+    "glare",
+    "acid"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "nidorina",
+   "level": 32,
+   "nature": "careful",
+   "moveset": [
+    "poisonfang",
+    "bite",
+    "doublekick",
+    "toxicspikes"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "poisonpoint"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "type": "champ",
+ "series": [
+  "gaby_kanto"
+ ],
+ "optional": false,
+ "requiredDefeats": [
+  [
+   "elite_four_lance_019d"
+  ]
+ ],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

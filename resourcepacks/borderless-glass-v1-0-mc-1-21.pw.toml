@@ -1,0 +1,8 @@
+name = "Borderless+Glass+v1.0(mc-1.21)"
+filename = "Borderless+Glass+v1.0(mc-1.21).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Ja8Sg6j/versions/AaBDFaRI/Borderless%2BGlass%2Bv1.0%28mc-1.21%29.zip"
+hash-format = "sha1"
+hash = "0e64157157dd39936164f7f201284e306f6a59d4"

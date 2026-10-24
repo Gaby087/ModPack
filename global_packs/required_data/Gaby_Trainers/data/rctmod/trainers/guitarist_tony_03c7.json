@@ -1,0 +1,57 @@
+{
+ "name": "Guitarist Tony",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "electrike",
+   "level": 22,
+   "nature": "jolly",
+   "moveset": [
+    "spark",
+    "howl",
+    "bite",
+    "quickattack"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "pikachu",
+   "level": 22,
+   "nature": "timid",
+   "moveset": [
+    "electroball",
+    "quickattack",
+    "nuzzle",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  }
+ ]
+}

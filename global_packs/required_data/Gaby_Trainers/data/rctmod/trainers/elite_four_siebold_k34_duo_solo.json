@@ -1,0 +1,170 @@
+{
+ "name": "Elite Four Siebold",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "clawitzer",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "waterpulse",
+    "darkpulse",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "megalauncher"
+  },
+  {
+   "species": "starmie",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "scald",
+    "psychic",
+    "icebeam",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "analytic"
+  },
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "icefang",
+    "dragondance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "barbaracle",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "crosschop",
+    "shellsmash",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "toughclaws"
+  },
+  {
+   "species": "toxapex",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "wideguard",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "pelipper",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hurricane",
+    "scald",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "drizzle"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

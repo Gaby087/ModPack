@@ -1,0 +1,84 @@
+{
+ "name": "Bug Catcher Al",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "scizor",
+   "level": 64,
+   "nature": "adamant",
+   "moveset": [
+    "bulletpunch",
+    "uturn",
+    "swordsdance",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "heracross",
+   "level": 64,
+   "nature": "jolly",
+   "moveset": [
+    "megahorn",
+    "closecombat",
+    "stoneedge",
+    "knockoff"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "yanmega",
+   "level": 65,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "airslash",
+    "gigadrain",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "speedboost"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "name": "Ranger Oak",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "trevenant",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "woodhammer",
+    "shadowclaw",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "harvest"
+  },
+  {
+   "species": "chesnaught",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "woodhammer",
+    "bodypress",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "bulletproof"
+  },
+  {
+   "species": "shiftry",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "leafblade",
+    "suckerpunch",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "tropius",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "airslash",
+    "leafstorm",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "leafeon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "leafblade",
+    "knockoff",
+    "quickattack",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "leafguard"
+  },
+  {
+   "species": "cradily",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "gigadrain",
+    "rockslide",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "stormdrain"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

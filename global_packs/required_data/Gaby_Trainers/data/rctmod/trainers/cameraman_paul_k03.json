@@ -1,0 +1,96 @@
+{
+ "name": "Cameraman Paul",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "yanmega",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "airslash",
+    "gigadrain",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "heracross",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "megahorn",
+    "closecombat",
+    "stoneedge",
+    "knockoff"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts"
+  },
+  {
+   "species": "beautifly",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "bugbuzz",
+    "gigadrain",
+    "psychic"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swarm"
+  }
+ ]
+}

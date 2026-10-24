@@ -1,0 +1,186 @@
+{
+ "name": "Boss Cyrus",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "weavile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "iceshard",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "pressure",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "honchkrow",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bravebird",
+    "suckerpunch",
+    "superpower",
+    "heatwave"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "moxie",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "crobat",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "crosspoison",
+    "uturn",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "icefang",
+    "dragondance",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "lum_berry"
+   ]
+  },
+  {
+   "species": "houndoom",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "darkpulse",
+    "sludgebomb",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "dialga",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "roaroftime",
+    "flashcannon",
+    "earthpower",
+    "fireblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "pressure",
+   "heldItem": [
+    "choice_specs"
+   ]
+  }
+ ]
+}

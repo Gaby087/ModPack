@@ -1,0 +1,170 @@
+{
+ "name": "Lass Sarah",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "breloom",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "machpunch",
+    "seedbomb",
+    "spore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "torterra",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "woodhammer",
+    "stoneedge",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "shellarmor"
+  },
+  {
+   "species": "whimsicott",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "energyball",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "abomasnow",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "blizzard",
+    "woodhammer",
+    "auroraveil",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "amoonguss",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "spore",
+    "ragepowder",
+    "pollenpuff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "ferrothorn",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "powerwhip",
+    "gyroball",
+    "leechseed",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "ironbarbs"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Psychic Brittney",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "xatu",
+   "level": 37,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "nightshade",
+    "confuseray",
+    "futuresight"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "hypno",
+   "level": 37,
+   "nature": "calm",
+   "moveset": [
+    "psychic",
+    "hypnosis",
+    "headbutt",
+    "poisongas"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "insomnia"
+  }
+ ]
+}

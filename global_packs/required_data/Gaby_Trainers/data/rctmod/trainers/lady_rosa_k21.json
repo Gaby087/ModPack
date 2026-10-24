@@ -1,0 +1,96 @@
+{
+ "name": "Lady Rosa",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "aromatisse",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "calmmind",
+    "wish",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "aromaveil"
+  },
+  {
+   "species": "slurpuff",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "playrough",
+    "drainpunch",
+    "bellydrum",
+    "return"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unburden"
+  },
+  {
+   "species": "florges",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "moonblast",
+    "calmmind",
+    "synthesis",
+    "psychic"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "flowerveil"
+  }
+ ]
+}

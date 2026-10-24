@@ -1,0 +1,86 @@
+{
+ "name": "Aide Gorou",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "conkeldurr",
+   "level": 93,
+   "nature": "adamant",
+   "moveset": [
+    "machpunch",
+    "drainpunch",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "machamp",
+   "level": 93,
+   "nature": "adamant",
+   "moveset": [
+    "dynamicpunch",
+    "knockoff",
+    "bulletpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "noguard"
+  },
+  {
+   "species": "kommoo",
+   "level": 94,
+   "nature": "timid",
+   "moveset": [
+    "clangingscales",
+    "closecombat",
+    "poisonjab",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "soundproof",
+   "heldItem": [
+    "throat_spray"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

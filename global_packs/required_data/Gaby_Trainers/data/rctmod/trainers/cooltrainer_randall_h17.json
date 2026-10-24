@@ -1,0 +1,96 @@
+{
+ "name": "Cooltrainer Randall",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "blissey",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "seismictoss",
+    "softboiled",
+    "toxic",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "zangoose",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "facade",
+    "closecombat",
+    "knockoff",
+    "quickattack"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "toxicboost"
+  },
+  {
+   "species": "linoone",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "extremespeed",
+    "bellydrum",
+    "shadowclaw",
+    "seedbomb"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "gluttony"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "name": "Finalist Hop",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "corviknight",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "rillaboom",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "grassyglide",
+    "woodhammer",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "grassysurge"
+  },
+  {
+   "species": "pincurchin",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "thunderbolt",
+    "toxicspikes",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "electricsurge"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

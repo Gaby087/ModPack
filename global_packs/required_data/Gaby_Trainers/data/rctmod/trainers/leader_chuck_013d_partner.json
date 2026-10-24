@@ -1,0 +1,91 @@
+{
+ "name": "Black Belt Hana",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "machamp",
+   "level": 75,
+   "nature": "adamant",
+   "moveset": [
+    "dynamicpunch",
+    "knockoff",
+    "bulletpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "noguard"
+  },
+  {
+   "species": "conkeldurr",
+   "level": 75,
+   "nature": "adamant",
+   "moveset": [
+    "machpunch",
+    "drainpunch",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "annihilape",
+   "level": 76,
+   "nature": "adamant",
+   "moveset": [
+    "ragefist",
+    "drainpunch",
+    "lowsweep",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "defiant",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

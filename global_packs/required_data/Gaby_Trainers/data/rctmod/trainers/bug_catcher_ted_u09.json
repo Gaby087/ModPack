@@ -1,0 +1,96 @@
+{
+ "name": "Bug Catcher Ted",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "scolipede",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "megahorn",
+    "poisonjab",
+    "earthquake",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "whimsicott",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "encore",
+    "uturn",
+    "tailwind"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "swadloon",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "seedbomb",
+    "bugbite",
+    "stickyweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  }
+ ]
+}

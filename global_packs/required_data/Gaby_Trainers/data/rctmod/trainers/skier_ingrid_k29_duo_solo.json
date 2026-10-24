@@ -1,0 +1,170 @@
+{
+ "name": "Skier Ingrid",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "abomasnow",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "blizzard",
+    "woodhammer",
+    "auroraveil",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "weavile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "glaceon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "icebeam",
+    "freezedry",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowcloak"
+  },
+  {
+   "species": "mamoswine",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "iceshard",
+    "knockoff",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "froslass",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "lapras",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "hydropump",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Gentleman Alfred",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "metagross",
+   "level": 77,
+   "nature": "adamant",
+   "moveset": [
+    "meteormash",
+    "zenheadbutt",
+    "bulletpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "clearbody"
+  },
+  {
+   "species": "excadrill",
+   "level": 76,
+   "nature": "jolly",
+   "moveset": [
+    "ironhead",
+    "rockslide",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moldbreaker"
+  },
+  {
+   "species": "skarmory",
+   "level": 76,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

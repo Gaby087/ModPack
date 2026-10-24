@@ -1,0 +1,96 @@
+{
+ "name": "Bird Keeper Jared",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "swanna",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "hurricane",
+    "scald",
+    "icebeam",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "keeneye"
+  },
+  {
+   "species": "crobat",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "crosspoison",
+    "uturn",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "gliscor",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "acrobatics",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "poisonheal"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Gin",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "corviknight",
+   "level": 76,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "bisharp",
+   "level": 76,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "suckerpunch",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "defiant"
+  },
+  {
+   "species": "duraludon",
+   "level": 76,
+   "nature": "modest",
+   "moveset": [
+    "flashcannon",
+    "dragonpulse",
+    "thunderbolt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "lightmetal"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

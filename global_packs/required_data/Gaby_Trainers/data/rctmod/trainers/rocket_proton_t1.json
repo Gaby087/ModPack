@@ -1,0 +1,106 @@
+{
+ "name": "Admin Proton",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "koffing",
+   "level": 17,
+   "nature": "bold",
+   "moveset": [
+    "smog",
+    "smokescreen",
+    "tackle",
+    "clearsmog"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "ekans",
+   "level": 18,
+   "nature": "adamant",
+   "moveset": [
+    "bite",
+    "poisonsting",
+    "glare",
+    "acid"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "zubat",
+   "level": 18,
+   "nature": "jolly",
+   "moveset": [
+    "bite",
+    "wingattack",
+    "supersonic",
+    "leechlife"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "grimer",
+   "level": 19,
+   "nature": "adamant",
+   "moveset": [
+    "sludge",
+    "mudslap",
+    "harden",
+    "disable"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "stench"
+  }
+ ]
+}

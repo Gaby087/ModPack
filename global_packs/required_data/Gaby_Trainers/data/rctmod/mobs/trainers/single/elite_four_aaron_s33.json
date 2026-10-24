@@ -1,0 +1,18 @@
+{
+ "type": "e4",
+ "series": [
+  "gaby_sinnoh"
+ ],
+ "optional": false,
+ "requiredDefeats": [
+  [
+   "leader_volkner_s32"
+  ]
+ ],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

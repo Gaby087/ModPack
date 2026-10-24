@@ -1,0 +1,92 @@
+{
+ "name": "Black Belt Hitoshi",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "keldeo",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "secretsword",
+    "hydropump",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "justified"
+  },
+  {
+   "species": "blaziken",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "closecombat",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "urshifu",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "wickedblow",
+    "closecombat",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unseenfist"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

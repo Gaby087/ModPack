@@ -1,0 +1,186 @@
+{
+ "name": "Leader Gardenia",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "cherrim",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "solarbeam",
+    "weatherball",
+    "sunnyday",
+    "healingwish"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flowergift"
+  },
+  {
+   "species": "roserade",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "leafstorm",
+    "sludgebomb",
+    "shadowball",
+    "spikes"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "tangrowth",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "powerwhip",
+    "earthquake",
+    "knockoff",
+    "sleeppowder"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "leafeon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "leafblade",
+    "knockoff",
+    "swordsdance",
+    "synthesis"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "venusaur",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "gigadrain",
+    "sludgebomb",
+    "sleeppowder",
+    "synthesis"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "torterra",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "woodhammer",
+    "earthquake",
+    "stoneedge",
+    "shellsmash"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "overgrow",
+   "heldItem": [
+    "white_herb"
+   ]
+  }
+ ]
+}

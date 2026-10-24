@@ -1,0 +1,98 @@
+{
+ "name": "Finalist Marnie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "grimmsnarl",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "spiritbreak",
+    "thunderwave",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "prankster",
+   "heldItem": [
+    "light_clay"
+   ]
+  },
+  {
+   "species": "weavile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "obstagoon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "facade",
+    "knockoff",
+    "partingshot",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

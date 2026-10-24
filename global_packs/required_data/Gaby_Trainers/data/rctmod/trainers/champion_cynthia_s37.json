@@ -1,0 +1,192 @@
+{
+ "name": "Champion Cynthia",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 5
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 5
+  }
+ ],
+ "team": [
+  {
+   "species": "spiritomb",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "foulplay",
+    "shadowsneak",
+    "willowisp",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "roserade",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "leafstorm",
+    "sludgebomb",
+    "shadowball",
+    "spikes"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "togekiss",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "airslash",
+    "dazzlinggleam",
+    "nastyplot",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "serenegrace",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "lucario",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "aurasphere",
+    "flashcannon",
+    "nastyplot",
+    "vacuumwave"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "innerfocus",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "milotic",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "icebeam",
+    "recover",
+    "dragontail"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "marvelscale",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "garchomp",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "dragonclaw",
+    "stoneedge",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "lum_berry"
+   ]
+  }
+ ]
+}

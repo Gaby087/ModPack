@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Ryuji",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "altaria",
+   "level": 82,
+   "nature": "modest",
+   "moveset": [
+    "dragonpulse",
+    "hurricane",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "tyrantrum",
+   "level": 82,
+   "nature": "adamant",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "strongjaw"
+  },
+  {
+   "species": "haxorus",
+   "level": 82,
+   "nature": "jolly",
+   "moveset": [
+    "outrage",
+    "closecombat",
+    "poisonjab",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moldbreaker"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

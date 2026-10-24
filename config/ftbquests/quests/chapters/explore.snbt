@@ -1,0 +1,367 @@
+{
+ "id": "2FF543B3ADE9F7D3",
+ "filename": "explore",
+ "group": "71C7157F1269A7DC",
+ "order_index": 15,
+ "icon": {
+  "id": "minecraft:ender_eye",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "1E125CA627BD2658",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "waystones:waystone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "waystones:warp_stone",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1ADDB02BDC970CA7"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2C545F2E889C6AC7",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "519563ED6ABFC96D",
+   "x": 2.0,
+   "y": 0.0,
+   "icon": {
+    "id": "naturescompass:naturescompass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "naturescompass:naturescompass",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "7949E4EA6BC81B7B"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "explorerscompass:explorerscompass",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "5F5CBFF948E6EC95"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "61921597E7F3AE64",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1E125CA627BD2658"
+   ]
+  },
+  {
+   "id": "263B22179E0C6532",
+   "x": 0.0,
+   "y": 2.0,
+   "icon": {
+    "id": "sophisticatedbackpacks:backpack",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "sophisticatedbackpacks:backpack",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "770889F81C678DAF"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "317C777D99130D9F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "423F30A393068090",
+   "x": 2.0,
+   "y": 2.0,
+   "icon": {
+    "id": "minecraft:obsidian",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "dimension",
+     "dimension": "minecraft:the_nether",
+     "id": "11008E92167125D0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "54FDC80DC21C68D4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1E125CA627BD2658"
+   ]
+  },
+  {
+   "id": "29416E187F2FE373",
+   "x": 4.0,
+   "y": 2.0,
+   "icon": {
+    "id": "minecraft:blaze_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "minecraft:blaze_rod",
+      "count": 1
+     },
+     "count": 6,
+     "consume_items": false,
+     "id": "10B8A04EF82B5068"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5594B98477AA32D4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "423F30A393068090"
+   ]
+  },
+  {
+   "id": "11A8879E6EDBDE9A",
+   "x": 6.0,
+   "y": 2.0,
+   "icon": {
+    "id": "minecraft:end_portal_frame",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "dimension",
+     "dimension": "minecraft:the_end",
+     "id": "2A3FDF7E332FEB53"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5B5FD5C35E6B487C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "29416E187F2FE373"
+   ]
+  },
+  {
+   "id": "6881DC4BE2D4C852",
+   "x": 8.0,
+   "y": 2.0,
+   "icon": {
+    "id": "minecraft:dragon_egg",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "minecraft:dragon_egg",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6EFD52F465384B56"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 15000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2E6985DD96931BE0",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:master_ball",
+      "count": 1
+     },
+     "count": 1,
+     "id": "340A7A3731A38C48",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "11A8879E6EDBDE9A"
+   ],
+   "shape": "gear",
+   "size": 1.4
+  },
+  {
+   "id": "22C9F8CE86E1C59B",
+   "x": 0.0,
+   "y": 4.0,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/explore/outbreak_streak",
+     "criterion": "",
+     "id": "57E61E6AAD7DF3B9"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 10000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "292A2A65EFAB7CDF",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 10,
+     "id": "723024ABF9DA83E5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3997AE49B0BD047C",
+   "x": 10.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:elytra",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "minecraft:elytra",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "4787D69A2C03419F"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "45149C5C24B9D2E7",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6881DC4BE2D4C852"
+   ]
+  },
+  {
+   "id": "2E7DE4F5B74FE100",
+   "x": 10.0,
+   "y": 3.0,
+   "icon": {
+    "id": "unusualend:pearlescent_ingot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "unusualend:pearlescent_ingot",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "2EA1189B85A38C06"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 6000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5AB76564D65A6A5C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6881DC4BE2D4C852"
+   ]
+  }
+ ]
+}

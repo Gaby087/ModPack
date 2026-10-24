@@ -1,0 +1,181 @@
+{
+ "name": "Leader Fantina",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "gengar",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgebomb",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "mismagius",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "dazzlinggleam",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "drifblim",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "shadowball",
+    "strengthsap",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "unburden"
+  },
+  {
+   "species": "chandelure",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "shadowball",
+    "heatwave",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "aegislash",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shadowsneak",
+    "ironhead",
+    "kingsshield",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "stancechange"
+  },
+  {
+   "species": "froslass",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "icebeam",
+    "willowisp",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

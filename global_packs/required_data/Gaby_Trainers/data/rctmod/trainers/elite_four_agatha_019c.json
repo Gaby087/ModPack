@@ -1,0 +1,151 @@
+{
+ "name": "Elite Four Agatha",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "crobat",
+   "level": 54,
+   "nature": "jolly",
+   "moveset": [
+    "crosspoison",
+    "bravebird",
+    "uturn",
+    "confuseray"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "mismagius",
+   "level": 55,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "mysticalfire",
+    "thunderbolt",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "arbok",
+   "level": 55,
+   "nature": "adamant",
+   "moveset": [
+    "gunkshot",
+    "crunch",
+    "glare",
+    "suckerpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "marowak",
+   "level": 56,
+   "nature": "adamant",
+   "moveset": [
+    "shadowbone",
+    "flareblitz",
+    "bonemerang",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "hp": 252
+   },
+   "aspects": [
+    "alolan"
+   ],
+   "ability": "cursedbody",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "gengar",
+   "level": 57,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgebomb",
+    "focusblast",
+    "hypnosis"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252
+   },
+   "aspects": [],
+   "ability": "cursedbody",
+   "heldItem": [
+    "spell_tag"
+   ]
+  }
+ ]
+}

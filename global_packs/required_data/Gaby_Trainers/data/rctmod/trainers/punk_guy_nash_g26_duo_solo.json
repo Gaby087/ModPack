@@ -1,0 +1,170 @@
+{
+ "name": "Punk Guy Nash",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "tyranitar",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "crunch",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sandstream"
+  },
+  {
+   "species": "drapion",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "knockoff",
+    "poisonjab",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sniper"
+  },
+  {
+   "species": "mandibuzz",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "foulplay",
+    "knockoff",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "overcoat"
+  },
+  {
+   "species": "krookodile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "highhorsepower",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "honchkrow",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "suckerpunch",
+    "bravebird",
+    "nightslash",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "sableye",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "foulplay",
+    "willowisp",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "def": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

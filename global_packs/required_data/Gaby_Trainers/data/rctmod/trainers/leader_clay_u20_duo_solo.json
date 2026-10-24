@@ -1,0 +1,184 @@
+{
+ "name": "Leader Clay",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "excadrill",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "rockslide",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "moldbreaker",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "hippowdon",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "highhorsepower",
+    "crunch",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sandstream",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "krookodile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "highhorsepower",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "garchomp",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "rhyperior",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "megahorn",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "solidrock"
+  },
+  {
+   "species": "flygon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragonclaw",
+    "uturn",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

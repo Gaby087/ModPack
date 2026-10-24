@@ -1,0 +1,170 @@
+{
+ "name": "Elite Four Flint",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "infernape",
+   "level": 100,
+   "nature": "naive",
+   "moveset": [
+    "closecombat",
+    "flareblitz",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "ironfist"
+  },
+  {
+   "species": "rapidash",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "wildcharge",
+    "morningsun",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "magmortar",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "heatwave",
+    "thunderbolt",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "arcanine",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "extremespeed",
+    "snarl",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "torkoal",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "eruption",
+    "overheat",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "drought"
+  },
+  {
+   "species": "talonflame",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "flareblitz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "galewings"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

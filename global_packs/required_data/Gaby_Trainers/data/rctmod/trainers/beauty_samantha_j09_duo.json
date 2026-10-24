@@ -1,0 +1,80 @@
+{
+ "name": "Beauty Samantha",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "snorlax",
+   "level": 68,
+   "nature": "careful",
+   "moveset": [
+    "bodyslam",
+    "crunch",
+    "curse",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "stoutland",
+   "level": 67,
+   "nature": "adamant",
+   "moveset": [
+    "return",
+    "crunch",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "porygonz",
+   "level": 68,
+   "nature": "modest",
+   "moveset": [
+    "triattack",
+    "shadowball",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "adaptability"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

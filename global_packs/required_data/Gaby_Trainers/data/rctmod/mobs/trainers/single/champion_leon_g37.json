@@ -1,0 +1,18 @@
+{
+ "type": "champ",
+ "series": [
+  "gaby_galar"
+ ],
+ "optional": false,
+ "requiredDefeats": [
+  [
+   "finalist_mustard_g36"
+  ]
+ ],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

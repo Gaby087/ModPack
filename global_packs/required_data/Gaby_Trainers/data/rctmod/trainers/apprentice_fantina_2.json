@@ -1,0 +1,92 @@
+{
+ "name": "Apprentice Hex",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "trevenant",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "woodhammer",
+    "shadowclaw",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "harvest"
+  },
+  {
+   "species": "jellicent",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "shadowball",
+    "willowisp",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "golurk",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shadowpunch",
+    "earthpower",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "ironfist"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

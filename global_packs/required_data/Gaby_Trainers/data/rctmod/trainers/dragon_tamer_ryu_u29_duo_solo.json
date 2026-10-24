@@ -1,0 +1,170 @@
+{
+ "name": "Dragon Tamer Ryu",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "haxorus",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "outrage",
+    "closecombat",
+    "poisonjab",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moldbreaker"
+  },
+  {
+   "species": "salamence",
+   "level": 100,
+   "nature": "naive",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "kingdra",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "hydropump",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "altaria",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dragonpulse",
+    "hurricane",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "garchomp",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin"
+  },
+  {
+   "species": "goodra",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "sludgebomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

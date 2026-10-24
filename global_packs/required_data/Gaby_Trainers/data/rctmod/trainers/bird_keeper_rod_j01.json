@@ -1,0 +1,84 @@
+{
+ "name": "Bird Keeper Rod",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "noctowl",
+   "level": 60,
+   "nature": "modest",
+   "moveset": [
+    "airslash",
+    "hypnosis",
+    "nightshade",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "tintedlens"
+  },
+  {
+   "species": "xatu",
+   "level": 61,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "airslash",
+    "heatwave",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "dodrio",
+   "level": 61,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "drillrun",
+    "swordsdance",
+    "quickattack"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "earlybird"
+  }
+ ]
+}

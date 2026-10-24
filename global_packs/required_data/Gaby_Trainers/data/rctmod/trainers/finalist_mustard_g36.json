@@ -1,0 +1,192 @@
+{
+ "name": "Master Mustard",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "kommoo",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "clangoroussoul",
+    "clangingscales",
+    "aurasphere",
+    "flamethrower"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "soundproof",
+   "heldItem": [
+    "throat_spray"
+   ]
+  },
+  {
+   "species": "luxray",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "wildcharge",
+    "crunch",
+    "icefang",
+    "superpower"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "corviknight",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "roost",
+    "defog"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "pressure",
+   "heldItem": [
+    "rocky_helmet"
+   ]
+  },
+  {
+   "species": "cloyster",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "shellsmash",
+    "hydropump"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "skilllink",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "golisopod",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "firstimpression",
+    "liquidation",
+    "knockoff",
+    "leechlife"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "emergencyexit",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "hitmontop",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "closecombat",
+    "suckerpunch",
+    "rapidspin",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "name": "Colress",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "magnezone",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "flashcannon",
+    "voltswitch",
+    "bodypress"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "magnetpull",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "klinklang",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shiftgear",
+    "geargrind",
+    "wildcharge",
+    "substitute"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "clearbody",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "metang",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "meteormash",
+    "zenheadbutt",
+    "earthquake",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "clearbody",
+   "heldItem": [
+    "eviolite"
+   ]
+  },
+  {
+   "species": "beheeyem",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "thunderbolt",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "analytic"
+  },
+  {
+   "species": "rotom",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "voltswitch",
+    "overheat",
+    "willowisp",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [
+    "heat"
+   ],
+   "ability": "levitate",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

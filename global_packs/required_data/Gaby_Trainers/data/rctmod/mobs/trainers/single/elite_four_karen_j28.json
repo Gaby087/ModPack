@@ -1,0 +1,18 @@
+{
+ "type": "e4",
+ "series": [
+  "gaby_johto"
+ ],
+ "optional": false,
+ "requiredDefeats": [
+  [
+   "elite_four_bruno_j27"
+  ]
+ ],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

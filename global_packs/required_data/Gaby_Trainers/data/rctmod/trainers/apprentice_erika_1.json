@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Rin",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "bulbasaur",
+   "level": 26,
+   "nature": "bold",
+   "moveset": [
+    "razorleaf",
+    "sleeppowder",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "overgrow"
+  },
+  {
+   "species": "skiploom",
+   "level": 26,
+   "nature": "timid",
+   "moveset": [
+    "megadrain",
+    "stunspore",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "cottonee",
+   "level": 25,
+   "nature": "timid",
+   "moveset": [
+    "cottonspore",
+    "energyball",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "prankster"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

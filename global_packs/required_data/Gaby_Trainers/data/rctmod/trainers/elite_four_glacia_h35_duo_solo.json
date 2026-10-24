@@ -1,0 +1,170 @@
+{
+ "name": "Elite Four Glacia",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "glalie",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "icebeam",
+    "freezedry",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "moody"
+  },
+  {
+   "species": "walrein",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "icebeam",
+    "waterpulse",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "def": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "weavile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "abomasnow",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "blizzard",
+    "woodhammer",
+    "auroraveil",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "mamoswine",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "iceshard",
+    "knockoff",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "froslass",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

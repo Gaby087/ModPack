@@ -1,0 +1,152 @@
+{
+ "name": "Elite Four Lorelei",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "dewgong",
+   "level": 50,
+   "nature": "calm",
+   "moveset": [
+    "icebeam",
+    "aquajet",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "cloyster",
+   "level": 51,
+   "nature": "adamant",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "skilllink",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "jynx",
+   "level": 52,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "psychic",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "slowbro",
+   "level": 51,
+   "nature": "bold",
+   "moveset": [
+    "psychic",
+    "waterpulse",
+    "slackoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "lapras",
+   "level": 53,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "hydropump",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "waterabsorb",
+   "heldItem": [
+    "never_melt_ice"
+   ]
+  },
+  {
+   "species": "glaceon",
+   "level": 52,
+   "nature": "modest",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "icebody"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

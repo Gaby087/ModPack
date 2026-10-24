@@ -1,0 +1,96 @@
+{
+ "name": "Scientist Ion",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "heliolisk",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "hypervoice",
+    "surf",
+    "voltswitch"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "magnezone",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "flashcannon",
+    "voltswitch",
+    "bodypress"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magnetpull"
+  },
+  {
+   "species": "klinklang",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shiftgear",
+    "geargrind",
+    "wildcharge",
+    "substitute"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "clearbody"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Bird Keeper Humberto",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "corviknight",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "roost",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "mandibuzz",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "foulplay",
+    "roost",
+    "toxic",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "overcoat"
+  },
+  {
+   "species": "toucannon",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "beakblast",
+    "bulletseed",
+    "rockblast",
+    "knockoff"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "skilllink"
+  }
+ ]
+}

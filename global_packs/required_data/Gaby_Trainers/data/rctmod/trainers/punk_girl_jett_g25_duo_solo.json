@@ -1,0 +1,173 @@
+{
+ "name": "Punk Girl Jett",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "weavile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "houndoom",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "darkpulse",
+    "fireblast",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "grimmsnarl",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "spiritbreak",
+    "thunderwave",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "obstagoon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "facade",
+    "knockoff",
+    "partingshot",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "skuntank",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crunch",
+    "poisonjab",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "aftermath"
+  },
+  {
+   "species": "liepard",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "foulplay",
+    "thunderwave",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

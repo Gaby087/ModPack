@@ -1,0 +1,80 @@
+{
+ "name": "Super Nerd Glenn",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "rapidash",
+   "level": 42,
+   "nature": "jolly",
+   "moveset": [
+    "flamecharge",
+    "stomp",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "arcanine",
+   "level": 42,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "extremespeed",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "heatmor",
+   "level": 42,
+   "nature": "adamant",
+   "moveset": [
+    "firelash",
+    "knockoff",
+    "superpower",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

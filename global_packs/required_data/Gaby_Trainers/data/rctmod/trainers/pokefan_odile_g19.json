@@ -1,0 +1,96 @@
+{
+ "name": "Pokefan Odile",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "mimikyu",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "playrough",
+    "shadowclaw",
+    "shadowsneak",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "disguise"
+  },
+  {
+   "species": "grimmsnarl",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "spiritbreak",
+    "darkestlariat",
+    "thunderwave",
+    "reflect"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "clefable",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "softboiled",
+    "calmmind",
+    "flamethrower"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "magicguard"
+  }
+ ]
+}

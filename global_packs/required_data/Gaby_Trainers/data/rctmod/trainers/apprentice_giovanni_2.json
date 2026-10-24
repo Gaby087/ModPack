@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Lena",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "excadrill",
+   "level": 47,
+   "nature": "jolly",
+   "moveset": [
+    "highhorsepower",
+    "ironhead",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moldbreaker"
+  },
+  {
+   "species": "nidoqueen",
+   "level": 47,
+   "nature": "modest",
+   "moveset": [
+    "earthpower",
+    "sludgebomb",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "tyranitar",
+   "level": 47,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "crunch",
+    "sandstorm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sandstream"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

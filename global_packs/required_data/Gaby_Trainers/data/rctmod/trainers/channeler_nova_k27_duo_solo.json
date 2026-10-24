@@ -1,0 +1,170 @@
+{
+ "name": "Channeler Nova",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "solrock",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "zenheadbutt",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "lunatone",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "powergem",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "exeggutor",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "psychic",
+    "gigadrain",
+    "sunnyday",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "harvest"
+  },
+  {
+   "species": "jynx",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "icebeam",
+    "lovelykiss",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "beheeyem",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "analytic"
+  },
+  {
+   "species": "grumpig",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,192 @@
+{
+ "name": "Leader Skyla",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "swanna",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "hurricane",
+    "scald",
+    "icebeam",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "hydration",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "unfezant",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "return",
+    "uturn",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "superluck",
+   "heldItem": [
+    "scope_lens"
+   ]
+  },
+  {
+   "species": "braviary",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "closecombat",
+    "rockslide",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "defiant",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "sigilyph",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "airslash",
+    "heatwave",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "archeops",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "headsmash",
+    "acrobatics",
+    "earthquake",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "defeatist",
+   "heldItem": [
+    "sharp_beak"
+   ]
+  },
+  {
+   "species": "skarmory",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "spikes",
+    "roost",
+    "whirlwind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "rocky_helmet"
+   ]
+  }
+ ]
+}

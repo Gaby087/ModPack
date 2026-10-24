@@ -1,0 +1,420 @@
+{
+ "id": "71BAFEFE06A0061D",
+ "filename": "skies",
+ "group": "71C7157F1269A7DC",
+ "order_index": 12,
+ "icon": {
+  "id": "aeronautics:wooden_propeller",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "1F176F3B34EAF89D",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "simulated:physics_assembler",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "simulated:physics_assembler",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "28F0A6348796CACC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "192A0C41A7E9C735",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "37F6F8526051BFBD",
+   "x": 2.0,
+   "y": -1.0,
+   "icon": {
+    "id": "aeronautics:white_envelope",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aeronautics:white_envelope",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "2CFECD993E10B966"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aeronautics:adjustable_burner",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6DA01F4875B0AB31"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "17EAF8817D5EB7BF",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1F176F3B34EAF89D"
+   ]
+  },
+  {
+   "id": "19B738C6A012C58B",
+   "x": 2.0,
+   "y": 1.0,
+   "icon": {
+    "id": "aeronautics:propeller_bearing",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aeronautics:propeller_bearing",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6CC193997B73FB77"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aeronautics:wooden_propeller",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3352A9E3B4A1ED51"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6A0B38FDB3ED26B4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1F176F3B34EAF89D"
+   ]
+  },
+  {
+   "id": "4E2B57B8BB855DB1",
+   "x": 4.0,
+   "y": 0.0,
+   "icon": {
+    "id": "aeronautics:smart_propeller",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "checkmark",
+     "id": "1D05A430B6BF8562"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 8000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "47F6E394D022EBD8",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "37F6F8526051BFBD",
+    "19B738C6A012C58B"
+   ],
+   "shape": "diamond",
+   "size": 1.3
+  },
+  {
+   "id": "25A2E6F66B0D1ECA",
+   "x": 6.0,
+   "y": -1.0,
+   "icon": {
+    "id": "aeronautics:levitite",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aeronautics:levitite",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "689D5A5C76A325DD"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "18358E2AD30DE85D",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4E2B57B8BB855DB1"
+   ]
+  },
+  {
+   "id": "6C6DC46C465C4BA5",
+   "x": 6.0,
+   "y": 1.0,
+   "icon": {
+    "id": "simulated:navigation_table",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "simulated:navigation_table",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "7BC9F349FD0A9AFF"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aeronautics:gyroscopic_propeller_bearing",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "13FC3882530AC9C5"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3F1A29B8FD649F9B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4E2B57B8BB855DB1"
+   ]
+  },
+  {
+   "id": "446F9F297C029029",
+   "x": 6.0,
+   "y": 2.5,
+   "icon": {
+    "id": "gaby_core:expedition_base",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/ship/base_bound",
+     "criterion": "",
+     "id": "6386D7AB0D7A0DFA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4FD74EEE389F196E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4E2B57B8BB855DB1"
+   ]
+  },
+  {
+   "id": "44FDE6415AA4A2A4",
+   "x": 8.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:scaffolding",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "checkmark",
+     "id": "58EC79B60A8B643F"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 10000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "77BCB410A22E1CA9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "25A2E6F66B0D1ECA",
+    "6C6DC46C465C4BA5"
+   ],
+   "shape": "gear",
+   "size": 1.4
+  },
+  {
+   "id": "494C928E24444ACB",
+   "x": 10.0,
+   "y": 0.0,
+   "icon": {
+    "id": "aeronautics:pearlescent_levitite",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "checkmark",
+     "id": "31CF1ED949CB1BAD"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 25000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1192B0C590FE2E3F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "44FDE6415AA4A2A4"
+   ]
+  },
+  {
+   "id": "7EEC26C6BDD0929A",
+   "x": 2.0,
+   "y": 3.0,
+   "icon": {
+    "id": "offroad:tire",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "offroad:wheel_mount",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "1EE333D7CB680FBF"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "offroad:tire",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "3BD27033279643EC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "323D48D9A2E24D20",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1F176F3B34EAF89D"
+   ]
+  },
+  {
+   "id": "59309F00572DF65D",
+   "x": 4.0,
+   "y": 3.0,
+   "icon": {
+    "id": "offroad:borehead_bearing",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "offroad:borehead_bearing",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3753527BE932B392"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "offroad:rockcutting_wheel",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2DAB069CEF8F0ADC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1C7DE8AE0A38AD52",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7EEC26C6BDD0929A"
+   ]
+  }
+ ]
+}

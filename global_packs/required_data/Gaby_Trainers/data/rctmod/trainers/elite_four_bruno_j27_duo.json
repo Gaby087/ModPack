@@ -1,0 +1,80 @@
+{
+ "name": "Elite Four Bruno",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "hitmontop",
+   "level": 92,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "suckerpunch",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "hawlucha",
+   "level": 92,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "acrobatics",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "unburden"
+  },
+  {
+   "species": "lucario",
+   "level": 93,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "meteormash",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "justified"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

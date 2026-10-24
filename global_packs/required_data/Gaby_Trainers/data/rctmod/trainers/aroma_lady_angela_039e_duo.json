@@ -1,0 +1,80 @@
+{
+ "name": "Aroma Lady Angela",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "gloom",
+   "level": 27,
+   "nature": "calm",
+   "moveset": [
+    "megadrain",
+    "sleeppowder",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "exeggutor",
+   "level": 28,
+   "nature": "modest",
+   "moveset": [
+    "psychic",
+    "sleeppowder",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "bellossom",
+   "level": 28,
+   "nature": "modest",
+   "moveset": [
+    "magicalleaf",
+    "stunspore",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "healer"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

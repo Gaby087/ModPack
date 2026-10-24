@@ -1,0 +1,146 @@
+{
+ "name": "Channeler Hope",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "mrmime",
+   "level": 36,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "reflect",
+    "lightscreen",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "filter"
+  },
+  {
+   "species": "starmie",
+   "level": 36,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "waterpulse",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "gardevoir",
+   "level": 36,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "moonblast",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "trace"
+  },
+  {
+   "species": "slowbro",
+   "level": 36,
+   "nature": "bold",
+   "moveset": [
+    "psychic",
+    "waterpulse",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "exeggcute",
+   "level": 36,
+   "nature": "modest",
+   "moveset": [
+    "psychic",
+    "sleeppowder",
+    "leechseed",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "girafarig",
+   "level": 36,
+   "nature": "modest",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

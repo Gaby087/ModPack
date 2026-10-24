@@ -1,0 +1,84 @@
+{
+ "name": "Gentleman Alfred",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "metagross",
+   "level": 77,
+   "nature": "adamant",
+   "moveset": [
+    "meteormash",
+    "zenheadbutt",
+    "earthquake",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "clearbody"
+  },
+  {
+   "species": "excadrill",
+   "level": 76,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "ironhead",
+    "rapidspin",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moldbreaker"
+  },
+  {
+   "species": "skarmory",
+   "level": 76,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "spikes",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ]
+}

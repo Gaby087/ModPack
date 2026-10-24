@@ -1,0 +1,8 @@
+name = "mega_showdown-neoforge-1.2.0+1.8.1+1.21.1-release"
+filename = "mega_showdown-neoforge-1.2.0+1.8.1+1.21.1-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SszvX85I/versions/PzUYM6Nz/mega_showdown-neoforge-1.2.0%2B1.8.1%2B1.21.1-release.jar"
+hash-format = "sha1"
+hash = "fddf66671aad5f3ec2f51f8d87ee43a54b82f5e7"

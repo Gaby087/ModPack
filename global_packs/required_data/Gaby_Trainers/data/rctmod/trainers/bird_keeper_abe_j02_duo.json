@@ -1,0 +1,83 @@
+{
+ "name": "Bird Keeper Abe",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "skarmory",
+   "level": 61,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "fearow",
+   "level": 61,
+   "nature": "jolly",
+   "moveset": [
+    "drillpeck",
+    "uturn",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sniper"
+  },
+  {
+   "species": "swellow",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "facade",
+    "quickguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

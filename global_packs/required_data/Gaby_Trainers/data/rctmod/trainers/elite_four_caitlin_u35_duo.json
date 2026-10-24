@@ -1,0 +1,95 @@
+{
+ "name": "Elite Four Caitlin",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "gothitelle",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "psychic",
+    "thunderwave",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "def": 4
+   },
+   "aspects": [],
+   "ability": "shadowtag"
+  },
+  {
+   "species": "reuniclus",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "psychic",
+    "focusblast",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "magicguard"
+  },
+  {
+   "species": "alakazam",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "focusblast",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

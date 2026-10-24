@@ -1,0 +1,183 @@
+{
+ "name": "Leader Pryce",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "walrein",
+   "level": 80,
+   "nature": "bold",
+   "moveset": [
+    "surf",
+    "icebeam",
+    "protect",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "frosmoth",
+   "level": 80,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "icebeam",
+    "bugbuzz",
+    "gigadrain"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "icescales"
+  },
+  {
+   "species": "cloyster",
+   "level": 80,
+   "nature": "adamant",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "shellsmash",
+    "iceshard"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "skilllink",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "weavile",
+   "level": 81,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "iceshard",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "baxcalibur",
+   "level": 81,
+   "nature": "adamant",
+   "moveset": [
+    "glaiverush",
+    "iciclecrash",
+    "earthquake",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thermalexchange"
+  },
+  {
+   "species": "mamoswine",
+   "level": 82,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "iciclecrash",
+    "iceshard",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

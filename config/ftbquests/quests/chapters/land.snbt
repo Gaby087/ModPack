@@ -1,0 +1,273 @@
+{
+ "id": "41A775F8954D327D",
+ "filename": "land",
+ "group": "71C7157F1269A7DC",
+ "order_index": 14,
+ "icon": {
+  "id": "farmersdelight:cooking_pot",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "732CB919EA195753",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:wheat",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "minecraft:wheat",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "5514E887ACFC23BC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 200",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1B623FC930BDB511",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7215B25D7C7D9967",
+   "x": 2.0,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:cooking_pot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:cooking_pot",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2E33BACADA1EFBE4"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:skillet",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "66D38823CC222DEE"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:cutting_board",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2C5F732F8397ED99"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 600",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3460263C45EFC3D5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "732CB919EA195753"
+   ]
+  },
+  {
+   "id": "24E087CC24FBB4EC",
+   "x": 2.0,
+   "y": 2.0,
+   "icon": {
+    "id": "croptopia:tomato_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "checkmark",
+     "id": "44E966F566E602E3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3E3AB9C21C05674A",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "732CB919EA195753"
+   ]
+  },
+  {
+   "id": "14ECC702A712EB70",
+   "x": 4.0,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:beef_stew",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:beef_stew",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "719E49FEFAD5F0D8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "32EF310B1343AE35",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7215B25D7C7D9967"
+   ]
+  },
+  {
+   "id": "6D9F942CFE500BDD",
+   "x": 4.0,
+   "y": 2.0,
+   "icon": {
+    "id": "farmersdelight:rich_soil",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:rich_soil",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "38CA06B6E497123D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7E9975004FDBD9CE",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7215B25D7C7D9967"
+   ]
+  },
+  {
+   "id": "371777C47EED1422",
+   "x": 0.0,
+   "y": 4.0,
+   "icon": {
+    "id": "aquaculture:iron_fishing_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:iron_fishing_rod",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "57A9CF02285108B1"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:tackle_box",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "19236EDCC39F00AE"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 600",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "11E51FE249418032",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "466B774A01FF9585",
+   "x": 2.0,
+   "y": 4.0,
+   "icon": {
+    "id": "aquaculture:neptunium_ingot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:neptunium_ingot",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "67A15F71B26B2158"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "73DBE8CB6B23465E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ],
+   "shape": "diamond"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "name": "Waitress Tia",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "simisage",
+   "level": 100,
+   "nature": "naive",
+   "moveset": [
+    "gunkshot",
+    "seedbomb",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "gluttony"
+  },
+  {
+   "species": "emboar",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "hammerarm",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "reckless"
+  },
+  {
+   "species": "samurott",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "waterfall",
+    "sacredsword",
+    "aquajet",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "torrent"
+  },
+  {
+   "species": "serperior",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "leafstorm",
+    "dragonpulse",
+    "glare",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "contrary"
+  },
+  {
+   "species": "pignite",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "wildcharge",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "blaze"
+  },
+  {
+   "species": "simipour",
+   "level": 100,
+   "nature": "naive",
+   "moveset": [
+    "hydropump",
+    "icebeam",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "torrent"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

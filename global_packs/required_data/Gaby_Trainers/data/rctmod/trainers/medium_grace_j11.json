@@ -1,0 +1,84 @@
+{
+ "name": "Medium Grace",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "chandelure",
+   "level": 71,
+   "nature": "modest",
+   "moveset": [
+    "shadowball",
+    "flamethrower",
+    "energyball",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "froslass",
+   "level": 70,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "spikes",
+    "destinybond"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "sableye",
+   "level": 70,
+   "nature": "careful",
+   "moveset": [
+    "knockoff",
+    "willowisp",
+    "recover",
+    "foulplay"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "prankster"
+  }
+ ]
+}

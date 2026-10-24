@@ -1,0 +1,160 @@
+{
+ "name": "Leader Whitney",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "snorlax",
+   "level": 69,
+   "nature": "careful",
+   "moveset": [
+    "bodyslam",
+    "curse",
+    "rest",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "lopunny",
+   "level": 69,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "highjumpkick",
+    "return",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "limber"
+  },
+  {
+   "species": "blissey",
+   "level": 69,
+   "nature": "bold",
+   "moveset": [
+    "softboiled",
+    "helpinghand",
+    "seismictoss",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "porygon2",
+   "level": 68,
+   "nature": "calm",
+   "moveset": [
+    "triattack",
+    "icebeam",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "trace",
+   "heldItem": [
+    "eviolite"
+   ]
+  },
+  {
+   "species": "ursaluna",
+   "level": 69,
+   "nature": "adamant",
+   "moveset": [
+    "headlongrush",
+    "facade",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "miltank",
+   "level": 70,
+   "nature": "careful",
+   "moveset": [
+    "bodyslam",
+    "milkdrink",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

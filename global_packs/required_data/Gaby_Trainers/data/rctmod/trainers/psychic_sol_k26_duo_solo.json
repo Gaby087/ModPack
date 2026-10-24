@@ -1,0 +1,170 @@
+{
+ "name": "Psychic Sol",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "xatu",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "airslash",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "claydol",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "psychic",
+    "earthpower",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "starmie",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "hydropump",
+    "icebeam",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "analytic"
+  },
+  {
+   "species": "hatterene",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "gallade",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "sacredsword",
+    "psychocut",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sharpness"
+  },
+  {
+   "species": "bronzong",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "gyroball",
+    "psychic",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

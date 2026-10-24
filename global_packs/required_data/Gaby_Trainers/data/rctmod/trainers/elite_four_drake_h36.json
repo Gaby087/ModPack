@@ -1,0 +1,186 @@
+{
+ "name": "Elite Four Drake",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "altaria",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dragondance",
+    "dracometeor",
+    "earthquake",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "flygon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "dragonclaw",
+    "uturn",
+    "firepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "kingdra",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "hydropump",
+    "icebeam",
+    "raindance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "dragonite",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dragondance",
+    "extremespeed",
+    "earthquake",
+    "firepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "multiscale",
+   "heldItem": [
+    "lum_berry"
+   ]
+  },
+  {
+   "species": "garchomp",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "dragonclaw",
+    "stoneedge",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "salamence",
+   "level": 100,
+   "nature": "naive",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "earthquake",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

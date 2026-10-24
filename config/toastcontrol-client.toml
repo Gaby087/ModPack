@@ -1,0 +1,11 @@
+[client.blocked_toasts]
+advancements = true
+recipes = true
+tutorial = true
+system = false
+global_vanilla = false
+global_modded = false
+global = false
+blocked_classes = []
+[client.visual_options]
+toast_count = 1

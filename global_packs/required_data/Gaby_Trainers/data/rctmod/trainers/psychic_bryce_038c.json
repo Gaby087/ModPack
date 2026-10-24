@@ -1,0 +1,57 @@
+{
+ "name": "Psychic Bryce",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "kadabra",
+   "level": 35,
+   "nature": "timid",
+   "moveset": [
+    "psybeam",
+    "recover",
+    "reflect",
+    "disable"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "synchronize"
+  },
+  {
+   "species": "drowzee",
+   "level": 35,
+   "nature": "calm",
+   "moveset": [
+    "headbutt",
+    "confusion",
+    "hypnosis",
+    "poisongas"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "insomnia"
+  }
+ ]
+}

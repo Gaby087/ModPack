@@ -1,0 +1,84 @@
+{
+ "name": "Beauty Victoria",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "lopunny",
+   "level": 67,
+   "nature": "jolly",
+   "moveset": [
+    "return",
+    "highjumpkick",
+    "icepunch",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "limber"
+  },
+  {
+   "species": "persian",
+   "level": 67,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "uturn",
+    "knockoff",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "farigiraf",
+   "level": 68,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "psychic",
+    "calmmind",
+    "thunderbolt"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "armortail"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Ace Trainer Alicia",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "glaceon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "freezedry",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "icebody"
+  },
+  {
+   "species": "chienpao",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "iciclecrash",
+    "suckerpunch",
+    "sacredsword",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swordofruin"
+  },
+  {
+   "species": "cryogonal",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "freezedry",
+    "rapidspin",
+    "recover",
+    "haze"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  }
+ ]
+}

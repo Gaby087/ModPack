@@ -1,0 +1,96 @@
+{
+ "name": "Engineer Lou",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "magnezone",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "flashcannon",
+    "voltswitch",
+    "bodypress"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magnetpull"
+  },
+  {
+   "species": "vikavolt",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "bugbuzz",
+    "energyball",
+    "voltswitch"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "regieleki",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "voltswitch",
+    "extremespeed",
+    "rapidspin"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "transistor"
+  }
+ ]
+}

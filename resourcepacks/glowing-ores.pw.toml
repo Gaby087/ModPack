@@ -1,0 +1,8 @@
+name = "Glowing ores"
+filename = "Glowing ores.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UdM7EYgj/versions/cvRYTyVw/Glowing%20ores.zip"
+hash-format = "sha1"
+hash = "cd5dadd61237a7a8a3f05d15290094836ed00647"

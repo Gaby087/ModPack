@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Zed",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "typhlosion",
+   "level": 42,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "eruption",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "blaze"
+  },
+  {
+   "species": "chandelure",
+   "level": 42,
+   "nature": "modest",
+   "moveset": [
+    "shadowball",
+    "flamethrower",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "talonflame",
+   "level": 42,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "flareblitz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "galewings"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

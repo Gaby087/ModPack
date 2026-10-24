@@ -1,0 +1,8 @@
+name = "citadel-1.21.1-2.7.6"
+filename = "citadel-1.21.1-2.7.6.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7982/52/citadel-1.21.1-2.7.6.jar"
+hash-format = "sha1"
+hash = "e0392370117ec16a721f8d65728944398de77607"

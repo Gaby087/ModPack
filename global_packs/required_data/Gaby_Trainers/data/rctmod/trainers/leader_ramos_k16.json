@@ -1,0 +1,192 @@
+{
+ "name": "Leader Ramos",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "gogoat",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "hornleech",
+    "earthquake",
+    "milkdrink",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "chesnaught",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bodypress",
+    "spikes",
+    "leechseed",
+    "synthesis"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "bulletproof",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "victreebel",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "powerwhip",
+    "sludgebomb",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "jumpluff",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "acrobatics",
+    "sleeppowder",
+    "leechseed",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "trevenant",
+   "level": 100,
+   "nature": "brave",
+   "moveset": [
+    "hornleech",
+    "poltergeist",
+    "woodhammer",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "harvest",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "ferrothorn",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "powerwhip",
+    "gyroball",
+    "stealthrock",
+    "leechseed"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "ironbarbs",
+   "heldItem": [
+    "rocky_helmet"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "name": "Swimmer Bridget",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "swampert",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "waterfall",
+    "icepunch",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "torrent"
+  },
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "icefang",
+    "dragondance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "crawdaunt",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crabhammer",
+    "knockoff",
+    "aquajet",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "adaptability"
+  },
+  {
+   "species": "sharpedo",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "crunch",
+    "icefang",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "whiscash",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "waterfall",
+    "rocktomb",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "oblivious"
+  },
+  {
+   "species": "quagsire",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "waterfall",
+    "recover",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Psychic Luna",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "meowstic",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "thunderbolt",
+    "reflect",
+    "lightscreen"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "sigilyph",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "airslash",
+    "heatwave",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicguard"
+  },
+  {
+   "species": "slowking",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "scald",
+    "psychic",
+    "slackoff",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  }
+ ]
+}

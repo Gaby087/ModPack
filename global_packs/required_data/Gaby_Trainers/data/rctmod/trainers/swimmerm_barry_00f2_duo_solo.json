@@ -1,0 +1,146 @@
+{
+ "name": "Swimmer Barry",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "psyduck",
+   "level": 18,
+   "nature": "modest",
+   "moveset": [
+    "waterpulse",
+    "confusion",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cloudnine"
+  },
+  {
+   "species": "seel",
+   "level": 17,
+   "nature": "calm",
+   "moveset": [
+    "aquajet",
+    "icywind",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "slowpoke",
+   "level": 17,
+   "nature": "relaxed",
+   "moveset": [
+    "waterpulse",
+    "confusion",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "owntempo"
+  },
+  {
+   "species": "tentacool",
+   "level": 17,
+   "nature": "timid",
+   "moveset": [
+    "waterpulse",
+    "poisonjab",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "clearbody"
+  },
+  {
+   "species": "wooper",
+   "level": 17,
+   "nature": "careful",
+   "moveset": [
+    "waterpulse",
+    "mudshot",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "remoraid",
+   "level": 17,
+   "nature": "modest",
+   "moveset": [
+    "waterpulse",
+    "aurorabeam",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "hustle"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Waitress Holly",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "darmanitan",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "uturn",
+    "earthquake",
+    "rockslide"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "heatmor",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "fireblast",
+    "gigadrain",
+    "suckerpunch",
+    "focusblast"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "audino",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "healpulse",
+    "doubleedge",
+    "protect",
+    "wish"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  }
+ ]
+}

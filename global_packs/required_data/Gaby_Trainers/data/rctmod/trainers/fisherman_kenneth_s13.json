@@ -1,0 +1,96 @@
+{
+ "name": "Fisherman Kenneth",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragondance",
+    "waterfall",
+    "earthquake",
+    "icefang"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "whiscash",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "waterfall",
+    "dragondance",
+    "stoneedge"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "oblivious"
+  },
+  {
+   "species": "quagsire",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "earthquake",
+    "scald",
+    "recover",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "unaware"
+  }
+ ]
+}

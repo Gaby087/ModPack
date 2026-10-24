@@ -1,0 +1,8 @@
+name = "XaerosWorldMap_1.40.2_NeoForge_1.21"
+filename = "XaerosWorldMap_1.40.2_NeoForge_1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/qZXRCPsg/XaerosWorldMap_1.40.2_NeoForge_1.21.jar"
+hash-format = "sha1"
+hash = "aeabbcb21eb5c143802687323c341d1895b6123d"

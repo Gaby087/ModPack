@@ -1,0 +1,146 @@
+{
+ "name": "Leader Sabrina",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "mrmime",
+   "level": 37,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "reflect",
+    "lightscreen",
+    "dazzlinggleam"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {
+    "spa": 84,
+    "spe": 84
+   },
+   "aspects": [],
+   "ability": "filter"
+  },
+  {
+   "species": "hypno",
+   "level": 37,
+   "nature": "calm",
+   "moveset": [
+    "psychic",
+    "hypnosis",
+    "dreameater",
+    "headbutt"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {
+    "spd": 84,
+    "spa": 84
+   },
+   "aspects": [],
+   "ability": "insomnia"
+  },
+  {
+   "species": "jynx",
+   "level": 38,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "psychic",
+    "lovelykiss",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {
+    "spa": 84,
+    "spe": 84
+   },
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "espeon",
+   "level": 38,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "morningsun",
+    "quickattack"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {
+    "spa": 84,
+    "spe": 84
+   },
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "alakazam",
+   "level": 39,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "recover",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {
+    "spa": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "twisted_spoon"
+   ]
+  }
+ ]
+}

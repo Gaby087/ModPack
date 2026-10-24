@@ -1,0 +1,57 @@
+{
+ "name": "Lass Ann",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "oddish",
+   "level": 25,
+   "nature": "modest",
+   "moveset": [
+    "megadrain",
+    "acid",
+    "sleeppowder",
+    "poisonpowder"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "bellsprout",
+   "level": 26,
+   "nature": "adamant",
+   "moveset": [
+    "vinewhip",
+    "wrap",
+    "growth",
+    "poisonpowder"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  }
+ ]
+}

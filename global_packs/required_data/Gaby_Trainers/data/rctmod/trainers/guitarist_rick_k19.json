@@ -1,0 +1,96 @@
+{
+ "name": "Guitarist Rick",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "emolga",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "airslash",
+    "uturn",
+    "encore"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "motordrive"
+  },
+  {
+   "species": "toxtricity",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "overdrive",
+    "boomburst",
+    "sludgebomb",
+    "voltswitch"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "punkrock"
+  },
+  {
+   "species": "electrode",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "voltswitch",
+    "thunderbolt",
+    "foulplay",
+    "taunt"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "aftermath"
+  }
+ ]
+}

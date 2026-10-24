@@ -1,0 +1,16 @@
+{
+ "title": {
+  "text": "Galar League"
+ },
+ "description": {
+  "text": "Eight Galar gyms at level 100. Opens after the Kalos League."
+ },
+ "difficulty": 10,
+ "initialLevelCap": 100,
+ "relativeLevelCap": 0,
+ "requiredSeries": [
+  [
+   "gaby_kalos"
+  ]
+ ]
+}

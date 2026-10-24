@@ -1,0 +1,164 @@
+{
+ "name": "Champion Lance",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "charizard",
+   "level": 99,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "airslash",
+    "dragonpulse",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "solarpower"
+  },
+  {
+   "species": "salamence",
+   "level": 99,
+   "nature": "naive",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "dragonite",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "extremespeed",
+    "firepunch",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "multiscale",
+   "heldItem": [
+    "lum_berry"
+   ]
+  },
+  {
+   "species": "gyarados",
+   "level": 98,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "icefang",
+    "dragondance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "aerodactyl",
+   "level": 98,
+   "nature": "jolly",
+   "moveset": [
+    "rockslide",
+    "dualwingbeat",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "unnerve",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "garchomp",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

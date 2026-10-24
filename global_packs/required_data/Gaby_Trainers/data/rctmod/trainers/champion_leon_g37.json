@@ -1,0 +1,192 @@
+{
+ "name": "Champion Leon",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 5
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 5
+  }
+ ],
+ "team": [
+  {
+   "species": "aegislash",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shadowsneak",
+    "ironhead",
+    "kingsshield",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "stancechange",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "dragapult",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragondarts",
+    "phantomforce",
+    "uturn",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "haxorus",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragondance",
+    "outrage",
+    "earthquake",
+    "poisonjab"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moldbreaker",
+   "heldItem": [
+    "lum_berry"
+   ]
+  },
+  {
+   "species": "seismitoad",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "scald",
+    "earthpower",
+    "sludgewave",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "rhyperior",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "earthquake",
+    "megahorn",
+    "rockpolish"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solidrock",
+   "heldItem": [
+    "weakness_policy"
+   ]
+  },
+  {
+   "species": "charizard",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "airslash",
+    "solarbeam",
+    "focusblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solarpower",
+   "heldItem": [
+    "choice_specs"
+   ]
+  }
+ ]
+}

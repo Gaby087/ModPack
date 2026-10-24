@@ -1,0 +1,189 @@
+{
+ "name": "Leader Fantina",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "drifblim",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "airslash",
+    "calmmind",
+    "strengthsap"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unburden",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "gengar",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgewave",
+    "focusblast",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "spiritomb",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "foulplay",
+    "shadowsneak",
+    "willowisp",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "froslass",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "spikes",
+    "destinybond"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "dragapult",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragondarts",
+    "phantomforce",
+    "uturn",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "clearbody"
+  },
+  {
+   "species": "mismagius",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "dazzlinggleam",
+    "nastyplot",
+    "thunderbolt"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "mega_showdown:banettite"
+   ]
+  }
+ ]
+}

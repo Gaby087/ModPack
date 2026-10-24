@@ -1,0 +1,11 @@
+{
+  "hideUnknownPokemon": false,
+  "hideConditionsOfUnknownSpawns": false,
+  "hideNaturalBlockConditions": true,
+  "percentageForKnownHerd": 0.5,
+  "syncLabelsWithClient": true,
+  "syncEvYieldWithClient": true,
+  "searchAreaWidth": 128.0,
+  "searchAreaHeight": 128.0,
+  "collectableConditions": {}
+}

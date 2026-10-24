@@ -1,0 +1,18 @@
+{
+ "type": "champ",
+ "series": [
+  "gaby_unova"
+ ],
+ "optional": false,
+ "requiredDefeats": [
+  [
+   "elite_four_marshal_u36"
+  ]
+ ],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

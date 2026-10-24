@@ -1,0 +1,170 @@
+{
+ "name": "Worker Colin",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "probopass",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "powergem",
+    "flashcannon",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "gigalith",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "ironhead",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sandstream"
+  },
+  {
+   "species": "coalossal",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "flamethrower",
+    "rockslide",
+    "sandstorm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "glimmora",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "powergem",
+    "sludgebomb",
+    "earthpower",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "toxicdebris"
+  },
+  {
+   "species": "armaldo",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "xscissor",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "battlearmor"
+  },
+  {
+   "species": "aurorus",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "ancientpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

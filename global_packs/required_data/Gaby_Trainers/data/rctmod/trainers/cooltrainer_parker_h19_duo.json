@@ -1,0 +1,92 @@
+{
+ "name": "Cooltrainer Parker",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "tauros",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "doubleedge",
+    "closecombat",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "dodrio",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "return",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "earlybird"
+  },
+  {
+   "species": "stoutland",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "return",
+    "crunch",
+    "superpower",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

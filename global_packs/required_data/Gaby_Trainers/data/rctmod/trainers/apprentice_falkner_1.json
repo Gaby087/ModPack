@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Sky",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "pelipper",
+   "level": 61,
+   "nature": "modest",
+   "moveset": [
+    "hurricane",
+    "scald",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "drizzle"
+  },
+  {
+   "species": "altaria",
+   "level": 61,
+   "nature": "modest",
+   "moveset": [
+    "dragonpulse",
+    "hurricane",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "talonflame",
+   "level": 61,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "flareblitz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "galewings"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

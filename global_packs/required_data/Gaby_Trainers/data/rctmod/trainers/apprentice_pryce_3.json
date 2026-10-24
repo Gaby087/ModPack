@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Setsu",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "jynx",
+   "level": 80,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "psychic",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "piloswine",
+   "level": 79,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "rockslide",
+    "iceshard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "cetitan",
+   "level": 79,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "knockoff",
+    "iceshard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "slushrush"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

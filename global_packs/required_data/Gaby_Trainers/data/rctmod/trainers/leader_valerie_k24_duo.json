@@ -1,0 +1,103 @@
+{
+ "name": "Leader Valerie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "sylveon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "moonblast",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "pixilate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "florges",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "gigadrain",
+    "lightscreen",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "flowerveil"
+  },
+  {
+   "species": "mawile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "playrough",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "mega_showdown:mawilite"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

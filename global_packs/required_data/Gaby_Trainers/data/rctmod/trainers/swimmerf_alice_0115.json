@@ -1,0 +1,57 @@
+{
+ "name": "Swimmer Alice",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "goldeen",
+   "level": 16,
+   "nature": "jolly",
+   "moveset": [
+    "hornattack",
+    "waterpulse",
+    "supersonic",
+    "agility"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "staryu",
+   "level": 17,
+   "nature": "timid",
+   "moveset": [
+    "watergun",
+    "rapidspin",
+    "swift",
+    "harden"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "illuminate"
+  }
+ ]
+}

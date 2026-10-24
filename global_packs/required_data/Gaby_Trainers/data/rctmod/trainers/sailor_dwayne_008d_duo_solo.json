@@ -1,0 +1,146 @@
+{
+ "name": "Sailor Dwayne",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "voltorb",
+   "level": 20,
+   "nature": "hasty",
+   "moveset": [
+    "spark",
+    "electroweb",
+    "screech",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "soundproof"
+  },
+  {
+   "species": "magnemite",
+   "level": 21,
+   "nature": "modest",
+   "moveset": [
+    "electroball",
+    "thunderwave",
+    "flashcannon",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "mareep",
+   "level": 20,
+   "nature": "calm",
+   "moveset": [
+    "thundershock",
+    "helpinghand",
+    "cottonspore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "shinx",
+   "level": 20,
+   "nature": "adamant",
+   "moveset": [
+    "spark",
+    "bite",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "elekid",
+   "level": 21,
+   "nature": "jolly",
+   "moveset": [
+    "thunderpunch",
+    "lowkick",
+    "followme",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "plusle",
+   "level": 21,
+   "nature": "timid",
+   "moveset": [
+    "electroweb",
+    "helpinghand",
+    "quickattack",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "plus"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

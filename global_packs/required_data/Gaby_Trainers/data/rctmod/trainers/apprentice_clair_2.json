@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Kou",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "dragalge",
+   "level": 83,
+   "nature": "modest",
+   "moveset": [
+    "sludgebomb",
+    "dragonpulse",
+    "focusblast",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "poisontouch"
+  },
+  {
+   "species": "druddigon",
+   "level": 83,
+   "nature": "adamant",
+   "moveset": [
+    "dragonclaw",
+    "rockslide",
+    "glare",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "roughskin"
+  },
+  {
+   "species": "altaria",
+   "level": 83,
+   "nature": "modest",
+   "moveset": [
+    "dragonpulse",
+    "hurricane",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

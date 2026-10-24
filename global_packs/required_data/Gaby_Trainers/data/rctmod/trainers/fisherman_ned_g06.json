@@ -1,0 +1,96 @@
+{
+ "name": "Fisherman Ned",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "drednaw",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "liquidation",
+    "stoneedge",
+    "shellsmash",
+    "superpower"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "golisopod",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "firstimpression",
+    "liquidation",
+    "knockoff",
+    "leechlife"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "emergencyexit"
+  },
+  {
+   "species": "toxapex",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "recover",
+    "toxicspikes",
+    "haze"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  }
+ ]
+}

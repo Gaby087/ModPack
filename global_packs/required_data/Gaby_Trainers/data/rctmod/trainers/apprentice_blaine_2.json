@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Ada",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "flareon",
+   "level": 41,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "quickattack",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "ninetales",
+   "level": 41,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "extrasensory",
+    "willowisp",
+    "helpinghand"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "camerupt",
+   "level": 41,
+   "nature": "modest",
+   "moveset": [
+    "flamethrower",
+    "earthpower",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magmaarmor"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

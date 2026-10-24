@@ -1,0 +1,177 @@
+{
+ "name": "Leader Blaine",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "rapidash",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "wildcharge",
+    "drillrun",
+    "morningsun"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "flareon",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "superpower",
+    "quickattack",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts"
+  },
+  {
+   "species": "ninetales",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "solarbeam",
+    "nastyplot",
+    "energyball"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "drought"
+  },
+  {
+   "species": "magmortar",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "flamethrower",
+    "thunderbolt",
+    "focusblast",
+    "psychic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "arcanine",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "extremespeed",
+    "wildcharge",
+    "closecombat"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "charizard",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "airslash",
+    "solarbeam",
+    "focusblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solarpower",
+   "heldItem": [
+    "mega_showdown:charizardite_y"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Artist Sam",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "accelgor",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "focusblast",
+    "energyball",
+    "spikes"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "stickyhold"
+  },
+  {
+   "species": "escavalier",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "megahorn",
+    "knockoff",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "overcoat"
+  },
+  {
+   "species": "crustle",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "shellsmash",
+    "stoneedge",
+    "xscissor",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Hiker Lucas",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "glimmora",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "powergem",
+    "sludgewave",
+    "earthpower",
+    "mortalspin"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "toxicdebris"
+  },
+  {
+   "species": "garganacl",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "saltcure",
+    "recover",
+    "protect",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "purifyingsalt"
+  },
+  {
+   "species": "gigalith",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "earthquake",
+    "heavyslam",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sandstream"
+  }
+ ]
+}

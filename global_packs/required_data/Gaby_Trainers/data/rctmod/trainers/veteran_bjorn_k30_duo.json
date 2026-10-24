@@ -1,0 +1,92 @@
+{
+ "name": "Veteran Bjorn",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "beartic",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "superpower",
+    "aquajet",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "slushrush"
+  },
+  {
+   "species": "walrein",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "icywind",
+    "waterpulse",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "def": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "glalie",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "icebeam",
+    "freezedry",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "moody"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

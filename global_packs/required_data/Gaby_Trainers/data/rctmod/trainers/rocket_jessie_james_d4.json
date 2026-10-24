@@ -1,0 +1,169 @@
+{
+ "name": "Jessie & James",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "arbok",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "gunkshot",
+    "earthquake",
+    "suckerpunch",
+    "glare"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "weezing",
+   "level": 62,
+   "nature": "bold",
+   "moveset": [
+    "sludgebomb",
+    "willowisp",
+    "fireblast",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "wobbuffet",
+   "level": 62,
+   "nature": "bold",
+   "moveset": [
+    "counter",
+    "mirrorcoat",
+    "encore",
+    "safeguard"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "shadowtag",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "malamar",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "superpower",
+    "knockoff",
+    "psychocut",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "contrary",
+   "heldItem": [
+    "lum_berry"
+   ]
+  },
+  {
+   "species": "gourgeist",
+   "level": 62,
+   "nature": "brave",
+   "moveset": [
+    "poltergeist",
+    "seedbomb",
+    "willowisp",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "frisk",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "persian",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "knockoff",
+    "uturn",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician",
+   "heldItem": [
+    "choice_band"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

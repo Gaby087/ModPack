@@ -1,0 +1,84 @@
+{
+ "name": "Bug Catcher Josh",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "pinsir",
+   "level": 65,
+   "nature": "jolly",
+   "moveset": [
+    "xscissor",
+    "closecombat",
+    "stoneedge",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "ninjask",
+   "level": 64,
+   "nature": "jolly",
+   "moveset": [
+    "xscissor",
+    "swordsdance",
+    "aerialace",
+    "batonpass"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "armaldo",
+   "level": 65,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "xscissor",
+    "earthquake",
+    "rapidspin"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "battlearmor"
+  }
+ ]
+}

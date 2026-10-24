@@ -1,0 +1,131 @@
+{
+ "name": "Admin Ariana",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "muk",
+   "level": 42,
+   "nature": "adamant",
+   "moveset": [
+    "poisonjab",
+    "shadowsneak",
+    "icepunch",
+    "curse"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "poisontouch"
+  },
+  {
+   "species": "weezing",
+   "level": 42,
+   "nature": "bold",
+   "moveset": [
+    "sludgebomb",
+    "willowisp",
+    "fireblast",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "honchkrow",
+   "level": 43,
+   "nature": "adamant",
+   "moveset": [
+    "suckerpunch",
+    "bravebird",
+    "nightslash",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "superluck"
+  },
+  {
+   "species": "crobat",
+   "level": 43,
+   "nature": "jolly",
+   "moveset": [
+    "crosspoison",
+    "crunch",
+    "confuseray",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "houndoom",
+   "level": 44,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "darkpulse",
+    "nastyplot",
+    "sludgebomb"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  }
+ ]
+}

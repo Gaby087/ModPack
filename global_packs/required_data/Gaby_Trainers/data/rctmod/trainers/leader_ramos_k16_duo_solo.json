@@ -1,0 +1,184 @@
+{
+ "name": "Leader Ramos",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "trevenant",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "woodhammer",
+    "shadowclaw",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "harvest",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "amoonguss",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "spore",
+    "ragepowder",
+    "pollenpuff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "torterra",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "woodhammer",
+    "stoneedge",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "shellarmor",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "roserade",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "energyball",
+    "sludgebomb",
+    "sleeppowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "rillaboom",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "grassyglide",
+    "woodhammer",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "grassysurge"
+  },
+  {
+   "species": "whimsicott",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "energyball",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

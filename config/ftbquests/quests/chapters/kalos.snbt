@@ -1,0 +1,594 @@
+{
+ "id": "7F82D7A1E9FEBD42",
+ "filename": "kalos",
+ "group": "71C7157F1269A7DC",
+ "order_index": 6,
+ "icon": {
+  "id": "cobblemonpokemonbadges:bug_badge",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "7DD3288A6723B445",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:bug_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_viola_k04",
+     "criterion": "",
+     "id": "40C7A4B1DFC588D8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 55000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "58305DA31A3BD9C3",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 16,
+     "id": "77A98A745D3CC993",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "357FD21C1CACA6E3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "65C0C55C14A83610",
+   "x": 2.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:cliff_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_grant_k08",
+     "criterion": "",
+     "id": "41410E8AAFF74FC0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 60500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5340240411FE97DF",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 16,
+     "id": "16B1630A64738A90",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "71FA86DE82237DE7",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7DD3288A6723B445"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6A6AF3DF48708FA5",
+   "x": 4.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:rumble_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_korrina_k12",
+     "criterion": "",
+     "id": "3069DCA1C37BE572"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 66000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2C564A811A5A53B8",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 16,
+     "id": "64485F3A7DE2C167",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "69810B7B6A81C59A",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "65C0C55C14A83610"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1EB6C0AFDFF0CCF8",
+   "x": 6.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:plant_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_ramos_k16",
+     "criterion": "",
+     "id": "1613654D53AD05CC"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 71500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7890A1D30CA1988A",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 16,
+     "id": "71504DABDDDB598A",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "12A1B24A7715104F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6A6AF3DF48708FA5"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "285C103A4AA9358E",
+   "x": 8.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:voltage_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_clemont_k20",
+     "criterion": "",
+     "id": "138D401D45F2D001"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 77000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "78A01CB733B461B3",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 16,
+     "id": "72B449D770556335",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "53CE1A34DD8705FB",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EB6C0AFDFF0CCF8"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2BDF199E1DA222ED",
+   "x": 10.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:fairy_badge_kalos",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_valerie_k24",
+     "criterion": "",
+     "id": "1CE5519B67E2BE01"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 82500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2E8812323D798C1C",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 16,
+     "id": "6B95551B60C6FFA7",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2BAA4C5EAC473C72",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "285C103A4AA9358E"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "271FF3EDB69C68BD",
+   "x": 12.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:psychic_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_olympia_k28",
+     "criterion": "",
+     "id": "50F326EDB76C35E4"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 88000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1B99CEDE114B1475",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 16,
+     "id": "517DA4C2FC522CFB",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "23B19DDB66B5CAA3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2BDF199E1DA222ED"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "323D343A923DA522",
+   "x": 14.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:iceberg_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_wulfric_k32",
+     "criterion": "",
+     "id": "30238D4862253E98"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 93500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "29600B96A6F607A6",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ultra_ball",
+      "count": 1
+     },
+     "count": 16,
+     "id": "2CACBB5C4397B5CE",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:rare_candy",
+      "count": 1
+     },
+     "count": 3,
+     "id": "2C7E0554407E8938",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "271FF3EDB69C68BD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "187B27905029091A",
+   "x": 6.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:blaze_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/elite_four_malva_k33",
+     "criterion": "",
+     "id": "5F0B534081FB556E"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 110000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "56259BCC86FD45F7",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "323D343A923DA522"
+   ],
+   "shape": "hexagon"
+  },
+  {
+   "id": "16F7471C86B5C316",
+   "x": 8.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:prismarine_shard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/elite_four_siebold_k34",
+     "criterion": "",
+     "id": "736A15A4007B74B9"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 110000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2E6B9F36F0A89AB3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "187B27905029091A"
+   ],
+   "shape": "hexagon"
+  },
+  {
+   "id": "543436742865A749",
+   "x": 10.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:iron_ingot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/elite_four_wikstrom_k35",
+     "criterion": "",
+     "id": "61CE35DAF6E5E7CE"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 110000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "12CFCAF9C6DD57BA",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "16F7471C86B5C316"
+   ],
+   "shape": "hexagon"
+  },
+  {
+   "id": "65999B66A2533EEF",
+   "x": 12.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:dragon_breath",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/elite_four_drasna_k36",
+     "criterion": "",
+     "id": "24740F86A59FFEA5"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 110000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "29B88BB3E9147629",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "543436742865A749"
+   ],
+   "shape": "hexagon"
+  },
+  {
+   "id": "13077F571DDA5681",
+   "x": 14.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:diamond",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/champion_diantha_k37",
+     "criterion": "",
+     "id": "769194BB4D5DB2F9"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 550000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2D87A8B141F8B118",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:master_ball",
+      "count": 1
+     },
+     "count": 3,
+     "id": "7ABB714BF0FAFEB9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "65999B66A2533EEF"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  }
+ ]
+}

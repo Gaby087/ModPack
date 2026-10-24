@@ -1,0 +1,131 @@
+{
+ "name": "Admin Petrel",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "persian",
+   "level": 32,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "slash",
+    "bite",
+    "payday"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "limber"
+  },
+  {
+   "species": "muk",
+   "level": 32,
+   "nature": "adamant",
+   "moveset": [
+    "sludge",
+    "acidarmor",
+    "screech",
+    "mudslap"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "stench"
+  },
+  {
+   "species": "golbat",
+   "level": 33,
+   "nature": "jolly",
+   "moveset": [
+    "airslash",
+    "poisonfang",
+    "confuseray",
+    "bite"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "arbok",
+   "level": 33,
+   "nature": "adamant",
+   "moveset": [
+    "crunch",
+    "glare",
+    "poisonjab",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "houndoom",
+   "level": 34,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "crunch",
+    "nastyplot",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 18,
+    "atk": 18,
+    "def": 18,
+    "spa": 18,
+    "spd": 18,
+    "spe": 18
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  }
+ ]
+}

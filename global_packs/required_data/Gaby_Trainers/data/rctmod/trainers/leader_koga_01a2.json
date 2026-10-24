@@ -1,0 +1,109 @@
+{
+ "name": "Leader Koga",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "golbat",
+   "level": 32,
+   "nature": "jolly",
+   "moveset": [
+    "wingattack",
+    "bite",
+    "poisonfang",
+    "confuseray"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "muk",
+   "level": 33,
+   "nature": "adamant",
+   "moveset": [
+    "sludgebomb",
+    "minimize",
+    "acidarmor",
+    "poisonjab"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "stickyhold"
+  },
+  {
+   "species": "venomoth",
+   "level": 33,
+   "nature": "timid",
+   "moveset": [
+    "psybeam",
+    "venoshock",
+    "sleeppowder",
+    "bugbite"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "tintedlens"
+  },
+  {
+   "species": "weezing",
+   "level": 34,
+   "nature": "bold",
+   "moveset": [
+    "sludgebomb",
+    "willowisp",
+    "toxic",
+    "smokescreen"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate",
+   "heldItem": [
+    "black_sludge"
+   ]
+  }
+ ]
+}

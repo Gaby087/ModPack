@@ -1,0 +1,170 @@
+{
+ "name": "Bug Maniac Angelo",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "galvantula",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunder",
+    "bugbuzz",
+    "stickyweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "compoundeyes"
+  },
+  {
+   "species": "vikavolt",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "bugbuzz",
+    "energyball",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "eelektross",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "flamethrower",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "levitate"
+  },
+  {
+   "species": "electrode",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "taunt",
+    "electroweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "togedemaru",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "zingzap",
+    "ironhead",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "lightningrod"
+  },
+  {
+   "species": "dedenne",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "nuzzle",
+    "dazzlinggleam",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cheekpouch"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

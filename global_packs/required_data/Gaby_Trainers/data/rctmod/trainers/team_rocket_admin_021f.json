@@ -1,0 +1,79 @@
+{
+ "name": "Rocket Executive Archer",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "nidoqueen",
+   "level": 48,
+   "nature": "modest",
+   "moveset": [
+    "earthpower",
+    "sludgebomb",
+    "icebeam",
+    "toxicspikes"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "nidoking",
+   "level": 48,
+   "nature": "timid",
+   "moveset": [
+    "earthpower",
+    "sludgewave",
+    "thunderbolt",
+    "icebeam"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "persian",
+   "level": 47,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "slash",
+    "uturn",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  }
+ ]
+}

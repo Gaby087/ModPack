@@ -1,0 +1,80 @@
+{
+ "name": "Sage Jeffrey",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "trevenant",
+   "level": 71,
+   "nature": "adamant",
+   "moveset": [
+    "hornleech",
+    "poltergeist",
+    "woodhammer",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "harvest"
+  },
+  {
+   "species": "cofagrigus",
+   "level": 71,
+   "nature": "bold",
+   "moveset": [
+    "shadowball",
+    "willowisp",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "mummy"
+  },
+  {
+   "species": "aegislash",
+   "level": 71,
+   "nature": "quiet",
+   "moveset": [
+    "shadowball",
+    "flashcannon",
+    "kingsshield",
+    "shadowsneak"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "stancechange"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

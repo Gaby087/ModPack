@@ -1,0 +1,483 @@
+{
+ "id": "5ADC2F35681FCCE9",
+ "filename": "settlement",
+ "group": "71C7157F1269A7DC",
+ "order_index": 11,
+ "icon": {
+  "id": "gaby_core:settlement_banner",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "2B120CE4C3AAB8B9",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:settlement_banner",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/settlement/founded",
+     "criterion": "",
+     "id": "3F2DA6672B3B6CBA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7011000A276815E5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "273E7FA4B5E27557",
+   "x": 2.0,
+   "y": -1.0,
+   "icon": {
+    "id": "minecraft:stone_bricks",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "checkmark",
+     "id": "4AFB69DAA4B39CFE"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3BDF5F78745A84F5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2B120CE4C3AAB8B9"
+   ]
+  },
+  {
+   "id": "7A1CA4A61EDD05D4",
+   "x": 2.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/settlement/hire_guard",
+     "criterion": "",
+     "id": "366D6B47F6D605FB"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6CFAC2FCF614D3AB",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2B120CE4C3AAB8B9"
+   ]
+  },
+  {
+   "id": "71AAFFE1F07D2AA6",
+   "x": 4.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:bow",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/settlement/hire_archer",
+     "criterion": "",
+     "id": "2EF433278FB90E93"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6C107997040CD7C7",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7A1CA4A61EDD05D4"
+   ]
+  },
+  {
+   "id": "6AE4AA8CC72D40D8",
+   "x": 2.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:bell",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/settlement/hire_settler",
+     "criterion": "",
+     "id": "203D7969F8238B2D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7CF8EC8F74638426",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2B120CE4C3AAB8B9"
+   ]
+  },
+  {
+   "id": "57F94B0A3E0ADD12",
+   "x": 4.0,
+   "y": 3.0,
+   "icon": {
+    "id": "minecraft:emerald",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/settlement/settlers_5",
+     "criterion": "",
+     "id": "2C02C9DF72B60129"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "402B572BF27D6CFE",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6AE4AA8CC72D40D8"
+   ]
+  },
+  {
+   "id": "2741426CB24654E1",
+   "x": 4.0,
+   "y": -1.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/settlement/expanded",
+     "criterion": "",
+     "id": "100F093B6C0E0927"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "71EFBBE7409A1E52",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "273E7FA4B5E27557"
+   ]
+  },
+  {
+   "id": "6AC3F03F48ED8C74",
+   "x": 6.0,
+   "y": -1.0,
+   "icon": {
+    "id": "minecraft:filled_map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/settlement/max_size",
+     "criterion": "",
+     "id": "7145E127705FB863"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "63100544C1CC1990",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2741426CB24654E1"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "1C9A7F69886A243F",
+   "x": 6.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:goat_horn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/settlement/sieges_on",
+     "criterion": "",
+     "id": "152E72B0FED7EE4C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "27F3210218767A40",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "273E7FA4B5E27557",
+    "7A1CA4A61EDD05D4"
+   ]
+  },
+  {
+   "id": "6FB79DD12FB3AC0C",
+   "x": 8.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:shield",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/siege/won_1",
+     "criterion": "",
+     "id": "6CF198F6A3FA104A"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "429F31A9BC2304C2",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1C9A7F69886A243F"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "76EABDCE4CD25C96",
+   "x": 10.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:netherite_chestplate",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/siege/won_5",
+     "criterion": "",
+     "id": "26B19C4C8EBF19DB"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 15000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "67DD07962A7A9132",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6FB79DD12FB3AC0C"
+   ]
+  },
+  {
+   "id": "2D64F03528601101",
+   "x": 12.0,
+   "y": 1.0,
+   "icon": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/siege/won_20",
+     "criterion": "",
+     "id": "1C235C3082086EA4"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 60000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5E86A87FAF5D5263",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:master_ball",
+      "count": 1
+     },
+     "count": 1,
+     "id": "20666DDBAC18F399",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "76EABDCE4CD25C96"
+   ],
+   "shape": "gear",
+   "size": 1.4
+  },
+  {
+   "id": "785809933014162B",
+   "x": 6.0,
+   "y": -3.0,
+   "icon": {
+    "id": "createbigcannons:cannon_mount",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "createbigcannons:cannon_mount",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1126BDC8141E88E9"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "createbigcannons:cast_iron_cannon_barrel",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "239C44E2F7B3D744"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "createbigcannons:cast_iron_cannon_chamber",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "5B1DB259CD9D5168"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2FCD346BD16F07DD",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "273E7FA4B5E27557"
+   ]
+  },
+  {
+   "id": "7CA151076FBD3C1D",
+   "x": 8.0,
+   "y": -3.0,
+   "icon": {
+    "id": "createbigcannons:cast_iron_autocannon_barrel",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "createbigcannons:cast_iron_autocannon_barrel",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3343B839C827CBDB"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "createbigcannons:cast_iron_autocannon_breech",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1A7DEAD93B240132"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 5000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "220C4CD168BE3269",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "785809933014162B"
+   ]
+  }
+ ]
+}

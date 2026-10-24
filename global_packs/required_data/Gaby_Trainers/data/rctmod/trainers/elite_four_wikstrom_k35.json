@@ -1,0 +1,192 @@
+{
+ "name": "Elite Four Wikstrom",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "klefki",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "thunderwave",
+    "spikes",
+    "foulplay",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "prankster",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "probopass",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "powergem",
+    "flashcannon",
+    "voltswitch",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magnetpull",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "scizor",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bulletpunch",
+    "uturn",
+    "knockoff",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "aegislash",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "shadowsneak",
+    "ironhead",
+    "kingsshield",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "stancechange",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "skarmory",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "spikes",
+    "roost",
+    "whirlwind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "rocky_helmet"
+   ]
+  },
+  {
+   "species": "metagross",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "meteormash",
+    "zenheadbutt",
+    "earthquake",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "clearbody",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

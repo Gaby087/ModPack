@@ -1,0 +1,80 @@
+{
+ "name": "Lass Ann",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "oddish",
+   "level": 25,
+   "nature": "modest",
+   "moveset": [
+    "megadrain",
+    "sleeppowder",
+    "stunspore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "bellsprout",
+   "level": 26,
+   "nature": "adamant",
+   "moveset": [
+    "vinewhip",
+    "sleeppowder",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "exeggcute",
+   "level": 25,
+   "nature": "modest",
+   "moveset": [
+    "confusion",
+    "trickroom",
+    "leechseed",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

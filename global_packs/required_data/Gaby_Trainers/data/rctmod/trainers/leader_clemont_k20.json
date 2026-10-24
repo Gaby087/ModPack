@@ -1,0 +1,194 @@
+{
+ "name": "Leader Clemont",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "heliolisk",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "hypervoice",
+    "surf",
+    "voltswitch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "dryskin",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "magnezone",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "flashcannon",
+    "voltswitch",
+    "bodypress"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magnetpull",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "luxray",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "wildcharge",
+    "crunch",
+    "icefang",
+    "superpower"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "ampharos",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "dragonpulse",
+    "focusblast",
+    "voltswitch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "static",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "dedenne",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "dazzlinggleam",
+    "recycle",
+    "superfang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cheekpouch",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "rotom",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "voltswitch",
+    "overheat",
+    "willowisp",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [
+    "heat"
+   ],
+   "ability": "levitate",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

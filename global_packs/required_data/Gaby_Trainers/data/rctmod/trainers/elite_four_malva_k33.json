@@ -1,0 +1,192 @@
+{
+ "name": "Elite Four Malva",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "pyroar",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "hypervoice",
+    "darkpulse",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unnerve",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "talonflame",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "flareblitz",
+    "uturn",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "galewings",
+   "heldItem": [
+    "heavy_duty_boots"
+   ]
+  },
+  {
+   "species": "chandelure",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "fireblast",
+    "energyball",
+    "trick"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "torkoal",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "lavaplume",
+    "stealthrock",
+    "rapidspin",
+    "yawn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "drought",
+   "heldItem": [
+    "heat_rock"
+   ]
+  },
+  {
+   "species": "houndoom",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "darkpulse",
+    "sludgebomb",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "charizard",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "airslash",
+    "solarbeam",
+    "focusblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solarpower",
+   "heldItem": [
+    "choice_specs"
+   ]
+  }
+ ]
+}

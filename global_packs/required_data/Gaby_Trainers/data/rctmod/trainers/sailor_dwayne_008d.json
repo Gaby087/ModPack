@@ -1,0 +1,57 @@
+{
+ "name": "Sailor Dwayne",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "voltorb",
+   "level": 20,
+   "nature": "hasty",
+   "moveset": [
+    "chargebeam",
+    "rollout",
+    "screech",
+    "spark"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "soundproof"
+  },
+  {
+   "species": "magnemite",
+   "level": 21,
+   "nature": "modest",
+   "moveset": [
+    "thundershock",
+    "thunderwave",
+    "metalsound",
+    "electroball"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ]
+}

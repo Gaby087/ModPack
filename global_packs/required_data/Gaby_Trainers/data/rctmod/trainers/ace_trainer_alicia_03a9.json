@@ -1,0 +1,57 @@
+{
+ "name": "Ace Trainer Alicia",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "marowak",
+   "level": 47,
+   "nature": "adamant",
+   "moveset": [
+    "bonemerang",
+    "rockslide",
+    "firepunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  },
+  {
+   "species": "rhydon",
+   "level": 47,
+   "nature": "adamant",
+   "moveset": [
+    "drillrun",
+    "rockslide",
+    "megahorn",
+    "hammerarm"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "lightningrod"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Ninja Boy Davey",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "venonat",
+   "level": 31,
+   "nature": "modest",
+   "moveset": [
+    "psybeam",
+    "poisonpowder",
+    "supersonic",
+    "leechlife"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "tintedlens"
+  },
+  {
+   "species": "golbat",
+   "level": 31,
+   "nature": "jolly",
+   "moveset": [
+    "wingattack",
+    "bite",
+    "poisonfang",
+    "confuseray"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "name": "Aide Sage",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "gardevoir",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "psychic",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "trace"
+  },
+  {
+   "species": "espeon",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "lightscreen",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicbounce"
+  },
+  {
+   "species": "hatterene",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "magicbounce"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

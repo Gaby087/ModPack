@@ -1,0 +1,92 @@
+{
+ "name": "Waitress Holly",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "icefang",
+    "dragondance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "simisear",
+   "level": 100,
+   "nature": "naive",
+   "moveset": [
+    "flamethrower",
+    "focusblast",
+    "grassknot",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "gluttony"
+  },
+  {
+   "species": "ludicolo",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hydropump",
+    "gigadrain",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

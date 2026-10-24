@@ -1,0 +1,8 @@
+name = "EnchantedBookEnabler - Datapack"
+filename = "EnchantedBookEnabler - Datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9xfXfCPD/versions/CmBcjrxx/EnchantedBookEnabler%20-%20Datapack.zip"
+hash-format = "sha1"
+hash = "18cd400c8987e9561ec3f3833dcda0b732e8e372"

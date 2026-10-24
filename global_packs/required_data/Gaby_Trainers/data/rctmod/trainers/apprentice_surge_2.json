@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Dora",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "minun",
+   "level": 22,
+   "nature": "timid",
+   "moveset": [
+    "electroweb",
+    "helpinghand",
+    "quickattack",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "minus"
+  },
+  {
+   "species": "helioptile",
+   "level": 22,
+   "nature": "modest",
+   "moveset": [
+    "electroball",
+    "glare",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "pachirisu",
+   "level": 22,
+   "nature": "jolly",
+   "moveset": [
+    "spark",
+    "superfang",
+    "followme",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "voltabsorb"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

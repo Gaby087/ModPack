@@ -1,0 +1,194 @@
+{
+ "name": "Leader Opal",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "weezing",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "strangesteam",
+    "fireblast",
+    "willowisp",
+    "painsplit"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [
+    "galarian"
+   ],
+   "ability": "neutralizinggas",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "mawile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "playrough",
+    "ironhead",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "togekiss",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "airslash",
+    "dazzlinggleam",
+    "nastyplot",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "serenegrace",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "mimikyu",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "playrough",
+    "shadowclaw",
+    "shadowsneak",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "disguise",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "hatterene",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "dazzlinggleam",
+    "psychic",
+    "mysticalfire",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "magicbounce",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "alcremie",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "dazzlinggleam",
+    "mysticalfire",
+    "calmmind",
+    "recover"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "aromaveil",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

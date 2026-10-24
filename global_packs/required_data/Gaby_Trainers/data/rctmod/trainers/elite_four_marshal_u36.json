@@ -1,0 +1,192 @@
+{
+ "name": "Elite Four Marshal",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "throh",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "circlethrow",
+    "knockoff",
+    "bulkup",
+    "rest"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "sawk",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "icepunch",
+    "knockoff",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moldbreaker",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "conkeldurr",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "machpunch",
+    "drainpunch",
+    "knockoff",
+    "icepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "mienshao",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "uturn",
+    "knockoff",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "lucario",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "meteormash",
+    "extremespeed",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "justified",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "hitmontop",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "closecombat",
+    "suckerpunch",
+    "rapidspin",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

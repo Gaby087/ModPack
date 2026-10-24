@@ -1,0 +1,152 @@
+{
+ "name": "Elite Four Koga",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "toxapex",
+   "level": 89,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "toxic",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "gengar",
+   "level": 90,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgebomb",
+    "focusblast",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "muk",
+   "level": 90,
+   "nature": "adamant",
+   "moveset": [
+    "poisonjab",
+    "knockoff",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "poisontouch"
+  },
+  {
+   "species": "crobat",
+   "level": 89,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "crosspoison",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "drapion",
+   "level": 90,
+   "nature": "jolly",
+   "moveset": [
+    "knockoff",
+    "poisonjab",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sniper"
+  },
+  {
+   "species": "nidoking",
+   "level": 91,
+   "nature": "timid",
+   "moveset": [
+    "earthpower",
+    "sludgebomb",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sheerforce",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Hana",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "tangela",
+   "level": 27,
+   "nature": "bold",
+   "moveset": [
+    "vinewhip",
+    "megadrain",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "sunflora",
+   "level": 27,
+   "nature": "modest",
+   "moveset": [
+    "razorleaf",
+    "helpinghand",
+    "sunnyday",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "tropius",
+   "level": 27,
+   "nature": "bold",
+   "moveset": [
+    "razorleaf",
+    "airslash",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

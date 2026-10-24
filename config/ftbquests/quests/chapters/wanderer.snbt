@@ -1,0 +1,885 @@
+{
+ "id": "78CB8E5DBD02574E",
+ "filename": "wanderer",
+ "group": "71C7157F1269A7DC",
+ "order_index": 22,
+ "icon": {
+  "id": "minecraft:filled_map",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "2EFC7852CA925C20",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:cherry_grove",
+     "id": "764F0F6FCC0FBA9D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "38B39E9107F2ECEA",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "7C497AD607B53F7A",
+   "x": 2.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:mushroom_fields",
+     "id": "4CF079E017ED0874"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "664930292ECB69A5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "4F9766877527403A",
+   "x": 4.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:ice_spikes",
+     "id": "1AE0BDB44FB662B3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5294F046B644DAF6",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "2E11472C4EC6770A",
+   "x": 6.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:badlands",
+     "id": "198EF62E15F46161"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3F05FC3F19E8DCC9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "13EC7C22410F3CA3",
+   "x": 8.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:jungle",
+     "id": "6224005600220E7C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4D3D5CBDA2AC2093",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "32CF835F82553EB7",
+   "x": 10.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:deep_dark",
+     "id": "60BEA88FDE236CC3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "63BB64475A150D06",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "4B5B619C7FC1147C",
+   "x": 12.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:lush_caves",
+     "id": "593CCC8C6029404E"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2559EC9CB4E8EDD2",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "4A03D49592EDBFDD",
+   "x": 14.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:dripstone_caves",
+     "id": "568ADBF78FAA3A7A"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1F2A61B64A562A79",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "1676270B38EB0EC4",
+   "x": 0.0,
+   "y": 1.5,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:mangrove_swamp",
+     "id": "2235D043CA7F62A3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "341774A9B85FD135",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "72095BCADD09B2B2",
+   "x": 2.0,
+   "y": 1.5,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:warm_ocean",
+     "id": "2A9FFA32FBE823D6"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1AD2257767A0DF2C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "661658B455F6616A",
+   "x": 4.0,
+   "y": 1.5,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:flower_forest",
+     "id": "46DBBA55C5AB27E2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6451AA459DE0CE62",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "4A5B87721B3D4818",
+   "x": 6.0,
+   "y": 1.5,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:jagged_peaks",
+     "id": "200D36E3622DCD5E"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5F5195DD55945289",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "7F5D197CDAF00CBC",
+   "x": 8.0,
+   "y": 1.5,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:crimson_forest",
+     "id": "22E842B34602618B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7FB69852A6E63D75",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "707E371A90DA78AC",
+   "x": 10.0,
+   "y": 1.5,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:warped_forest",
+     "id": "28EC8BB186279440"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3083CDC726B39F1B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "47ADBAE58A7B2E25",
+   "x": 12.0,
+   "y": 1.5,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:soul_sand_valley",
+     "id": "35A5F5BB8262436D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5DD36833982228C3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "103DE44BAF7DD155",
+   "x": 14.0,
+   "y": 1.5,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:basalt_deltas",
+     "id": "2FBEAC81419A8999"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7C47C40DCFD0FF21",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "248A0E873C124B33",
+   "x": 0.0,
+   "y": 4.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:village_plains",
+     "id": "1D9F7E2170073752"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7227C9F0F39E81ED",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "54DA38DD6A3752E7",
+   "x": 2.0,
+   "y": 4.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:ancient_city",
+     "id": "797B066E90D9F810"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2B63E9714C615F35",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "41C71B0ADB56EE5B",
+   "x": 4.0,
+   "y": 4.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:trial_chambers",
+     "id": "1082C337E8BB3369"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "417AC6A9E2D87BF0",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "49F4361810D36F16",
+   "x": 6.0,
+   "y": 4.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:monument",
+     "id": "3D370DDA464E1285"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3614322A6C207D02",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "66A3FB9FC1836EB8",
+   "x": 8.0,
+   "y": 4.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:mansion",
+     "id": "71635224D0A4F241"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1F4D40417E3B48D4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "73C5B1C42B9EBF26",
+   "x": 10.0,
+   "y": 4.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:stronghold",
+     "id": "56882838947DB64F"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "64FFAFC310FFA163",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "2467782AAA224946",
+   "x": 0.0,
+   "y": 5.5,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:fortress",
+     "id": "34551AF6B4398EC8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "18D73AF1CC078772",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "70C4F6EF26FED7C2",
+   "x": 2.0,
+   "y": 5.5,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:bastion_remnant",
+     "id": "3ED02549D29D29AA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "30B4A3AF5D8EB392",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "18268E78784E056D",
+   "x": 4.0,
+   "y": 5.5,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:end_city",
+     "id": "56E45420742D7082"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7C3904EC79289604",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "1D90AD2DEAC943C5",
+   "x": 6.0,
+   "y": 5.5,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:desert_pyramid",
+     "id": "184DFA6ECBFB128A"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "66763553ED4863AE",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "65AD1D815D8FD480",
+   "x": 8.0,
+   "y": 5.5,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:jungle_pyramid",
+     "id": "1042E93139EE05C2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1F1C8EE043236B96",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "584DD12D4A0B6EDA",
+   "x": 10.0,
+   "y": 5.5,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:igloo",
+     "id": "51B4E24EC692046F"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5127995F146F3142",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "7EC5D489425F4882",
+   "x": 2.0,
+   "y": 8.0,
+   "icon": {
+    "id": "minecraft:prismarine_shard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "kill",
+     "entity": "minecraft:elder_guardian",
+     "value": 1,
+     "id": "717FEC0A4B9CB84A"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 8000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "584F09805BAE1867",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear"
+  },
+  {
+   "id": "3464FAD73E97ECA9",
+   "x": 4.0,
+   "y": 8.0,
+   "icon": {
+    "id": "minecraft:sculk_catalyst",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "kill",
+     "entity": "minecraft:warden",
+     "value": 1,
+     "id": "759ED474518FE6E5"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 20000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "753960D03C7FCB02",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear"
+  },
+  {
+   "id": "3F36892991E6C24B",
+   "x": 6.0,
+   "y": 8.0,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "kill",
+     "entity": "minecraft:wither",
+     "value": 1,
+     "id": "2F628C9EE98C46A8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 25000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "10460747A81DC415",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear"
+  }
+ ]
+}

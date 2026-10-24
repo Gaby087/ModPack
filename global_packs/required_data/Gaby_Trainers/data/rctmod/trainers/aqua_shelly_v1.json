@@ -1,0 +1,157 @@
+{
+ "name": "Admin Shelly",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "sharpedo",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "liquidation",
+    "crunch",
+    "closecombat",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "speedboost",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "crawdaunt",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crabhammer",
+    "knockoff",
+    "aquajet",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "adaptability",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "seviper",
+   "level": 100,
+   "nature": "naive",
+   "moveset": [
+    "poisonjab",
+    "crunch",
+    "glare",
+    "flamethrower"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "shedskin"
+  },
+  {
+   "species": "huntail",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "waterfall",
+    "suckerpunch",
+    "shellsmash",
+    "icefang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "white_herb"
+   ]
+  },
+  {
+   "species": "mightyena",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "crunch",
+    "suckerpunch",
+    "playrough",
+    "icefang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "atk": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  }
+ ]
+}

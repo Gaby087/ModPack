@@ -1,0 +1,173 @@
+{
+ "name": "School Kid Ann",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "watchog",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crunch",
+    "superfang",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "keeneye"
+  },
+  {
+   "species": "lopunny",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "return",
+    "highjumpkick",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "limber"
+  },
+  {
+   "species": "staraptor",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "doubleedge",
+    "quickattack",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "stoutland",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "return",
+    "crunch",
+    "superpower",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "chansey",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "softboiled",
+    "helpinghand",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure",
+   "heldItem": [
+    "eviolite"
+   ]
+  },
+  {
+   "species": "cinccino",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tailslap",
+    "bulletseed",
+    "uturn",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "skilllink"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

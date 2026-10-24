@@ -1,0 +1,85 @@
+{
+ "name": "Janine",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "venomoth",
+   "level": 33,
+   "nature": "timid",
+   "moveset": [
+    "psybeam",
+    "venoshock",
+    "sleeppowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "tintedlens"
+  },
+  {
+   "species": "crobat",
+   "level": 34,
+   "nature": "jolly",
+   "moveset": [
+    "crosspoison",
+    "bravebird",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 26,
+    "atk": 26,
+    "def": 26,
+    "spa": 26,
+    "spd": 26,
+    "spe": 26
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "ariados",
+   "level": 33,
+   "nature": "adamant",
+   "moveset": [
+    "poisonjab",
+    "stickyweb",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "insomnia"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

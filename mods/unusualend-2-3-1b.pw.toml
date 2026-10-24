@@ -1,0 +1,8 @@
+name = "unusualend-2.3.1b"
+filename = "unusualend-2.3.1b.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8856/390/unusualend-2.3.1b.jar"
+hash-format = "sha1"
+hash = "b0f923272c3bbf8e9183aff92c8a43c7d0d9e65c"

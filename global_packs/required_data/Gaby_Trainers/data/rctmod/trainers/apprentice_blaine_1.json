@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Cal",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "vulpix",
+   "level": 40,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "willowisp",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "slugma",
+   "level": 40,
+   "nature": "calm",
+   "moveset": [
+    "heatwave",
+    "rockslide",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "talonflame",
+   "level": 40,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "flamecharge",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "galewings"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Ace Trainer Hana",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "ninetales",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "solarbeam",
+    "nastyplot",
+    "hypnosis"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "drought"
+  },
+  {
+   "species": "salazzle",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "sludgewave",
+    "nastyplot",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "corrosion"
+  },
+  {
+   "species": "arcanine",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "extremespeed",
+    "closecombat",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  }
+ ]
+}

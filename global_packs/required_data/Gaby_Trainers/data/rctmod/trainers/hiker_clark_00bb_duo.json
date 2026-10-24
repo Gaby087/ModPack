@@ -1,0 +1,80 @@
+{
+ "name": "Hiker Clark",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "roggenrola",
+   "level": 10,
+   "nature": "brave",
+   "moveset": [
+    "rockblast",
+    "harden",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "rhyhorn",
+   "level": 11,
+   "nature": "adamant",
+   "moveset": [
+    "stomp",
+    "rockslide",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  },
+  {
+   "species": "onix",
+   "level": 11,
+   "nature": "impish",
+   "moveset": [
+    "rocktomb",
+    "bind",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

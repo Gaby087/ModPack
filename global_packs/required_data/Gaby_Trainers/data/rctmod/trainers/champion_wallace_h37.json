@@ -1,0 +1,186 @@
+{
+ "name": "Champion Wallace",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "tentacruel",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "scald",
+    "sludgebomb",
+    "rapidspin",
+    "toxicspikes"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "clearbody",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "ludicolo",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hydropump",
+    "gigadrain",
+    "icebeam",
+    "raindance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragondance",
+    "waterfall",
+    "earthquake",
+    "icefang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "swampert",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "waterfall",
+    "icepunch",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "damp",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "kingdra",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "surf",
+    "icebeam",
+    "raindance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "milotic",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "icebeam",
+    "recover",
+    "dragontail"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "marvelscale",
+   "heldItem": [
+    "flame_orb"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Sailor Huey",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "magnezone",
+   "level": 76,
+   "nature": "modest",
+   "moveset": [
+    "thunderbolt",
+    "flashcannon",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magnetpull"
+  },
+  {
+   "species": "empoleon",
+   "level": 76,
+   "nature": "modest",
+   "moveset": [
+    "hydropump",
+    "flashcannon",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "competitive"
+  },
+  {
+   "species": "bronzong",
+   "level": 77,
+   "nature": "relaxed",
+   "moveset": [
+    "gyroball",
+    "trickroom",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

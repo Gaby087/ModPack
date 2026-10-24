@@ -1,0 +1,80 @@
+{
+ "name": "Swimmer Barry",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "psyduck",
+   "level": 18,
+   "nature": "modest",
+   "moveset": [
+    "waterpulse",
+    "confusion",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cloudnine"
+  },
+  {
+   "species": "seel",
+   "level": 17,
+   "nature": "calm",
+   "moveset": [
+    "aquajet",
+    "icywind",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "slowpoke",
+   "level": 17,
+   "nature": "relaxed",
+   "moveset": [
+    "waterpulse",
+    "confusion",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "owntempo"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,186 @@
+{
+ "name": "Elite Four Flint",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "houndoom",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "darkpulse",
+    "fireblast",
+    "nastyplot",
+    "sludgebomb"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "flareon",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "facade",
+    "superpower",
+    "quickattack"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "rapidash",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "wildcharge",
+    "highhorsepower",
+    "morningsun"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "infernape",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "flareblitz",
+    "uturn",
+    "machpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "ironfist",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "magmortar",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "fireblast",
+    "thunderbolt",
+    "focusblast",
+    "psychic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flamebody",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "chiyu",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "overheat",
+    "darkpulse",
+    "flamethrower",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "beadsofruin",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  }
+ ]
+}

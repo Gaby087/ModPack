@@ -1,0 +1,84 @@
+{
+ "name": "Boarder Ronald",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "mamoswine",
+   "level": 80,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "iciclecrash",
+    "iceshard",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "cloyster",
+   "level": 79,
+   "nature": "adamant",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "shellsmash",
+    "iceshard"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "skilllink"
+  },
+  {
+   "species": "walrein",
+   "level": 79,
+   "nature": "bold",
+   "moveset": [
+    "surf",
+    "icebeam",
+    "protect",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  }
+ ]
+}

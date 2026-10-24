@@ -1,0 +1,8 @@
+name = "Cobblemotion_v1.5.1"
+filename = "Cobblemotion_v1.5.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lIDAJAby/versions/sPztKDIi/Cobblemotion_v1.5.1.zip"
+hash-format = "sha1"
+hash = "b683791ddfbbde25c0450133f789ebc6fa9f2c7d"

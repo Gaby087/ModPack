@@ -1,0 +1,157 @@
+{
+ "name": "Leader Brock",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "onix",
+   "level": 14,
+   "nature": "impish",
+   "moveset": [
+    "rocktomb",
+    "rockslide",
+    "screech",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "nosepass",
+   "level": 13,
+   "nature": "relaxed",
+   "moveset": [
+    "rocktomb",
+    "thunderwave",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "geodude",
+   "level": 12,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "rollout",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "rhyhorn",
+   "level": 13,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "stomp",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  },
+  {
+   "species": "omanyte",
+   "level": 13,
+   "nature": "bold",
+   "moveset": [
+    "waterpulse",
+    "ancientpower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "kabuto",
+   "level": 14,
+   "nature": "adamant",
+   "moveset": [
+    "aquajet",
+    "rockslide",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

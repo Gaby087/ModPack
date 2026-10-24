@@ -1,0 +1,192 @@
+{
+ "name": "Elite Four Caitlin",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "reuniclus",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "psychic",
+    "focusblast",
+    "calmmind",
+    "recover"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "gothitelle",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "psychic",
+    "thunderbolt",
+    "trick",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "shadowtag",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "musharna",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "psychic",
+    "moonblast",
+    "calmmind",
+    "moonlight"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "synchronize",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "sigilyph",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "airslash",
+    "heatwave",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "metagross",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "meteormash",
+    "zenheadbutt",
+    "earthquake",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "clearbody",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "gallade",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "sacredsword",
+    "psychocut",
+    "leafblade",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "justified",
+   "heldItem": [
+    "lum_berry"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "name": "Elite Four Siebold",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "clawitzer",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "waterpulse",
+    "darkpulse",
+    "aurasphere",
+    "dragonpulse"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "megalauncher",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "starmie",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "hydropump",
+    "psychic",
+    "icebeam",
+    "rapidspin"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "analytic",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "icefang",
+    "dragondance",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie",
+   "heldItem": [
+    "lum_berry"
+   ]
+  },
+  {
+   "species": "barbaracle",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "shellsmash",
+    "stoneedge",
+    "liquidation",
+    "crosschop"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "toughclaws",
+   "heldItem": [
+    "white_herb"
+   ]
+  },
+  {
+   "species": "greninja",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "hydropump",
+    "darkpulse",
+    "icebeam",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "protean",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "milotic",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "icebeam",
+    "recover",
+    "dragontail"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "marvelscale",
+   "heldItem": [
+    "flame_orb"
+   ]
+  }
+ ]
+}

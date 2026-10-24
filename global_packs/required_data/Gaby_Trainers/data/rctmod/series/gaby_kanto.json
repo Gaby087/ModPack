@@ -1,0 +1,11 @@
+{
+ "title": {
+  "text": "Kanto League"
+ },
+ "description": {
+  "text": "Eight gyms, then the Elite Four. Travel with your Trainer Pad."
+ },
+ "difficulty": 6,
+ "relativeLevelCap": 0,
+ "requiredSeries": []
+}

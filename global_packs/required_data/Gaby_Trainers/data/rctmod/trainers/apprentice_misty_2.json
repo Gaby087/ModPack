@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Kai",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "tentacool",
+   "level": 17,
+   "nature": "timid",
+   "moveset": [
+    "waterpulse",
+    "poisonjab",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "clearbody"
+  },
+  {
+   "species": "wooper",
+   "level": 17,
+   "nature": "careful",
+   "moveset": [
+    "waterpulse",
+    "mudshot",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "remoraid",
+   "level": 17,
+   "nature": "modest",
+   "moveset": [
+    "waterpulse",
+    "aurorabeam",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "hustle"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,192 @@
+{
+ "name": "Leader Olympia",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "meowstic",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "thunderbolt",
+    "reflect",
+    "lightscreen"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster",
+   "heldItem": [
+    "light_clay"
+   ]
+  },
+  {
+   "species": "slowking",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "scald",
+    "psychic",
+    "slackoff",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "sigilyph",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "airslash",
+    "heatwave",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "delphox",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "psychic",
+    "grassknot",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magician",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "gardevoir",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "moonblast",
+    "psychic",
+    "mysticalfire",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "trace",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "espeon",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "dazzlinggleam",
+    "calmmind"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "magicbounce",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

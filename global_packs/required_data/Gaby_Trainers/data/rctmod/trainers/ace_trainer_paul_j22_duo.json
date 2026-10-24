@@ -1,0 +1,80 @@
+{
+ "name": "Ace Trainer Paul",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "dragonite",
+   "level": 82,
+   "nature": "adamant",
+   "moveset": [
+    "extremespeed",
+    "firepunch",
+    "dragonclaw",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "multiscale"
+  },
+  {
+   "species": "salamence",
+   "level": 82,
+   "nature": "naive",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "flygon",
+   "level": 82,
+   "nature": "jolly",
+   "moveset": [
+    "dragonclaw",
+    "uturn",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

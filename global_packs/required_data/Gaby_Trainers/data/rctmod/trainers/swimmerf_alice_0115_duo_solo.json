@@ -1,0 +1,146 @@
+{
+ "name": "Swimmer Alice",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "goldeen",
+   "level": 16,
+   "nature": "jolly",
+   "moveset": [
+    "waterpulse",
+    "hornattack",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "staryu",
+   "level": 17,
+   "nature": "timid",
+   "moveset": [
+    "watergun",
+    "swift",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "illuminate"
+  },
+  {
+   "species": "poliwag",
+   "level": 16,
+   "nature": "timid",
+   "moveset": [
+    "bubblebeam",
+    "hypnosis",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "horsea",
+   "level": 16,
+   "nature": "modest",
+   "moveset": [
+    "bubblebeam",
+    "twister",
+    "smokescreen",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "shellder",
+   "level": 17,
+   "nature": "adamant",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "skilllink"
+  },
+  {
+   "species": "krabby",
+   "level": 16,
+   "nature": "adamant",
+   "moveset": [
+    "visegrip",
+    "bubblebeam",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "hypercutter"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Apprentice Kyo",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "noivern",
+   "level": 83,
+   "nature": "timid",
+   "moveset": [
+    "hurricane",
+    "dracometeor",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "dragonair",
+   "level": 82,
+   "nature": "adamant",
+   "moveset": [
+    "dragontail",
+    "aquatail",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "shedskin",
+   "heldItem": [
+    "eviolite"
+   ]
+  },
+  {
+   "species": "kommoo",
+   "level": 83,
+   "nature": "timid",
+   "moveset": [
+    "clangingscales",
+    "closecombat",
+    "poisonjab",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "soundproof"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,57 @@
+{
+ "name": "Channeler Hope",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "slowpoke",
+   "level": 36,
+   "nature": "relaxed",
+   "moveset": [
+    "headbutt",
+    "confusion",
+    "watergun",
+    "disable"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "owntempo"
+  },
+  {
+   "species": "mrmime",
+   "level": 36,
+   "nature": "timid",
+   "moveset": [
+    "psybeam",
+    "reflect",
+    "lightscreen",
+    "encore"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "filter"
+  }
+ ]
+}

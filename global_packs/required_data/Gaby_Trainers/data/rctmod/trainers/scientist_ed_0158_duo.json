@@ -1,0 +1,80 @@
+{
+ "name": "Scientist Ed",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "magmar",
+   "level": 41,
+   "nature": "modest",
+   "moveset": [
+    "flamethrower",
+    "lowkick",
+    "followme",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "magcargo",
+   "level": 41,
+   "nature": "bold",
+   "moveset": [
+    "heatwave",
+    "rockslide",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "torkoal",
+   "level": 41,
+   "nature": "relaxed",
+   "moveset": [
+    "heatwave",
+    "bodypress",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "whitesmoke"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

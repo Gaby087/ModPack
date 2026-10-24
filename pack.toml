@@ -1,0 +1,13 @@
+name = "Gaby - A World to Keep"
+author = "Gaby"
+version = "0.15.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "32b11a7661a802019ba201781f886df5298b459ed7d37d22829ba36420921382"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.253"

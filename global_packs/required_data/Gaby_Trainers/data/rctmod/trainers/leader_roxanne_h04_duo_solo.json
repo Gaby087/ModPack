@@ -1,0 +1,187 @@
+{
+ "name": "Leader Roxanne",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "tyranitar",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "crunch",
+    "icepunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sandstream",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "probopass",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "powergem",
+    "flashcannon",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "cradily",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "gigadrain",
+    "rockslide",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "stormdrain"
+  },
+  {
+   "species": "rhyperior",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "rockslide",
+    "megahorn",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "solidrock",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "aerodactyl",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "rockslide",
+    "dualwingbeat",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unnerve",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "armaldo",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "xscissor",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "battlearmor"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

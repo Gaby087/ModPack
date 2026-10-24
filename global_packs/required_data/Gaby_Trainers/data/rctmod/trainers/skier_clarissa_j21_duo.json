@@ -1,0 +1,80 @@
+{
+ "name": "Skier Clarissa",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "abomasnow",
+   "level": 80,
+   "nature": "mild",
+   "moveset": [
+    "blizzard",
+    "gigadrain",
+    "earthpower",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "snowwarning"
+  },
+  {
+   "species": "baxcalibur",
+   "level": 80,
+   "nature": "adamant",
+   "moveset": [
+    "glaiverush",
+    "iciclecrash",
+    "dragondance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thermalexchange"
+  },
+  {
+   "species": "lapras",
+   "level": 79,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "hydropump",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "waterabsorb"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

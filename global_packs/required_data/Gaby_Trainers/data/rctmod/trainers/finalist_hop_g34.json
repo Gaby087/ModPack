@@ -1,0 +1,192 @@
+{
+ "name": "Finalist Hop",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "dubwool",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bodypress",
+    "cottonguard",
+    "rest",
+    "sleeptalk"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "bulletproof",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "corviknight",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bravebird",
+    "bodypress",
+    "roost",
+    "defog"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "pressure",
+   "heldItem": [
+    "rocky_helmet"
+   ]
+  },
+  {
+   "species": "pincurchin",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "zingzap",
+    "spikes",
+    "suckerpunch",
+    "poisonjab"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "electricsurge",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "snorlax",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "bodyslam",
+    "curse",
+    "rest",
+    "sleeptalk"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "trevenant",
+   "level": 100,
+   "nature": "brave",
+   "moveset": [
+    "hornleech",
+    "poltergeist",
+    "woodhammer",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "harvest",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "rillaboom",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "woodhammer",
+    "grassyglide",
+    "knockoff",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "grassysurge",
+   "heldItem": [
+    "choice_band"
+   ]
+  }
+ ]
+}

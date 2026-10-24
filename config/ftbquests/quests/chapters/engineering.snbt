@@ -1,0 +1,1083 @@
+{
+ "id": "4E20CDE1FA023F62",
+ "filename": "engineering",
+ "group": "71C7157F1269A7DC",
+ "order_index": 20,
+ "icon": {
+  "id": "create:wrench",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "52819E90DE52378E",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "create:goggles",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:goggles",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2146B3263D80CB06"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:wrench",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "459776AB1351B103"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1600",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "24F175E47116A1F7",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "43097513DDEE0B05",
+   "x": 2.0,
+   "y": 0.0,
+   "icon": {
+    "id": "create:gearbox",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:gearbox",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "50FD0E630D3D8786"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:clutch",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "7356CC15C5BBA111"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:encased_chain_drive",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "303B5F5516AB197B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2600",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4F7FE5E268335E15",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52819E90DE52378E"
+   ]
+  },
+  {
+   "id": "4E20158FB6AA0E0C",
+   "x": 4.0,
+   "y": 0.0,
+   "icon": {
+    "id": "create:rotation_speed_controller",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:rotation_speed_controller",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "30BF338B35675873"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:sequenced_gearshift",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "291E695567D23036"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2A29C43B6F492DDA",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "43097513DDEE0B05"
+   ]
+  },
+  {
+   "id": "5988B2296BF6D03D",
+   "x": 4.0,
+   "y": -1.5,
+   "icon": {
+    "id": "create:crushing_wheel",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:crushing_wheel",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2EC3E8FDA3FEFD2E"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1E1D2C322B973741",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "43097513DDEE0B05"
+   ]
+  },
+  {
+   "id": "6A5AA02494340D85",
+   "x": 4.0,
+   "y": 1.5,
+   "icon": {
+    "id": "create:deployer",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:deployer",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3DBE469CFDAD7636"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1DB582D4002D575B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "43097513DDEE0B05"
+   ]
+  },
+  {
+   "id": "18D984303FE04A4B",
+   "x": 2.0,
+   "y": 2.0,
+   "icon": {
+    "id": "create:fluid_pipe",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:fluid_pipe",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "182BF687582D070C"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:mechanical_pump",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "10D9255A8EA8430D"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:spout",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6F4FACCE6AB80D09"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:item_drain",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "33F81AA7FE7EB4D6"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "674E357518E47650",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "43097513DDEE0B05"
+   ]
+  },
+  {
+   "id": "7D705401E05F11C7",
+   "x": 2.0,
+   "y": -2.0,
+   "icon": {
+    "id": "create:item_vault",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:item_vault",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "32659077DE4335E6"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:smart_chute",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3BBB92CBE1043486"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2200",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3B1C0B003FF5B9E0",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "43097513DDEE0B05"
+   ]
+  },
+  {
+   "id": "31F8B64ED9BD0D68",
+   "x": 6.0,
+   "y": 1.5,
+   "icon": {
+    "id": "create:mechanical_saw",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:mechanical_saw",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "20041051B23D2D4B"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:mechanical_bearing",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "60FFF7623F479F4C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "264D7C3AB3541026",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6A5AA02494340D85"
+   ]
+  },
+  {
+   "id": "31100B90ECCB89AA",
+   "x": 6.0,
+   "y": -1.5,
+   "icon": {
+    "id": "create:mechanical_drill",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:mechanical_drill",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2D546C11D15E0F21"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:cart_assembler",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6B8BAF1D05BE4B03"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6D2580C04CC6B680",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5988B2296BF6D03D"
+   ]
+  },
+  {
+   "id": "7171A2CD90646723",
+   "x": 6.0,
+   "y": 3.0,
+   "icon": {
+    "id": "create:mechanical_harvester",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:mechanical_harvester",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "18B0AEA225E8088D"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:mechanical_plough",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1C754AD0EF10DC88"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6DFE83909493FCA0",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6A5AA02494340D85"
+   ]
+  },
+  {
+   "id": "709EFF1E6DD235A2",
+   "x": 2.0,
+   "y": 4.0,
+   "icon": {
+    "id": "create:windmill_bearing",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:windmill_bearing",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "102DEC4B44935B86"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6C03695E49138BE3",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "43097513DDEE0B05"
+   ]
+  },
+  {
+   "id": "50D96E6B1990048C",
+   "x": 6.0,
+   "y": 0.0,
+   "icon": {
+    "id": "create:redstone_link",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:redstone_link",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "149C9AF8E9BD0538"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:linked_controller",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6010F78A09B2996B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1FAE936900192A19",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4E20158FB6AA0E0C"
+   ]
+  },
+  {
+   "id": "6D3707815EBF96AA",
+   "x": 8.0,
+   "y": 0.0,
+   "icon": {
+    "id": "create:display_board",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:display_board",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "176792620541629C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3600",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7FB95F4E87265677",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "50D96E6B1990048C"
+   ]
+  },
+  {
+   "id": "4C53AEF6424A4648",
+   "x": 4.0,
+   "y": -3.0,
+   "icon": {
+    "id": "create:packager",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:packager",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "170C5F490C2F166F"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:stock_link",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "55156F463B7CE3A3"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:package_frogport",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "237BF0DA33300378"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3200",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "71317C3095A9AE7C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7D705401E05F11C7"
+   ]
+  },
+  {
+   "id": "34355AE4A8A8C896",
+   "x": 6.0,
+   "y": -3.0,
+   "icon": {
+    "id": "create:stock_ticker",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:stock_ticker",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "5707B3F5B7922026"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "54F44C5124482DEA",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4C53AEF6424A4648"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "75658E2EBF0C84A8",
+   "x": 8.0,
+   "y": 2.0,
+   "icon": {
+    "id": "create:track",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:track",
+      "count": 1
+     },
+     "count": 64,
+     "consume_items": false,
+     "id": "7DBC3080A08356A5"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:track_station",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "14ACF2D1105E08B4"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "285B74E81C867F58",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4E20158FB6AA0E0C"
+   ]
+  },
+  {
+   "id": "7411AB09A21F34E5",
+   "x": 10.0,
+   "y": 2.0,
+   "icon": {
+    "id": "create:controls",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:controls",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1D72EBAB8633B06F"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:schedule",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "739F4B2E244E000B"
+    },
+    {
+     "type": "checkmark",
+     "id": "38E1515BF4C959BA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4600",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2D950DC1E91B5447",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "75658E2EBF0C84A8"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "744E3B10FA6C6587",
+   "x": 4.0,
+   "y": 3.5,
+   "icon": {
+    "id": "create:copper_backtank",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:copper_backtank",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6C83EE4BB5DBB75C"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create:extendo_grip",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "34A811F99C0515AA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "62571383BD808A62",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18D984303FE04A4B"
+   ]
+  },
+  {
+   "id": "357F5CFBD91DAF47",
+   "x": 6.0,
+   "y": 4.5,
+   "icon": {
+    "id": "create:netherite_backtank",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:netherite_backtank",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "53F21A3AF9455529"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "22BB3958B32467AD",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "744E3B10FA6C6587"
+   ]
+  },
+  {
+   "id": "407EA49998DC4797",
+   "x": 6.0,
+   "y": 3.5,
+   "icon": {
+    "id": "create:potato_cannon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:potato_cannon",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "56578F25C7C0C338"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "38412A4C955E8248",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "744E3B10FA6C6587"
+   ]
+  },
+  {
+   "id": "2915882E194EDCC2",
+   "x": 10.0,
+   "y": 0.0,
+   "icon": {
+    "id": "create:schematicannon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:schematicannon",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "422633A024268106"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 4200",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1DCFF281F3A6E38C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6D3707815EBF96AA"
+   ],
+   "shape": "diamond"
+  },
+  {
+   "id": "2721DADDFAC02A4E",
+   "x": 8.0,
+   "y": -1.5,
+   "icon": {
+    "id": "create:elevator_pulley",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:elevator_pulley",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "50AE2C777F50BF00"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3600",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "16E64EAE7A3EBAF5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "50D96E6B1990048C"
+   ]
+  },
+  {
+   "id": "3E38CBC9874CBB9C",
+   "x": 4.0,
+   "y": -4.5,
+   "icon": {
+    "id": "create:weighted_ejector",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create:weighted_ejector",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "17E26232652311E4"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "237FEFECAFA0F542",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7D705401E05F11C7"
+   ]
+  },
+  {
+   "id": "292635A73C49FF19",
+   "x": 4.0,
+   "y": 5.5,
+   "icon": {
+    "id": "create_enchantment_industry:blaze_enchanter",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create_enchantment_industry:blaze_enchanter",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "162382EC01863D21"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "create_enchantment_industry:printer",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "783C9AE076EC88F9"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "24A6833FD2958123",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18D984303FE04A4B"
+   ]
+  },
+  {
+   "id": "3EEC62A809671A71",
+   "x": 6.0,
+   "y": 5.5,
+   "icon": {
+    "id": "create_enchantment_industry:blaze_forger",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create_enchantment_industry:blaze_forger",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2682F85A457B62FA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "63ADAA56765C5267",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "292635A73C49FF19"
+   ]
+  },
+  {
+   "id": "42412E682932DE06",
+   "x": 6.0,
+   "y": 6.5,
+   "icon": {
+    "id": "create_enchantment_industry:mechanical_grindstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "create_enchantment_industry:mechanical_grindstone",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "202C90607549E7F7"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "687779FCCC40CC68",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "292635A73C49FF19"
+   ]
+  }
+ ]
+}

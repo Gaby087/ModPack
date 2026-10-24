@@ -1,0 +1,92 @@
+{
+ "name": "Elite Four Grimsley",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "krookodile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "highhorsepower",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "bisharp",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "suckerpunch",
+    "ironhead",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "defiant"
+  },
+  {
+   "species": "absol",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "suckerpunch",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "justified"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

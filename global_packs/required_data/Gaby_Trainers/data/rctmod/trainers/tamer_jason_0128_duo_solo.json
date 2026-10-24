@@ -1,0 +1,146 @@
+{
+ "name": "Tamer Jason",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "arbok",
+   "level": 32,
+   "nature": "adamant",
+   "moveset": [
+    "poisonfang",
+    "bite",
+    "glare",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "muk",
+   "level": 32,
+   "nature": "adamant",
+   "moveset": [
+    "sludgebomb",
+    "minimize",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "stickyhold"
+  },
+  {
+   "species": "seviper",
+   "level": 32,
+   "nature": "adamant",
+   "moveset": [
+    "poisonfang",
+    "crunch",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "shedskin"
+  },
+  {
+   "species": "nidorino",
+   "level": 32,
+   "nature": "adamant",
+   "moveset": [
+    "poisonjab",
+    "doublekick",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "poisonpoint"
+  },
+  {
+   "species": "drapion",
+   "level": 32,
+   "nature": "adamant",
+   "moveset": [
+    "crosspoison",
+    "crunch",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "battlearmor"
+  },
+  {
+   "species": "qwilfish",
+   "level": 32,
+   "nature": "adamant",
+   "moveset": [
+    "poisonjab",
+    "waterfall",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "poisonpoint"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,183 @@
+{
+ "name": "Leader Juan",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "starmie",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "hydropump",
+    "psyshock",
+    "icebeam",
+    "rapidspin"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "analytic"
+  },
+  {
+   "species": "walrein",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "surf",
+    "icebeam",
+    "protect",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "crawdaunt",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crabhammer",
+    "knockoff",
+    "aquajet",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "adaptability"
+  },
+  {
+   "species": "sharpedo",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "liquidation",
+    "crunch",
+    "closecombat",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "swampert",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "waterfall",
+    "icepunch",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "damp"
+  },
+  {
+   "species": "kingdra",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "hydropump",
+    "icebeam",
+    "raindance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "choice_specs"
+   ]
+  }
+ ]
+}

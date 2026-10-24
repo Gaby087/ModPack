@@ -1,0 +1,192 @@
+{
+ "name": "Champion Alder",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 5
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 5
+  }
+ ],
+ "team": [
+  {
+   "species": "accelgor",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "focusblast",
+    "energyball",
+    "spikes"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "stickyhold",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "bouffalant",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "headcharge",
+    "earthquake",
+    "megahorn",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "druddigon",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "outrage",
+    "gunkshot",
+    "suckerpunch",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "rocky_helmet"
+   ]
+  },
+  {
+   "species": "vanilluxe",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "blizzard",
+    "freezedry",
+    "flashcannon",
+    "autotomize"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "escavalier",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ironhead",
+    "megahorn",
+    "knockoff",
+    "drillrun"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "overcoat",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "volcarona",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "fierydance",
+    "bugbuzz",
+    "gigadrain"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flamebody",
+   "heldItem": [
+    "heavy_duty_boots"
+   ]
+  }
+ ]
+}

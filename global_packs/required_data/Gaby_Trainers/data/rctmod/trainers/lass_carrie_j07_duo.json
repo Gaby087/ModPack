@@ -1,0 +1,80 @@
+{
+ "name": "Lass Carrie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "wigglytuff",
+   "level": 66,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "dazzlinggleam",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "competitive"
+  },
+  {
+   "species": "blissey",
+   "level": 67,
+   "nature": "bold",
+   "moveset": [
+    "softboiled",
+    "helpinghand",
+    "seismictoss",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "porygon2",
+   "level": 67,
+   "nature": "calm",
+   "moveset": [
+    "triattack",
+    "icebeam",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "trace"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

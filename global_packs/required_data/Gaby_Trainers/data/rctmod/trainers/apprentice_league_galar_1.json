@@ -1,0 +1,91 @@
+{
+ "name": "Aide Punk",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "liepard",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "foulplay",
+    "thunderwave",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "scrafty",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "knockoff",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "morpeko",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "aurawheel",
+    "psychicfangs",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "hungerswitch"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

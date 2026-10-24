@@ -1,0 +1,103 @@
+{
+ "name": "Leader Brawly",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "hariyama",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "knockoff",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "medicham",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "zenheadbutt",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "purepower",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "machamp",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dynamicpunch",
+    "knockoff",
+    "bulletpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "noguard"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

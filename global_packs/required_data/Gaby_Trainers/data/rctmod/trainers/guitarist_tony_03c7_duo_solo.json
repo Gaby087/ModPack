@@ -1,0 +1,146 @@
+{
+ "name": "Guitarist Tony",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "electrike",
+   "level": 22,
+   "nature": "jolly",
+   "moveset": [
+    "spark",
+    "howl",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "luxio",
+   "level": 24,
+   "nature": "adamant",
+   "moveset": [
+    "spark",
+    "bite",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "magnemite",
+   "level": 22,
+   "nature": "modest",
+   "moveset": [
+    "electroball",
+    "flashcannon",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "voltorb",
+   "level": 22,
+   "nature": "timid",
+   "moveset": [
+    "electroweb",
+    "chargebeam",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "electabuzz",
+   "level": 24,
+   "nature": "jolly",
+   "moveset": [
+    "thunderpunch",
+    "lowkick",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "ampharos",
+   "level": 24,
+   "nature": "modest",
+   "moveset": [
+    "thunderwave",
+    "helpinghand",
+    "electroweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

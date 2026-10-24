@@ -1,0 +1,80 @@
+{
+ "name": "Engineer Ryan",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "klefki",
+   "level": 77,
+   "nature": "bold",
+   "moveset": [
+    "playrough",
+    "thunderwave",
+    "lightscreen",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "probopass",
+   "level": 76,
+   "nature": "modest",
+   "moveset": [
+    "powergem",
+    "flashcannon",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "aggron",
+   "level": 77,
+   "nature": "adamant",
+   "moveset": [
+    "headsmash",
+    "heavyslam",
+    "rockslide",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

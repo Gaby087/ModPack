@@ -1,0 +1,192 @@
+{
+ "name": "Leader Milo",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "eldegoss",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "gigadrain",
+    "hypervoice",
+    "sleeppowder",
+    "leechseed"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "rillaboom",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "woodhammer",
+    "grassyglide",
+    "knockoff",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "grassysurge",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "appletun",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "appleacid",
+    "dragonpulse",
+    "recover",
+    "leechseed"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "flapple",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "gravapple",
+    "dragondance",
+    "uturn",
+    "acrobatics"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "hustle",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "shiftry",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "leafblade",
+    "knockoff",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "chlorophyll",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "ludicolo",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "gigadrain",
+    "hydropump",
+    "icebeam",
+    "raindance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "mega_showdown:grassium_z"
+   ]
+  }
+ ]
+}

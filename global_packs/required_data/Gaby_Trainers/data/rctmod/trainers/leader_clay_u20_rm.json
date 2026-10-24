@@ -1,0 +1,192 @@
+{
+ "name": "Leader Clay",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "excadrill",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "ironhead",
+    "rapidspin",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sandrush",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "krookodile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "knockoff",
+    "stoneedge",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "seismitoad",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "scald",
+    "earthpower",
+    "sludgewave",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "golurk",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "poltergeist",
+    "dynamicpunch",
+    "rockpolish"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "noguard",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "hippowdon",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "earthquake",
+    "slackoff",
+    "whirlwind",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sandstream",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "garchomp",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "outrage",
+    "stoneedge",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "mega_showdown:excadrite"
+   ]
+  }
+ ]
+}

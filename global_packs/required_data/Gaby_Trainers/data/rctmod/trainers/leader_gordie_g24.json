@@ -1,0 +1,192 @@
+{
+ "name": "Leader Gordie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "coalossal",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "stealthrock",
+    "flamethrower",
+    "rapidspin",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "flamebody",
+   "heldItem": [
+    "heavy_duty_boots"
+   ]
+  },
+  {
+   "species": "stonjourner",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "stoneedge",
+    "heavyslam",
+    "earthquake",
+    "rockpolish"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "powerspot",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "shuckle",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "stealthrock",
+    "stickyweb",
+    "encore",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "barbaracle",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "shellsmash",
+    "stoneedge",
+    "liquidation",
+    "crosschop"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "toughclaws",
+   "heldItem": [
+    "white_herb"
+   ]
+  },
+  {
+   "species": "tyranitar",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "stoneedge",
+    "crunch",
+    "earthquake",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sandstream",
+   "heldItem": [
+    "lum_berry"
+   ]
+  },
+  {
+   "species": "rhyperior",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "earthquake",
+    "megahorn",
+    "rockpolish"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solidrock",
+   "heldItem": [
+    "weakness_policy"
+   ]
+  }
+ ]
+}

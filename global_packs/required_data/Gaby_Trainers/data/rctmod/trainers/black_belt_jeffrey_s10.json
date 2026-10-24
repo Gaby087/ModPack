@@ -1,0 +1,96 @@
+{
+ "name": "Black Belt Jeffrey",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "infernape",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "flareblitz",
+    "uturn",
+    "machpunch"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "ironfist"
+  },
+  {
+   "species": "annihilape",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "ragefist",
+    "drainpunch",
+    "bulkup",
+    "gunkshot"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "defiant"
+  },
+  {
+   "species": "kommoo",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "clangingscales",
+    "poisonjab",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "bulletproof"
+  }
+ ]
+}

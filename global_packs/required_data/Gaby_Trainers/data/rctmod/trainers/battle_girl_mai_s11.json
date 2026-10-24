@@ -1,0 +1,96 @@
+{
+ "name": "Battle Girl Mai",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "medicham",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "zenheadbutt",
+    "icepunch",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "purepower"
+  },
+  {
+   "species": "hawlucha",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "bravebird",
+    "swordsdance",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unburden"
+  },
+  {
+   "species": "quaquaval",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "aquastep",
+    "closecombat",
+    "bravebird",
+    "rapidspin"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  }
+ ]
+}

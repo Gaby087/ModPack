@@ -1,0 +1,83 @@
+{
+ "name": "Aide Sasha",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "arbok",
+   "level": 55,
+   "nature": "adamant",
+   "moveset": [
+    "gunkshot",
+    "crunch",
+    "glare",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "gengar",
+   "level": 57,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgebomb",
+    "hypnosis",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody",
+   "heldItem": [
+    "spell_tag"
+   ]
+  },
+  {
+   "species": "dusknoir",
+   "level": 54,
+   "nature": "adamant",
+   "moveset": [
+    "shadowsneak",
+    "poltergeist",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "pressure"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

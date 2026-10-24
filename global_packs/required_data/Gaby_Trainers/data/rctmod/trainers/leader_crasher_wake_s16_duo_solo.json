@@ -1,0 +1,187 @@
+{
+ "name": "Leader Crasher Wake",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "icefang",
+    "dragondance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "empoleon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hydropump",
+    "flashcannon",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "torrent",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "floatzel",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "waterfall",
+    "aquajet",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "waterveil",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "swampert",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "waterfall",
+    "icepunch",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "torrent"
+  },
+  {
+   "species": "pelipper",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hurricane",
+    "scald",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "drizzle",
+   "heldItem": [
+    "damp_rock"
+   ]
+  },
+  {
+   "species": "milotic",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "icebeam",
+    "recover",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "marvelscale"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

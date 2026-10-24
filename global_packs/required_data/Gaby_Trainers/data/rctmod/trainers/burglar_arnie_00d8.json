@@ -1,0 +1,57 @@
+{
+ "name": "Burglar Arnie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "growlithe",
+   "level": 40,
+   "nature": "adamant",
+   "moveset": [
+    "flamewheel",
+    "bite",
+    "roar",
+    "takedown"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "ponyta",
+   "level": 40,
+   "nature": "jolly",
+   "moveset": [
+    "flamecharge",
+    "stomp",
+    "takedown",
+    "agility"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  }
+ ]
+}

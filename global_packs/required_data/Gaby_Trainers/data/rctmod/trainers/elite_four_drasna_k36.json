@@ -1,0 +1,192 @@
+{
+ "name": "Elite Four Drasna",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 4
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 4
+  }
+ ],
+ "team": [
+  {
+   "species": "dragalge",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "sludgewave",
+    "focusblast",
+    "flipturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "adaptability",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "druddigon",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "outrage",
+    "gunkshot",
+    "suckerpunch",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "rocky_helmet"
+   ]
+  },
+  {
+   "species": "altaria",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "roost",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "noivern",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "dracometeor",
+    "hurricane",
+    "flamethrower",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "goodra",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "fireblast",
+    "sludgebomb",
+    "thunderbolt"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "salamence",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "dragondance",
+    "outrage",
+    "earthquake",
+    "fireblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "lum_berry"
+   ]
+  }
+ ]
+}

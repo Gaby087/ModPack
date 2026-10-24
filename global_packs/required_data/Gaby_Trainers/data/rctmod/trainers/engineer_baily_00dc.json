@@ -1,0 +1,57 @@
+{
+ "name": "Engineer Baily",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "elekid",
+   "level": 21,
+   "nature": "jolly",
+   "moveset": [
+    "thunderpunch",
+    "lowkick",
+    "leer",
+    "quickattack"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "shinx",
+   "level": 21,
+   "nature": "adamant",
+   "moveset": [
+    "spark",
+    "bite",
+    "leer",
+    "charge"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  }
+ ]
+}

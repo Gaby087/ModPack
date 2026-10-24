@@ -1,0 +1,24 @@
+version:3955
+lang:en_us
+resourcePacks:["vanilla", "mod_resources", "file/Icon Xaero's 1.22.zip", "file/Borderless+Glass+v1.0(mc-1.21).zip", "file/Redstone Tweaks 2.4.5.zip", "file/ATM x MSD [v4.0].zip", "file/Recolourful Containers 3.1.4 (1.19.4+).zip", "file/E19 Cobblemon Minimap Icons.zip", "file/xali's enchanted books v0.13.0.zip"]
+incompatibleResourcePacks:[]
+key_key.ftbquests.quests:key.keyboard.j
+key_key.ftbquests.cycle_pinned_tracker:key.keyboard.k
+key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
+key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
+key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
+key_zume.zoom:key.keyboard.c
+key_zume.zoom_in:key.keyboard.unknown
+key_zume.zoom_out:key.keyboard.unknown
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_new_waypoint:key.keyboard.n
+key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_minimap_settings:key.keyboard.y
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_key.cobblemon.throwpartypokemon:key.keyboard.r
+key_key.cobblemon.summary:key.keyboard.z
+key_key.cobblemon.pokedex:key.keyboard.p
+key_key.cobblemon.upshiftparty:key.keyboard.up
+key_key.cobblemon.downshiftparty:key.keyboard.down
+key_key.cobblemon.hideparty:key.keyboard.o
+key_key.ftbultimine:key.keyboard.grave.accent

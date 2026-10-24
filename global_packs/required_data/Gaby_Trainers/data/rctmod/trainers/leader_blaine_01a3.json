@@ -1,0 +1,146 @@
+{
+ "name": "Leader Blaine",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "ninetales",
+   "level": 42,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "extrasensory",
+    "willowisp",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {
+    "spa": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "drought"
+  },
+  {
+   "species": "rapidash",
+   "level": 42,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "highhorsepower",
+    "wildcharge",
+    "morningsun"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {
+    "atk": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "magmar",
+   "level": 43,
+   "nature": "naive",
+   "moveset": [
+    "flamethrower",
+    "thunderpunch",
+    "lowkick",
+    "confuseray"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {
+    "spa": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "flareon",
+   "level": 43,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "quickattack",
+    "superpower",
+    "bite"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {
+    "atk": 128,
+    "hp": 128
+   },
+   "aspects": [],
+   "ability": "guts"
+  },
+  {
+   "species": "arcanine",
+   "level": 44,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "extremespeed",
+    "crunch",
+    "wildcharge"
+   ],
+   "ivs": {
+    "hp": 30,
+    "atk": 30,
+    "def": 30,
+    "spa": 30,
+    "spd": 30,
+    "spe": 30
+   },
+   "evs": {
+    "atk": 200,
+    "spe": 200
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "charcoal_stick"
+   ]
+  }
+ ]
+}

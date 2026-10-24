@@ -1,0 +1,1376 @@
+{
+ "id": "1ACD9E6E157ACDD6",
+ "filename": "kitchen",
+ "group": "71C7157F1269A7DC",
+ "order_index": 21,
+ "icon": {
+  "id": "farmersdelight:cooking_pot",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "199277FDBEBB2519",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:rice",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:rice",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "3C7F79422B970CD2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5D3E5625CBD067DA",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "5E1009F579811744",
+   "x": 2.0,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:onion",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:onion",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "164F9DB07085A8C6"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1E2C45E6A47B1ABA",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "3567910612B77A67",
+   "x": 4.0,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:tomato",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:tomato",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "2D2E4543F1F00A31"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "527392C2D3CC0B3E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "1CAF56AA73700374",
+   "x": 6.0,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:cabbage",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:cabbage",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "224DD74547E7E378"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1705895EB97B1213",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "51DBA8AA87D6CD5F",
+   "x": 8.0,
+   "y": 0.0,
+   "icon": {
+    "id": "croptopia:corn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:corn",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "15008C24CE5D47E7"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "137EC8DB27E291F9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "60756A95974BAC54",
+   "x": 10.0,
+   "y": 0.0,
+   "icon": {
+    "id": "croptopia:strawberry",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:strawberry",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "3D30D368839BB735"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "2CF554C9EF8922AF",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "1B448F03C9DA6324",
+   "x": 0.0,
+   "y": 1.5,
+   "icon": {
+    "id": "croptopia:pineapple",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:pineapple",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "1EBCE8660774D15E"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1DFDCDC8971F6D05",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "22E71ADEC08FAB70",
+   "x": 2.0,
+   "y": 1.5,
+   "icon": {
+    "id": "croptopia:coffee_beans",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:coffee_beans",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "2F644D1DAB46F29D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "28D0CBC1D1CB79BF",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "69FF14AF8D9A1D64",
+   "x": 4.0,
+   "y": 1.5,
+   "icon": {
+    "id": "croptopia:tea_leaves",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:tea_leaves",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "1411335037E55F96"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1D4C8836A726800B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "36EF8A620890ADF2",
+   "x": 6.0,
+   "y": 1.5,
+   "icon": {
+    "id": "croptopia:banana",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:banana",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "505E377E75655A60"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5AEE748D1D51E072",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "718E9584EB95152B",
+   "x": 8.0,
+   "y": 1.5,
+   "icon": {
+    "id": "croptopia:mango",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:mango",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "4CC0AB6F994726F4"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5F12D88D7DE108A2",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "235F86BD9630EA03",
+   "x": 10.0,
+   "y": 1.5,
+   "icon": {
+    "id": "croptopia:vanilla",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:vanilla",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "2C6FA67EAF69F85F"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 250",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "424E8CE04D9CEE9B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "537479AA65018E7E",
+   "x": 0.0,
+   "y": 3.5,
+   "icon": {
+    "id": "farmersdelight:mixed_salad",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:mixed_salad",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "28B35051552E66A2"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7EA326ECDE1E226E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2C54EB9B1D93D334",
+   "x": 2.0,
+   "y": 3.5,
+   "icon": {
+    "id": "farmersdelight:dumplings",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:dumplings",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "22D3F022822DC28D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "34839F6A69060CA9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "140CCB337CC210CD",
+   "x": 4.0,
+   "y": 3.5,
+   "icon": {
+    "id": "farmersdelight:fish_stew",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:fish_stew",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "5A11A6C025986FEE"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "35AB41368BBAFDD4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "106AEA0618E8C424",
+   "x": 6.0,
+   "y": 3.5,
+   "icon": {
+    "id": "farmersdelight:pasta_with_meatballs",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:pasta_with_meatballs",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "50700C36E3D9C857"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "579128E8A500A101",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "217517FDEA7717C3",
+   "x": 0.0,
+   "y": 5.0,
+   "icon": {
+    "id": "farmersdelight:steak_and_potatoes",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:steak_and_potatoes",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "436AEA4502ED4124"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "424487C078644BB0",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3AAB8FFAF2486C76",
+   "x": 2.0,
+   "y": 5.0,
+   "icon": {
+    "id": "croptopia:pizza",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:pizza",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3AB31C1151C0370E"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1A13FBEE966F7A95",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1E313A57DEDF159F",
+   "x": 4.0,
+   "y": 5.0,
+   "icon": {
+    "id": "croptopia:sushi",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:sushi",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "22DFB4D5B8D16B7D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "17E22C362A5F523E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "20FEF1242879E257",
+   "x": 6.0,
+   "y": 5.0,
+   "icon": {
+    "id": "croptopia:cheese",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:cheese",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "47D5E9626B6FA656"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 400",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "31C8D9AB87C4822B",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "487C7D607D8C5C08",
+   "x": 9.0,
+   "y": 3.5,
+   "icon": {
+    "id": "farmersdelight:roast_chicken_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:roast_chicken_block",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "71D3FD98FA8DB9BB"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "724F19128B92B6EC",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "6A2745FE9F55CD09",
+   "x": 11.0,
+   "y": 3.5,
+   "icon": {
+    "id": "farmersdelight:stuffed_pumpkin_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:stuffed_pumpkin_block",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "5A1362B13F6F31BE"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6269C25119BAD7B8",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "7B23FBC0DF24EAB7",
+   "x": 9.0,
+   "y": 5.0,
+   "icon": {
+    "id": "farmersdelight:honey_glazed_ham_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:honey_glazed_ham_block",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1C53615A0D01DC64"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6ABA51A7B37ECDB9",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "505105D74ADEBC43",
+   "x": 11.0,
+   "y": 5.0,
+   "icon": {
+    "id": "farmersdelight:shepherds_pie_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:shepherds_pie_block",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "354602F7EC9E7514"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "36BB5B19D9EB13D4",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "27D1C068532200BD",
+   "x": 0.0,
+   "y": 7.0,
+   "icon": {
+    "id": "cobblemon:red_apricorn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:red_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "434F8C71609A5BBF"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:blue_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "440AACEB293B9C68"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:green_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "600B34C133A76374"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:yellow_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "475A91DB686C07F4"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:pink_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "38AA08DEE35877EC"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:black_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "1B27C0C624771C53"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:white_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "1BAAEEAE808D70EB"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "58A088C9D8DF6113",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "5AF5F8EF51205E01",
+   "x": 2.0,
+   "y": 7.0,
+   "icon": {
+    "id": "cobblemon:oran_berry",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:oran_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "2BD0D47C71B1937E"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:sitrus_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "6582E54E22235551"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:lum_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "60746DFB9BE6B968"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:leppa_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "4BD9045D0DE7A641"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:chesto_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "68B897A8C84B2B2F"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:pecha_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "7619B39963D4F77B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "659E00BA857E776E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  },
+  {
+   "id": "3F4EEC776989A755",
+   "x": 4.0,
+   "y": 7.0,
+   "icon": {
+    "id": "cobblemon:revival_herb",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:revival_herb",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "1CF1698EDC47BBAF"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:medicinal_leek",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "6AE44BD4F290435C"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:big_root",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "301CABCA18665453"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1F28D2E5BE740F3E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3B88DC548AD0DB54",
+   "x": 0.0,
+   "y": 9.0,
+   "icon": {
+    "id": "aquaculture:atlantic_cod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:atlantic_cod",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "33F16F838ECA1561"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5B07B47A493951CE",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "296022E1518D9923",
+   "x": 2.0,
+   "y": 9.0,
+   "icon": {
+    "id": "aquaculture:pacific_halibut",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:pacific_halibut",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "799CD709D782D5E3"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "47E12166166B831C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "5D6439424948A50D",
+   "x": 4.0,
+   "y": 9.0,
+   "icon": {
+    "id": "aquaculture:tuna",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:tuna",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "405B46A2C366E04B"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1141C486A0A385DB",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "4247E7B7DEDAAB30",
+   "x": 6.0,
+   "y": 9.0,
+   "icon": {
+    "id": "aquaculture:catfish",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:catfish",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1B7CECE537F2161D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7F8D952C77C6F4AD",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "3A837C059C6FAE8A",
+   "x": 8.0,
+   "y": 9.0,
+   "icon": {
+    "id": "aquaculture:bluegill",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:bluegill",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "17780B72C8A177C4"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "1FE549BBA1AB0615",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "3C7E1D59D83B08DE",
+   "x": 0.0,
+   "y": 10.5,
+   "icon": {
+    "id": "aquaculture:arapaima",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:arapaima",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "252A52D0821A4C95"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "288B2CE6F2E21E0F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "415DD5B3B96E8231",
+   "x": 2.0,
+   "y": 10.5,
+   "icon": {
+    "id": "aquaculture:piranha",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:piranha",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2EEC15B44FF3C56C"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "56FDF79090A0A6AD",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "7AD9D545A7E4E378",
+   "x": 4.0,
+   "y": 10.5,
+   "icon": {
+    "id": "aquaculture:goldfish",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:goldfish",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "4DD4AA7D4A643B24"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "3E38F37AE7C08127",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "2E7E58A4B52EF8EB",
+   "x": 6.0,
+   "y": 10.5,
+   "icon": {
+    "id": "aquaculture:jellyfish",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:jellyfish",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3BDFB58C32A621D8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 300",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "218B77FE3707E902",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "circle"
+  },
+  {
+   "id": "1AB87F716CCFF4DF",
+   "x": 10.0,
+   "y": 9.75,
+   "icon": {
+    "id": "aquaculture:box_turtle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:box_turtle",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6312FA9E8EF41B04"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:arrau_turtle",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "7B910C5920E1CAED"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:starshell_turtle",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2575885E0375CC50"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 2500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "131C7755664D95E1",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond"
+  }
+ ]
+}

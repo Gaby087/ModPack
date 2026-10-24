@@ -1,0 +1,186 @@
+{
+ "name": "Leader Crasher Wake",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "floatzel",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "wavecrash",
+    "icespinner",
+    "aquajet",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "waterveil",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "quagsire",
+   "level": 100,
+   "nature": "relaxed",
+   "moveset": [
+    "earthquake",
+    "scald",
+    "recover",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "unaware",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "gyarados",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "dragondance",
+    "waterfall",
+    "earthquake",
+    "icefang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "ludicolo",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hydropump",
+    "gigadrain",
+    "icebeam",
+    "raindance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "empoleon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "surf",
+    "flashcannon",
+    "icebeam",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "competitive",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "barraskewda",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "liquidation",
+    "closecombat",
+    "psychicfangs",
+    "aquajet"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "choice_band"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "name": "Jessie & James",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "ekans",
+   "level": 14,
+   "nature": "adamant",
+   "moveset": [
+    "wrap",
+    "poisonsting",
+    "bite",
+    "glare"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "koffing",
+   "level": 14,
+   "nature": "bold",
+   "moveset": [
+    "smog",
+    "smokescreen",
+    "tackle",
+    "clearsmog"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "levitate"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Rancher Bram",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "dubwool",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "bodypress",
+    "cottonguard",
+    "rest",
+    "sleeptalk"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "bulletproof"
+  },
+  {
+   "species": "gossifleur",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "gigadrain",
+    "hypervoice",
+    "sleeppowder",
+    "leechseed"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "appletun",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "appleacid",
+    "dragonpulse",
+    "recover",
+    "leechseed"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  }
+ ]
+}

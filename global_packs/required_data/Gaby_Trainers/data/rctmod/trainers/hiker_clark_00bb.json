@@ -1,0 +1,57 @@
+{
+ "name": "Hiker Clark",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "roggenrola",
+   "level": 10,
+   "nature": "brave",
+   "moveset": [
+    "tackle",
+    "harden",
+    "sandattack",
+    "smackdown"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "rhyhorn",
+   "level": 11,
+   "nature": "adamant",
+   "moveset": [
+    "hornattack",
+    "tailwhip",
+    "smackdown",
+    "stomp"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Scientist Gideon",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "porygonz",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hyperbeam",
+    "shadowball",
+    "thunderbolt",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "adaptability"
+  },
+  {
+   "species": "porygon2",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "triattack",
+    "icebeam",
+    "recover",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "download"
+  },
+  {
+   "species": "bouffalant",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "headcharge",
+    "earthquake",
+    "megahorn",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper"
+  }
+ ]
+}

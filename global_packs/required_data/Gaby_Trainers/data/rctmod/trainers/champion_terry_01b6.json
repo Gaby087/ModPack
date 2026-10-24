@@ -1,0 +1,177 @@
+{
+ "name": "Champion Blue",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "pidgeot",
+   "level": 58,
+   "nature": "timid",
+   "moveset": [
+    "hurricane",
+    "heatwave",
+    "roost",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "bigpecks"
+  },
+  {
+   "species": "alakazam",
+   "level": 59,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "focusblast",
+    "recover"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252
+   },
+   "aspects": [],
+   "ability": "magicguard",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "rhyperior",
+   "level": 59,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "stoneedge",
+    "megahorn",
+    "icepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 128,
+    "hp": 128
+   },
+   "aspects": [],
+   "ability": "solidrock"
+  },
+  {
+   "species": "exeggutor",
+   "level": 60,
+   "nature": "modest",
+   "moveset": [
+    "leafstorm",
+    "psychic",
+    "sleeppowder",
+    "sludgebomb"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "hp": 252
+   },
+   "aspects": [],
+   "ability": "harvest",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "arcanine",
+   "level": 60,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "extremespeed",
+    "crunch",
+    "closecombat"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "charizard",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "airslash",
+    "dragonpulse",
+    "focusblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252
+   },
+   "aspects": [],
+   "ability": "solarpower",
+   "heldItem": [
+    "choice_specs"
+   ]
+  }
+ ]
+}

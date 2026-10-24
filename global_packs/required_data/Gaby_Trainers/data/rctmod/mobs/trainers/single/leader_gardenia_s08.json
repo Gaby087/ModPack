@@ -1,0 +1,18 @@
+{
+ "type": "leader",
+ "series": [
+  "gaby_sinnoh"
+ ],
+ "optional": false,
+ "requiredDefeats": [
+  [
+   "leader_roark_s04"
+  ]
+ ],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

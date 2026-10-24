@@ -1,0 +1,92 @@
+{
+ "name": "Black Belt Goro",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "blaziken",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "closecombat",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "breloom",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "machpunch",
+    "seedbomb",
+    "stunspore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "hitmontop",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "suckerpunch",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

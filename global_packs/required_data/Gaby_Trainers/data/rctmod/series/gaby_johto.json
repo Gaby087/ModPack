@@ -1,0 +1,16 @@
+{
+ "title": {
+  "text": "Johto League"
+ },
+ "description": {
+  "text": "Eight Johto gyms. Opens after the Kanto League."
+ },
+ "difficulty": 7,
+ "initialLevelCap": 62,
+ "relativeLevelCap": 0,
+ "requiredSeries": [
+  [
+   "gaby_kanto"
+  ]
+ ]
+}

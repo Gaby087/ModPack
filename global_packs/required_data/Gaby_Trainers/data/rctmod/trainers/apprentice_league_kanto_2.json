@@ -1,0 +1,83 @@
+{
+ "name": "Aide Kiyo",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "hitmonlee",
+   "level": 53,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "blazekick",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "reckless"
+  },
+  {
+   "species": "machamp",
+   "level": 55,
+   "nature": "adamant",
+   "moveset": [
+    "dynamicpunch",
+    "knockoff",
+    "bulletpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "noguard",
+   "heldItem": [
+    "black_belt"
+   ]
+  },
+  {
+   "species": "mienshao",
+   "level": 53,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "uturn",
+    "quickguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "regenerator"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

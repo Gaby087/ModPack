@@ -1,0 +1,18 @@
+{
+ "type": "e4",
+ "series": [
+  "gaby_kalos"
+ ],
+ "optional": false,
+ "requiredDefeats": [
+  [
+   "elite_four_malva_k33"
+  ]
+ ],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

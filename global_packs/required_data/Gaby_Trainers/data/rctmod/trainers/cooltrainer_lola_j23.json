@@ -1,0 +1,84 @@
+{
+ "name": "Cooltrainer Lola",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "garchomp",
+   "level": 83,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "dragonclaw",
+    "stoneedge",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "roughskin"
+  },
+  {
+   "species": "haxorus",
+   "level": 83,
+   "nature": "jolly",
+   "moveset": [
+    "dragondance",
+    "outrage",
+    "closecombat",
+    "poisonjab"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moldbreaker"
+  },
+  {
+   "species": "kingdra",
+   "level": 82,
+   "nature": "modest",
+   "moveset": [
+    "dracometeor",
+    "surf",
+    "icebeam",
+    "raindance"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "name": "Leader Norman",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "slaking",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "doubleedge",
+    "gigaimpact",
+    "hammerarm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "truant",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "blissey",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "seismictoss",
+    "softboiled",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure"
+  },
+  {
+   "species": "kangaskhan",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "doubleedge",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "scrappy",
+   "heldItem": [
+    "mega_showdown:kangaskhanite"
+   ]
+  },
+  {
+   "species": "snorlax",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bodyslam",
+    "crunch",
+    "icepunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "staraptor",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "doubleedge",
+    "quickattack",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "exploud",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "flamethrower",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "scrappy",
+   "heldItem": [
+    "wide_lens"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

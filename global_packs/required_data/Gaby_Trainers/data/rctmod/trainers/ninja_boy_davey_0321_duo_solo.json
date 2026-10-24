@@ -1,0 +1,146 @@
+{
+ "name": "Ninja Boy Davey",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "venonat",
+   "level": 31,
+   "nature": "modest",
+   "moveset": [
+    "psybeam",
+    "poisonpowder",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "tintedlens"
+  },
+  {
+   "species": "golbat",
+   "level": 31,
+   "nature": "jolly",
+   "moveset": [
+    "wingattack",
+    "poisonfang",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "nidorina",
+   "level": 31,
+   "nature": "careful",
+   "moveset": [
+    "poisonfang",
+    "doublekick",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "poisonpoint"
+  },
+  {
+   "species": "spinarak",
+   "level": 31,
+   "nature": "adamant",
+   "moveset": [
+    "poisonjab",
+    "bugbite",
+    "stickyweb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "insomnia"
+  },
+  {
+   "species": "gloom",
+   "level": 31,
+   "nature": "calm",
+   "moveset": [
+    "megadrain",
+    "acid",
+    "sleeppowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "stench"
+  },
+  {
+   "species": "skorupi",
+   "level": 31,
+   "nature": "adamant",
+   "moveset": [
+    "poisonfang",
+    "pinmissile",
+    "toxicspikes",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "battlearmor"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

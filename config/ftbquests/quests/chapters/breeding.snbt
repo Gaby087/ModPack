@@ -1,0 +1,757 @@
+{
+ "id": "42D850A8C9B8379B",
+ "filename": "breeding",
+ "group": "71C7157F1269A7DC",
+ "order_index": 18,
+ "icon": {
+  "id": "cobblemon:destiny_knot",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "41C41BF9D8885A23",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "ditto",
+     "id": "48941D5C3B7C0ECE"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 3000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "5A08D7F1220100D5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "14BC5458D4137167",
+   "x": 0.0,
+   "y": 2.0,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:pasture",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "33ADBDC1A3F30F27"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 800",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "197877BB5D11C5D1",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "6305936C49C769C6",
+   "x": 2.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "collect_egg",
+     "amount": 5,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "23FD6D41A158A1E9"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7050648CFD72B459",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ]
+  },
+  {
+   "id": "66CBA99B0B640AE4",
+   "x": 4.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "collect_egg",
+     "amount": 25,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "467B27DE8FA42C74"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 6000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4A715D9B90D6C673",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6305936C49C769C6"
+   ]
+  },
+  {
+   "id": "59405719EA33BF88",
+   "x": 6.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "collect_egg",
+     "amount": 100,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "3F182573BBCCA5C0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 15000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "66AC4A6CEC46B97E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "66CBA99B0B640AE4"
+   ]
+  },
+  {
+   "id": "67EE99B8AA2FA3A3",
+   "x": 8.0,
+   "y": 1.0,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "collect_egg",
+     "amount": 300,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "39231C6795B14575"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6CF011239F857E6C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "59405719EA33BF88"
+   ]
+  },
+  {
+   "id": "58F731339A50085B",
+   "x": 2.0,
+   "y": 3.0,
+   "icon": {
+    "id": "cobblemon:exp_candy_s",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 5,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "229376D91D9B421D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1500",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "676F4225B4703C5C",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ]
+  },
+  {
+   "id": "3E276E522B989592",
+   "x": 4.0,
+   "y": 3.0,
+   "icon": {
+    "id": "cobblemon:exp_candy_s",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 25,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "229B87515D23C258"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 6000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "6CDE363B170A7693",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:destiny_knot",
+      "count": 1
+     },
+     "count": 1,
+     "id": "1E9F34480786C3FE",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58F731339A50085B"
+   ]
+  },
+  {
+   "id": "3D46F65CFD40E250",
+   "x": 6.0,
+   "y": 3.0,
+   "icon": {
+    "id": "cobblemon:exp_candy_s",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 100,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "63247EC4C0862313"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 15000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "24B0C74F55D53DCA",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3E276E522B989592"
+   ]
+  },
+  {
+   "id": "411BE8392D990EA2",
+   "x": 8.0,
+   "y": 3.0,
+   "icon": {
+    "id": "cobblemon:exp_candy_s",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 300,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "284BB630D0B8FD9D"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 40000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "10FD7A80889943A5",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3D46F65CFD40E250"
+   ]
+  },
+  {
+   "id": "1B438D9284E0D697",
+   "x": 10.0,
+   "y": 2.0,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "shiny": true,
+     "id": "53A489D81B6191CA"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 30000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "4FB0C2B6F54147DB",
+     "auto": "no_toast"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ability_patch",
+      "count": 1
+     },
+     "count": 1,
+     "id": "45864A166A558D17",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3E276E522B989592"
+   ],
+   "shape": "gear",
+   "size": 1.3
+  },
+  {
+   "id": "260F193514A7CA8A",
+   "x": 2.0,
+   "y": 5.0,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "adamant",
+     "id": "2C6183CC69E238A6"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:power_bracer",
+      "count": 1
+     },
+     "count": 1,
+     "id": "14D5973B2423B3B6",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58F731339A50085B"
+   ],
+   "shape": "circle"
+  },
+  {
+   "id": "3CCA9ADC01D1B06B",
+   "x": 4.0,
+   "y": 5.0,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "jolly",
+     "id": "171C581F9702B4BF"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:power_anklet",
+      "count": 1
+     },
+     "count": 1,
+     "id": "34B718C173608B11",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58F731339A50085B"
+   ],
+   "shape": "circle"
+  },
+  {
+   "id": "38447840B03DFA4B",
+   "x": 6.0,
+   "y": 5.0,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "modest",
+     "id": "2D4633BBB64CDB34"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:power_lens",
+      "count": 1
+     },
+     "count": 1,
+     "id": "599FBAA1A7EF5995",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58F731339A50085B"
+   ],
+   "shape": "circle"
+  },
+  {
+   "id": "63A81EE5733AD3F6",
+   "x": 8.0,
+   "y": 5.0,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "timid",
+     "id": "59B91AED78355248"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:power_band",
+      "count": 1
+     },
+     "count": 1,
+     "id": "44130597CBA54C3F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58F731339A50085B"
+   ],
+   "shape": "circle"
+  },
+  {
+   "id": "443AC867A931974A",
+   "x": 10.0,
+   "y": 5.0,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "bold",
+     "id": "5AA677D9CB97AB15"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:power_belt",
+      "count": 1
+     },
+     "count": 1,
+     "id": "19BC7B796110379D",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58F731339A50085B"
+   ],
+   "shape": "circle"
+  },
+  {
+   "id": "1902B7CFEE14ED05",
+   "x": 12.0,
+   "y": 5.0,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "calm",
+     "id": "74FA4855C42B2D70"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:power_weight",
+      "count": 1
+     },
+     "count": 1,
+     "id": "3DB434731B4B418E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58F731339A50085B"
+   ],
+   "shape": "circle"
+  },
+  {
+   "id": "45F0CE86ACD9CFB6",
+   "x": 2.0,
+   "y": -1.0,
+   "icon": {
+    "id": "cobblemon:destiny_knot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:destiny_knot",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "21276AFC0104DBA5"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "519092B876E351DC",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ],
+   "shape": "circle"
+  },
+  {
+   "id": "30B72F4BE1FD62E4",
+   "x": 4.0,
+   "y": -1.0,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:everstone",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "325E23AC14EEE3C0"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "7BF1A7CFDAEDB54F",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ],
+   "shape": "circle"
+  },
+  {
+   "id": "1002A1B1F9BE2FE5",
+   "x": 6.0,
+   "y": -1.0,
+   "icon": {
+    "id": "cobblemon:ability_capsule",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ability_capsule",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "61632C5CC5ABCBB8"
+    }
+   ],
+   "rewards": [
+    {
+     "type": "command",
+     "command": "/cobbledollars give {p} 1000",
+     "elevate_perms": true,
+     "silent": true,
+     "id": "39D10D44321D0E1E",
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ],
+   "shape": "circle"
+  }
+ ]
+}

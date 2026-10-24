@@ -1,0 +1,146 @@
+{
+ "name": "Rocket Executive Archer",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "hippowdon",
+   "level": 47,
+   "nature": "impish",
+   "moveset": [
+    "highhorsepower",
+    "crunch",
+    "sandstorm",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sandstream"
+  },
+  {
+   "species": "camerupt",
+   "level": 47,
+   "nature": "modest",
+   "moveset": [
+    "flamethrower",
+    "earthpower",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "magmaarmor"
+  },
+  {
+   "species": "krookodile",
+   "level": 48,
+   "nature": "adamant",
+   "moveset": [
+    "highhorsepower",
+    "crunch",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "nidoking",
+   "level": 48,
+   "nature": "timid",
+   "moveset": [
+    "earthpower",
+    "sludgebomb",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "steelix",
+   "level": 47,
+   "nature": "impish",
+   "moveset": [
+    "heavyslam",
+    "rockslide",
+    "wideguard",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "rhyperior",
+   "level": 48,
+   "nature": "adamant",
+   "moveset": [
+    "highhorsepower",
+    "rockslide",
+    "megahorn",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "solidrock"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Lily",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "kangaskhan",
+   "level": 67,
+   "nature": "adamant",
+   "moveset": [
+    "fakeout",
+    "doubleedge",
+    "suckerpunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "scrappy"
+  },
+  {
+   "species": "tauros",
+   "level": 67,
+   "nature": "jolly",
+   "moveset": [
+    "doubleedge",
+    "closecombat",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "ambipom",
+   "level": 67,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "knockoff",
+    "lowsweep",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

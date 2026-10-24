@@ -1,0 +1,96 @@
+{
+ "name": "Bug Maniac Angelo",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "kilowattrel",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "thunderbolt",
+    "hurricane",
+    "voltswitch",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "voltabsorb"
+  },
+  {
+   "species": "bellibolt",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "thunderbolt",
+    "muddywater",
+    "slackoff",
+    "voltswitch"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "electromorphosis"
+  },
+  {
+   "species": "pawmot",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "doubleshock",
+    "closecombat",
+    "revivalblessing",
+    "machpunch"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "ironfist"
+  }
+ ]
+}

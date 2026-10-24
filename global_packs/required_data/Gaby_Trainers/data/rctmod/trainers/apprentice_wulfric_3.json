@@ -1,0 +1,92 @@
+{
+ "name": "Apprentice Berg",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "articuno",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "freezedry",
+    "hurricane",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pressure"
+  },
+  {
+   "species": "baxcalibur",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "glaiverush",
+    "iciclecrash",
+    "dragondance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "thermalexchange"
+  },
+  {
+   "species": "vanilluxe",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "blizzard",
+    "freezedry",
+    "auroraveil",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

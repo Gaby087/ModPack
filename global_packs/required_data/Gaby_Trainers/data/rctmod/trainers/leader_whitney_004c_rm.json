@@ -1,0 +1,177 @@
+{
+ "name": "Leader Whitney",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "ambipom",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "uturn",
+    "return",
+    "knockoff"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "clefable",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "flamethrower",
+    "calmmind",
+    "softboiled"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "magicguard"
+  },
+  {
+   "species": "ursaring",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "facade",
+    "closecombat",
+    "crunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts"
+  },
+  {
+   "species": "snorlax",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "bodyslam",
+    "crunch",
+    "earthquake",
+    "curse"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "miltank",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "bodyslam",
+    "earthquake",
+    "milkdrink",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "lopunny",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "return",
+    "highjumpkick",
+    "icepunch",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "limber",
+   "heldItem": [
+    "mega_showdown:lopunnite"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Boarder Ronald",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "mamoswine",
+   "level": 80,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "iceshard",
+    "knockoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "cloyster",
+   "level": 79,
+   "nature": "adamant",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "skilllink"
+  },
+  {
+   "species": "walrein",
+   "level": 79,
+   "nature": "bold",
+   "moveset": [
+    "icebeam",
+    "waterpulse",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "thickfat"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

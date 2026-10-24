@@ -1,0 +1,85 @@
+{
+ "name": "Kurt",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "armaldo",
+   "level": 65,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "xscissor",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "battlearmor"
+  },
+  {
+   "species": "kleavor",
+   "level": 66,
+   "nature": "jolly",
+   "moveset": [
+    "stoneaxe",
+    "xscissor",
+    "closecombat",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sharpness"
+  },
+  {
+   "species": "yanmega",
+   "level": 66,
+   "nature": "timid",
+   "moveset": [
+    "bugbuzz",
+    "airslash",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "speedboost"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

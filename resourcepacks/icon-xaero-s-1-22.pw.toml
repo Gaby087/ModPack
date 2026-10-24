@@ -1,0 +1,8 @@
+name = "Icon Xaero's 1.22"
+filename = "Icon Xaero's 1.22.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LWGq2eg6/versions/OC90EEmJ/Icon%20Xaero%27s%201.22.zip"
+hash-format = "sha1"
+hash = "a14777ad5dac4fd37c4429c29165c87f6270102e"

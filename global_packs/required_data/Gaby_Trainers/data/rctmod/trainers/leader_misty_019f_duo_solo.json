@@ -1,0 +1,154 @@
+{
+ "name": "Leader Misty",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "starmie",
+   "level": 19,
+   "nature": "timid",
+   "moveset": [
+    "waterpulse",
+    "psybeam",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "naturalcure",
+   "heldItem": [
+    "mystic_water"
+   ]
+  },
+  {
+   "species": "seaking",
+   "level": 18,
+   "nature": "adamant",
+   "moveset": [
+    "waterfall",
+    "hornattack",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "goldeen",
+   "level": 18,
+   "nature": "adamant",
+   "moveset": [
+    "waterpulse",
+    "hornattack",
+    "raindance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "swiftswim"
+  },
+  {
+   "species": "poliwhirl",
+   "level": 18,
+   "nature": "modest",
+   "moveset": [
+    "waterpulse",
+    "bubblebeam",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "waterabsorb"
+  },
+  {
+   "species": "corsola",
+   "level": 17,
+   "nature": "bold",
+   "moveset": [
+    "waterpulse",
+    "ancientpower",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "hustle"
+  },
+  {
+   "species": "wartortle",
+   "level": 18,
+   "nature": "modest",
+   "moveset": [
+    "waterpulse",
+    "bite",
+    "followme",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 20,
+    "atk": 20,
+    "def": 20,
+    "spa": 20,
+    "spd": 20,
+    "spe": 20
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "torrent"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

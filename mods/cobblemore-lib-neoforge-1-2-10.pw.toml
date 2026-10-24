@@ -1,0 +1,8 @@
+name = "cobblemore_lib-neoforge-1.2.10"
+filename = "cobblemore_lib-neoforge-1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYP2vmDS/versions/Ypz0g6qz/cobblemore_lib-neoforge-1.2.10.jar"
+hash-format = "sha1"
+hash = "56ba13ef84c288670cc8de11bc8e63b48901fca7"

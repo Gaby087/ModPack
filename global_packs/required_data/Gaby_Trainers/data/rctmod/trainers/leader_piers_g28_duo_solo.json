@@ -1,0 +1,180 @@
+{
+ "name": "Leader Piers",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "obstagoon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "facade",
+    "knockoff",
+    "partingshot",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "skuntank",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crunch",
+    "poisonjab",
+    "taunt",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "aftermath"
+  },
+  {
+   "species": "grimmsnarl",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "spiritbreak",
+    "thunderwave",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "prankster",
+   "heldItem": [
+    "light_clay"
+   ]
+  },
+  {
+   "species": "morpeko",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "aurawheel",
+    "psychicfangs",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "hungerswitch"
+  },
+  {
+   "species": "liepard",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "foulplay",
+    "thunderwave",
+    "encore",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "bisharp",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "suckerpunch",
+    "ironhead",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "defiant"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Beauty Victoria",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "lopunny",
+   "level": 67,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "highjumpkick",
+    "return",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "limber"
+  },
+  {
+   "species": "persian",
+   "level": 67,
+   "nature": "jolly",
+   "moveset": [
+    "knockoff",
+    "playrough",
+    "uturn",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "farigiraf",
+   "level": 68,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "psychic",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "armortail"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

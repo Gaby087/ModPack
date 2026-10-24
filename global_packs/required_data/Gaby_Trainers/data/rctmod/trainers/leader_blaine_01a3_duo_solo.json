@@ -1,0 +1,154 @@
+{
+ "name": "Leader Blaine",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "ninetales",
+   "level": 42,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "extrasensory",
+    "willowisp",
+    "helpinghand"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "drought"
+  },
+  {
+   "species": "arcanine",
+   "level": 44,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "extremespeed",
+    "crunch",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 30,
+    "atk": 30,
+    "def": 30,
+    "spa": 30,
+    "spd": 30,
+    "spe": 30
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "charcoal_stick"
+   ]
+  },
+  {
+   "species": "magmar",
+   "level": 43,
+   "nature": "naive",
+   "moveset": [
+    "flamethrower",
+    "thunderpunch",
+    "lowkick",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "talonflame",
+   "level": 43,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "flareblitz",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "galewings"
+  },
+  {
+   "species": "magcargo",
+   "level": 43,
+   "nature": "bold",
+   "moveset": [
+    "heatwave",
+    "rockslide",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "flareon",
+   "level": 43,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "quickattack",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 28,
+    "atk": 28,
+    "def": 28,
+    "spa": 28,
+    "spd": 28,
+    "spe": 28
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "guts"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

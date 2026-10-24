@@ -1,0 +1,96 @@
+{
+ "name": "Cooltrainer Mary",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "bewear",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "doubleedge",
+    "closecombat",
+    "darkestlariat",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "fluffy"
+  },
+  {
+   "species": "maushold",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "populationbomb",
+    "bite",
+    "tidyup",
+    "encore"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "dudunsparce",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "boomburst",
+    "earthpower",
+    "calmmind",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "serenegrace"
+  }
+ ]
+}

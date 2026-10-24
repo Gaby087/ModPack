@@ -1,0 +1,96 @@
+{
+ "name": "Artist Ben",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "persian",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "knockoff",
+    "uturn",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "kecleon",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "knockoff",
+    "suckerpunch",
+    "drainpunch",
+    "recover"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "protean"
+  },
+  {
+   "species": "ambipom",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "doublehit",
+    "uturn",
+    "knockoff"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  }
+ ]
+}

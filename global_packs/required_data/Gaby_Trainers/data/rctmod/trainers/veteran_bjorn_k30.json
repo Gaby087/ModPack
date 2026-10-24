@@ -1,0 +1,96 @@
+{
+ "name": "Veteran Bjorn",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "avalugg",
+   "level": 100,
+   "nature": "impish",
+   "moveset": [
+    "avalanche",
+    "bodypress",
+    "recover",
+    "rapidspin"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "mamoswine",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "iciclecrash",
+    "iceshard",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  },
+  {
+   "species": "walrein",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "surf",
+    "icebeam",
+    "protect",
+    "toxic"
+   ],
+   "ivs": {
+    "hp": 27,
+    "atk": 27,
+    "def": 27,
+    "spa": 27,
+    "spd": 27,
+    "spe": 27
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "thickfat"
+  }
+ ]
+}

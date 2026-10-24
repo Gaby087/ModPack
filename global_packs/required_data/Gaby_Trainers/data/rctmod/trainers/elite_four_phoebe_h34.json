@@ -1,0 +1,189 @@
+{
+ "name": "Elite Four Phoebe",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "sableye",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "knockoff",
+    "willowisp",
+    "recover",
+    "foulplay"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "prankster",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "banette",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "poltergeist",
+    "gunkshot",
+    "shadowsneak",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "froslass",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "spikes",
+    "destinybond"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "chandelure",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "flamethrower",
+    "energyball",
+    "trick"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "gengar",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgewave",
+    "focusblast",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "dusknoir",
+   "level": 100,
+   "nature": "brave",
+   "moveset": [
+    "poltergeist",
+    "earthquake",
+    "icepunch",
+    "trickroom"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "atk": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "frisk",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

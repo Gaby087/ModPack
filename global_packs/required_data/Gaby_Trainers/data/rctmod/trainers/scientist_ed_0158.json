@@ -1,0 +1,57 @@
+{
+ "name": "Scientist Ed",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "magmar",
+   "level": 41,
+   "nature": "modest",
+   "moveset": [
+    "flamethrower",
+    "lowkick",
+    "smokescreen",
+    "confuseray"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "magcargo",
+   "level": 41,
+   "nature": "bold",
+   "moveset": [
+    "lavaplume",
+    "rockslide",
+    "harden",
+    "amnesia"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flamebody"
+  }
+ ]
+}

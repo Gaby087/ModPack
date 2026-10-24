@@ -1,0 +1,146 @@
+{
+ "name": "Medium Grace",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "chandelure",
+   "level": 71,
+   "nature": "modest",
+   "moveset": [
+    "shadowball",
+    "flamethrower",
+    "trickroom",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "flashfire"
+  },
+  {
+   "species": "froslass",
+   "level": 70,
+   "nature": "timid",
+   "moveset": [
+    "icywind",
+    "shadowball",
+    "willowisp",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "sableye",
+   "level": 70,
+   "nature": "careful",
+   "moveset": [
+    "knockoff",
+    "willowisp",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "prankster"
+  },
+  {
+   "species": "cursola",
+   "level": 71,
+   "nature": "modest",
+   "moveset": [
+    "shadowball",
+    "icebeam",
+    "reflect",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "perishbody"
+  },
+  {
+   "species": "dhelmise",
+   "level": 71,
+   "nature": "adamant",
+   "moveset": [
+    "poltergeist",
+    "powerwhip",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "steelworker"
+  },
+  {
+   "species": "golurk",
+   "level": 71,
+   "nature": "adamant",
+   "moveset": [
+    "poltergeist",
+    "shadowpunch",
+    "lowsweep",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "ironfist"
+  }
+ ],
+ "battleFormat": "GEN_9_DOUBLES"
+}

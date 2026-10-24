@@ -1,0 +1,177 @@
+{
+ "name": "Leader Giovanni",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "dugtrio",
+   "level": 48,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "suckerpunch",
+    "stoneedge",
+    "memento"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "arenatrap"
+  },
+  {
+   "species": "persian",
+   "level": 48,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "knockoff",
+    "uturn",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 128,
+    "spe": 128
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "nidoqueen",
+   "level": 49,
+   "nature": "modest",
+   "moveset": [
+    "earthpower",
+    "sludgebomb",
+    "icebeam",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 128,
+    "spa": 128
+   },
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "nidoking",
+   "level": 49,
+   "nature": "timid",
+   "moveset": [
+    "earthpower",
+    "sludgewave",
+    "thunderbolt",
+    "icebeam"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252
+   },
+   "aspects": [],
+   "ability": "sheerforce",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "marowak",
+   "level": 49,
+   "nature": "adamant",
+   "moveset": [
+    "bonemerang",
+    "stoneedge",
+    "firepunch",
+    "knockoff"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "hp": 252
+   },
+   "aspects": [],
+   "ability": "rockhead",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "rhydon",
+   "level": 50,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "stoneedge",
+    "megahorn",
+    "hammerarm"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "hp": 252
+   },
+   "aspects": [],
+   "ability": "lightningrod",
+   "heldItem": [
+    "soft_sand"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "name": "Leader Candice",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "abomasnow",
+   "level": 100,
+   "nature": "mild",
+   "moveset": [
+    "blizzard",
+    "gigadrain",
+    "earthpower",
+    "iceshard"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning",
+   "heldItem": [
+    "light_clay"
+   ]
+  },
+  {
+   "species": "froslass",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "spikes",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "weavile",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tripleaxel",
+    "knockoff",
+    "iceshard",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pressure",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "medicham",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "zenheadbutt",
+    "icepunch",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "purepower"
+  },
+  {
+   "species": "baxcalibur",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "glaiverush",
+    "iciclecrash",
+    "earthquake",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thermalexchange",
+   "heldItem": [
+    "lum_berry"
+   ]
+  },
+  {
+   "species": "mamoswine",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "iciclecrash",
+    "iceshard",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "focus_sash"
+   ]
+  }
+ ]
+}

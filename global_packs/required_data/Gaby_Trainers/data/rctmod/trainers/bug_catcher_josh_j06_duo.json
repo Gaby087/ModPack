@@ -1,0 +1,80 @@
+{
+ "name": "Bug Catcher Josh",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "pinsir",
+   "level": 65,
+   "nature": "jolly",
+   "moveset": [
+    "xscissor",
+    "closecombat",
+    "stoneedge",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "moxie"
+  },
+  {
+   "species": "ninjask",
+   "level": 64,
+   "nature": "jolly",
+   "moveset": [
+    "xscissor",
+    "aerialace",
+    "swordsdance",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "speedboost"
+  },
+  {
+   "species": "armaldo",
+   "level": 65,
+   "nature": "adamant",
+   "moveset": [
+    "stoneedge",
+    "xscissor",
+    "rocktomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "battlearmor"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

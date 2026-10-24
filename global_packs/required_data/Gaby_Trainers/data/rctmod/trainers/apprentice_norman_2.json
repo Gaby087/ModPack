@@ -1,0 +1,95 @@
+{
+ "name": "Apprentice Fawn",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "pidgeot",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "hurricane",
+    "tailwind",
+    "uturn",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "bigpecks"
+  },
+  {
+   "species": "lopunny",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "return",
+    "highjumpkick",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "limber"
+  },
+  {
+   "species": "chansey",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "softboiled",
+    "helpinghand",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 25,
+    "atk": 25,
+    "def": 25,
+    "spa": 25,
+    "spd": 25,
+    "spe": 25
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "naturalcure",
+   "heldItem": [
+    "eviolite"
+   ]
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

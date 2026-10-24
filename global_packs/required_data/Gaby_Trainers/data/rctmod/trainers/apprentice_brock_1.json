@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Ricky",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "cubone",
+   "level": 10,
+   "nature": "adamant",
+   "moveset": [
+    "boneclub",
+    "headbutt",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  },
+  {
+   "species": "aron",
+   "level": 10,
+   "nature": "impish",
+   "moveset": [
+    "headbutt",
+    "rockslide",
+    "metalclaw",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "rhyhorn",
+   "level": 11,
+   "nature": "impish",
+   "moveset": [
+    "stomp",
+    "rockslide",
+    "scaryface",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "rockhead"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,84 @@
+{
+ "name": "Black Belt Lao",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "lucario",
+   "level": 74,
+   "nature": "timid",
+   "moveset": [
+    "aurasphere",
+    "flashcannon",
+    "nastyplot",
+    "vacuumwave"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "innerfocus"
+  },
+  {
+   "species": "toxicroak",
+   "level": 73,
+   "nature": "adamant",
+   "moveset": [
+    "drainpunch",
+    "gunkshot",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "dryskin"
+  },
+  {
+   "species": "breloom",
+   "level": 74,
+   "nature": "jolly",
+   "moveset": [
+    "spore",
+    "machpunch",
+    "bulletseed",
+    "rocktomb"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "technician"
+  }
+ ]
+}

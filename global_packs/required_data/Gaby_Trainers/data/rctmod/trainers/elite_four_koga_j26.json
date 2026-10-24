@@ -1,0 +1,180 @@
+{
+ "name": "Elite Four Koga",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "toxapex",
+   "level": 89,
+   "nature": "bold",
+   "moveset": [
+    "surf",
+    "toxic",
+    "recover",
+    "haze"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "crobat",
+   "level": 89,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "crosspoison",
+    "uturn",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "infiltrator"
+  },
+  {
+   "species": "muk",
+   "level": 90,
+   "nature": "adamant",
+   "moveset": [
+    "poisonjab",
+    "knockoff",
+    "shadowsneak",
+    "curse"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "poisontouch"
+  },
+  {
+   "species": "drapion",
+   "level": 90,
+   "nature": "jolly",
+   "moveset": [
+    "knockoff",
+    "poisonjab",
+    "earthquake",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sniper"
+  },
+  {
+   "species": "gengar",
+   "level": 90,
+   "nature": "timid",
+   "moveset": [
+    "shadowball",
+    "sludgewave",
+    "focusblast",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "cursedbody"
+  },
+  {
+   "species": "nidoking",
+   "level": 91,
+   "nature": "timid",
+   "moveset": [
+    "earthpower",
+    "sludgewave",
+    "icebeam",
+    "fireblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sheerforce",
+   "heldItem": [
+    "life_orb"
+   ]
+  }
+ ]
+}

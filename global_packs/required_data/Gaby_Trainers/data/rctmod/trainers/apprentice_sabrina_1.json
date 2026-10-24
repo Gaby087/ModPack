@@ -1,0 +1,80 @@
+{
+ "name": "Apprentice Mira",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "abra",
+   "level": 35,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "shadowball",
+    "thunderwave",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "synchronize"
+  },
+  {
+   "species": "mimejr",
+   "level": 35,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "lightscreen",
+    "fakeout",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "filter"
+  },
+  {
+   "species": "natu",
+   "level": 35,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "nightshade",
+    "tailwind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 15,
+    "atk": 15,
+    "def": 15,
+    "spa": 15,
+    "spd": 15,
+    "spe": 15
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "synchronize"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

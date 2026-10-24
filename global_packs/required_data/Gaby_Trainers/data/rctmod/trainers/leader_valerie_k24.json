@@ -1,0 +1,192 @@
+{
+ "name": "Leader Valerie",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 3
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 3
+  }
+ ],
+ "team": [
+  {
+   "species": "sylveon",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "hypervoice",
+    "calmmind",
+    "wish",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "pixilate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "mawile",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "playrough",
+    "ironhead",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "mrmime",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "psychic",
+    "dazzlinggleam",
+    "focusblast",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "filter",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "aromatisse",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "moonblast",
+    "calmmind",
+    "wish",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "aromaveil",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "slurpuff",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "playrough",
+    "drainpunch",
+    "bellydrum",
+    "return"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "unburden",
+   "heldItem": [
+    "sitrus_berry"
+   ]
+  },
+  {
+   "species": "florges",
+   "level": 100,
+   "nature": "calm",
+   "moveset": [
+    "moonblast",
+    "calmmind",
+    "synthesis",
+    "psychic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "flowerveil",
+   "heldItem": [
+    "leftovers"
+   ]
+  }
+ ]
+}

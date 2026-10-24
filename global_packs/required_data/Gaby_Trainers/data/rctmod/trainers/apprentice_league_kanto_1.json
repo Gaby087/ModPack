@@ -1,0 +1,83 @@
+{
+ "name": "Aide Yuki",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 0
+ },
+ "bag": [],
+ "team": [
+  {
+   "species": "slowbro",
+   "level": 51,
+   "nature": "bold",
+   "moveset": [
+    "psychic",
+    "waterpulse",
+    "slackoff",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "regenerator"
+  },
+  {
+   "species": "lapras",
+   "level": 53,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "hydropump",
+    "icywind",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "waterabsorb",
+   "heldItem": [
+    "never_melt_ice"
+   ]
+  },
+  {
+   "species": "glaceon",
+   "level": 52,
+   "nature": "modest",
+   "moveset": [
+    "icebeam",
+    "shadowball",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "icebody"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

@@ -1,0 +1,177 @@
+{
+ "name": "Leader Giovanni",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "persian",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "uturn",
+    "knockoff",
+    "playrough"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician"
+  },
+  {
+   "species": "dugtrio",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "stoneedge",
+    "suckerpunch",
+    "memento"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "arenatrap"
+  },
+  {
+   "species": "nidoqueen",
+   "level": 62,
+   "nature": "modest",
+   "moveset": [
+    "earthpower",
+    "sludgewave",
+    "icebeam",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "nidoking",
+   "level": 62,
+   "nature": "timid",
+   "moveset": [
+    "earthpower",
+    "sludgewave",
+    "icebeam",
+    "thunderbolt"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sheerforce"
+  },
+  {
+   "species": "rhyperior",
+   "level": 62,
+   "nature": "adamant",
+   "moveset": [
+    "earthquake",
+    "stoneedge",
+    "megahorn",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solidrock"
+  },
+  {
+   "species": "garchomp",
+   "level": 62,
+   "nature": "jolly",
+   "moveset": [
+    "earthquake",
+    "dragonclaw",
+    "stoneedge",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "roughskin",
+   "heldItem": [
+    "mega_showdown:groundium_z"
+   ]
+  }
+ ]
+}

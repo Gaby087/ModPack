@@ -1,0 +1,20 @@
+{
+ "type": "normal",
+ "series": [
+  "gaby_galar",
+  "gaby_hoenn",
+  "gaby_johto",
+  "gaby_kalos",
+  "gaby_kanto",
+  "gaby_sinnoh",
+  "gaby_unova"
+ ],
+ "optional": true,
+ "requiredDefeats": [],
+ "requiredSeries": [],
+ "maxTrainerWins": -1,
+ "maxTrainerDefeats": -1,
+ "battleCooldownTicks": 20,
+ "spawnWeightFactor": 0.0,
+ "forceBattleOnSight": false
+}

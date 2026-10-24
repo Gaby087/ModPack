@@ -1,0 +1,85 @@
+{
+ "name": "Tamao",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "victreebel",
+   "level": 29,
+   "nature": "adamant",
+   "moveset": [
+    "razorleaf",
+    "sleeppowder",
+    "sludgebomb",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  },
+  {
+   "species": "parasect",
+   "level": 28,
+   "nature": "adamant",
+   "moveset": [
+    "spore",
+    "leechlife",
+    "ragepowder",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "effectspore"
+  },
+  {
+   "species": "lilligant",
+   "level": 29,
+   "nature": "timid",
+   "moveset": [
+    "gigadrain",
+    "sleeppowder",
+    "helpinghand",
+    "protect"
+   ],
+   "ivs": {
+    "hp": 22,
+    "atk": 22,
+    "def": 22,
+    "spa": 22,
+    "spd": 22,
+    "spe": 22
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "chlorophyll"
+  }
+ ],
+ "battleFormat": "GEN_9_MULTI"
+}

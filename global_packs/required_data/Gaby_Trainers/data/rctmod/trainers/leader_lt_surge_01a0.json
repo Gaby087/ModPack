@@ -1,0 +1,109 @@
+{
+ "name": "Leader Lt. Surge",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 1
+ },
+ "bag": [
+  {
+   "item": "cobblemon:super_potion",
+   "quantity": 1
+  }
+ ],
+ "team": [
+  {
+   "species": "voltorb",
+   "level": 21,
+   "nature": "timid",
+   "moveset": [
+    "chargebeam",
+    "rollout",
+    "screech",
+    "spark"
+   ],
+   "ivs": {
+    "hp": 21,
+    "atk": 21,
+    "def": 21,
+    "spa": 21,
+    "spd": 21,
+    "spe": 21
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "magnemite",
+   "level": 22,
+   "nature": "modest",
+   "moveset": [
+    "electroball",
+    "thunderwave",
+    "metalsound",
+    "flashcannon"
+   ],
+   "ivs": {
+    "hp": 21,
+    "atk": 21,
+    "def": 21,
+    "spa": 21,
+    "spd": 21,
+    "spe": 21
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "sturdy"
+  },
+  {
+   "species": "pikachu",
+   "level": 22,
+   "nature": "timid",
+   "moveset": [
+    "electroball",
+    "quickattack",
+    "nuzzle",
+    "thunderwave"
+   ],
+   "ivs": {
+    "hp": 21,
+    "atk": 21,
+    "def": 21,
+    "spa": 21,
+    "spd": 21,
+    "spe": 21
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static"
+  },
+  {
+   "species": "raichu",
+   "level": 24,
+   "nature": "jolly",
+   "moveset": [
+    "thunderpunch",
+    "quickattack",
+    "thunderwave",
+    "brickbreak"
+   ],
+   "ivs": {
+    "hp": 24,
+    "atk": 24,
+    "def": 24,
+    "spa": 24,
+    "spd": 24,
+    "spe": 24
+   },
+   "evs": {},
+   "aspects": [],
+   "ability": "static",
+   "heldItem": [
+    "magnet"
+   ]
+  }
+ ]
+}
