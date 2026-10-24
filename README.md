@@ -1,6 +1,6 @@
-# Gaby - A World to Keep
+# A modpack about cobblemon
 
-Modpack de Cobblemon + Create de Gaby. Este repo es solo para que **Prism Launcher** instale y actualice el pack solo;
+Modpack de Cobblemon + Create . Este repo es solo para que **Prism Launcher** instale y actualice el pack solo;
 no hace falta tocar nada de aquí.
 
 ## Instalar (una sola vez)
