@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "c9ac6cefbb024b6f69b2c65d49519c9ad4d5b82048c418e263ce340672c45325"
 
 [[files]]
+file = "config/biomeblends-common.toml"
+hash = "3b9fbf62efe9d22e2c6307a35c74a4d663258b0b1ad35aeef25aff30a34d3cf8"
+
+[[files]]
 file = "config/biomesoplenty/generation.toml"
 hash = "69a04cf1bbbe2811fde956817d7d6aa51a3a2f82cda44f4db0f21fb65e936459"
 
@@ -11236,6 +11240,11 @@ hash = "dea13ff23997f4b6fad4906381658d972af9beb88ba3a7cb15a817e8a4b2e1ef"
 metafile = true
 
 [[files]]
+file = "mods/biomeblends-neoforge-1-4-1.pw.toml"
+hash = "b378549a564a930d9d99fa28636ee2361502dceedbf12c22c2253580e7a59b57"
+metafile = true
+
+[[files]]
 file = "mods/biomesoplenty-neoforge-1-21-1-21-1-0-14.pw.toml"
 hash = "0f8051f84af150a2b55a7218fcd658c11c3eb4a2a5ea3adf61f46a8a0c752267"
 metafile = true
@@ -11487,12 +11496,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "0bec1d86136b750b220be8e8602cc8b0a9627b4a67f22a7f8fc5e9cb1e372fe3"
+hash = "ad6aa007cbff0f36f60bf7913b488c2cb82821eda7787f5a80fd5d784d98a4ad"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "af35ad1a31541e17f0e1a45c8b9b7e1b3456fcf068922c1d46d96364330f5eec"
+hash = "ef65fbd1eb5fe9f93763d2ca00ccc6f49b43d4da83d85e417ca65b8fd4163fb9"
 metafile = true
 
 [[files]]
@@ -11512,7 +11521,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "7dc87faa6929fa407e4b770322c2750be7dc482b09c735651342ca312764f8a2"
+hash = "15c816c429fc6e95d19691af3ae6c7b68500a9fc042ffbce8f7f840f0e42928f"
 metafile = true
 
 [[files]]
@@ -11676,8 +11685,8 @@ hash = "205d46daa428118db2aa8f9ca02069e40b6defe716ceb39d5d9a51c679bd6af0"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib-neoforge-0-12-15-5-beta-1-1-21.pw.toml"
-hash = "380b183912bb10529729b442b391c5ca2f501629c99bdb3fd1c4c79c25d79c64"
+file = "mods/owo-lib-neoforge-0-12-15-6-beta-1-1-21.pw.toml"
+hash = "03a68cac478aa91d4ad635fa16c8c522ade215b8d0dc893d9c6a131b731e8cf4"
 metafile = true
 
 [[files]]
