@@ -1,0 +1,8 @@
+name = "Cobblemon-neoforge-1.8.4+1.21.1"
+filename = "Cobblemon-neoforge-1.8.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdwFAVRL/versions/xsVHrAsY/Cobblemon-neoforge-1.8.4%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "33582bdfdf054c64fc114f81a4950bd23f937778"

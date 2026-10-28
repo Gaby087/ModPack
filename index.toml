@@ -25,6 +25,10 @@ file = "config/cobblemon/starters.json"
 hash = "6f9db6e6959d90abbaa6adad77d49a9bb325050431e10b3b2ec006a3abef42c6"
 
 [[files]]
+file = "config/cobblemonintegrations-common.toml"
+hash = "e95eec687aec42ce1fce30dc27edb41240da84de7b6d871540cb3bdd557bafe6"
+
+[[files]]
 file = "config/cobblemonraiddens/common.json5"
 hash = "31031aa15f9ee0c360c1f1ab3f2685c68983d1d8ea7b5540d5af1ec24632fea8"
 
@@ -63,6 +67,10 @@ hash = "53af8da053f11ef0a213eca2708fe47fdd84a956a4eb0d447853f4bc0b5303cc"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "6e8fafa1372e09ca865a279ba2e0ade4636543078c2184e312715cfe9a49703b"
+
+[[files]]
+file = "config/fml.toml"
+hash = "2f5de099bc6bfb0bcffd9bca23d5470f53e7397d25f379093389f41f2e0e5196"
 
 [[files]]
 file = "config/ftbquests-client.snbt"
@@ -11290,13 +11298,18 @@ hash = "eceaee04a33ceebaaf6f2e919c70af754048d3ed7ddd4804fd4409f150a2a3dd"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-neoforge-1-8-1-1-21-1.pw.toml"
-hash = "209a232797aad7a6b9ebd0fa7a100b3fa6c7197abda3c73bd72d8405141c2ab0"
+file = "mods/cobblemon-neoforge-1-8-4-1-21-1.pw.toml"
+hash = "35ffa55f0ec3e4c60123eb75d6bcda616519997c89c7343083fe7470784ad210"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-quests-reloaded--1-21-1--neoforge-2-0-1-1-8-0.pw.toml"
 hash = "fa008fb0c4d69a34835bfd79448b95e756795d5f2c94f1fa952d5af4e47ca9c1"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonintegrations-neoforge-1-21-1-1-1-8.pw.toml"
+hash = "6d22ee19c6ba35562e3c9f3f5a392771f9b03efa696bf022dfd5775cfd7900f4"
 metafile = true
 
 [[files]]
@@ -11320,8 +11333,8 @@ hash = "5b4e358dc54b238a735fc7c87e9de5f7befba5f1372e1a44f5d43f34a07accdd"
 metafile = true
 
 [[files]]
-file = "mods/cobbreeding-neoforge-2-4-0.pw.toml"
-hash = "e8eaf8429b36332a6ea7dd0ec9b51f790325d861bc077f90d4840da79fd361cf"
+file = "mods/cobbreeding-neoforge-2-4-1.pw.toml"
+hash = "c2b03cdd542c782388a76830863aa535f1f716dd1dca2e4b7be9408e64604a9c"
 metafile = true
 
 [[files]]
@@ -11496,12 +11509,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "70f00e8ee33934aeedf38798038891490c88e7142d0f0011bb6024056db3d2f0"
+hash = "d73a01e5003b8bbec91f2e8cfaf0e8ee87e6f4dca75a10ff307bd1929225a64f"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "5620bd13dadbf869e463f322e075f09786d44d4b6c5441e193a9cbf39f287924"
+hash = "577cd66e8b745a513ec43f6c6fc6e8eb554c38776552dd24d3c1acbf1fecd256"
 metafile = true
 
 [[files]]
@@ -11521,7 +11534,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "03c65984e693a31506999d8771bfcd12572c0eac2f77897ff9d7b16b3d95315c"
+hash = "7158555a93c0f4ca2b4c38d9773257d78062c1da003c4fce4f983f0b9fe4a639"
 metafile = true
 
 [[files]]
@@ -11635,8 +11648,8 @@ hash = "016b8e9758abec9c6d518af014090d1836bf2f2b73acc65dcc3c9656da7091cf"
 metafile = true
 
 [[files]]
-file = "mods/mega-showdown-neoforge-1-2-0-1-8-1-1-21-1-release.pw.toml"
-hash = "530125fb3b6e19de223a84802717674ad4eaa8454638af51cbd30c49d05e9dff"
+file = "mods/mega-showdown-neoforge-1-3-3-1-8-4-1-21-1-release.pw.toml"
+hash = "9298cc389f0f1b296047c3b7d8b94650e985c2012c774b413864ef48b4bc0469"
 metafile = true
 
 [[files]]
@@ -11655,8 +11668,8 @@ hash = "45c9483d3b1ff4f6498ca439896ca4cfb67a54ebf38785ec5acc51de1cfa52be"
 metafile = true
 
 [[files]]
-file = "mods/morecobblemontweaks-neoforge-1-3-5.pw.toml"
-hash = "3941ba0ddaf5b7523d446aa0b68b8b84fe33a8829e83351b39de5840e299eaff"
+file = "mods/morecobblemontweaks-neoforge-1-3-6.pw.toml"
+hash = "f7414858eab4a1d8d455462cd0bbc69115c886f7480754fef791704fd9423215"
 metafile = true
 
 [[files]]
@@ -11725,8 +11738,8 @@ hash = "d4f62e99c88251c7638eb4830dad29bd9218b69b8b2765c63eeb5bbbbaedceba"
 metafile = true
 
 [[files]]
-file = "mods/rctapi-neoforge-1-21-1-0-16-1-beta.pw.toml"
-hash = "93e9c988dd046c38dab9b526d67ed1e89ebb5605a73a833208dd1e4c67a11040"
+file = "mods/rctapi-neoforge-1-21-1-0-16-2-beta.pw.toml"
+hash = "a8dc8164fd7b74a983b76b5adacbfece44a536bc139b8c1935d0917850381be2"
 metafile = true
 
 [[files]]

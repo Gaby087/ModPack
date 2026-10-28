@@ -1,0 +1,8 @@
+name = "Cobbreeding-neoforge-2.4.1"
+filename = "Cobbreeding-neoforge-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItmVb4zY/versions/jzxflH2c/Cobbreeding-neoforge-2.4.1.jar"
+hash-format = "sha1"
+hash = "dff540f197b058fc63761997830768799f22aff9"

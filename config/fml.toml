@@ -1,0 +1,5 @@
+# Integrations 1.1.8 is published for 1.21.1 but its metadata excludes that
+# Minecraft/NeoForge patch line. Keep the official jar and override only those
+# two ranges; its Cobblemon, Kotlin, Jade and other dependency checks stay active.
+[dependencyOverrides]
+cobblemonintegrations = ["-minecraft", "-neoforge"]

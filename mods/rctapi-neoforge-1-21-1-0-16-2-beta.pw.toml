@@ -1,0 +1,8 @@
+name = "rctapi-neoforge-1.21.1-0.16.2-beta"
+filename = "rctapi-neoforge-1.21.1-0.16.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/mYGAO3MT/rctapi-neoforge-1.21.1-0.16.2-beta.jar"
+hash-format = "sha1"
+hash = "9199f6eb63a0907fe75f63d6d25834896dc2a0f1"

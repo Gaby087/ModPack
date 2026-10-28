@@ -1,0 +1,30 @@
+[jade]
+hideHabitatBlocks = true
+
+[jade.pokemon]
+# IVs are visible before capture. Crouch for nature, ability and EV details.
+# Other trainers' Pokemon keep their individual stats hidden.
+pokemonTooltip = """
+%dex_status %nickname:hidden_unless_nicknamed %species:hidden_when_nicknamed&unknown_when_unregistered %gender:hidden_when_unregistered %level
+#health
+$species_label:hidden_unless_nicknamed %species:hidden_unless_nicknamed&unknown_when_unregistered
+%trainer:hidden_when_wild
+%typing:unknown_when_unregistered
+%ivs:hidden_when_others
+{%nature:hidden_when_others
+%ability:hidden_when_others
+%ev_yield:unknown_when_unregistered
+%evs:hidden_unless_yours
+%battle_message:hidden_unless_wild}!{$crouch_message
+%battle_message:hidden_unless_wild}
+"""
+
+[jei]
+pokedexHideLevel = "UNREGISTERED"
+pokemonHideMode = "BOTH"
+
+[waystones]
+# The pack already supplies Pokemon travel through Trainer Pad.
+allowWaystoneTeleport = false
+waystonesMinLevel = 0
+requireTeleportMove = true
