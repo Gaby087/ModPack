@@ -5,6 +5,6 @@ log_pack_ids = false
 required = ["global_packs/required_resources/"]
 enable_builtin = []
 [datapacks]
-required = ["global_packs/required_data/", "datapacks/", "resourcepacks/ATM x MSD [v4.0].zip"]
+required = ["global_packs/required_data/", "datapacks/", "resourcepacks/ATM x MSD [v5.0].zip"]
 optional = ["global_packs/optional_data/"]
 enable_builtin = []
