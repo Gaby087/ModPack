@@ -6,5 +6,6 @@
   "autoCaves": true,
   "waypointsOnMap": true,
   "waypointsInWorld": true,
-  "deathMarkers": true
+  "deathMarkers": true,
+  "spawnSpots": "AT_NIGHT_TOO"
 }
