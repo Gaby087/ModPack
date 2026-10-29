@@ -42,11 +42,11 @@ hash = "eec64681017779e529ab998ca131d3c0532bd00509520cdaa19e1e0f9caa3b3c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "0d9a36a49a9882cb9339a9a46c0aaa1f2dd0a199b3480273011ae5dd88a5f8c4"
+hash = "db0738daa9022daf3fbf3862686419c834077798e843ed509471a88b9be9500c"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "50072c6eaa3213d2805d1c50ffd718cc6be9516b111bb146a4db0440e6745de3"
+hash = "edae524275729eab81f9e4eb4f2dda8d8248102f9bc026d935bf4207dbb495ef"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -216,6 +216,10 @@ hash = "ed309e48ba6e7ac633004a9dc1fd8894dbac246fa7047745456aea91c6224ec8"
 file = "datapacks/enchantedbookenabler---datapack.pw.toml"
 hash = "1811a6d717b56ea425ce16bf950565f70fd4aff9b5ee2b846f25c017700a0b31"
 metafile = true
+
+[[files]]
+file = "diorama/config.json"
+hash = "b73c68dc13fbc051ad9b802710b991546944d4678190202d9981f5798bf98079"
 
 [[files]]
 file = "global_packs/required_data/CobbleTowns_Continued/data/cobbletowns/function/load.mcfunction"
@@ -11408,6 +11412,11 @@ hash = "f985516b4e49df286d7a15c5a2ec2b665f61f3cd3621ba722778d08138b5ec87"
 metafile = true
 
 [[files]]
+file = "mods/diorama-0-5-0-neoforge-1-21-1.pw.toml"
+hash = "a2cc489ad5552a43d4597ab456ae1637980c304961b5628421d2dd9527f41ca0"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons-2-4-5-b-1-21-1-fabric-neoforge.pw.toml"
 hash = "f0902008fa234a4e50896590a57d0bd451490a8d07c013227ec54c81aadb2e2e"
 metafile = true
@@ -11580,6 +11589,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughresources-neoforge-1-21-1-1-6-0-17.pw.toml"
 hash = "5ae80bcb47d51c0ace385b3914a9c658c36fa888771c9dff8fa95afeae8af3aa"
+metafile = true
+
+[[files]]
+file = "mods/keybindatlas-v2-1-0-mc1-21-1-neoforge.pw.toml"
+hash = "0cdef21eec94403a20aeb6df97433919e53e2c9f2a3aa777790daf9eae0cca68"
 metafile = true
 
 [[files]]
@@ -11860,16 +11874,6 @@ metafile = true
 [[files]]
 file = "mods/waystones-neoforge-1-21-1-21-1-46.pw.toml"
 hash = "342897abd79ad4feac223031af7ef464a2b371980121d8c52406df7280f41701"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-25-3-2-neoforge-1-21.pw.toml"
-hash = "7ef658eddbbab79a18129503016ef4aeb4f6f407e0b31ba71bd9b35919a5d0ab"
-metafile = true
-
-[[files]]
-file = "mods/xaerosworldmap-1-40-2-neoforge-1-21.pw.toml"
-hash = "36407aa413d4e4690c5f86c512d4bf5686dd58cfe9fcf3ab8f7f8a5faebd6564"
 metafile = true
 
 [[files]]

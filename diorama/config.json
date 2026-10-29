@@ -1,0 +1,10 @@
+{
+  "minimapCorner": "TOP_LEFT",
+  "minimap": true,
+  "compass": true,
+  "coordinates": true,
+  "autoCaves": true,
+  "waypointsOnMap": true,
+  "waypointsInWorld": true,
+  "deathMarkers": true
+}

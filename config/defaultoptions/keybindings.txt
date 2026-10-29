@@ -6,11 +6,10 @@ key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_zume.zoom:key.keyboard.c
 key_zume.zoom_in:key.keyboard.unknown
 key_zume.zoom_out:key.keyboard.unknown
-key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_new_waypoint:key.keyboard.n
-key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_minimap_settings:key.keyboard.y
-key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_key.diorama.open_map:key.keyboard.m
+key_key.diorama.new_waypoint:key.keyboard.n
+key_key.diorama.waypoints:key.keyboard.u
+key_key.diorama.settings:key.keyboard.y
 key_key.cobblemon.throwpartypokemon:key.keyboard.r
 key_key.cobblemon.summary:key.keyboard.z
 key_key.cobblemon.pokedex:key.keyboard.p
@@ -19,3 +18,5 @@ key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.downshiftparty:key.keyboard.down
 key_key.cobblemon.hideparty:key.keyboard.o
 key_key.ftbultimine:key.keyboard.grave.accent
+key_key.keybindatlas.open_keyboard:key.keyboard.f8
+key_key.keybindatlas.cycle_sets:key.keyboard.unknown

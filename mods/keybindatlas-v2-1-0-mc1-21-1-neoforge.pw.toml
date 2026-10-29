@@ -1,0 +1,8 @@
+name = "KeybindAtlas-v2.1.0-mc1.21.1-neoforge"
+filename = "KeybindAtlas-v2.1.0-mc1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fokFjwwh/versions/zZC4FCdx/KeybindAtlas-v2.1.0-mc1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "a069f4a13d30e4937013bafdf5bc0ffecc74a64c"
