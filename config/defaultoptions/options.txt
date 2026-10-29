@@ -1,6 +1,6 @@
 version:3955
 lang:en_us
-resourcePacks:["vanilla", "mod_resources", "file/Icon Xaero's 1.22.zip", "file/Borderless+Glass+v1.0(mc-1.21).zip", "file/Redstone Tweaks 2.4.5.zip", "file/ATM x MSD [v5.0].zip", "file/Recolourful Containers 3.1.4 (1.19.4+).zip", "file/E19 Cobblemon Minimap Icons.zip", "file/xali's enchanted books v0.13.0.zip"]
+resourcePacks:["vanilla", "mod_resources", "file/Icon Xaero's 1.22.zip", "file/Borderless+Glass+v1.0(mc-1.21).zip", "file/Redstone Tweaks 2.4.5.zip", "file/ATM x MSD [v5.0, "file/RCT Trainers+ [1.7] v2.2.zip"].zip", "file/Recolourful Containers 3.1.4 (1.19.4+).zip", "file/E19 Cobblemon Minimap Icons.zip", "file/xali's enchanted books v0.13.0.zip"]
 incompatibleResourcePacks:[]
 key_key.ftbquests.quests:key.keyboard.j
 key_key.ftbquests.cycle_pinned_tracker:key.keyboard.k
