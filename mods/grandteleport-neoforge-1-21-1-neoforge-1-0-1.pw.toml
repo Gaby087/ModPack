@@ -3,6 +3,6 @@ filename = "GrandTeleport-NeoForge-1.21.1-neoforge-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Gaby087/ModPack/releases/download/v0.17.1-20261029-2305/GrandTeleport-NeoForge-1.21.1-neoforge-1.0.1.jar"
+url = "https://github.com/Gaby087/ModPack/releases/download/v0.17.2-20261030-0004/GrandTeleport-NeoForge-1.21.1-neoforge-1.0.1.jar"
 hash-format = "sha1"
 hash = "ce5ffd0b002cb0a8c33960eba42c64967f5798fe"
