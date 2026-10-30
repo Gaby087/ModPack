@@ -3,6 +3,6 @@ filename = "gaby_battleui-0.8.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Gaby087/ModPack/releases/download/v0.17.3-20261030-1439/gaby_battleui-0.8.0.jar"
+url = "https://github.com/Gaby087/ModPack/releases/download/v0.17.4-20261030-1605/gaby_battleui-0.8.0.jar"
 hash-format = "sha1"
 hash = "5645910a68df6ecb99aa72770907181608051e0e"
