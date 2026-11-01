@@ -11282,6 +11282,11 @@ hash = "c2b03cdd542c782388a76830863aa535f1f716dd1dca2e4b7be9408e64604a9c"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll-neoforge-2-0-6-1-21-1.pw.toml"
+hash = "6286651a3be975e9ebce3a72a6068f11debb0c392b755d9f5ddf9da92464f6a1"
+metafile = true
+
+[[files]]
 file = "mods/comforts-neoforge-9-0-5-1-21-1.pw.toml"
 hash = "cd68cd634fb26b01b8dc1f065ab43fdb46c706ca99f77bb1d0a1b9fe9294c9be"
 metafile = true
@@ -11289,11 +11294,6 @@ metafile = true
 [[files]]
 file = "mods/connectedglass-1-1-14-neoforge-mc1-21.pw.toml"
 hash = "37cf626f93a0cbeff24e5b81b4b0003909af4e4d38109080bdf650a15f6cd5e1"
-metafile = true
-
-[[files]]
-file = "mods/controlling-neoforge-1-21-1-19-0-5.pw.toml"
-hash = "ac3ee68b1117547e3acb6149bb793619f2ce9371b4d7ee98dac4c21c0224ef2a"
 metafile = true
 
 [[files]]
@@ -11347,6 +11347,11 @@ hash = "96c17c084d4179991c30d1d559c35a04b13049d9006f46d44e8630eafff531c1"
 metafile = true
 
 [[files]]
+file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
+hash = "94cdc12877fc5bd93e734950ba905a6caf3eac071379e1edd7b54d2a80b9815d"
+metafile = true
+
+[[files]]
 file = "mods/defaultoptions-neoforge-1-21-1-21-1-8.pw.toml"
 hash = "f985516b4e49df286d7a15c5a2ec2b665f61f3cd3621ba722778d08138b5ec87"
 metafile = true
@@ -11359,6 +11364,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons-2-4-5-b-1-21-1-fabric-neoforge.pw.toml"
 hash = "f0902008fa234a4e50896590a57d0bd451490a8d07c013227ec54c81aadb2e2e"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll-neoforge-3-7-3-1-21.pw.toml"
+hash = "c39bbeae94b12c440d3a6d958fae9e481e1be24a7708b038246b5b8c5fe422bf"
 metafile = true
 
 [[files]]
@@ -11427,6 +11437,11 @@ hash = "25dd6f99e3e851db6b072a7539a02fece3501a59cc20c330920d91e12a3bd89d"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api-0-116-15-2-3-6-1-21-1.pw.toml"
+hash = "5c71eb4a75dd687c120ef1597d442f6b642259e0c7393e940c7fba90002e630f"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-3-21-1-5.pw.toml"
 hash = "69bda4ec2e66fc62db6176aab29815752a1f707156f00a682f31062d248d0598"
 metafile = true
@@ -11457,13 +11472,18 @@ hash = "303eceae64f5ffd06b0c4e3e42f4d12247b53b46241c04585d28a61434aca8a9"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config-0-7-7-fix1-1-21-neoforge.pw.toml"
+hash = "59a007c7544d81e3ec12136e12e5cf8bdd814716b9a927014489018f35dc770a"
+metafile = true
+
+[[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "77c075ecda8fcbb0daac32789746a25a32c4f656b6890f812db560b32506b3dc"
+hash = "bfcd034aa8bbfa0034ece9e9893eba62f7911f70e1640d0c8a50b9b459e2c7c2"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "15577235d2ceadf6b77495f71c1dbc1f68f8481a69b497b10c4e5298f0d27475"
+hash = "4758e2d8ef1ce19872644ae9dd3d0709114f95519877a1a7cba09d19579a30e1"
 metafile = true
 
 [[files]]
@@ -11483,7 +11503,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "fe477a81534a6fbc478b8fcd6cb1ffdd6d5917307b61c472adea22ed5e2e40dd"
+hash = "80ec4a681ef86acb515cdf2312736c84b493e657dc84cf6d7c9023ebf0b00ad4"
 metafile = true
 
 [[files]]
@@ -11512,6 +11532,16 @@ hash = "c9f6c30637bba0ec94d8a6739a75d020afde1492412d511052a1ea6e351ffb47"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib-1-21-1-2-3-0.pw.toml"
+hash = "56b8367bc7a0906c2a7d57e39d068f17d3065a22a888bc76f5b99f00d2014d80"
+metafile = true
+
+[[files]]
+file = "mods/irons-spellbooks-1-21-1-3-16-3.pw.toml"
+hash = "d2c692602c00d846c954b688751fc9ca4495138a4cf87695d4d3d21efcc20cf8"
+metafile = true
+
+[[files]]
 file = "mods/jade-1-21-1-neoforge-15-10-6.pw.toml"
 hash = "1265aa91a555dcd5cc012c1a78f970d64049bd23cbc1c9ac57a4e11777cecea1"
 metafile = true
@@ -11529,11 +11559,6 @@ metafile = true
 [[files]]
 file = "mods/justenoughresources-neoforge-1-21-1-1-6-0-17.pw.toml"
 hash = "5ae80bcb47d51c0ace385b3914a9c658c36fa888771c9dff8fa95afeae8af3aa"
-metafile = true
-
-[[files]]
-file = "mods/keybindatlas-v2-1-0-mc1-21-1-neoforge.pw.toml"
-hash = "0cdef21eec94403a20aeb6df97433919e53e2c9f2a3aa777790daf9eae0cca68"
 metafile = true
 
 [[files]]
@@ -11672,6 +11697,11 @@ hash = "721e5fdcbc4af67cddffbb3e834c6099185fd98c05cae3d6c0b6b8a881da7c32"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-lib-forge-2-0-4-1-21-1.pw.toml"
+hash = "ac6faccf5bc52408517fb501080325b13e8b6f9b727246162d6a740406440748"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-neoforge-1-2-0-1-21-1.pw.toml"
 hash = "66c17989cdf4a557550b92209860a7e0d952b8116908b4d35fb5fce766475321"
 metafile = true
@@ -11727,6 +11757,16 @@ hash = "77fa9fc774d1d138719ac6f7cd49e18e0a8045b5bcfe1e2b909a2e1bc8b387d5"
 metafile = true
 
 [[files]]
+file = "mods/simplyswords-neoforge-1-70-2-1-21-1.pw.toml"
+hash = "56f5897b355a497128578639d6fab95d0faa7ef01101e8017b8abfea41beac1a"
+metafile = true
+
+[[files]]
+file = "mods/simplytooltips-neoforge-0-1-5.pw.toml"
+hash = "be282bb476f009e1fa9b12b4c2dc4d589be5fa6f448ac962450b46da269edab9"
+metafile = true
+
+[[files]]
 file = "mods/skinlayers3d-neoforge-1-11-3-mc1-21-1.pw.toml"
 hash = "a6f3ad14727627d3f9fa16d291c6ba57503a589833f2468a990accef8fd84eee"
 metafile = true
@@ -11767,6 +11807,11 @@ hash = "ed3ed3d108d36499054be038ace8711810878b57be2ee9dcaa2ee1807205a32c"
 metafile = true
 
 [[files]]
+file = "mods/studious-keybinds-neoforge-1-21-1-1-0-8-beta-1.pw.toml"
+hash = "7f42f88ec339052205c1ea163f73a893550ec9418d6ccf96e688c064b8ae6ce1"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642corelib-1-1-24a-neoforge-mc1-21.pw.toml"
 hash = "56cf581c320bba5b7729be225cf5c0b2fc3bf83c551c93c21e03beb56d02fab5"
 metafile = true
@@ -11799,11 +11844,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot-neoforge-1-21-1-21-1-11.pw.toml"
 hash = "3a05ed9a8ddcf6034433b367d7cc32cfa4b985c6aef158867055f237002e1c33"
-metafile = true
-
-[[files]]
-file = "mods/trmt-0-5-1-1-21-1-neoforge.pw.toml"
-hash = "d50d1038beedbcfcd92629f6f21b4f09a570134121f174ae0ffcb89cdb8c73b2"
 metafile = true
 
 [[files]]
