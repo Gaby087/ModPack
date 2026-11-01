@@ -74,115 +74,55 @@ hash = "2f5de099bc6bfb0bcffd9bca23d5470f53e7397d25f379093389f41f2e0e5196"
 
 [[files]]
 file = "config/ftbquests-client.snbt"
-hash = "01b05299bf56e104a269cbeb8453b21eb7844cf176fc923f415eaac4a00e171d"
+hash = "fef283e473124dffd59d195821ef8afa9873ca08a672cf37c3f7680083768176"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "1ad3b37f928e39eece8d4b9c3fc170e8f68ebb06b2206a7c01c7b2e3d508cdc9"
+hash = "51bfb42bddf91fbd6515c712003b16ad35584b4187447427ce82630b0156b567"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/breeding.snbt"
-hash = "b5e19d4ba09cb8f3ed4eba2b31ee469cdbcc4020200c64e29405fce62963c041"
+file = "config/ftbquests/quests/chapters/cobblemon.snbt"
+hash = "7319cffaf59ffdc1ac6a929fdb3e0f6b9268eff0d5288916dd45e8fad918e4cf"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/dex.snbt"
-hash = "d9b1ecefa629c503d8b185224c60a03e4a77dd2491dc28f611cdf6a5ba496beb"
+file = "config/ftbquests/quests/chapters/commerce.snbt"
+hash = "dd920e6f6e32eef5de0e9ac47a12ca6f59118e78008890ad290a0c0bbba6a1f6"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/economy.snbt"
-hash = "4f10422d3a43e3a4a15cb44c71cc9dbe350adb2bf7d6fd91cc10a5ea452a490c"
+file = "config/ftbquests/quests/chapters/culinary.snbt"
+hash = "2027a2c36a15c4ae257b886bd8f3257c1fba0d401ed8e035191b106b9fe2d99d"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/engineering.snbt"
-hash = "a4efeaded16cd3562efd4b60d975ace729c48a11c64c54ba7ae2f756df63a1e6"
+file = "config/ftbquests/quests/chapters/exploration.snbt"
+hash = "052685ffc6323a85ed9d8aaaeddc959610377b9d474202f314a8b14965738187"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/explore.snbt"
-hash = "95319e23dd6393f4579ce7574a4bfb519684497c0cfbfbeb26c278df50cf05e2"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/galar.snbt"
-hash = "6d87c280f814b53407f7df802a1872445d174eca82b2b2aaebb057557e167e69"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/hoenn.snbt"
-hash = "c04144a578c1e8fcaa6f8ff4655aaf7e533f57786b3a8169c128ed1c2bab37ba"
+file = "config/ftbquests/quests/chapters/gyms.snbt"
+hash = "6106bdf146fc17500af6862bbee43c31c11c8d1bd89fc250a521de12f64dae0f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/industry.snbt"
-hash = "083014f7d6f38ad7828d7977c5a14548d39f48f4b207cfbbf786f15c173aa578"
+hash = "02acca434681a2f04dc6e8a93272a72a45d0672e7028d0c404e1b6ae0df9d461"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/johto.snbt"
-hash = "fb6aab1d5a12469342a56e2356b6afb3f773db4e875cc9c977821487b85bfc4a"
+file = "config/ftbquests/quests/chapters/minecraft.snbt"
+hash = "c33291ef370d8f6b7e7e1606a260f75e115f9fa17d787aa8edd0dfe6e0773c89"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/kalos.snbt"
-hash = "ceb903c9381283cc978db4d0019fc0311be3a82615b14503c116a026bd32d176"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/kanto.snbt"
-hash = "612fb41274d0c0e0bc038216b8afd62e21191ce0547f797e9dff5e31e1b17e85"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/kitchen.snbt"
-hash = "1dabf630be9c5aaa2397623a7b55d64bb33a44044523e7b3471a230dd69069ac"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/land.snbt"
-hash = "4494fab98dd3469db0e47209d93f8354eafe87107bb5f9fc312754b9d83926a4"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/legends.snbt"
-hash = "2fe17e6c8aa5d73d7d292eac10a2721147e39265963ce99711541c8d4b253d0f"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/mastery.snbt"
-hash = "628d356c707ca30557e8d51481f784401f1322edb6c3da738f3cc642d2985856"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/road.snbt"
-hash = "5dd3bd6a2f32ae0480863debeaf7da69d0cb6211338720eb8f176c654eb1ca9c"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/settlement.snbt"
-hash = "8f926ab3c219feb4d16c0935c0f8ed9f1340165686b1e9ed586a93b695044fd4"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/sinnoh.snbt"
-hash = "f467cbcdb25df3c19d48d220761b93c408e0cb64353c7abea73e5152bfcad43f"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/skies.snbt"
-hash = "fffb728661d3564c4f796f98d42c2b20b9a1e904b6aacf1e858a3c8bc93f0e43"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/start.snbt"
-hash = "47e4f49f0e8785bd144796954208fa9a2f87c3a645efcac039c513d67a8dc3c4"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/types.snbt"
-hash = "923bfcb1bc7ca5afa971e62691c30219aa6d987f10f03841737a2b1dfbcdf698"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/unova.snbt"
-hash = "fadb19899c7103d23d745f160215202fa440c6281c70fa2f9885139ac1ee0dc2"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/wanderer.snbt"
-hash = "ec1e4e12acecebd02103c37ac1e26c564ad026971dd047f1b6e938ace60423db"
+file = "config/ftbquests/quests/chapters/town.snbt"
+hash = "c1bb39ebf4fce78c80436abc1cc9d42c91e552303d4f353fa02ba5b481f3baaf"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "23f2e5c59c4ea85a3304abced78b04298383d8c82dfd5bd4863af7269a640b55"
+hash = "ccdb63e92199fdb87e2ed0b7bc4bfbc31c90a88cd6d84877d2da64d9efc33a46"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "2fdd9712b624781e0c7f6288db3b2e15c522425f5749415cd84815fa58c59b5b"
+hash = "9ff063b5178991cef1019f9e277281270fdefcc9232d79e10c6f3a3eadab3141"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es.snbt"
-hash = "a0d500b4077230f9b956c52dac79d537f28067682fd99906c9c10dcbe9cf5402"
+hash = "61ebb1a9f55c44ff1dadeadeb0d55818b017919238d4677cabf418805e541411"
 
 [[files]]
 file = "config/global_packs.toml"
@@ -11518,12 +11458,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "fc7e23861e2f79a350ece621d5242658f09c4d5e72937446b849ddcf70ab55ba"
+hash = "5e52ca1693dd03bacd7c708ecadb70f7523b995c7a0c189dfb7a3d71aad2abc6"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "47f1587a2b77078714d0c61bab1b79f5f2398ef76a2134f0697b83155badf4d1"
+hash = "2cecb7a57c4522e23d919fb521f2b7e1456b88f85c9b6330796a90e456167aaa"
 metafile = true
 
 [[files]]
@@ -11543,7 +11483,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "78e52fd5ba8944eced5b98f44240e354f483c98eae0dccfa3e1474e82c8c8f78"
+hash = "5e76aa8c7d9a609355d862f3fa667c94132f3a8cf59331f2a403647fb0f70753"
 metafile = true
 
 [[files]]

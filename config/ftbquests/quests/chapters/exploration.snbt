@@ -1,0 +1,6197 @@
+{
+ "id": "2F3312C40747F84E",
+ "filename": "exploration",
+ "group": "71C7157F1269A7DC",
+ "order_index": 5,
+ "icon": {
+  "id": "minecraft:compass",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "1E125CA627BD2658",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "waystones:waystone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "waystones:warp_stone",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1ADDB02BDC970CA7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1E599EC1C025ADF5",
+     "type": "command",
+     "command": "/gaby book pay {p} 1E125CA627BD2658",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "519563ED6ABFC96D",
+   "x": 1.5,
+   "y": 0.0,
+   "icon": {
+    "id": "naturescompass:naturescompass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "naturescompass:naturescompass",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "7949E4EA6BC81B7B"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "explorerscompass:explorerscompass",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "5F5CBFF948E6EC95"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7EF6801E611F191A",
+     "type": "command",
+     "command": "/gaby book pay {p} 519563ED6ABFC96D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1E125CA627BD2658"
+   ]
+  },
+  {
+   "id": "263B22179E0C6532",
+   "x": 0.0,
+   "y": 1.2,
+   "icon": {
+    "id": "sophisticatedbackpacks:backpack",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "sophisticatedbackpacks:backpack",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "770889F81C678DAF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5B63EF6AD5F870E3",
+     "type": "command",
+     "command": "/gaby book pay {p} 263B22179E0C6532",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "22C9F8CE86E1C59B",
+   "x": 0.0,
+   "y": 2.4,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/explore/outbreak_streak",
+     "criterion": "",
+     "id": "57E61E6AAD7DF3B9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1595D15FE300496A",
+     "type": "command",
+     "command": "/gaby book pay {p} 22C9F8CE86E1C59B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "5C924ABA0B025408",
+   "x": 4.5,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:distance",
+     "value": 10000,
+     "id": "25B8923BEDD0C333"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2BBCA8B406A8334C",
+     "type": "command",
+     "command": "/gaby book pay {p} 5C924ABA0B025408",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4F7AF8E342CDDB5C",
+   "x": 6.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:distance",
+     "value": 100000,
+     "id": "110454FF2766D6A1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "70BF2A1BE7F88079",
+     "type": "command",
+     "command": "/gaby book pay {p} 4F7AF8E342CDDB5C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5C924ABA0B025408"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1C514D10079C64E3",
+   "x": 7.5,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:distance",
+     "value": 500000,
+     "id": "29AFE5C779A5D02A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7A2A855A0868E29E",
+     "type": "command",
+     "command": "/gaby book pay {p} 1C514D10079C64E3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4F7AF8E342CDDB5C"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3805DA5F1171BC2E",
+   "x": 9.0,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:distance",
+     "value": 2000000,
+     "id": "21C1D30BB9AA6172"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "38615E0D3086A57E",
+     "type": "command",
+     "command": "/gaby book pay {p} 3805DA5F1171BC2E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1C514D10079C64E3"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "262D162CC2E8AB52",
+   "x": 4.5,
+   "y": 1.2,
+   "icon": {
+    "id": "minecraft:filled_map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:expeditions",
+     "value": 1,
+     "id": "1AD3D6A8A470D53F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "221F5043C84920C1",
+     "type": "command",
+     "command": "/gaby book pay {p} 262D162CC2E8AB52",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "51828E4AD73647E7",
+   "x": 6.0,
+   "y": 1.2,
+   "icon": {
+    "id": "minecraft:filled_map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:expeditions",
+     "value": 10,
+     "id": "212919BE4700B064"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "125873002F9EC131",
+     "type": "command",
+     "command": "/gaby book pay {p} 51828E4AD73647E7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "262D162CC2E8AB52"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "17A99F2368A113E5",
+   "x": 7.5,
+   "y": 1.2,
+   "icon": {
+    "id": "minecraft:filled_map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:expeditions",
+     "value": 30,
+     "id": "2F338B77538BDED5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1C8AEFBBB6B13693",
+     "type": "command",
+     "command": "/gaby book pay {p} 17A99F2368A113E5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "51828E4AD73647E7"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "73EE3A100678B87E",
+   "x": 9.0,
+   "y": 1.2,
+   "icon": {
+    "id": "minecraft:filled_map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:expeditions",
+     "value": 100,
+     "id": "4F7BF126B874E8CA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3A9A9E259EABACDE",
+     "type": "command",
+     "command": "/gaby book pay {p} 73EE3A100678B87E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "17A99F2368A113E5"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "79DD4B2FA444719A",
+   "x": 7.5,
+   "y": 2.4,
+   "icon": {
+    "id": "minecraft:filled_map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:expeditions",
+     "value": 33,
+     "id": "5EEBC56B26D1C7CD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7AA94D6E92EFCF23",
+     "type": "command",
+     "command": "/gaby book pay {p} 79DD4B2FA444719A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "17A99F2368A113E5"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "45972E9A528759DD",
+   "x": 4.5,
+   "y": 3.6,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:camps",
+     "value": 1,
+     "id": "46C2FBAF7F55A92E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "186664FBCD2E5C5D",
+     "type": "command",
+     "command": "/gaby book pay {p} 45972E9A528759DD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "69060EABE7CAFBB0",
+   "x": 6.0,
+   "y": 3.6,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:camps",
+     "value": 5,
+     "id": "175B297CAD4CC243"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6E5EE219DAB0AEEF",
+     "type": "command",
+     "command": "/gaby book pay {p} 69060EABE7CAFBB0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "45972E9A528759DD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "15AB4A7ABDC01F90",
+   "x": 7.5,
+   "y": 3.6,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:camps",
+     "value": 15,
+     "id": "5EA23AB59870930E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7A59AAA4792E168C",
+     "type": "command",
+     "command": "/gaby book pay {p} 15AB4A7ABDC01F90",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "69060EABE7CAFBB0"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "10DD6F899F2320EC",
+   "x": 9.0,
+   "y": 3.6,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:camps",
+     "value": 40,
+     "id": "4E97A3C20DA0CA36"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "31857583DFEC88A3",
+     "type": "command",
+     "command": "/gaby book pay {p} 10DD6F899F2320EC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "15AB4A7ABDC01F90"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "2EFC7852CA925C20",
+   "x": 0.0,
+   "y": 6.6,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:cherry_grove",
+     "id": "764F0F6FCC0FBA9D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "30C79258E301E00D",
+     "type": "command",
+     "command": "/gaby book pay {p} 2EFC7852CA925C20",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7C497AD607B53F7A",
+   "x": 1.5,
+   "y": 6.6,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:mushroom_fields",
+     "id": "4CF079E017ED0874"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "153CF02EB7C51324",
+     "type": "command",
+     "command": "/gaby book pay {p} 7C497AD607B53F7A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4F9766877527403A",
+   "x": 3.0,
+   "y": 6.6,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:ice_spikes",
+     "id": "1AE0BDB44FB662B3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "414F0CAF012F5E3E",
+     "type": "command",
+     "command": "/gaby book pay {p} 4F9766877527403A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2E11472C4EC6770A",
+   "x": 4.5,
+   "y": 6.6,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:badlands",
+     "id": "198EF62E15F46161"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7FC98542ACB97F4D",
+     "type": "command",
+     "command": "/gaby book pay {p} 2E11472C4EC6770A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "13EC7C22410F3CA3",
+   "x": 6.0,
+   "y": 6.6,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:jungle",
+     "id": "6224005600220E7C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4548CBF5661F8784",
+     "type": "command",
+     "command": "/gaby book pay {p} 13EC7C22410F3CA3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "32CF835F82553EB7",
+   "x": 7.5,
+   "y": 6.6,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:deep_dark",
+     "id": "60BEA88FDE236CC3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4853D354578B7FA7",
+     "type": "command",
+     "command": "/gaby book pay {p} 32CF835F82553EB7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4B5B619C7FC1147C",
+   "x": 9.0,
+   "y": 6.6,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:lush_caves",
+     "id": "593CCC8C6029404E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3B2241BEC77BCF72",
+     "type": "command",
+     "command": "/gaby book pay {p} 4B5B619C7FC1147C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4A03D49592EDBFDD",
+   "x": 10.5,
+   "y": 6.6,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:dripstone_caves",
+     "id": "568ADBF78FAA3A7A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "567367056B9D171B",
+     "type": "command",
+     "command": "/gaby book pay {p} 4A03D49592EDBFDD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1676270B38EB0EC4",
+   "x": 0.0,
+   "y": 7.8,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:mangrove_swamp",
+     "id": "2235D043CA7F62A3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "16C5856744C773AF",
+     "type": "command",
+     "command": "/gaby book pay {p} 1676270B38EB0EC4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "72095BCADD09B2B2",
+   "x": 1.5,
+   "y": 7.8,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:warm_ocean",
+     "id": "2A9FFA32FBE823D6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5AEFAD0B5E6878D9",
+     "type": "command",
+     "command": "/gaby book pay {p} 72095BCADD09B2B2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "661658B455F6616A",
+   "x": 3.0,
+   "y": 7.8,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:flower_forest",
+     "id": "46DBBA55C5AB27E2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7E5FCB9EEB279263",
+     "type": "command",
+     "command": "/gaby book pay {p} 661658B455F6616A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4A5B87721B3D4818",
+   "x": 4.5,
+   "y": 7.8,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:jagged_peaks",
+     "id": "200D36E3622DCD5E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "39B21D0D99023364",
+     "type": "command",
+     "command": "/gaby book pay {p} 4A5B87721B3D4818",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7F5D197CDAF00CBC",
+   "x": 6.0,
+   "y": 7.8,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:crimson_forest",
+     "id": "22E842B34602618B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3132C48DBAC9FDE7",
+     "type": "command",
+     "command": "/gaby book pay {p} 7F5D197CDAF00CBC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "707E371A90DA78AC",
+   "x": 7.5,
+   "y": 7.8,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:warped_forest",
+     "id": "28EC8BB186279440"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2D5461E376969FB6",
+     "type": "command",
+     "command": "/gaby book pay {p} 707E371A90DA78AC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "47ADBAE58A7B2E25",
+   "x": 9.0,
+   "y": 7.8,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:soul_sand_valley",
+     "id": "35A5F5BB8262436D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "35F1DA93F440853C",
+     "type": "command",
+     "command": "/gaby book pay {p} 47ADBAE58A7B2E25",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "103DE44BAF7DD155",
+   "x": 10.5,
+   "y": 7.8,
+   "icon": {
+    "id": "minecraft:map",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "biome",
+     "biome": "minecraft:basalt_deltas",
+     "id": "2FBEAC81419A8999"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "24AD214472E3756C",
+     "type": "command",
+     "command": "/gaby book pay {p} 103DE44BAF7DD155",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "248A0E873C124B33",
+   "x": 0.0,
+   "y": 9.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:village_plains",
+     "id": "1D9F7E2170073752"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1E31FCE2EB231F90",
+     "type": "command",
+     "command": "/gaby book pay {p} 248A0E873C124B33",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "54DA38DD6A3752E7",
+   "x": 1.5,
+   "y": 9.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:ancient_city",
+     "id": "797B066E90D9F810"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1EEBBF110ECE976F",
+     "type": "command",
+     "command": "/gaby book pay {p} 54DA38DD6A3752E7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "49F4361810D36F16",
+   "x": 3.0,
+   "y": 9.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:monument",
+     "id": "3D370DDA464E1285"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "498B93CF968797C9",
+     "type": "command",
+     "command": "/gaby book pay {p} 49F4361810D36F16",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "66A3FB9FC1836EB8",
+   "x": 4.5,
+   "y": 9.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:mansion",
+     "id": "71635224D0A4F241"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "69409449E4E87FB3",
+     "type": "command",
+     "command": "/gaby book pay {p} 66A3FB9FC1836EB8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1D90AD2DEAC943C5",
+   "x": 6.0,
+   "y": 9.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:desert_pyramid",
+     "id": "184DFA6ECBFB128A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1619C76C94A4702E",
+     "type": "command",
+     "command": "/gaby book pay {p} 1D90AD2DEAC943C5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "65AD1D815D8FD480",
+   "x": 7.5,
+   "y": 9.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:jungle_pyramid",
+     "id": "1042E93139EE05C2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "76416490C2D267E9",
+     "type": "command",
+     "command": "/gaby book pay {p} 65AD1D815D8FD480",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "584DD12D4A0B6EDA",
+   "x": 9.0,
+   "y": 9.0,
+   "icon": {
+    "id": "minecraft:compass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "structure",
+     "structure": "minecraft:igloo",
+     "id": "51B4E24EC692046F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3243C09EB6549959",
+     "type": "command",
+     "command": "/gaby book pay {p} 584DD12D4A0B6EDA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7EC5D489425F4882",
+   "x": 0.0,
+   "y": 10.2,
+   "icon": {
+    "id": "minecraft:prismarine_shard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "kill",
+     "entity": "minecraft:elder_guardian",
+     "value": 1,
+     "id": "717FEC0A4B9CB84A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4F49350DF41F2AF5",
+     "type": "command",
+     "command": "/gaby book pay {p} 7EC5D489425F4882",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3464FAD73E97ECA9",
+   "x": 1.5,
+   "y": 10.2,
+   "icon": {
+    "id": "minecraft:sculk_catalyst",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "kill",
+     "entity": "minecraft:warden",
+     "value": 1,
+     "id": "759ED474518FE6E5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7C758EAAAC761A8B",
+     "type": "command",
+     "command": "/gaby book pay {p} 3464FAD73E97ECA9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3F36892991E6C24B",
+   "x": 3.0,
+   "y": 10.2,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "kill",
+     "entity": "minecraft:wither",
+     "value": 1,
+     "id": "2F628C9EE98C46A8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6F3B3583B1769016",
+     "type": "command",
+     "command": "/gaby book pay {p} 3F36892991E6C24B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "2C968B00A1AF1500",
+   "x": 0.0,
+   "y": 18.6,
+   "icon": {
+    "id": "minecraft:chest",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:root",
+     "criterion": "",
+     "id": "6E6B473C33EFDD5A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "64FE47724B190CF1",
+     "type": "command",
+     "command": "/gaby book pay {p} 2C968B00A1AF1500",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "50AA19238B0B1FD1",
+   "x": 1.5,
+   "y": 13.2,
+   "icon": {
+    "id": "lootr:lootr_barrel",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:1barrel",
+     "criterion": "",
+     "id": "4B4736DFC28A676A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "64B68285B4EDC920",
+     "type": "command",
+     "command": "/gaby book pay {p} 50AA19238B0B1FD1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C968B00A1AF1500"
+   ]
+  },
+  {
+   "id": "13C49B0F198CFACF",
+   "x": 1.5,
+   "y": 14.4,
+   "icon": {
+    "id": "minecraft:chest_minecart",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:1cart",
+     "criterion": "",
+     "id": "25559E1E5028A1C7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1E4A84B5CBEBECBD",
+     "type": "command",
+     "command": "/gaby book pay {p} 13C49B0F198CFACF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C968B00A1AF1500"
+   ]
+  },
+  {
+   "id": "3A5DE10FCE6C59C0",
+   "x": 1.5,
+   "y": 16.8,
+   "icon": {
+    "id": "lootr:lootr_chest",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:1chest",
+     "criterion": "",
+     "id": "6E537F791A11734E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2947636F9993B508",
+     "type": "command",
+     "command": "/gaby book pay {p} 3A5DE10FCE6C59C0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C968B00A1AF1500"
+   ]
+  },
+  {
+   "id": "347D47D0F21D54E0",
+   "x": 3.0,
+   "y": 15.6,
+   "icon": {
+    "id": "minecraft:gold_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:10loot",
+     "criterion": "",
+     "id": "6D05C83A341EBC8A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5AE690440E68E5A9",
+     "type": "command",
+     "command": "/gaby book pay {p} 347D47D0F21D54E0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3A5DE10FCE6C59C0"
+   ]
+  },
+  {
+   "id": "101F7648650CA8E0",
+   "x": 4.5,
+   "y": 15.6,
+   "icon": {
+    "id": "minecraft:emerald_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:25loot",
+     "criterion": "",
+     "id": "722C6F096B1F8D4D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2376A6646209C61C",
+     "type": "command",
+     "command": "/gaby book pay {p} 101F7648650CA8E0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "347D47D0F21D54E0"
+   ]
+  },
+  {
+   "id": "748C7A86DAEA81D2",
+   "x": 6.0,
+   "y": 15.6,
+   "icon": {
+    "id": "minecraft:diamond_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:50loot",
+     "criterion": "",
+     "id": "7F321F8781DB328B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1FB36385D11A04A6",
+     "type": "command",
+     "command": "/gaby book pay {p} 748C7A86DAEA81D2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "101F7648650CA8E0"
+   ]
+  },
+  {
+   "id": "48E201827ACCD1AB",
+   "x": 7.5,
+   "y": 15.6,
+   "icon": {
+    "id": "minecraft:netherite_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:100loot",
+     "criterion": "",
+     "id": "1FD325F10FF288D5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "26A1B684A77CDB09",
+     "type": "command",
+     "command": "/gaby book pay {p} 48E201827ACCD1AB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "748C7A86DAEA81D2"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "295978C744DD0D52",
+   "x": 3.0,
+   "y": 16.8,
+   "icon": {
+    "id": "minecraft:enchanted_golden_apple",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:social",
+     "criterion": "",
+     "id": "60891F58F73D1CA3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "20823B560E6D01CD",
+     "type": "command",
+     "command": "/gaby book pay {p} 295978C744DD0D52",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3A5DE10FCE6C59C0"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "2BD3020F5E2BE151",
+   "x": 3.0,
+   "y": 18.0,
+   "icon": {
+    "id": "minecraft:tnt",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:trapped_chest",
+     "criterion": "",
+     "id": "39BF3D4071E88EC3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "721DDD44DEC15EF6",
+     "type": "command",
+     "command": "/gaby book pay {p} 2BD3020F5E2BE151",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3A5DE10FCE6C59C0"
+   ],
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "46B94526C43F9D97",
+   "x": 1.5,
+   "y": 19.2,
+   "icon": {
+    "id": "minecraft:item_frame",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:1frame",
+     "criterion": "",
+     "id": "102E81C7D3189C56"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "144D39844ACA2F5F",
+     "type": "command",
+     "command": "/gaby book pay {p} 46B94526C43F9D97",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C968B00A1AF1500"
+   ]
+  },
+  {
+   "id": "216A5B18B02B8A4F",
+   "x": 1.5,
+   "y": 20.4,
+   "icon": {
+    "id": "lootr:lootr_shulker",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:1shulker",
+     "criterion": "",
+     "id": "77E75D7831098B70"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "295AF0C58264EA6E",
+     "type": "command",
+     "command": "/gaby book pay {p} 216A5B18B02B8A4F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C968B00A1AF1500"
+   ]
+  },
+  {
+   "id": "12596A0F51A8DF7E",
+   "x": 1.5,
+   "y": 21.6,
+   "icon": {
+    "id": "lootr:suspicious_gravel",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:all_gravel",
+     "criterion": "",
+     "id": "52FBE0732782F5A1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3B86B943A30031C9",
+     "type": "command",
+     "command": "/gaby book pay {p} 12596A0F51A8DF7E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C968B00A1AF1500"
+   ]
+  },
+  {
+   "id": "1D41A28F997B04FC",
+   "x": 1.5,
+   "y": 22.8,
+   "icon": {
+    "id": "minecraft:iron_trapdoor",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:emergency_escape_hatch",
+     "criterion": "",
+     "id": "67C849FC85779749"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5835398B2A6102FF",
+     "type": "command",
+     "command": "/gaby book pay {p} 1D41A28F997B04FC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C968B00A1AF1500"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "152F60EA2C733F79",
+   "x": 1.5,
+   "y": 24.0,
+   "icon": {
+    "id": "lootr:decorated_pot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:pot_opened",
+     "criterion": "",
+     "id": "54371C35C6BE5678"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "79BC5BAC15FF6CD6",
+     "type": "command",
+     "command": "/gaby book pay {p} 152F60EA2C733F79",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C968B00A1AF1500"
+   ]
+  },
+  {
+   "id": "2488FB5F3B6E8152",
+   "x": 3.0,
+   "y": 24.0,
+   "icon": {
+    "id": "minecraft:brush",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "lootr:archaeologist",
+     "criterion": "",
+     "id": "4464553394019CBF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1388564B20495A2E",
+     "type": "command",
+     "command": "/gaby book pay {p} 2488FB5F3B6E8152",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "152F60EA2C733F79"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "6DED8AD190FB42DD",
+   "x": 0.0,
+   "y": 27.0,
+   "icon": {
+    "id": "alexsmobs:animal_dictionary",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/root",
+     "criterion": "",
+     "id": "21C2237EC9CAF637"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "42A54F089F2D28F4",
+     "type": "command",
+     "command": "/gaby book pay {p} 6DED8AD190FB42DD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "6DEBDE05E1B3F57F",
+   "x": 3.0,
+   "y": 27.6,
+   "icon": {
+    "id": "alexsmobs:acacia_blossom",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/acacia_blossom",
+     "criterion": "",
+     "id": "246DB0046A28B8AC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "188858028EF7C198",
+     "type": "command",
+     "command": "/gaby book pay {p} 6DEBDE05E1B3F57F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "7E4F0D7A0C3C81B4",
+   "x": 4.5,
+   "y": 27.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_elephant",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_elephant",
+     "criterion": "",
+     "id": "27AB58F47167B59C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "33B055C1A50FEEBE",
+     "type": "command",
+     "command": "/gaby book pay {p} 7E4F0D7A0C3C81B4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DEBDE05E1B3F57F"
+   ]
+  },
+  {
+   "id": "236EB51A8CE4F3B9",
+   "x": 6.0,
+   "y": 27.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_elephant",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/elephant_swag",
+     "criterion": "",
+     "id": "397C7DD346776040"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7CC7B6DFB8F3E8C5",
+     "type": "command",
+     "command": "/gaby book pay {p} 236EB51A8CE4F3B9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7E4F0D7A0C3C81B4"
+   ]
+  },
+  {
+   "id": "1E70AFFB1827414D",
+   "x": 6.0,
+   "y": 28.2,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_elephant",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_elephant_tusked",
+     "criterion": "",
+     "id": "77F73DC8D1EBEF7E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "436049292A2362CE",
+     "type": "command",
+     "command": "/gaby book pay {p} 1E70AFFB1827414D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7E4F0D7A0C3C81B4"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "566120E60EE39795",
+   "x": 3.0,
+   "y": 30.6,
+   "icon": {
+    "id": "alexsmobs:banana",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/banana",
+     "criterion": "",
+     "id": "10C8C43988E18D1E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "103A2C5ED7C3248D",
+     "type": "command",
+     "command": "/gaby book pay {p} 566120E60EE39795",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "4F65BD04ADA8F797",
+   "x": 4.5,
+   "y": 29.4,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_banana_slug",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/banana_slug",
+     "criterion": "",
+     "id": "4BFC4CAE81426B15"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3331FDFF1D5F5D12",
+     "type": "command",
+     "command": "/gaby book pay {p} 4F65BD04ADA8F797",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "566120E60EE39795"
+   ]
+  },
+  {
+   "id": "67106ECC6108FAA5",
+   "x": 4.5,
+   "y": 30.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_capuchin_monkey",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_capuchin",
+     "criterion": "",
+     "id": "71859590EB5710D4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7F919D782D6A9238",
+     "type": "command",
+     "command": "/gaby book pay {p} 67106ECC6108FAA5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "566120E60EE39795"
+   ]
+  },
+  {
+   "id": "52DEA5E67798951A",
+   "x": 6.0,
+   "y": 30.6,
+   "icon": {
+    "id": "alexsmobs:sopa_de_macaco",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/sopa_de_macaco",
+     "criterion": "",
+     "id": "6D35A0EEF5AB38A6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "73170F2E0BEEB5EA",
+     "type": "command",
+     "command": "/gaby book pay {p} 52DEA5E67798951A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "67106ECC6108FAA5"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "64F9C1627069D6C2",
+   "x": 4.5,
+   "y": 31.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_gorilla",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_gorilla",
+     "criterion": "",
+     "id": "2BB4EA9DF192FEC2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2450B0209C046413",
+     "type": "command",
+     "command": "/gaby book pay {p} 64F9C1627069D6C2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "566120E60EE39795"
+   ]
+  },
+  {
+   "id": "16E0AA5282BAF496",
+   "x": 3.0,
+   "y": 33.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_bison",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/bison_spyglass",
+     "criterion": "",
+     "id": "7B29A19967CCD84F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4AC2735286E81D1A",
+     "type": "command",
+     "command": "/gaby book pay {p} 16E0AA5282BAF496",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "31B3CF6480912E72",
+   "x": 3.0,
+   "y": 34.2,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_hummingbird",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/breed_hummingbird",
+     "criterion": "",
+     "id": "2687CD9952518441"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5B329B8079C5D50E",
+     "type": "command",
+     "command": "/gaby book pay {p} 31B3CF6480912E72",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "29CC6DFEE983EF4C",
+   "x": 4.5,
+   "y": 34.2,
+   "icon": {
+    "id": "alexsmobs:hummingbird_feeder",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/hummingbird_feeder",
+     "criterion": "",
+     "id": "6019AEB918F2F188"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "539941665DD8CCEE",
+     "type": "command",
+     "command": "/gaby book pay {p} 29CC6DFEE983EF4C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "31B3CF6480912E72"
+   ]
+  },
+  {
+   "id": "4D4E2EEAD8C3006F",
+   "x": 3.0,
+   "y": 36.599999999999994,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_crimson_mosquito",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/crimson_mosquito",
+     "criterion": "",
+     "id": "652DF509F5255AD7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "32709EEB0983BA92",
+     "type": "command",
+     "command": "/gaby book pay {p} 4D4E2EEAD8C3006F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "2A955EFC33F09931",
+   "x": 4.5,
+   "y": 35.4,
+   "icon": {
+    "id": "alexsmobs:blood_sprayer",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/blood_sprayer",
+     "criterion": "",
+     "id": "61F2B4B58687C0FB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1278570C958D9456",
+     "type": "command",
+     "command": "/gaby book pay {p} 2A955EFC33F09931",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4D4E2EEAD8C3006F"
+   ]
+  },
+  {
+   "id": "13F6B4E8BBB9CF20",
+   "x": 4.5,
+   "y": 36.6,
+   "icon": {
+    "id": "alexsmobs:mosquito_larva",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/crimson_mosquito_larva",
+     "criterion": "",
+     "id": "321A98D5C3CF98C8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "148FAB69A78D2441",
+     "type": "command",
+     "command": "/gaby book pay {p} 13F6B4E8BBB9CF20",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4D4E2EEAD8C3006F"
+   ]
+  },
+  {
+   "id": "7CFD2064DC94D7CA",
+   "x": 6.0,
+   "y": 36.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_warped_toad",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_warped_toad",
+     "criterion": "",
+     "id": "35C842F896C8FCA1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "12724896D2A84FE5",
+     "type": "command",
+     "command": "/gaby book pay {p} 7CFD2064DC94D7CA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "13F6B4E8BBB9CF20"
+   ]
+  },
+  {
+   "id": "2073AD82232A7BF6",
+   "x": 4.5,
+   "y": 37.8,
+   "icon": {
+    "id": "minecraft:warped_fungus",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/crimson_mosquito_sick",
+     "criterion": "",
+     "id": "172E6DEC19B9B2D1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6B3FDF3B5CE2CDB7",
+     "type": "command",
+     "command": "/gaby book pay {p} 2073AD82232A7BF6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4D4E2EEAD8C3006F"
+   ]
+  },
+  {
+   "id": "2DD6083910367168",
+   "x": 6.0,
+   "y": 37.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_warped_mosco",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/warped_mosco_kill",
+     "criterion": "",
+     "id": "5B538CDB1571A582"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6783EDABD5E76964",
+     "type": "command",
+     "command": "/gaby book pay {p} 2DD6083910367168",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2073AD82232A7BF6"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "58C324170DFD3D85",
+   "x": 7.5,
+   "y": 37.8,
+   "icon": {
+    "id": "alexsmobs:hemolymph_blaster",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/hemolymph_blaster",
+     "criterion": "",
+     "id": "377D4B2884812137"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "39DD7E5A65DF1FFE",
+     "type": "command",
+     "command": "/gaby book pay {p} 58C324170DFD3D85",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2DD6083910367168"
+   ]
+  },
+  {
+   "id": "6693BD72D75FDB23",
+   "x": 3.0,
+   "y": 39.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_crocodile",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/crocodile",
+     "criterion": "",
+     "id": "2E4B5E174173BA99"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "30BBBA6A1EAE4190",
+     "type": "command",
+     "command": "/gaby book pay {p} 6693BD72D75FDB23",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "18C87F2E2D1234F9",
+   "x": 4.5,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_alligator_snapping_turtle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/alligator_snapping_turtle",
+     "criterion": "",
+     "id": "12A8529C5142F2C5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3406A3D7B0D1F4DB",
+     "type": "command",
+     "command": "/gaby book pay {p} 18C87F2E2D1234F9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6693BD72D75FDB23"
+   ]
+  },
+  {
+   "id": "21198E6ACDBBEEB5",
+   "x": 6.0,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:spiked_scute",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/spiked_scute",
+     "criterion": "",
+     "id": "68E66B7BE25D6576"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "252A710E23AE5003",
+     "type": "command",
+     "command": "/gaby book pay {p} 21198E6ACDBBEEB5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18C87F2E2D1234F9"
+   ]
+  },
+  {
+   "id": "571A1B68615BDD2A",
+   "x": 7.5,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:spiked_turtle_shell",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/spiked_turtle_shell",
+     "criterion": "",
+     "id": "45C66AB277A44608"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "789EDA0E1A946EC3",
+     "type": "command",
+     "command": "/gaby book pay {p} 571A1B68615BDD2A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "21198E6ACDBBEEB5"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "432E19A502F66AE0",
+   "x": 4.5,
+   "y": 40.2,
+   "icon": {
+    "id": "alexsmobs:crocodile_egg",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/breed_crocodile",
+     "criterion": "",
+     "id": "6E767DEACA9183FD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1671327573D46B89",
+     "type": "command",
+     "command": "/gaby book pay {p} 432E19A502F66AE0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6693BD72D75FDB23"
+   ]
+  },
+  {
+   "id": "1C99F8DB41CD31EE",
+   "x": 6.0,
+   "y": 40.2,
+   "icon": {
+    "id": "alexsmobs:crocodile_chestplate",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/crocodile_chestplate",
+     "criterion": "",
+     "id": "64112E95C6A82080"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "231BD9F63D642E36",
+     "type": "command",
+     "command": "/gaby book pay {p} 1C99F8DB41CD31EE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "432E19A502F66AE0"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "29E34BC8873B7625",
+   "x": 3.0,
+   "y": 44.55,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_enderiophage",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/enderiophage",
+     "criterion": "",
+     "id": "3AFD4534BA804C41"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "68F8881040609893",
+     "type": "command",
+     "command": "/gaby book pay {p} 29E34BC8873B7625",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "1EE89E1CF0C74F0A",
+   "x": 4.5,
+   "y": 42.9,
+   "icon": {
+    "id": "alexsmobs:capsid",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/capsid",
+     "criterion": "",
+     "id": "25EF1BC42C26D1A7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2DD7E4DAE5D69026",
+     "type": "command",
+     "command": "/gaby book pay {p} 1EE89E1CF0C74F0A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "29E34BC8873B7625"
+   ]
+  },
+  {
+   "id": "475EE7CD0797867D",
+   "x": 6.0,
+   "y": 41.4,
+   "icon": {
+    "id": "alexsmobs:cosmic_cod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/cosmic_cod",
+     "criterion": "",
+     "id": "3526D32A7676E628"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "619FE8B7372F1F1A",
+     "type": "command",
+     "command": "/gaby book pay {p} 475EE7CD0797867D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EE89E1CF0C74F0A"
+   ]
+  },
+  {
+   "id": "146DC23509F19E65",
+   "x": 7.5,
+   "y": 41.4,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_cosmaw",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_cosmaw",
+     "criterion": "",
+     "id": "6C1E7850CCDA8B81"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "356B37DC38EA1B03",
+     "type": "command",
+     "command": "/gaby book pay {p} 146DC23509F19E65",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "475EE7CD0797867D"
+   ]
+  },
+  {
+   "id": "20556F1EE942BA78",
+   "x": 6.0,
+   "y": 42.6,
+   "icon": {
+    "id": "alexsmobs:enderiophage_rocket",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/enderiophage_rocket",
+     "criterion": "",
+     "id": "147B3EA791AA8E38"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "79EE4CAC3C611D7B",
+     "type": "command",
+     "command": "/gaby book pay {p} 20556F1EE942BA78",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EE89E1CF0C74F0A"
+   ]
+  },
+  {
+   "id": "6923EFE49ED69CAE",
+   "x": 6.0,
+   "y": 44.4,
+   "icon": {
+    "id": "alexsmobs:mysterious_worm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/mysterious_worm",
+     "criterion": "",
+     "id": "1ADCF1EF4214B90A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7B0F72BB5A3B55F4",
+     "type": "command",
+     "command": "/gaby book pay {p} 6923EFE49ED69CAE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EE89E1CF0C74F0A"
+   ]
+  },
+  {
+   "id": "5B351EAF2CF3AAEC",
+   "x": 7.5,
+   "y": 44.4,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_void_worm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/void_worm_summon",
+     "criterion": "",
+     "id": "438F74B4C932C3DF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2F30AACBC1196950",
+     "type": "command",
+     "command": "/gaby book pay {p} 5B351EAF2CF3AAEC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6923EFE49ED69CAE"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "4C9285A2A8E518CD",
+   "x": 9.0,
+   "y": 43.8,
+   "icon": {
+    "id": "alexsmobs:void_worm_beak",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/void_worm_kill",
+     "criterion": "",
+     "id": "610428BB77B29393"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5B427B9B9FFA906E",
+     "type": "command",
+     "command": "/gaby book pay {p} 4C9285A2A8E518CD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5B351EAF2CF3AAEC"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "7B1BB9035A65C317",
+   "x": 10.5,
+   "y": 43.8,
+   "icon": {
+    "id": "alexsmobs:dimensional_carver",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/dimensional_carver",
+     "criterion": "",
+     "id": "4DC2A2379951820A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4E8A13183215C046",
+     "type": "command",
+     "command": "/gaby book pay {p} 7B1BB9035A65C317",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4C9285A2A8E518CD"
+   ]
+  },
+  {
+   "id": "6712A7D1E61A7430",
+   "x": 12.0,
+   "y": 43.8,
+   "icon": {
+    "id": "alexsmobs:shattered_dimensional_carver",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/shattered_dimensional_carver",
+     "criterion": "",
+     "id": "6DE9D4631C662CC4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "512BDD2EE5FC0462",
+     "type": "command",
+     "command": "/gaby book pay {p} 6712A7D1E61A7430",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7B1BB9035A65C317"
+   ]
+  },
+  {
+   "id": "68C1E1101C56FBEE",
+   "x": 13.5,
+   "y": 43.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_farseer",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/farseer",
+     "criterion": "",
+     "id": "1C0D9AC797D113BB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7B669E74DDE3813D",
+     "type": "command",
+     "command": "/gaby book pay {p} 68C1E1101C56FBEE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6712A7D1E61A7430"
+   ]
+  },
+  {
+   "id": "29BF39BB26DE9990",
+   "x": 15.0,
+   "y": 43.8,
+   "icon": {
+    "id": "alexsmobs:transmutation_table",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/transmutation_table",
+     "criterion": "",
+     "id": "5F975F1AA2100BFF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "61B74B06C9976CB6",
+     "type": "command",
+     "command": "/gaby book pay {p} 29BF39BB26DE9990",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "68C1E1101C56FBEE"
+   ]
+  },
+  {
+   "id": "24248195D842E789",
+   "x": 16.5,
+   "y": 43.8,
+   "icon": {
+    "id": "alexsmobs:transmutation_table",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/transmute_1000_items",
+     "criterion": "",
+     "id": "179F02A7B2832131"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6407EDB8086866D0",
+     "type": "command",
+     "command": "/gaby book pay {p} 24248195D842E789",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "29BF39BB26DE9990"
+   ]
+  },
+  {
+   "id": "520812CDA2410B1E",
+   "x": 9.0,
+   "y": 45.0,
+   "icon": {
+    "id": "alexsmobs:void_worm_eye",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/void_worm_split",
+     "criterion": "",
+     "id": "142E7E2D76DE87F1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "20745558D8CF3E15",
+     "type": "command",
+     "command": "/gaby book pay {p} 520812CDA2410B1E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5B351EAF2CF3AAEC"
+   ]
+  },
+  {
+   "id": "359A4561351B91B3",
+   "x": 4.5,
+   "y": 46.2,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_enderiophage",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/ender_flu",
+     "criterion": "",
+     "id": "2E17DD9B263A5D7F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "612676D4A45A47D0",
+     "type": "command",
+     "command": "/gaby book pay {p} 359A4561351B91B3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "29E34BC8873B7625"
+   ]
+  },
+  {
+   "id": "24624EFCF7DE3032",
+   "x": 19.5,
+   "y": 27.0,
+   "icon": {
+    "id": "alexsmobs:froststalker_horn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/froststalker_kill",
+     "criterion": "",
+     "id": "7504B8161628F2AD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "76BAE84546CD7DFA",
+     "type": "command",
+     "command": "/gaby book pay {p} 24624EFCF7DE3032",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "28578CF1D5BDCD9B",
+   "x": 21.0,
+   "y": 27.0,
+   "icon": {
+    "id": "alexsmobs:froststalker_helmet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/froststalker_helmet",
+     "criterion": "",
+     "id": "32DDBD06A9FBB3F2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3FD67DABB097C0F8",
+     "type": "command",
+     "command": "/gaby book pay {p} 28578CF1D5BDCD9B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "24624EFCF7DE3032"
+   ]
+  },
+  {
+   "id": "70890BC82E3D9C7F",
+   "x": 22.5,
+   "y": 27.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_froststalker",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/breed_froststalker",
+     "criterion": "",
+     "id": "207B0CB5EE2B441B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2C99996DDB1E2ACA",
+     "type": "command",
+     "command": "/gaby book pay {p} 70890BC82E3D9C7F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "28578CF1D5BDCD9B"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "2BD4AA8D5EBAE520",
+   "x": 19.5,
+   "y": 28.2,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_grizzly_bear",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/grizzly_bear",
+     "criterion": "",
+     "id": "6457FFE97D242F12"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "18FC9B53A24122FD",
+     "type": "command",
+     "command": "/gaby book pay {p} 2BD4AA8D5EBAE520",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "5D4B40FD202A6632",
+   "x": 21.0,
+   "y": 28.2,
+   "icon": {
+    "id": "minecraft:salmon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_grizzly_bear",
+     "criterion": "",
+     "id": "363AE9618714F05F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "436B79C028F6A734",
+     "type": "command",
+     "command": "/gaby book pay {p} 5D4B40FD202A6632",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2BD4AA8D5EBAE520"
+   ]
+  },
+  {
+   "id": "1C46B11C07E107B1",
+   "x": 19.5,
+   "y": 30.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_guster",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/guster",
+     "criterion": "",
+     "id": "122FCAF006B89566"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "43B83ED2090958BD",
+     "type": "command",
+     "command": "/gaby book pay {p} 1C46B11C07E107B1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "7659456AC0007F79",
+   "x": 21.0,
+   "y": 29.4,
+   "icon": {
+    "id": "alexsmobs:gustmaker",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/gustmaker",
+     "criterion": "",
+     "id": "21091D2A389FD137"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "44CF7F522EE07531",
+     "type": "command",
+     "command": "/gaby book pay {p} 7659456AC0007F79",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1C46B11C07E107B1"
+   ]
+  },
+  {
+   "id": "46C3A175F2185865",
+   "x": 21.0,
+   "y": 30.6,
+   "icon": {
+    "id": "alexsmobs:pocket_sand",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/pocket_sand",
+     "criterion": "",
+     "id": "12BEC881448F48C6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3DA2993D93936935",
+     "type": "command",
+     "command": "/gaby book pay {p} 46C3A175F2185865",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1C46B11C07E107B1"
+   ]
+  },
+  {
+   "id": "1C3F6A31A8BD645B",
+   "x": 19.5,
+   "y": 31.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_kangaroo",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/kangaroo",
+     "criterion": "",
+     "id": "4EC072875CEEEDC9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5FF473CE6216CAA4",
+     "type": "command",
+     "command": "/gaby book pay {p} 1C3F6A31A8BD645B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "5F4B6A8E3ACDF81E",
+   "x": 21.0,
+   "y": 31.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_emu",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/emu",
+     "criterion": "",
+     "id": "1AABE7C49C184FC7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "73F69B2C9222D387",
+     "type": "command",
+     "command": "/gaby book pay {p} 5F4B6A8E3ACDF81E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1C3F6A31A8BD645B"
+   ]
+  },
+  {
+   "id": "72876EB3316A4BCE",
+   "x": 22.5,
+   "y": 31.8,
+   "icon": {
+    "id": "minecraft:blue_banner",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/emu_dodge",
+     "criterion": "",
+     "id": "538F580C4EAD9640"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3F3EC10328A50651",
+     "type": "command",
+     "command": "/gaby book pay {p} 72876EB3316A4BCE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5F4B6A8E3ACDF81E"
+   ]
+  },
+  {
+   "id": "293FCE93F5057301",
+   "x": 19.5,
+   "y": 33.0,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/laviathan_spyglass",
+     "criterion": "",
+     "id": "641809C227468F77"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "32717E1D46F340DD",
+     "type": "command",
+     "command": "/gaby book pay {p} 293FCE93F5057301",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3AA95DBB23708145",
+   "x": 19.5,
+   "y": 34.2,
+   "icon": {
+    "id": "alexsmobs:lost_tentacle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/lost_tentacle",
+     "criterion": "",
+     "id": "110290D4C095B807"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "60F07555603736CD",
+     "type": "command",
+     "command": "/gaby book pay {p} 3AA95DBB23708145",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "776AECEE73A10DF0",
+   "x": 21.0,
+   "y": 34.2,
+   "icon": {
+    "id": "alexsmobs:squid_grapple",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/squid_grapple",
+     "criterion": "",
+     "id": "400A5967C7DA5DCD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "44560B4CD46D8410",
+     "type": "command",
+     "command": "/gaby book pay {p} 776AECEE73A10DF0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3AA95DBB23708145"
+   ]
+  },
+  {
+   "id": "2F0259538DD0C65A",
+   "x": 19.5,
+   "y": 35.4,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_maned_wolf",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/maned_wolf_apple",
+     "criterion": "",
+     "id": "7C969049AC599B9B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3CAEC1C0F07D14BE",
+     "type": "command",
+     "command": "/gaby book pay {p} 2F0259538DD0C65A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "5038E4AC4FA77A4E",
+   "x": 19.5,
+   "y": 36.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_murmur",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/murmur",
+     "criterion": "",
+     "id": "19A250851838C02E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "22D0EAB7528ABB4F",
+     "type": "command",
+     "command": "/gaby book pay {p} 5038E4AC4FA77A4E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "1D516CF402AFDEBC",
+   "x": 19.5,
+   "y": 37.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_orca",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/orcas_might",
+     "criterion": "",
+     "id": "5D420980456728A9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1B9E73DA83ABB043",
+     "type": "command",
+     "command": "/gaby book pay {p} 1D516CF402AFDEBC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "7C4746E74919BEAC",
+   "x": 19.5,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_comb_jelly",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/rainbow_jelly",
+     "criterion": "",
+     "id": "16E0A5A8912733FA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "26022C0F750A8DD7",
+     "type": "command",
+     "command": "/gaby book pay {p} 7C4746E74919BEAC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "2334E0DA73EF8A21",
+   "x": 21.0,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:rainbow_glass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/rainbow_glass",
+     "criterion": "",
+     "id": "693F7EC998DAC21B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "38A99152A4572BB8",
+     "type": "command",
+     "command": "/gaby book pay {p} 2334E0DA73EF8A21",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7C4746E74919BEAC"
+   ]
+  },
+  {
+   "id": "468EF3841F7D4B78",
+   "x": 19.5,
+   "y": 40.2,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_rattlesnake",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/rattlesnake",
+     "criterion": "",
+     "id": "40E9AD88F4C4CC7D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "18DBCA98D2B504B1",
+     "type": "command",
+     "command": "/gaby book pay {p} 468EF3841F7D4B78",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "764376DA2D18AD63",
+   "x": 21.0,
+   "y": 40.2,
+   "icon": {
+    "id": "alexsmobs:maraca",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/maraca",
+     "criterion": "",
+     "id": "7B5BBCBCD0424655"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "58C119B7435951A4",
+     "type": "command",
+     "command": "/gaby book pay {p} 764376DA2D18AD63",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "468EF3841F7D4B78"
+   ]
+  },
+  {
+   "id": "52DA95567C0EF553",
+   "x": 22.5,
+   "y": 40.2,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_cockroach",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/la_cucaracha",
+     "criterion": "",
+     "id": "49ADD5CB09C8D698"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "106C5D9079B05BBE",
+     "type": "command",
+     "command": "/gaby book pay {p} 52DA95567C0EF553",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "764376DA2D18AD63"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "7F33EAD96EDE57B5",
+   "x": 19.5,
+   "y": 41.4,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_rocky_roller",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/rocky_roller",
+     "criterion": "",
+     "id": "2CD99FD38B3688D7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2371BA34874217F6",
+     "type": "command",
+     "command": "/gaby book pay {p} 7F33EAD96EDE57B5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "775C8DC25F32B662",
+   "x": 21.0,
+   "y": 41.4,
+   "icon": {
+    "id": "alexsmobs:rocky_shell",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/rocky_shell",
+     "criterion": "",
+     "id": "2C6719938B06B9BD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "14DADF3DB4DD199C",
+     "type": "command",
+     "command": "/gaby book pay {p} 775C8DC25F32B662",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7F33EAD96EDE57B5"
+   ]
+  },
+  {
+   "id": "5A3C73B50C242DE3",
+   "x": 22.5,
+   "y": 41.4,
+   "icon": {
+    "id": "alexsmobs:rocky_chestplate",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/rocky_chestplate",
+     "criterion": "",
+     "id": "30A88F552C2ACD52"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4BC12863A12CEF33",
+     "type": "command",
+     "command": "/gaby book pay {p} 5A3C73B50C242DE3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "775C8DC25F32B662"
+   ]
+  },
+  {
+   "id": "5B74BB3909ADDD04",
+   "x": 19.5,
+   "y": 42.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_cachalot_whale",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/save_cachalot_whale",
+     "criterion": "",
+     "id": "369B2321D7471307"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3B13F1D351850EDC",
+     "type": "command",
+     "command": "/gaby book pay {p} 5B74BB3909ADDD04",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1E06917190454DF2",
+   "x": 21.0,
+   "y": 42.6,
+   "icon": {
+    "id": "alexsmobs:echolocator",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/echolocator",
+     "criterion": "",
+     "id": "17188925ACD7782D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "61118A2F6C32B1BE",
+     "type": "command",
+     "command": "/gaby book pay {p} 1E06917190454DF2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5B74BB3909ADDD04"
+   ]
+  },
+  {
+   "id": "6CA9BC7AB2958463",
+   "x": 22.5,
+   "y": 42.6,
+   "icon": {
+    "id": "alexsmobs:endolocator",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/endolocator",
+     "criterion": "",
+     "id": "52ECEC600B2F4168"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "46AE59B5B5A33C13",
+     "type": "command",
+     "command": "/gaby book pay {p} 6CA9BC7AB2958463",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1E06917190454DF2"
+   ]
+  },
+  {
+   "id": "72D64AB6A434EBEF",
+   "x": 19.5,
+   "y": 43.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_seagull",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/seagull_steal",
+     "criterion": "",
+     "id": "62CA9B8771DB2817"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "19BD8F0C893AFCBC",
+     "type": "command",
+     "command": "/gaby book pay {p} 72D64AB6A434EBEF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "24DEEF19EB928830",
+   "x": 25.5,
+   "y": 27.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_skelewag",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/skelewag",
+     "criterion": "",
+     "id": "7CD2D9E51A6E617C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1FF9EB362D9EBBDD",
+     "type": "command",
+     "command": "/gaby book pay {p} 24DEEF19EB928830",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "227EBEC30BACAA46",
+   "x": 27.0,
+   "y": 27.0,
+   "icon": {
+    "id": "alexsmobs:fish_bones",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/fish_bones",
+     "criterion": "",
+     "id": "240BCB6552B936B5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "40CD387C6C342741",
+     "type": "command",
+     "command": "/gaby book pay {p} 227EBEC30BACAA46",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "24DEEF19EB928830"
+   ]
+  },
+  {
+   "id": "25FB187E5AFC8269",
+   "x": 28.5,
+   "y": 27.0,
+   "icon": {
+    "id": "alexsmobs:pupfish_locator",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/strange_fish_finder",
+     "criterion": "",
+     "id": "3056005C00CC26DB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "59EAE614BD262CC3",
+     "type": "command",
+     "command": "/gaby book pay {p} 25FB187E5AFC8269",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "227EBEC30BACAA46"
+   ]
+  },
+  {
+   "id": "597E6115F21735D0",
+   "x": 30.0,
+   "y": 27.0,
+   "icon": {
+    "id": "alexsmobs:devils_hole_pupfish_bucket",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/devils_hole_pupfish_bucket",
+     "criterion": "",
+     "id": "78FDDC00D29F1B78"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6EFCC1A233C2591A",
+     "type": "command",
+     "command": "/gaby book pay {p} 597E6115F21735D0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "25FB187E5AFC8269"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "6E54F4A94E794A23",
+   "x": 27.0,
+   "y": 28.2,
+   "icon": {
+    "id": "alexsmobs:skelewag_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/skelewag_skull",
+     "criterion": "",
+     "id": "108DC3487275BA7B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "69AB0186431A6A65",
+     "type": "command",
+     "command": "/gaby book pay {p} 6E54F4A94E794A23",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "24DEEF19EB928830"
+   ]
+  },
+  {
+   "id": "1B910CB6411CA9A0",
+   "x": 28.5,
+   "y": 28.2,
+   "icon": {
+    "id": "alexsmobs:novelty_hat",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/novelty_hat",
+     "criterion": "",
+     "id": "5C4D64FC631FA2FC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1536E1581B809EBB",
+     "type": "command",
+     "command": "/gaby book pay {p} 1B910CB6411CA9A0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6E54F4A94E794A23"
+   ]
+  },
+  {
+   "id": "6DEFADBA4324CAC3",
+   "x": 25.5,
+   "y": 29.4,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_skreecher",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/skreecher",
+     "criterion": "",
+     "id": "4FF1D22D3ACAA57E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "15F999A945BEED03",
+     "type": "command",
+     "command": "/gaby book pay {p} 6DEFADBA4324CAC3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "289FBD2C7EB5DD42",
+   "x": 27.0,
+   "y": 29.4,
+   "icon": {
+    "id": "alexsmobs:sculk_boomer",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/sculk_boomer",
+     "criterion": "",
+     "id": "1492CAFCF6D852F7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "587F636DD8F776A9",
+     "type": "command",
+     "command": "/gaby book pay {p} 289FBD2C7EB5DD42",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DEFADBA4324CAC3"
+   ]
+  },
+  {
+   "id": "61E077C9021B58E0",
+   "x": 25.5,
+   "y": 30.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_skunk",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/skunk",
+     "criterion": "",
+     "id": "1E1C2E3C2C04DF85"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "216B5515AE3888EE",
+     "type": "command",
+     "command": "/gaby book pay {p} 61E077C9021B58E0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "52BF9D5E6575CEFE",
+   "x": 27.0,
+   "y": 30.6,
+   "icon": {
+    "id": "alexsmobs:stink_bottle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/stink_bottle",
+     "criterion": "",
+     "id": "68CE2A63778226FB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "344AF50387E9241D",
+     "type": "command",
+     "command": "/gaby book pay {p} 52BF9D5E6575CEFE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "61E077C9021B58E0"
+   ]
+  },
+  {
+   "id": "13C8C673F624DB7F",
+   "x": 28.5,
+   "y": 30.6,
+   "icon": {
+    "id": "alexsmobs:stink_ray",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/stink_ray",
+     "criterion": "",
+     "id": "4D26157D66A4D135"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7BEE441FA94FF4DC",
+     "type": "command",
+     "command": "/gaby book pay {p} 13C8C673F624DB7F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52BF9D5E6575CEFE"
+   ]
+  },
+  {
+   "id": "17C928A461F07035",
+   "x": 25.5,
+   "y": 31.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_soul_vulture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/soul_vulture",
+     "criterion": "",
+     "id": "73F2C12EC157CAD4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "755D2D03590C6C7A",
+     "type": "command",
+     "command": "/gaby book pay {p} 17C928A461F07035",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "7219C2EAC38550F2",
+   "x": 27.0,
+   "y": 31.8,
+   "icon": {
+    "id": "alexsmobs:soul_heart",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/soul_heart",
+     "criterion": "",
+     "id": "5B5ED6C5FFFD55C2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "73BC5DF8BB5F64D9",
+     "type": "command",
+     "command": "/gaby book pay {p} 7219C2EAC38550F2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "17C928A461F07035"
+   ]
+  },
+  {
+   "id": "45BBC086FE6555B0",
+   "x": 28.5,
+   "y": 31.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_spectre",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/spectre",
+     "criterion": "",
+     "id": "243162BF602B7418"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "678F1FA101F7A394",
+     "type": "command",
+     "command": "/gaby book pay {p} 45BBC086FE6555B0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7219C2EAC38550F2"
+   ]
+  },
+  {
+   "id": "4E43E8A9D3458D9A",
+   "x": 25.5,
+   "y": 33.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_leafcutter_ant",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/stomp_leafcutter_anthill",
+     "criterion": "",
+     "id": "255B09FCBF34E135"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "541E2D3CA265E0F3",
+     "type": "command",
+     "command": "/gaby book pay {p} 4E43E8A9D3458D9A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "698FACCD773D6090",
+   "x": 27.0,
+   "y": 33.0,
+   "icon": {
+    "id": "alexsmobs:gongylidia",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/gongylidia",
+     "criterion": "",
+     "id": "787CFE0861127E25"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4DB5A14E3D4373FF",
+     "type": "command",
+     "command": "/gaby book pay {p} 698FACCD773D6090",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4E43E8A9D3458D9A"
+   ]
+  },
+  {
+   "id": "583F01567D682106",
+   "x": 28.5,
+   "y": 33.0,
+   "icon": {
+    "id": "alexsmobs:leafcutter_ant_pupa",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/leafcutter_ant_pupa",
+     "criterion": "",
+     "id": "620B6448D87C090E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "649683EB9AA168AA",
+     "type": "command",
+     "command": "/gaby book pay {p} 583F01567D682106",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "698FACCD773D6090"
+   ]
+  },
+  {
+   "id": "1832F8220C7143CE",
+   "x": 30.0,
+   "y": 33.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_anteater",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/breed_anteater",
+     "criterion": "",
+     "id": "42BA7B94E8646C91"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "13B170B21F103DA8",
+     "type": "command",
+     "command": "/gaby book pay {p} 1832F8220C7143CE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "583F01567D682106"
+   ]
+  },
+  {
+   "id": "1B69DCB913D3ED20",
+   "x": 25.5,
+   "y": 35.400000000000006,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_straddler",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/straddler",
+     "criterion": "",
+     "id": "477E4507D0EC76A8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "76453CD23E8CDB2B",
+     "type": "command",
+     "command": "/gaby book pay {p} 1B69DCB913D3ED20",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "2D2FCC1D2B007845",
+   "x": 27.0,
+   "y": 34.2,
+   "icon": {
+    "id": "alexsmobs:straddle_saddle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/straddle_saddle",
+     "criterion": "",
+     "id": "214F084913456E15"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "415090FFBAE88095",
+     "type": "command",
+     "command": "/gaby book pay {p} 2D2FCC1D2B007845",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1B69DCB913D3ED20"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "45A2E4A5081343AB",
+   "x": 28.5,
+   "y": 34.2,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_laviathan",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/laviathan_four_passengers",
+     "criterion": "",
+     "id": "364541A2B4572C7E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5D6FE1DE30A905A9",
+     "type": "command",
+     "command": "/gaby book pay {p} 45A2E4A5081343AB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D2FCC1D2B007845"
+   ]
+  },
+  {
+   "id": "2315795196FCCEFE",
+   "x": 27.0,
+   "y": 35.4,
+   "icon": {
+    "id": "alexsmobs:straddleboard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/straddleboard",
+     "criterion": "",
+     "id": "4D3738CCDD3E3C1B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "55390703011339DF",
+     "type": "command",
+     "command": "/gaby book pay {p} 2315795196FCCEFE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1B69DCB913D3ED20"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "51FC931451141873",
+   "x": 27.0,
+   "y": 36.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_stradpole",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/stradpole_feed",
+     "criterion": "",
+     "id": "62D175234ED3C976"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7A1FD0C7AFF3ED69",
+     "type": "command",
+     "command": "/gaby book pay {p} 51FC931451141873",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1B69DCB913D3ED20"
+   ]
+  },
+  {
+   "id": "13B718FC4B9D2A0B",
+   "x": 25.5,
+   "y": 37.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_sunbird",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/sunbird_blessing",
+     "criterion": "",
+     "id": "1044F7B29551E600"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "646C5AB1D17E5241",
+     "type": "command",
+     "command": "/gaby book pay {p} 13B718FC4B9D2A0B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "65D1C2B7BA35C160",
+   "x": 25.5,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_bald_eagle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_bald_eagle",
+     "criterion": "",
+     "id": "48167E527FD5FB24"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "64F2685843B3B596",
+     "type": "command",
+     "command": "/gaby book pay {p} 65D1C2B7BA35C160",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "1D6CF72CD8C16BA5",
+   "x": 27.0,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:falconry_glove",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/falconry_glove",
+     "criterion": "",
+     "id": "3D2927E589A78C96"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3D893461D66DD76A",
+     "type": "command",
+     "command": "/gaby book pay {p} 1D6CF72CD8C16BA5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "65D1C2B7BA35C160"
+   ]
+  },
+  {
+   "id": "60E93BB39C42D4AE",
+   "x": 28.5,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:falconry_hood",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/falconry_hood",
+     "criterion": "",
+     "id": "2F73689C5E3D976A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "13E6C0ECDC07D2E3",
+     "type": "command",
+     "command": "/gaby book pay {p} 60E93BB39C42D4AE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1D6CF72CD8C16BA5"
+   ]
+  },
+  {
+   "id": "71D5C46DD906DBFE",
+   "x": 30.0,
+   "y": 39.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_bald_eagle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/bald_eagle_challenge",
+     "criterion": "",
+     "id": "1A8B725ADFEB064A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "67D7044A0E940800",
+     "type": "command",
+     "command": "/gaby book pay {p} 71D5C46DD906DBFE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "60E93BB39C42D4AE"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3776EA0CC584C2F4",
+   "x": 25.5,
+   "y": 40.2,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_flutter",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_flutter",
+     "criterion": "",
+     "id": "79DB3DCE30102B3D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "73D1EF9B559AAC22",
+     "type": "command",
+     "command": "/gaby book pay {p} 3776EA0CC584C2F4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "4CC3B201577D750B",
+   "x": 25.5,
+   "y": 41.4,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_mantis_shrimp",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_mantis_shrimp",
+     "criterion": "",
+     "id": "7CCDE0AA51A8D81A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "656E2423936D6D8A",
+     "type": "command",
+     "command": "/gaby book pay {p} 4CC3B201577D750B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "7566C259DF23AB4C",
+   "x": 27.0,
+   "y": 41.4,
+   "icon": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/mantis_shrimp_bucket",
+     "criterion": "",
+     "id": "6F6B14316267DE28"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4EA3310BE1A1CAE2",
+     "type": "command",
+     "command": "/gaby book pay {p} 7566C259DF23AB4C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4CC3B201577D750B"
+   ]
+  },
+  {
+   "id": "74F29F7B1897F385",
+   "x": 25.5,
+   "y": 42.6,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_tarantula_hawk",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tarantula_hawk",
+     "criterion": "",
+     "id": "1F80CCAB743B0BCF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "27A3C3DC6D840DD7",
+     "type": "command",
+     "command": "/gaby book pay {p} 74F29F7B1897F385",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "1FE64F7DBC33B579",
+   "x": 27.0,
+   "y": 42.6,
+   "icon": {
+    "id": "minecraft:spider_eye",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tame_tarantula_hawk",
+     "criterion": "",
+     "id": "25649309E7AF4DB5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1DFCEDA69AFE0DD0",
+     "type": "command",
+     "command": "/gaby book pay {p} 1FE64F7DBC33B579",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "74F29F7B1897F385"
+   ]
+  },
+  {
+   "id": "24B5DDD0969725BE",
+   "x": 25.5,
+   "y": 43.8,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_tiger",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/tigers_blessing",
+     "criterion": "",
+     "id": "3EDE47BABCED507D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "38EF23D512C89EE4",
+     "type": "command",
+     "command": "/gaby book pay {p} 24B5DDD0969725BE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "28219C7D0B78A2BA",
+   "x": 25.5,
+   "y": 45.0,
+   "icon": {
+    "id": "alexsmobs:spawn_egg_underminer",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/underminer",
+     "criterion": "",
+     "id": "709A1DE3553D9719"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "42B7D2875FA4B7B5",
+     "type": "command",
+     "command": "/gaby book pay {p} 28219C7D0B78A2BA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6DED8AD190FB42DD"
+   ]
+  },
+  {
+   "id": "26B2CA359B9FF17F",
+   "x": 27.0,
+   "y": 45.0,
+   "icon": {
+    "id": "alexsmobs:ghostly_pickaxe",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "alexsmobs:alexsmobs/ghostly_pickaxe",
+     "criterion": "",
+     "id": "1763A6A47F2E0C19"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "670FEC67EA637CAD",
+     "type": "command",
+     "command": "/gaby book pay {p} 26B2CA359B9FF17F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "28219C7D0B78A2BA"
+   ]
+  },
+  {
+   "id": "1DBA49E67135AAD1",
+   "x": 0.0,
+   "y": 50.7,
+   "icon": {
+    "id": "unusualend:gloopstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:find_gloopstone_plains",
+     "criterion": "",
+     "id": "3412F2CE33B6E6A9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "44EB86EA6B84D5D3",
+     "type": "command",
+     "command": "/gaby book pay {p} 1DBA49E67135AAD1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "77671356B3F52A0A",
+   "x": 1.5,
+   "y": 49.8,
+   "icon": {
+    "id": "unusualend:gloopy_urn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:break_gloopy_urn",
+     "criterion": "",
+     "id": "72FE2877BB4589A3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1BC05003323F1D66",
+     "type": "command",
+     "command": "/gaby book pay {p} 77671356B3F52A0A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1DBA49E67135AAD1"
+   ]
+  },
+  {
+   "id": "14E1D9F181CA913F",
+   "x": 3.0,
+   "y": 49.2,
+   "icon": {
+    "id": "unusualend:end_blob",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:forced_social_distancing",
+     "criterion": "",
+     "id": "4AF5E38D09C1F99B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1B39500AEEE59D87",
+     "type": "command",
+     "command": "/gaby book pay {p} 14E1D9F181CA913F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "77671356B3F52A0A"
+   ]
+  },
+  {
+   "id": "396E676DED27F338",
+   "x": 4.5,
+   "y": 49.2,
+   "icon": {
+    "id": "unusualend:bouncy_dagger",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:use_knockback_dagger",
+     "criterion": "",
+     "id": "517E9151CD814F6E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "520209083B835062",
+     "type": "command",
+     "command": "/gaby book pay {p} 396E676DED27F338",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14E1D9F181CA913F"
+   ]
+  },
+  {
+   "id": "5BED1D24FB28A6E7",
+   "x": 3.0,
+   "y": 50.4,
+   "icon": {
+    "id": "unusualend:enderbulb_lens",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:shoot_enderbulb",
+     "criterion": "",
+     "id": "4D64A11A027C816E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "18F8D38C3B4A9D09",
+     "type": "command",
+     "command": "/gaby book pay {p} 5BED1D24FB28A6E7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "77671356B3F52A0A"
+   ]
+  },
+  {
+   "id": "606C4C382BF8E858",
+   "x": 4.5,
+   "y": 50.4,
+   "icon": {
+    "id": "unusualend:leeching_wand",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:use_enchanted_leeching_wand",
+     "criterion": "",
+     "id": "3D4E54E7A86F6BE2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2F47A676E6EBD8EE",
+     "type": "command",
+     "command": "/gaby book pay {p} 606C4C382BF8E858",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5BED1D24FB28A6E7"
+   ]
+  },
+  {
+   "id": "638C78A51A480B1B",
+   "x": 1.5,
+   "y": 51.6,
+   "icon": {
+    "id": "unusualend:prismalite_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:find_all_gems",
+     "criterion": "",
+     "id": "6EA4F81D99B36C8B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5FDD3B662C0B4C93",
+     "type": "command",
+     "command": "/gaby book pay {p} 638C78A51A480B1B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1DBA49E67135AAD1"
+   ]
+  },
+  {
+   "id": "1A36E4A9571F6B84",
+   "x": 3.0,
+   "y": 51.6,
+   "icon": {
+    "id": "unusualend:pearlescent_infuser",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:use_pearlescent_buff",
+     "criterion": "",
+     "id": "29BC70D203E3339F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "38F8EB0EE3CF506A",
+     "type": "command",
+     "command": "/gaby book pay {p} 1A36E4A9571F6B84",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "638C78A51A480B1B"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "10784B92A2F3E031",
+   "x": 0.0,
+   "y": 57.0,
+   "icon": {
+    "id": "unusualend:warped_end_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:find_warped_reef",
+     "criterion": "",
+     "id": "6F18850D654228F0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6D89215708334CF6",
+     "type": "command",
+     "command": "/gaby book pay {p} 10784B92A2F3E031",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "18B5580EAD48DCC4",
+   "x": 1.5,
+   "y": 54.0,
+   "icon": {
+    "id": "unusualend:raw_bluk",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:fish_in_warped_reef",
+     "criterion": "",
+     "id": "2FD9CE521F3CF6C8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "123FC84E99F6CE3B",
+     "type": "command",
+     "command": "/gaby book pay {p} 18B5580EAD48DCC4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "10784B92A2F3E031"
+   ]
+  },
+  {
+   "id": "38365E2D2ADFCFC0",
+   "x": 3.0,
+   "y": 52.8,
+   "icon": {
+    "id": "unusualend:bluk_au_chocolat",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:eat_chocolate_bluk",
+     "criterion": "",
+     "id": "4984B7141A3124C6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "14792436C7CDBD20",
+     "type": "command",
+     "command": "/gaby book pay {p} 38365E2D2ADFCFC0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18B5580EAD48DCC4"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "563152F1810D970F",
+   "x": 3.0,
+   "y": 55.2,
+   "icon": {
+    "id": "unusualend:bolok_bucket",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:trade_with_bolok",
+     "criterion": "",
+     "id": "1AF9671FF08B2CC8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "259FF4B513A89FE2",
+     "type": "command",
+     "command": "/gaby book pay {p} 563152F1810D970F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18B5580EAD48DCC4"
+   ]
+  },
+  {
+   "id": "1CAD9F19F5A7DAE1",
+   "x": 4.5,
+   "y": 54.0,
+   "icon": {
+    "id": "minecraft:warped_nylium",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:bolok_in_nether",
+     "criterion": "",
+     "id": "3DDF423F19D4DA97"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7085F7CF2083CD4A",
+     "type": "command",
+     "command": "/gaby book pay {p} 1CAD9F19F5A7DAE1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "563152F1810D970F"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "236D1ABFEA89CE6B",
+   "x": 4.5,
+   "y": 55.2,
+   "icon": {
+    "id": "unusualend:bolok_fin",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:give_bolok_crystal",
+     "criterion": "",
+     "id": "4254111CE9806517"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "36E271D85E294912",
+     "type": "command",
+     "command": "/gaby book pay {p} 236D1ABFEA89CE6B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "563152F1810D970F"
+   ]
+  },
+  {
+   "id": "4FBD0194DA2A449F",
+   "x": 4.5,
+   "y": 56.4,
+   "icon": {
+    "id": "unusualend:warped_chestplate",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:use_warped_set",
+     "criterion": "",
+     "id": "1F858E39F2366E43"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "37574B94C3723ACD",
+     "type": "command",
+     "command": "/gaby book pay {p} 4FBD0194DA2A449F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "563152F1810D970F"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1CC3679CFCC592D7",
+   "x": 1.5,
+   "y": 57.6,
+   "icon": {
+    "id": "unusualend:citrine_chunk",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:get_citrine",
+     "criterion": "",
+     "id": "68F8DAD2D29A5F86"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "356F4E00DE235833",
+     "type": "command",
+     "command": "/gaby book pay {p} 1CC3679CFCC592D7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "10784B92A2F3E031"
+   ]
+  },
+  {
+   "id": "38CF4C1993207E86",
+   "x": 3.0,
+   "y": 57.6,
+   "icon": {
+    "id": "unusualend:crystal_catalyst",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:obtain_catalyst",
+     "criterion": "",
+     "id": "3D1192FCF5049845"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "326E0A5AFAEC7C28",
+     "type": "command",
+     "command": "/gaby book pay {p} 38CF4C1993207E86",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1CC3679CFCC592D7"
+   ]
+  },
+  {
+   "id": "414024D4EF130E9C",
+   "x": 1.5,
+   "y": 58.8,
+   "icon": {
+    "id": "unusualend:warped_chest",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:open_warped_chest",
+     "criterion": "",
+     "id": "2D0EFFC2F9BA4656"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4B0A78A28A92F3D3",
+     "type": "command",
+     "command": "/gaby book pay {p} 414024D4EF130E9C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "10784B92A2F3E031"
+   ]
+  },
+  {
+   "id": "4F895C99D849E982",
+   "x": 3.0,
+   "y": 58.8,
+   "icon": {
+    "id": "unusualend:bluk_bucket",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:has_every_warped_entity_bucket",
+     "criterion": "",
+     "id": "5008788FD5A14B24"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1C9612221F663F11",
+     "type": "command",
+     "command": "/gaby book pay {p} 4F895C99D849E982",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "414024D4EF130E9C"
+   ]
+  },
+  {
+   "id": "51970CAF55EFC078",
+   "x": 4.5,
+   "y": 58.8,
+   "icon": {
+    "id": "unusualend:warped_infusion",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:drink_max_warped_infusion",
+     "criterion": "",
+     "id": "41A4CFFE6E45512C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "35FDCCF529FECDB9",
+     "type": "command",
+     "command": "/gaby book pay {p} 51970CAF55EFC078",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4F895C99D849E982"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "10DE0602A8CA3B83",
+   "x": 1.5,
+   "y": 60.0,
+   "icon": {
+    "id": "unusualend:glub_bucket",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:wear_glub",
+     "criterion": "",
+     "id": "7F266CE7491B325D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3C28BC6DF1CCAC2D",
+     "type": "command",
+     "command": "/gaby book pay {p} 10DE0602A8CA3B83",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "10784B92A2F3E031"
+   ]
+  },
+  {
+   "id": "35002109C363A0F4",
+   "x": 3.0,
+   "y": 60.0,
+   "icon": {
+    "id": "unusualend:warped_bubble",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:use_warped_bubble",
+     "criterion": "",
+     "id": "707092E64B7A0570"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1755DB267684B1A7",
+     "type": "command",
+     "command": "/gaby book pay {p} 35002109C363A0F4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "10DE0602A8CA3B83"
+   ]
+  },
+  {
+   "id": "47D52E3456FD76DF",
+   "x": 4.5,
+   "y": 60.0,
+   "icon": {
+    "id": "unusualend:warped_balloon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:use_warped_bubble_transportation",
+     "criterion": "",
+     "id": "3DE880BEE4B9DDF1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2180EAC314825A02",
+     "type": "command",
+     "command": "/gaby book pay {p} 47D52E3456FD76DF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "35002109C363A0F4"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "6CE40A8D5B92C829",
+   "x": 0.0,
+   "y": 63.6,
+   "icon": {
+    "id": "minecraft:chorus_fruit",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:local_food",
+     "criterion": "",
+     "id": "1F48159456F19AEA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4587ABEE08494FD4",
+     "type": "command",
+     "command": "/gaby book pay {p} 6CE40A8D5B92C829",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "6A4B7AD328579B10",
+   "x": 1.5,
+   "y": 61.2,
+   "icon": {
+    "id": "unusualend:wandering_stew",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:beam_me_up_stewy",
+     "criterion": "",
+     "id": "3C99108F84584469"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "36D617C19CFDF7B9",
+     "type": "command",
+     "command": "/gaby book pay {p} 6A4B7AD328579B10",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6CE40A8D5B92C829"
+   ]
+  },
+  {
+   "id": "22B27408ED4775F8",
+   "x": 3.0,
+   "y": 61.2,
+   "icon": {
+    "id": "unusualend:ender_firefly_egg",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:firefly_in_swamp",
+     "criterion": "",
+     "id": "29CCE6D6F1DAE4C7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4C6AEB1C27139BFD",
+     "type": "command",
+     "command": "/gaby book pay {p} 22B27408ED4775F8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6A4B7AD328579B10"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "563EAB8743A27E3F",
+   "x": 1.5,
+   "y": 63.0,
+   "icon": {
+    "id": "unusualend:infested_end_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:its_a_trap",
+     "criterion": "",
+     "id": "5B73EF55C5295F9E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "425B0F3E0C9DF5C3",
+     "type": "command",
+     "command": "/gaby book pay {p} 563EAB8743A27E3F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6CE40A8D5B92C829"
+   ]
+  },
+  {
+   "id": "210EAD0C3E82904E",
+   "x": 3.0,
+   "y": 62.4,
+   "icon": {
+    "id": "minecraft:end_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:gotta_catch_em_all",
+     "criterion": "",
+     "id": "2EF620A12E63FAE6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "41A41B9003C82443",
+     "type": "command",
+     "command": "/gaby book pay {p} 210EAD0C3E82904E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "563EAB8743A27E3F"
+   ]
+  },
+  {
+   "id": "5C18A7807053DB7B",
+   "x": 3.0,
+   "y": 63.6,
+   "icon": {
+    "id": "unusualend:spirit_grim_helmet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:obtain_enderling_mask",
+     "criterion": "",
+     "id": "5FF3CB14B4128C2B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3A77C9E5EA622AF9",
+     "type": "command",
+     "command": "/gaby book pay {p} 5C18A7807053DB7B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "563EAB8743A27E3F"
+   ]
+  },
+  {
+   "id": "324D252A99D2C31C",
+   "x": 1.5,
+   "y": 64.8,
+   "icon": {
+    "id": "unusualend:chorus_flute",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:using_chorus_flute",
+     "criterion": "",
+     "id": "3430095E5FF2B928"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "74447FC1E36C9574",
+     "type": "command",
+     "command": "/gaby book pay {p} 324D252A99D2C31C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6CE40A8D5B92C829"
+   ]
+  },
+  {
+   "id": "1DDBBE284398E4A6",
+   "x": 1.5,
+   "y": 66.0,
+   "icon": {
+    "id": "unusualend:wandering_pearl",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:you_but_stronger",
+     "criterion": "",
+     "id": "2F2C0A753DA90045"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4A474CA00DA598A8",
+     "type": "command",
+     "command": "/gaby book pay {p} 1DDBBE284398E4A6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6CE40A8D5B92C829"
+   ]
+  },
+  {
+   "id": "77907D30818C547C",
+   "x": 3.0,
+   "y": 66.0,
+   "icon": {
+    "id": "unusualend:chorus_helmet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:use_chorus_helmet",
+     "criterion": "",
+     "id": "27F431281E700FF3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1CA9EDBFB4FAEE3D",
+     "type": "command",
+     "command": "/gaby book pay {p} 77907D30818C547C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1DDBBE284398E4A6"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "7D58A3CF2F2D9E3F",
+   "x": 0.0,
+   "y": 68.7,
+   "icon": {
+    "id": "unusualend:golem_altar",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:use_golem_altar",
+     "criterion": "",
+     "id": "712AD8F1D37D919D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1F742B1FF50E68B8",
+     "type": "command",
+     "command": "/gaby book pay {p} 7D58A3CF2F2D9E3F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "4A1B5E01F0914FE1",
+   "x": 1.5,
+   "y": 67.80000000000001,
+   "icon": {
+    "id": "unusualend:ancient_shard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:ancient_wisdom",
+     "criterion": "",
+     "id": "48B3F3E5B45AEF5B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1F6AE1CC08962F65",
+     "type": "command",
+     "command": "/gaby book pay {p} 4A1B5E01F0914FE1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7D58A3CF2F2D9E3F"
+   ]
+  },
+  {
+   "id": "3BD7BBDA065173CE",
+   "x": 3.0,
+   "y": 67.2,
+   "icon": {
+    "id": "unusualend:purpur_tank",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:bigger_on_the_inside",
+     "criterion": "",
+     "id": "6AE24F681E12E145"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7399E7ED9A1F1C45",
+     "type": "command",
+     "command": "/gaby book pay {p} 3BD7BBDA065173CE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4A1B5E01F0914FE1"
+   ]
+  },
+  {
+   "id": "34FC24B949468818",
+   "x": 3.0,
+   "y": 68.4,
+   "icon": {
+    "id": "unusualend:prismatic_mirror",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:hyperspace_jump",
+     "criterion": "",
+     "id": "73B4BC0671FBAE3C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3B6420E83BD42880",
+     "type": "command",
+     "command": "/gaby book pay {p} 34FC24B949468818",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4A1B5E01F0914FE1"
+   ]
+  },
+  {
+   "id": "1ED5807082A5A120",
+   "x": 1.5,
+   "y": 69.6,
+   "icon": {
+    "id": "unusualend:golem_orb",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:obtain_all_orbs",
+     "criterion": "",
+     "id": "7E3BD5F04033AEE7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4CA89C2F8B8644E6",
+     "type": "command",
+     "command": "/gaby book pay {p} 1ED5807082A5A120",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7D58A3CF2F2D9E3F"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "44037CB419E2E1ED",
+   "x": 0.0,
+   "y": 70.8,
+   "icon": {
+    "id": "minecraft:elytra",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:we_have_a_problem",
+     "criterion": "",
+     "id": "527AB8AF5F271A56"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6781BC904CD56F4F",
+     "type": "command",
+     "command": "/gaby book pay {p} 44037CB419E2E1ED",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "43B09281FEE6E0FF",
+   "x": 0.0,
+   "y": 72.0,
+   "icon": {
+    "id": "unusualend:void_totem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "unusualend:worse_than_death",
+     "criterion": "",
+     "id": "14ACA0CBB30A22D4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "728DE8C1FEFDDB81",
+     "type": "command",
+     "command": "/gaby book pay {p} 43B09281FEE6E0FF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "2E7DE4F5B74FE100",
+   "x": 7.5,
+   "y": 51.6,
+   "icon": {
+    "id": "unusualend:pearlescent_ingot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "unusualend:pearlescent_ingot",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "2EA1189B85A38C06"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4EA090BD67880DCD",
+     "type": "command",
+     "command": "/gaby book pay {p} 2E7DE4F5B74FE100",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "638C78A51A480B1B"
+   ]
+  }
+ ]
+}

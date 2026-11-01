@@ -4,7 +4,7 @@
     "show_lock_icon": true
   },
   "notifications": {
-    "completion_style": "toast",
+    "completion_style": "none",
     "reward_style": "none",
     "completion_sounds": true
   },
@@ -13,7 +13,7 @@
     "pinned_exclude_flexible": false
   },
   "xlate": {
-    "editing_locale": "en_us",
+    "editing_locale": "",
     "fallback_locale": "en_us"
   }
 }

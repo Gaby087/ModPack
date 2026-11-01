@@ -1,0 +1,9692 @@
+{
+ "id": "6BFD035426D68FA1",
+ "filename": "cobblemon",
+ "group": "71C7157F1269A7DC",
+ "order_index": 1,
+ "icon": {
+  "id": "cobblemon:poke_ball",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "196C011D653CC9B6",
+   "x": 0.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "select_starter",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "430C2498F63F9B13"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "23A6C8DB40B97D42",
+     "type": "command",
+     "command": "/gaby book pay {p} 196C011D653CC9B6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "54212C610882C19C",
+   "x": 1.5,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:great_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "2BAABFCFC6BC465A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7D2D5138D7B5B958",
+     "type": "command",
+     "command": "/gaby book pay {p} 54212C610882C19C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "196C011D653CC9B6"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2CE6F3F110424BD8",
+   "x": 3.0,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:caught",
+     "value": 6,
+     "id": "74B67C01DAA710AB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "50958E7D290907B8",
+     "type": "command",
+     "command": "/gaby book pay {p} 2CE6F3F110424BD8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "54212C610882C19C"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "37CFF1FEBD4E760B",
+   "x": 4.5,
+   "y": 0.0,
+   "icon": {
+    "id": "cobblemonpokemonbadges:boulder_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/gym/leader_brock_019e",
+     "criterion": "",
+     "id": "7BD8BD3F28CD943B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2AE17CE715C7A910",
+     "type": "command",
+     "command": "/gaby book pay {p} 37CFF1FEBD4E760B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2CE6F3F110424BD8"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "227C77B50C5A3AC0",
+   "x": 0.0,
+   "y": 1.5,
+   "icon": {
+    "id": "cobblemon:exp_candy_xs",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "level_up_to",
+     "amount": 10,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "29F72E106FE55171"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "521B59A574B58EFF",
+     "type": "command",
+     "command": "/gaby book pay {p} 227C77B50C5A3AC0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "196C011D653CC9B6"
+   ]
+  },
+  {
+   "id": "16A74B2EAA9CF57C",
+   "x": 0.0,
+   "y": 3.0,
+   "icon": {
+    "id": "cobblemon:rare_candy",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "level_up_to",
+     "amount": 100,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1267CD8F6DB39AC8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6A3FD50858469FF9",
+     "type": "command",
+     "command": "/gaby book pay {p} 16A74B2EAA9CF57C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "227C77B50C5A3AC0"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "28C74AAC7E7C75B7",
+   "x": 3.0,
+   "y": 1.5,
+   "icon": {
+    "id": "cobblemon:healing_machine",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:healing_machine",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "61508875EE526B9E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "724787C969F9A7FA",
+     "type": "command",
+     "command": "/gaby book pay {p} 28C74AAC7E7C75B7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2CE6F3F110424BD8"
+   ]
+  },
+  {
+   "id": "298B23A3A38226A8",
+   "x": 4.5,
+   "y": 1.5,
+   "icon": {
+    "id": "cobblemon:pc",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:pc",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "704F6641769DBBC2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "752D56E434FB01F8",
+     "type": "command",
+     "command": "/gaby book pay {p} 298B23A3A38226A8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2CE6F3F110424BD8"
+   ]
+  },
+  {
+   "id": "65C8A2BE8D9EBBBF",
+   "x": 0.0,
+   "y": -1.5,
+   "icon": {
+    "id": "cobblemon:hp_up",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:hp_up",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2DB29E0262E869D4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "566A66C67A7CD7C6",
+     "type": "command",
+     "command": "/gaby book pay {p} 65C8A2BE8D9EBBBF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "37CFF1FEBD4E760B"
+   ]
+  },
+  {
+   "id": "2C7712BC38F2F1EF",
+   "x": 1.5,
+   "y": -1.5,
+   "icon": {
+    "id": "gaby_core:trainer_pad",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/pokemon/ev_licence",
+     "criterion": "",
+     "id": "473C601B75EBEC7C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "39CFC92940697A53",
+     "type": "command",
+     "command": "/gaby book pay {p} 2C7712BC38F2F1EF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "65C8A2BE8D9EBBBF"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "5C513C6CF107F470",
+   "x": 3.0,
+   "y": -1.5,
+   "icon": {
+    "id": "cobblemon:power_bracer",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/pokemon/ev_trained",
+     "criterion": "",
+     "id": "27F755C7561FE2B0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6424F6C813F85A50",
+     "type": "command",
+     "command": "/gaby book pay {p} 5C513C6CF107F470",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C7712BC38F2F1EF"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "57375C7535BA9D55",
+   "x": 0.0,
+   "y": -3.0,
+   "icon": {
+    "id": "cobblemon:adamant_mint",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:adamant_mint",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "7D86CF9C90488B06"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1414F888C722CF90",
+     "type": "command",
+     "command": "/gaby book pay {p} 57375C7535BA9D55",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "37CFF1FEBD4E760B"
+   ]
+  },
+  {
+   "id": "643A7815EA083931",
+   "x": 1.5,
+   "y": -3.0,
+   "icon": {
+    "id": "cobblemon:health_candy",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:health_candy",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2472486CE6B5857F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "713CF71DDC968230",
+     "type": "command",
+     "command": "/gaby book pay {p} 643A7815EA083931",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "57375C7535BA9D55"
+   ]
+  },
+  {
+   "id": "1118D384B0CA4B72",
+   "x": 6.0,
+   "y": -11.175,
+   "icon": {
+    "id": "cobblemon:miracle_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/root_agriculture",
+     "criterion": "",
+     "id": "4F0DC386055B28FF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "268AA3C4F8AB3425",
+     "type": "command",
+     "command": "/gaby book pay {p} 1118D384B0CA4B72",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "37CFF1FEBD4E760B"
+   ]
+  },
+  {
+   "id": "68927E4D72F91D1A",
+   "x": 7.5,
+   "y": -13.725,
+   "icon": {
+    "id": "cobblemon:white_apricorn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/harvest_apricorn",
+     "criterion": "",
+     "id": "20C62DA34821D9B9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3A290CBAF807D552",
+     "type": "command",
+     "command": "/gaby book pay {p} 68927E4D72F91D1A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1118D384B0CA4B72"
+   ]
+  },
+  {
+   "id": "52C9C875B31DFF2E",
+   "x": 9.0,
+   "y": -15.225,
+   "icon": {
+    "id": "cobblemon:campfire_pot_black",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/place_campfire_pot",
+     "criterion": "",
+     "id": "6D4189EDB62DD294"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1B2C11F032BE0743",
+     "type": "command",
+     "command": "/gaby book pay {p} 52C9C875B31DFF2E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "68927E4D72F91D1A"
+   ]
+  },
+  {
+   "id": "33EB703B6858F24B",
+   "x": 10.5,
+   "y": -17.025,
+   "icon": {
+    "id": "cobblemon:medicinal_brew",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/brew_medicinal_brew",
+     "criterion": "",
+     "id": "2B5A476F5A71CA75"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4A245050FE169F86",
+     "type": "command",
+     "command": "/gaby book pay {p} 33EB703B6858F24B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52C9C875B31DFF2E"
+   ]
+  },
+  {
+   "id": "6010A5FD2BEABCFA",
+   "x": 12.0,
+   "y": -17.025,
+   "icon": {
+    "id": "cobblemon:potion",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/brew_potion",
+     "criterion": "",
+     "id": "50C3B52050798435"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5FC2385FCA53E682",
+     "type": "command",
+     "command": "/gaby book pay {p} 6010A5FD2BEABCFA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "33EB703B6858F24B"
+   ]
+  },
+  {
+   "id": "3EB6AEF9E7B6D3FE",
+   "x": 13.5,
+   "y": -17.025,
+   "icon": {
+    "id": "cobblemon:full_restore",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/brew_full_restore",
+     "criterion": "",
+     "id": "13880D3B2E5C31F4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2D886ECF1847F904",
+     "type": "command",
+     "command": "/gaby book pay {p} 3EB6AEF9E7B6D3FE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6010A5FD2BEABCFA"
+   ]
+  },
+  {
+   "id": "13D7019F1E81496B",
+   "x": 15.0,
+   "y": -17.025,
+   "icon": {
+    "id": "cobblemon:full_heal",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/brew_all_potions",
+     "criterion": "",
+     "id": "57CB08079952368C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "28652F4FEF626A45",
+     "type": "command",
+     "command": "/gaby book pay {p} 13D7019F1E81496B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3EB6AEF9E7B6D3FE"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "5B035136CD0C02F9",
+   "x": 10.5,
+   "y": -15.825,
+   "icon": {
+    "id": "cobblemon:resist_mochi",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/cook_all_ev_mochi",
+     "criterion": "",
+     "id": "10073076438276C9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6FC230652819F3D4",
+     "type": "command",
+     "command": "/gaby book pay {p} 5B035136CD0C02F9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52C9C875B31DFF2E"
+   ]
+  },
+  {
+   "id": "394141483B9A6FE2",
+   "x": 12.0,
+   "y": -15.825,
+   "icon": {
+    "id": "cobblemon:smoked_tail_curry",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/cook_all_regional_delicacies",
+     "criterion": "",
+     "id": "1228FFF2C6F8E015"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "734AE1EA684778C4",
+     "type": "command",
+     "command": "/gaby book pay {p} 394141483B9A6FE2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5B035136CD0C02F9"
+   ]
+  },
+  {
+   "id": "46A910D381C2C549",
+   "x": 10.5,
+   "y": -14.625,
+   "icon": {
+    "id": "cobblemon:poke_snack",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/cook_poke_snack",
+     "criterion": "",
+     "id": "39DECE4A47C48A46"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "20C373A39A67F89B",
+     "type": "command",
+     "command": "/gaby book pay {p} 46A910D381C2C549",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52C9C875B31DFF2E"
+   ]
+  },
+  {
+   "id": "10A09C108A6DB61E",
+   "x": 10.5,
+   "y": -13.425,
+   "icon": {
+    "id": "cobblemon:exp_candy_xl",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/use_exp_candy",
+     "criterion": "",
+     "id": "41067D5414942B4C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5AB986270459DACF",
+     "type": "command",
+     "command": "/gaby book pay {p} 10A09C108A6DB61E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52C9C875B31DFF2E"
+   ]
+  },
+  {
+   "id": "5377C6AD82F37DFA",
+   "x": 12.0,
+   "y": -13.425,
+   "icon": {
+    "id": "cobblemon:health_candy",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/use_iv_candy",
+     "criterion": "",
+     "id": "6EF2E70CA730439E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2360623604569220",
+     "type": "command",
+     "command": "/gaby book pay {p} 5377C6AD82F37DFA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "10A09C108A6DB61E"
+   ]
+  },
+  {
+   "id": "5067BF00BDE19C63",
+   "x": 9.0,
+   "y": -12.225,
+   "icon": {
+    "id": "cobblemon:green_apricorn_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/plant_all_apricorn_sprouts",
+     "criterion": "",
+     "id": "411265DE7CEF30A3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "338F0A50E608C758",
+     "type": "command",
+     "command": "/gaby book pay {p} 5067BF00BDE19C63",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "68927E4D72F91D1A"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1E74F4A34C7AB605",
+   "x": 7.5,
+   "y": -11.025,
+   "icon": {
+    "id": "cobblemon:oran_berry",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/obtain_berry",
+     "criterion": "",
+     "id": "15917ADFE3B55D22"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "772C16DC52672ADB",
+     "type": "command",
+     "command": "/gaby book pay {p} 1E74F4A34C7AB605",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1118D384B0CA4B72"
+   ]
+  },
+  {
+   "id": "278BC1C22D07D783",
+   "x": 9.0,
+   "y": -11.025,
+   "icon": {
+    "id": "cobblemon:surprise_mulch",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/obtain_mutated_berry",
+     "criterion": "",
+     "id": "381BD12C9DF98C3B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "124639E75805F80F",
+     "type": "command",
+     "command": "/gaby book pay {p} 278BC1C22D07D783",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1E74F4A34C7AB605"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6D7E626363742632",
+   "x": 10.5,
+   "y": -11.025,
+   "icon": {
+    "id": "cobblemon:enigma_berry",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/obtain_all_berries",
+     "criterion": "",
+     "id": "5BC8B964FFEBC25E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5E0C526100CED950",
+     "type": "command",
+     "command": "/gaby book pay {p} 6D7E626363742632",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "278BC1C22D07D783"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "200725DC13F986A1",
+   "x": 7.5,
+   "y": -9.825,
+   "icon": {
+    "id": "cobblemon:revival_herb",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/obtain_revival_herb",
+     "criterion": "",
+     "id": "221EB6CB1AEC1EAF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6F3962E6C78E3113",
+     "type": "command",
+     "command": "/gaby book pay {p} 200725DC13F986A1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1118D384B0CA4B72"
+   ]
+  },
+  {
+   "id": "69725E0DC7A1E938",
+   "x": 9.0,
+   "y": -9.825,
+   "icon": {
+    "id": "cobblemon:revive",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/use_revive",
+     "criterion": "",
+     "id": "74B084A3F7B2B078"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3A7CFBAAA2CA3401",
+     "type": "command",
+     "command": "/gaby book pay {p} 69725E0DC7A1E938",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "200725DC13F986A1"
+   ]
+  },
+  {
+   "id": "377A39C9EE201ADA",
+   "x": 10.5,
+   "y": -9.825,
+   "icon": {
+    "id": "cobblemon:healing_machine",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/use_healing_machine",
+     "criterion": "",
+     "id": "499A617CC5040C4D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6003971A8D71E7E4",
+     "type": "command",
+     "command": "/gaby book pay {p} 377A39C9EE201ADA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "69725E0DC7A1E938"
+   ]
+  },
+  {
+   "id": "13B0826D541E3E6D",
+   "x": 7.5,
+   "y": -8.625,
+   "icon": {
+    "id": "cobblemon:serious_mint",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:agriculture/use_mint",
+     "criterion": "",
+     "id": "3AD2F479F26A54BB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4B891709DB732D5F",
+     "type": "command",
+     "command": "/gaby book pay {p} 13B0826D541E3E6D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1118D384B0CA4B72"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1F015FDBA9F0BD57",
+   "x": 6.0,
+   "y": -7.425,
+   "icon": {
+    "id": "cobblemon:black_belt",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:battle/root_battle",
+     "criterion": "",
+     "id": "2B51E7BAC9445DF5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3F3BCC46AC9C6D82",
+     "type": "command",
+     "command": "/gaby book pay {p} 1F015FDBA9F0BD57",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "37CFF1FEBD4E760B"
+   ]
+  },
+  {
+   "id": "2647DBD7B9923392",
+   "x": 6.0,
+   "y": -1.4249999999999996,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/root_catching",
+     "criterion": "",
+     "id": "545D0CB7418A286C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "46238F325D05A20B",
+     "type": "command",
+     "command": "/gaby book pay {p} 2647DBD7B9923392",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "37CFF1FEBD4E760B"
+   ]
+  },
+  {
+   "id": "281894133FAEA0D0",
+   "x": 7.5,
+   "y": -6.225,
+   "icon": {
+    "id": "cobblemon:premier_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/craft_basic_balls",
+     "criterion": "",
+     "id": "551D0CD8F9C9D932"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6DAF77844EE55D9D",
+     "type": "command",
+     "command": "/gaby book pay {p} 281894133FAEA0D0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "12A94FED78EB5B21",
+   "x": 9.0,
+   "y": -6.225,
+   "icon": {
+    "id": "cobblemon:heavy_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/craft_apricorn_balls",
+     "criterion": "",
+     "id": "12BFEE288FDB0634"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "217FB66A34E641E6",
+     "type": "command",
+     "command": "/gaby book pay {p} 12A94FED78EB5B21",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "281894133FAEA0D0"
+   ]
+  },
+  {
+   "id": "2962AF9E09BF5E9F",
+   "x": 10.5,
+   "y": -6.225,
+   "icon": {
+    "id": "cobblemon:ancient_poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/craft_ancient_balls",
+     "criterion": "",
+     "id": "44A5F661757BA5E2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "47C6FE08A5C8AFFA",
+     "type": "command",
+     "command": "/gaby book pay {p} 2962AF9E09BF5E9F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "12A94FED78EB5B21"
+   ]
+  },
+  {
+   "id": "271E20A67B0DCC50",
+   "x": 12.0,
+   "y": -6.225,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/craft_all_balls",
+     "criterion": "",
+     "id": "37EF9443AD1CC443"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4D4C15D2D11C4640",
+     "type": "command",
+     "command": "/gaby book pay {p} 271E20A67B0DCC50",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2962AF9E09BF5E9F"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "12A77C2454881814",
+   "x": 7.5,
+   "y": -5.025,
+   "icon": {
+    "id": "cobblemon:pokedex_yellow",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/craft_pokedex",
+     "criterion": "",
+     "id": "197ED225ADA77011"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "420B65A8E88B77C2",
+     "type": "command",
+     "command": "/gaby book pay {p} 12A77C2454881814",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "4FF54792A89A274A",
+   "x": 9.0,
+   "y": -5.025,
+   "icon": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/collect_all_vivillon",
+     "criterion": "",
+     "id": "20829C5FD7E82329"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "24A83305EBFA832F",
+     "type": "command",
+     "command": "/gaby book pay {p} 4FF54792A89A274A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "12A77C2454881814"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "5CCC65D9F4B87BCA",
+   "x": 10.5,
+   "y": -5.025,
+   "icon": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/collect_all_vivillon_full",
+     "criterion": "",
+     "id": "70BF37F68DFA1EDF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "28BEA4ACF06726F7",
+     "type": "command",
+     "command": "/gaby book pay {p} 5CCC65D9F4B87BCA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4FF54792A89A274A"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "29C6EADE4DD60C77",
+   "x": 7.5,
+   "y": -3.225,
+   "icon": {
+    "id": "cobblemon:lure_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/craft_rod",
+     "criterion": "",
+     "id": "66272B46B8B324B0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "28EBBDA25A37A81B",
+     "type": "command",
+     "command": "/gaby book pay {p} 29C6EADE4DD60C77",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "2D474E990733A3DB",
+   "x": 9.0,
+   "y": -3.825,
+   "icon": {
+    "id": "cobblemon:master_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/craft_master_rod",
+     "criterion": "",
+     "id": "5D0CBBF2B2C9B664"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "47A23D00BC3CDDB5",
+     "type": "command",
+     "command": "/gaby book pay {p} 2D474E990733A3DB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "29C6EADE4DD60C77"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "4B6D43B2F46D2324",
+   "x": 9.0,
+   "y": -2.625,
+   "icon": {
+    "id": "cobblemon:poke_bait",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/use_poke_bait",
+     "criterion": "",
+     "id": "60388AE3C5FCFA87"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "15FDB02896F15C2D",
+     "type": "command",
+     "command": "/gaby book pay {p} 4B6D43B2F46D2324",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "29C6EADE4DD60C77"
+   ]
+  },
+  {
+   "id": "10280D550141D9BE",
+   "x": 9.0,
+   "y": -1.425,
+   "icon": {
+    "id": "cobblemon:link_cable",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/first_alpha_catch",
+     "criterion": "",
+     "id": "6B86E92A23D54025"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1F7815628A37417D",
+     "type": "command",
+     "command": "/gaby book pay {p} 10280D550141D9BE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "5619275A7EE4E4AA",
+   "x": 10.5,
+   "y": -1.425,
+   "icon": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/catch_alpha_wailord",
+     "criterion": "",
+     "id": "12571EA64C2C33DA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "29B5613D1D7EB62E",
+     "type": "command",
+     "command": "/gaby book pay {p} 5619275A7EE4E4AA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "10280D550141D9BE"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "19C6C8D1D8944B19",
+   "x": 10.5,
+   "y": -0.225,
+   "icon": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/evolve_gholdengo_netherite",
+     "criterion": "",
+     "id": "5A75C635D5E29491"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3903FABAFA3CB58A",
+     "type": "command",
+     "command": "/gaby book pay {p} 19C6C8D1D8944B19",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7C5FB88622EF35A1"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "12FAE3EBAB7C4F05",
+   "x": 10.5,
+   "y": 0.975,
+   "icon": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/evolve_shedinja",
+     "criterion": "",
+     "id": "2536913B2F0364F7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "45760F9888E19AD2",
+     "type": "command",
+     "command": "/gaby book pay {p} 12FAE3EBAB7C4F05",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7C5FB88622EF35A1"
+   ]
+  },
+  {
+   "id": "5E993369ED735067",
+   "x": 10.5,
+   "y": 2.175,
+   "icon": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/max_level_baby",
+     "criterion": "",
+     "id": "3456B156C5C7BD7B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1B203DC5EC9F419E",
+     "type": "command",
+     "command": "/gaby book pay {p} 5E993369ED735067",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7C5FB88622EF35A1"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1DEFCF4B7FC1AE84",
+   "x": 9.0,
+   "y": 4.575,
+   "icon": {
+    "id": "cobblemon:pc",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/full_party",
+     "criterion": "",
+     "id": "3D6347B668D07BEF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2A8F1CA32061786F",
+     "type": "command",
+     "command": "/gaby book pay {p} 1DEFCF4B7FC1AE84",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "39820A9D2078B386",
+   "x": 10.5,
+   "y": 4.575,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/use_pasture",
+     "criterion": "",
+     "id": "7B48F90C2C9FE22E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2D46F50DF9B70A99",
+     "type": "command",
+     "command": "/gaby book pay {p} 39820A9D2078B386",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1DEFCF4B7FC1AE84"
+   ]
+  },
+  {
+   "id": "71BEF2F75C6A267F",
+   "x": 12.0,
+   "y": 4.575,
+   "icon": {
+    "id": "minecraft:shears",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/interact_with_pokemon",
+     "criterion": "",
+     "id": "162520423A937C07"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4D33D73D8A607F51",
+     "type": "command",
+     "command": "/gaby book pay {p} 71BEF2F75C6A267F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "39820A9D2078B386"
+   ]
+  },
+  {
+   "id": "22B866AD641C2947",
+   "x": 9.0,
+   "y": 5.775,
+   "icon": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/ride_pokemon",
+     "criterion": "",
+     "id": "728E6D16CAB04DBB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5D79F068AD9859FC",
+     "type": "command",
+     "command": "/gaby book pay {p} 22B866AD641C2947",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "79B1B20473D14205",
+   "x": 10.5,
+   "y": 5.775,
+   "icon": {
+    "id": "cobblemon:aprijuice_white",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/max_ride_stats",
+     "criterion": "",
+     "id": "609F5A776B1488CA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "11BB9E663207A508",
+     "type": "command",
+     "command": "/gaby book pay {p} 79B1B20473D14205",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "22B866AD641C2947"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "27965FFB5085DA4A",
+   "x": 9.0,
+   "y": 6.975,
+   "icon": {
+    "id": "cobblemon:saccharine_sapling",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/slather_saccharine",
+     "criterion": "",
+     "id": "2450D92F770310D4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1FF4CB6C367DA521",
+     "type": "command",
+     "command": "/gaby book pay {p} 27965FFB5085DA4A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "77E41B29ECF345CA",
+   "x": 9.0,
+   "y": 8.175,
+   "icon": {
+    "id": "cobblemon:link_cable",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/trade_pokemon",
+     "criterion": "",
+     "id": "777CE908E872500B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7DCC1B69E70F030B",
+     "type": "command",
+     "command": "/gaby book pay {p} 77E41B29ECF345CA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "45A5EC374C094AD9",
+   "x": 10.5,
+   "y": 8.175,
+   "icon": {
+    "id": "cobblemon:shell_helmet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:catching/trade_shelmet_karrablast",
+     "criterion": "",
+     "id": "5596D241551A2264"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "25F89F97F742DD16",
+     "type": "command",
+     "command": "/gaby book pay {p} 45A5EC374C094AD9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "77E41B29ECF345CA"
+   ]
+  },
+  {
+   "id": "2C128D4F42698608",
+   "x": 6.0,
+   "y": 11.175,
+   "icon": {
+    "id": "cobblemon:dawn_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/root_geological",
+     "criterion": "",
+     "id": "36A0F20674A4C56D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "285701F5A6E55A5F",
+     "type": "command",
+     "command": "/gaby book pay {p} 2C128D4F42698608",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "37CFF1FEBD4E760B"
+   ]
+  },
+  {
+   "id": "460659A1479B22FD",
+   "x": 7.5,
+   "y": 9.375,
+   "icon": {
+    "id": "cobblemon:helix_fossil",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/obtain_fossil",
+     "criterion": "",
+     "id": "4450069A47471059"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "38914B0C25A9387F",
+     "type": "command",
+     "command": "/gaby book pay {p} 460659A1479B22FD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C128D4F42698608"
+   ]
+  },
+  {
+   "id": "4F6D59288077C6EB",
+   "x": 10.5,
+   "y": 9.375,
+   "icon": {
+    "id": "cobblemon:fossilized_fish",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/resurrect_galar_fossil",
+     "criterion": "",
+     "id": "51C1A5B2895CCB25"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "19D296D13DD48CCD",
+     "type": "command",
+     "command": "/gaby book pay {p} 4F6D59288077C6EB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "161228A54390C38D"
+   ]
+  },
+  {
+   "id": "6F3CBCA585B3F2DB",
+   "x": 7.5,
+   "y": 10.575,
+   "icon": {
+    "id": "cobblemon:tumblestone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/obtain_tumblestone",
+     "criterion": "",
+     "id": "1D2D2456AD48F31A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6C535C738FDEDBA7",
+     "type": "command",
+     "command": "/gaby book pay {p} 6F3CBCA585B3F2DB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C128D4F42698608"
+   ]
+  },
+  {
+   "id": "7B73F03695424BFE",
+   "x": 9.0,
+   "y": 10.575,
+   "icon": {
+    "id": "cobblemon:tumblestone_cluster",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/plant_tumblestone",
+     "criterion": "",
+     "id": "25951B366FBADA22"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "571EC1D95B6B64F8",
+     "type": "command",
+     "command": "/gaby book pay {p} 7B73F03695424BFE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6F3CBCA585B3F2DB"
+   ]
+  },
+  {
+   "id": "341FA23E8F58404D",
+   "x": 7.5,
+   "y": 12.975000000000001,
+   "icon": {
+    "id": "cobblemon:deepslate_crystal_core",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/plant_type_gem",
+     "criterion": "",
+     "id": "29C553D5C9FC1DE0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "215575C0B07D9C1C",
+     "type": "command",
+     "command": "/gaby book pay {p} 341FA23E8F58404D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2C128D4F42698608"
+   ]
+  },
+  {
+   "id": "45A16F7B87770B8A",
+   "x": 9.0,
+   "y": 12.975000000000001,
+   "icon": {
+    "id": "cobblemon:tm_machine",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/obtain_tm",
+     "criterion": "",
+     "id": "466ED61732970261"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "256886296B44267A",
+     "type": "command",
+     "command": "/gaby book pay {p} 45A16F7B87770B8A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "341FA23E8F58404D"
+   ]
+  },
+  {
+   "id": "2CD4D1BF7106F4AD",
+   "x": 10.5,
+   "y": 11.775,
+   "icon": {
+    "id": "minecraft:note_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/construct_note_block_sequencer",
+     "criterion": "",
+     "id": "6BE2A1C8B5DEC03E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "13ACCF9A9D55B382",
+     "type": "command",
+     "command": "/gaby book pay {p} 2CD4D1BF7106F4AD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "45A16F7B87770B8A"
+   ]
+  },
+  {
+   "id": "51454481463611D3",
+   "x": 10.5,
+   "y": 12.975,
+   "icon": {
+    "id": "cobblemon:upgrade",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/download_porygon",
+     "criterion": "",
+     "id": "67D5550C9CCABD59"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "324BDB435EE8A924",
+     "type": "command",
+     "command": "/gaby book pay {p} 51454481463611D3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "45A16F7B87770B8A"
+   ],
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "68A912F97AA2C902",
+   "x": 10.5,
+   "y": 14.175,
+   "icon": {
+    "id": "cobblemon:blank_tm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/obtain_ancient_tm",
+     "criterion": "",
+     "id": "13C89E7BA15EDC87"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "681572C8E8EE1EB4",
+     "type": "command",
+     "command": "/gaby book pay {p} 68A912F97AA2C902",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "45A16F7B87770B8A"
+   ]
+  },
+  {
+   "id": "37B5B8102A3DF920",
+   "x": 12.0,
+   "y": 14.175,
+   "icon": {
+    "id": "cobblemon:disc_shelf",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemon:geological/register_all_tms",
+     "criterion": "",
+     "id": "12019C8B0BE5337D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "31EC47149CABBABD",
+     "type": "command",
+     "command": "/gaby book pay {p} 37B5B8102A3DF920",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "68A912F97AA2C902"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "7C5FB88622EF35A1",
+   "x": 9.0,
+   "y": 0.975,
+   "icon": {
+    "id": "cobblemon:fire_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "evolve",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1855E6410264FE18"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2778351436A2A4C0",
+     "type": "command",
+     "command": "/gaby book pay {p} 7C5FB88622EF35A1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ]
+  },
+  {
+   "id": "2B70AEB9DFC4C0B2",
+   "x": 9.0,
+   "y": 3.375,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "shiny": true,
+     "id": "4914EDD0B778E2B6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4E25BCE81B0E4063",
+     "type": "command",
+     "command": "/gaby book pay {p} 2B70AEB9DFC4C0B2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2647DBD7B9923392"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "161228A54390C38D",
+   "x": 9.0,
+   "y": 9.375,
+   "icon": {
+    "id": "cobblemon:fossil_analyzer",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "revive_fossil",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "4F870C6BE3A5596F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "351B4FE4142A7379",
+     "type": "command",
+     "command": "/gaby book pay {p} 161228A54390C38D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "460659A1479B22FD"
+   ]
+  },
+  {
+   "id": "6AA8E37C2593853C",
+   "x": 0.0,
+   "y": 23.575000000000003,
+   "icon": {
+    "id": "mega_showdown:omni_ring",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/root",
+     "criterion": "",
+     "id": "18CF882E17C56A34"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6F4671183AEB6289",
+     "type": "command",
+     "command": "/gaby book pay {p} 6AA8E37C2593853C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2EA32D0CBFDBF894",
+   "x": 1.5,
+   "y": 16.675,
+   "icon": {
+    "id": "mega_showdown:ash_cap",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/bond/ash_cap_bond",
+     "criterion": "",
+     "id": "398D1F0F45A7BD4A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4E1C687CE54D5107",
+     "type": "command",
+     "command": "/gaby book pay {p} 2EA32D0CBFDBF894",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6AA8E37C2593853C"
+   ]
+  },
+  {
+   "id": "21330CFA5B5F81C0",
+   "x": 3.0,
+   "y": 16.675,
+   "icon": {
+    "id": "cobblemon:water_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/bond/ash_battle_bond",
+     "criterion": "",
+     "id": "79C59A69C99662CC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7EEAF3E2081C6D0A",
+     "type": "command",
+     "command": "/gaby book pay {p} 21330CFA5B5F81C0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2EA32D0CBFDBF894"
+   ]
+  },
+  {
+   "id": "6DC4B947F08B9862",
+   "x": 4.5,
+   "y": 16.675,
+   "icon": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/bond/ash_greninja",
+     "criterion": "",
+     "id": "210F8A792FAEA24D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5E5D40D1E4ECFF58",
+     "type": "command",
+     "command": "/gaby book pay {p} 6DC4B947F08B9862",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "21330CFA5B5F81C0"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "31C0EEB23089E5CA",
+   "x": 1.5,
+   "y": 20.275,
+   "icon": {
+    "id": "minecraft:glowstone_dust",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/dynamax/find_dynamax_structure",
+     "criterion": "",
+     "id": "7CB512A760DE66BC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "41894DCE275994A3",
+     "type": "command",
+     "command": "/gaby book pay {p} 31C0EEB23089E5CA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6AA8E37C2593853C"
+   ]
+  },
+  {
+   "id": "2D312379A76EF5BD",
+   "x": 3.0,
+   "y": 20.275,
+   "icon": {
+    "id": "mega_showdown:wishing_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/dynamax/find_wishing_star",
+     "criterion": "",
+     "id": "7CB4DA6968009253"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4B469E467784FDAB",
+     "type": "command",
+     "command": "/gaby book pay {p} 2D312379A76EF5BD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "31C0EEB23089E5CA"
+   ]
+  },
+  {
+   "id": "21859A61CE33247E",
+   "x": 4.5,
+   "y": 19.075,
+   "icon": {
+    "id": "mega_showdown:dynamax_band",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/dynamax/get_dynamax_band",
+     "criterion": "",
+     "id": "20D4E58F7AACCC98"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1B9A71EADCF2C9D7",
+     "type": "command",
+     "command": "/gaby book pay {p} 21859A61CE33247E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D312379A76EF5BD"
+   ]
+  },
+  {
+   "id": "6CC9EBFEFF407C2F",
+   "x": 6.0,
+   "y": 19.075,
+   "icon": {
+    "id": "mega_showdown:dynamax_candy",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/dynamax/dynamax_candy_max",
+     "criterion": "",
+     "id": "10B0CDC913B25FF4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "32F0DCB030B5C3A4",
+     "type": "command",
+     "command": "/gaby book pay {p} 6CC9EBFEFF407C2F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "21859A61CE33247E"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "38568536E61D85DF",
+   "x": 6.0,
+   "y": 20.275,
+   "icon": {
+    "id": "mega_showdown:max_soup",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/dynamax/gigantamax",
+     "criterion": "",
+     "id": "760414354CD67975"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5E84A36E31793B99",
+     "type": "command",
+     "command": "/gaby book pay {p} 38568536E61D85DF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "21859A61CE33247E"
+   ]
+  },
+  {
+   "id": "589BE835E4D8618C",
+   "x": 4.5,
+   "y": 21.475,
+   "icon": {
+    "id": "mega_showdown:power_spot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/dynamax/get_power_spot",
+     "criterion": "",
+     "id": "5CE137E356643C8E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3B80C127C2AE9AAD",
+     "type": "command",
+     "command": "/gaby book pay {p} 589BE835E4D8618C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D312379A76EF5BD"
+   ]
+  },
+  {
+   "id": "45DA47AFB6BACD7F",
+   "x": 1.5,
+   "y": 22.675,
+   "icon": {
+    "id": "cobblemon:master_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/hidden/all_gimmick",
+     "criterion": "",
+     "id": "1430734BE89268D4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "56ECAB5F7FFACC4A",
+     "type": "command",
+     "command": "/gaby book pay {p} 45DA47AFB6BACD7F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6AA8E37C2593853C"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "182B950362A4B79C",
+   "x": 1.5,
+   "y": 24.475,
+   "icon": {
+    "id": "minecraft:iron_pickaxe",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/mega/find_mega_structure",
+     "criterion": "",
+     "id": "3FBDC250EAA6DCB2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "36029B67ECFC1DB3",
+     "type": "command",
+     "command": "/gaby book pay {p} 182B950362A4B79C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6AA8E37C2593853C"
+   ]
+  },
+  {
+   "id": "2912BC193D03E3B2",
+   "x": 3.0,
+   "y": 23.875,
+   "icon": {
+    "id": "mega_showdown:keystone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/mega/find_keystone",
+     "criterion": "",
+     "id": "6076464C2F88570E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6751A5FD244D226A",
+     "type": "command",
+     "command": "/gaby book pay {p} 2912BC193D03E3B2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "182B950362A4B79C"
+   ]
+  },
+  {
+   "id": "32FA708A3DD32E5D",
+   "x": 4.5,
+   "y": 23.875,
+   "icon": {
+    "id": "mega_showdown:mega_bracelet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/mega/get_any_mega_bracelet",
+     "criterion": "",
+     "id": "17CAFCEECE722785"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "16A450F2DE4C5E29",
+     "type": "command",
+     "command": "/gaby book pay {p} 32FA708A3DD32E5D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2912BC193D03E3B2"
+   ]
+  },
+  {
+   "id": "31437DA9C68E8982",
+   "x": 7.5,
+   "y": 23.875,
+   "icon": {
+    "id": "mega_showdown:maxie_glasses",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/mega/craft_mega_bracelets",
+     "criterion": "",
+     "id": "39AA962F37BFB282"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4B8DC93CCB2CA162",
+     "type": "command",
+     "command": "/gaby book pay {p} 31437DA9C68E8982",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D5DC852094E50D0"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "5AF28759E174DED3",
+   "x": 9.0,
+   "y": 23.875,
+   "icon": {
+    "id": "mega_showdown:archie_anchor",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/mega/craft_mega_accessories",
+     "criterion": "",
+     "id": "2F3C31FF298E41A0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2EE977F9D161A9FF",
+     "type": "command",
+     "command": "/gaby book pay {p} 5AF28759E174DED3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "31437DA9C68E8982"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "5A61ED1FFC17D91C",
+   "x": 3.0,
+   "y": 25.075,
+   "icon": {
+    "id": "mega_showdown:mega_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/mega/find_raw_megastone",
+     "criterion": "",
+     "id": "38F35CBBE397FB5C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "48549AA55C28FED2",
+     "type": "command",
+     "command": "/gaby book pay {p} 5A61ED1FFC17D91C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "182B950362A4B79C"
+   ]
+  },
+  {
+   "id": "5955B7F96474D977",
+   "x": 4.5,
+   "y": 25.075,
+   "icon": {
+    "id": "mega_showdown:charizardite_x",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/mega/get_any_mega_stone",
+     "criterion": "",
+     "id": "3E5398105E39E9DC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "196F454B84C9A268",
+     "type": "command",
+     "command": "/gaby book pay {p} 5955B7F96474D977",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5A61ED1FFC17D91C"
+   ]
+  },
+  {
+   "id": "2CA6F9A5EC851818",
+   "x": 6.0,
+   "y": 25.075,
+   "icon": {
+    "id": "mega_showdown:mewtwonite_x",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/mega/craft_mega_stones",
+     "criterion": "",
+     "id": "649EB7593731CD51"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3963243BBE58DA0B",
+     "type": "command",
+     "command": "/gaby book pay {p} 2CA6F9A5EC851818",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5955B7F96474D977"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "52DD0B7A919B3936",
+   "x": 1.5,
+   "y": 26.275,
+   "icon": {
+    "id": "mega_showdown:rotom_washing_machine",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/rotom/rotom_appliance",
+     "criterion": "",
+     "id": "3782837BF50A67C2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "23A985B59F9D8250",
+     "type": "command",
+     "command": "/gaby book pay {p} 52DD0B7A919B3936",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6AA8E37C2593853C"
+   ]
+  },
+  {
+   "id": "3B75282D1B2F2D5B",
+   "x": 3.0,
+   "y": 26.275,
+   "icon": {
+    "id": "mega_showdown:rotom_catalogue",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/rotom/rotom_form_change",
+     "criterion": "",
+     "id": "6A44A632BF3B4CA7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "31B611296DF9F979",
+     "type": "command",
+     "command": "/gaby book pay {p} 3B75282D1B2F2D5B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52DD0B7A919B3936"
+   ]
+  },
+  {
+   "id": "18BE1FA83010472F",
+   "x": 1.5,
+   "y": 28.075000000000003,
+   "icon": {
+    "id": "mega_showdown:tera_orb",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/tera/get_tera_orb",
+     "criterion": "",
+     "id": "4B9D25A184535AAF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2848BEE7598749E9",
+     "type": "command",
+     "command": "/gaby book pay {p} 18BE1FA83010472F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6AA8E37C2593853C"
+   ]
+  },
+  {
+   "id": "3D3325C22C06072D",
+   "x": 3.0,
+   "y": 27.475,
+   "icon": {
+    "id": "mega_showdown:ghost_tera_shard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/tera/change_tera",
+     "criterion": "",
+     "id": "3D95377CB9EDC672"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "177C6AC80DD186AB",
+     "type": "command",
+     "command": "/gaby book pay {p} 3D3325C22C06072D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18BE1FA83010472F"
+   ]
+  },
+  {
+   "id": "130C034AD0A3F452",
+   "x": 4.5,
+   "y": 27.475,
+   "icon": {
+    "id": "mega_showdown:stellar_tera_shard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/tera/change_tera_stellar",
+     "criterion": "",
+     "id": "58970721D74B52A3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "430F89DDBD7308B1",
+     "type": "command",
+     "command": "/gaby book pay {p} 130C034AD0A3F452",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3D3325C22C06072D"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "40E076F6ECD9D0FF",
+   "x": 1.5,
+   "y": 30.475,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/z/find_z_structure",
+     "criterion": "",
+     "id": "283BFA6F1D9033DD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6AB8195E10B8E338",
+     "type": "command",
+     "command": "/gaby book pay {p} 40E076F6ECD9D0FF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6AA8E37C2593853C"
+   ]
+  },
+  {
+   "id": "6E8FDFA43F843628",
+   "x": 3.0,
+   "y": 29.875,
+   "icon": {
+    "id": "mega_showdown:blank_z",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/z/get_blank_move",
+     "criterion": "",
+     "id": "265E9D75EC1F3F5C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "76FD5860E78217FE",
+     "type": "command",
+     "command": "/gaby book pay {p} 6E8FDFA43F843628",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "40E076F6ECD9D0FF"
+   ]
+  },
+  {
+   "id": "62A3B34C134AE4D1",
+   "x": 4.5,
+   "y": 29.875,
+   "icon": {
+    "id": "mega_showdown:normalium_z",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/z/get_z_move",
+     "criterion": "",
+     "id": "6DDBAD7B0B42A4E8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1C21EE5A59BAC484",
+     "type": "command",
+     "command": "/gaby book pay {p} 62A3B34C134AE4D1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6E8FDFA43F843628"
+   ]
+  },
+  {
+   "id": "295F150D3C0CE086",
+   "x": 7.5,
+   "y": 29.875,
+   "icon": {
+    "id": "mega_showdown:ultranecrozium_z",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/z/get_all_z_move",
+     "criterion": "",
+     "id": "31DE62B5A9DFF0B9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "302DF01298390CDF",
+     "type": "command",
+     "command": "/gaby book pay {p} 295F150D3C0CE086",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "59DA113BAA514712"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "61C50E1C5BF6AED2",
+   "x": 3.0,
+   "y": 31.075,
+   "icon": {
+    "id": "mega_showdown:sparkling_stone_light",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/z/get_sparkling_stone",
+     "criterion": "",
+     "id": "1B7C3D971B11987E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3D1763FA4BF2B6AC",
+     "type": "command",
+     "command": "/gaby book pay {p} 61C50E1C5BF6AED2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "40E076F6ECD9D0FF"
+   ]
+  },
+  {
+   "id": "50A16F15773D12C8",
+   "x": 4.5,
+   "y": 31.075,
+   "icon": {
+    "id": "mega_showdown:z_ring",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "mega_showdown:mega_showdown/z/get_z_ring",
+     "criterion": "",
+     "id": "69AAC25A8DEAE274"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "589035E46DFA3AC3",
+     "type": "command",
+     "command": "/gaby book pay {p} 50A16F15773D12C8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "61C50E1C5BF6AED2"
+   ]
+  },
+  {
+   "id": "2D5DC852094E50D0",
+   "x": 6.0,
+   "y": 23.875,
+   "icon": {
+    "id": "mega_showdown:mega_bracelet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "mega_evolve",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "4574500884B93ADD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "294B0B15B494F908",
+     "type": "command",
+     "command": "/gaby book pay {p} 2D5DC852094E50D0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "32FA708A3DD32E5D"
+   ]
+  },
+  {
+   "id": "59DA113BAA514712",
+   "x": 6.0,
+   "y": 29.875,
+   "icon": {
+    "id": "mega_showdown:blank_z",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "use_z_move",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1CAF63C5659DCAAB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "61AC389121C0DE67",
+     "type": "command",
+     "command": "/gaby book pay {p} 59DA113BAA514712",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "62A3B34C134AE4D1"
+   ]
+  },
+  {
+   "id": "4DC63FDD42170EC8",
+   "x": 6.0,
+   "y": 17.875,
+   "icon": {
+    "id": "mega_showdown:dynamax_band",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "dynamax",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "46B550BB6C586743"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7E4B6E891D51176B",
+     "type": "command",
+     "command": "/gaby book pay {p} 4DC63FDD42170EC8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "21859A61CE33247E"
+   ]
+  },
+  {
+   "id": "3F37873CB01929BD",
+   "x": 3.0,
+   "y": 28.675,
+   "icon": {
+    "id": "mega_showdown:fire_tera_shard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "terastallize",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "5AA488E1BE51B2B1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "25582A936B687E76",
+     "type": "command",
+     "command": "/gaby book pay {p} 3F37873CB01929BD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18BE1FA83010472F"
+   ]
+  },
+  {
+   "id": "1EEDA57B257D288D",
+   "x": 12.0,
+   "y": 19.075000000000003,
+   "icon": {
+    "id": "cobblemonraiddens:raid_crystal_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:join_raid",
+     "criterion": "",
+     "id": "4288FB7F51B4D2DD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3BBAEF5847465313",
+     "type": "command",
+     "command": "/gaby book pay {p} 1EEDA57B257D288D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "5FC02D3EA1C4C24B",
+   "x": 13.5,
+   "y": 16.675,
+   "icon": {
+    "id": "cobblemonraiddens:cheer_heal",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:great_friend",
+     "criterion": "",
+     "id": "6150BDF67D6AA41B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "156DF6E48DE0A1EC",
+     "type": "command",
+     "command": "/gaby book pay {p} 5FC02D3EA1C4C24B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EEDA57B257D288D"
+   ]
+  },
+  {
+   "id": "4500312665AFB392",
+   "x": 13.5,
+   "y": 17.875,
+   "icon": {
+    "id": "cobblemonraiddens:raid_shard",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:raid_shard_charge",
+     "criterion": "",
+     "id": "37A5113C24F9E79D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "41D14F22EAD31FA3",
+     "type": "command",
+     "command": "/gaby book pay {p} 4500312665AFB392",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EEDA57B257D288D"
+   ]
+  },
+  {
+   "id": "67BD8177A6679DC8",
+   "x": 13.5,
+   "y": 19.075,
+   "icon": {
+    "id": "cobblemon:star_sweet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:raid_shiny",
+     "criterion": "",
+     "id": "10126C210A6FFD31"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "51650AD55294C68C",
+     "type": "command",
+     "command": "/gaby book pay {p} 67BD8177A6679DC8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EEDA57B257D288D"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "129F03B5BD424CB7",
+   "x": 13.5,
+   "y": 20.275,
+   "icon": {
+    "id": "mega_showdown:tera_orb",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:raid_tera",
+     "criterion": "",
+     "id": "459EEEB89CC7F062"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "10CE9F7167AB9AA7",
+     "type": "command",
+     "command": "/gaby book pay {p} 129F03B5BD424CB7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EEDA57B257D288D"
+   ],
+   "shape": "diamond",
+   "size": 1.2,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "16C5B16AF9C34022",
+   "x": 15.0,
+   "y": 20.275,
+   "icon": {
+    "id": "mega_showdown:dynamax_band",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:raid_dynamax",
+     "criterion": "",
+     "id": "45A6A0F6B9B06BB2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3567628AB784BA79",
+     "type": "command",
+     "command": "/gaby book pay {p} 16C5B16AF9C34022",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "129F03B5BD424CB7"
+   ],
+   "shape": "diamond",
+   "size": 1.2,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "76679F4926EBA1FC",
+   "x": 16.5,
+   "y": 20.275,
+   "icon": {
+    "id": "mega_showdown:mega_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:raid_mega",
+     "criterion": "",
+     "id": "1A65CFAD39DA1DD2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "661771B6121BE32F",
+     "type": "command",
+     "command": "/gaby book pay {p} 76679F4926EBA1FC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "16C5B16AF9C34022"
+   ],
+   "shape": "diamond",
+   "size": 1.2,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "7BEA6CF6D7A4BEB7",
+   "x": 13.5,
+   "y": 21.475,
+   "icon": {
+    "id": "cobblemonraiddens:raid_crystal_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:tier_one",
+     "criterion": "",
+     "id": "4846293D6A409801"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "102E67B5E9291DCB",
+     "type": "command",
+     "command": "/gaby book pay {p} 7BEA6CF6D7A4BEB7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1EEDA57B257D288D"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2B31C7030EC9C5B2",
+   "x": 15.0,
+   "y": 21.475,
+   "icon": {
+    "id": "cobblemonraiddens:raid_crystal_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:tier_two",
+     "criterion": "",
+     "id": "50FAB055C8C24419"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "17CFE0A1F4626E10",
+     "type": "command",
+     "command": "/gaby book pay {p} 2B31C7030EC9C5B2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7BEA6CF6D7A4BEB7"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "730CB6BBFB95AC8D",
+   "x": 16.5,
+   "y": 21.475,
+   "icon": {
+    "id": "cobblemonraiddens:raid_crystal_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:tier_three",
+     "criterion": "",
+     "id": "267AAC932BBCB9F2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7709AFF33F66C6CC",
+     "type": "command",
+     "command": "/gaby book pay {p} 730CB6BBFB95AC8D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2B31C7030EC9C5B2"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "14121F72730F8C3F",
+   "x": 18.0,
+   "y": 21.475,
+   "icon": {
+    "id": "cobblemonraiddens:raid_crystal_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:tier_four",
+     "criterion": "",
+     "id": "567F88BD9A6EE3B4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "588B54CF2D9B75C9",
+     "type": "command",
+     "command": "/gaby book pay {p} 14121F72730F8C3F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "730CB6BBFB95AC8D"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2195E783B1EC96DE",
+   "x": 19.5,
+   "y": 21.475,
+   "icon": {
+    "id": "cobblemonraiddens:raid_crystal_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:tier_five",
+     "criterion": "",
+     "id": "2207335DF37B1ACA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6CB550CAA234462C",
+     "type": "command",
+     "command": "/gaby book pay {p} 2195E783B1EC96DE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14121F72730F8C3F"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "4EBFA0AF42BD62DC",
+   "x": 21.0,
+   "y": 21.475,
+   "icon": {
+    "id": "cobblemonraiddens:raid_crystal_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:tier_six",
+     "criterion": "",
+     "id": "2F2822F1EC919450"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "27E3D2735CDA3F7F",
+     "type": "command",
+     "command": "/gaby book pay {p} 4EBFA0AF42BD62DC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2195E783B1EC96DE"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "5075D5DE250AFD93",
+   "x": 22.5,
+   "y": 21.475,
+   "icon": {
+    "id": "cobblemonraiddens:raid_crystal_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "cobblemonraiddens:tier_seven",
+     "criterion": "",
+     "id": "4A3F8F44E3805145"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2C5575BB81184C4A",
+     "type": "command",
+     "command": "/gaby book pay {p} 5075D5DE250AFD93",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4EBFA0AF42BD62DC"
+   ],
+   "shape": "gear",
+   "size": 1.5,
+   "hide_text_until_complete": true
+  },
+  {
+   "id": "33691055F2D5BF67",
+   "x": 0.0,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_red",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 30,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "2E253F61113B91A7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7840571F0E54EB66",
+     "type": "command",
+     "command": "/gaby book pay {p} 33691055F2D5BF67",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1B0B6C25B3961EB6",
+   "x": 1.5,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_red",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 50,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "6D860E90A361E3A0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4B0FFE7BF541268C",
+     "type": "command",
+     "command": "/gaby book pay {p} 1B0B6C25B3961EB6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "33691055F2D5BF67"
+   ]
+  },
+  {
+   "id": "38B99D6AB6AD7415",
+   "x": 3.0,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_blue",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 100,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "34B2A2EB836D9390"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4CD8E644328490CA",
+     "type": "command",
+     "command": "/gaby book pay {p} 38B99D6AB6AD7415",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1B0B6C25B3961EB6"
+   ]
+  },
+  {
+   "id": "1A8D1E8F52FF7631",
+   "x": 4.5,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_blue",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 150,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1D4D3C8D89B40BDA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1B015C0C814BC242",
+     "type": "command",
+     "command": "/gaby book pay {p} 1A8D1E8F52FF7631",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "38B99D6AB6AD7415"
+   ]
+  },
+  {
+   "id": "1F953AE3F9AD0FD4",
+   "x": 6.0,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_green",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 250,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "18DE6766B6084D72"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "61E17A8FC49FF5AE",
+     "type": "command",
+     "command": "/gaby book pay {p} 1F953AE3F9AD0FD4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1A8D1E8F52FF7631"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "4B4A0010C2C9BA0B",
+   "x": 7.5,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_green",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 300,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "52AE358783FE04D8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4DBEF49F1C60946A",
+     "type": "command",
+     "command": "/gaby book pay {p} 4B4A0010C2C9BA0B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1F953AE3F9AD0FD4"
+   ]
+  },
+  {
+   "id": "71C204D712B89072",
+   "x": 9.0,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_red",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 450,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "25549E055A311A2B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4CD2F49121AC4146",
+     "type": "command",
+     "command": "/gaby book pay {p} 71C204D712B89072",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4B4A0010C2C9BA0B"
+   ]
+  },
+  {
+   "id": "400D6FFB456875FF",
+   "x": 10.5,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_blue",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 600,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1F760DFC6B1D7AEF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7888B415166C103F",
+     "type": "command",
+     "command": "/gaby book pay {p} 400D6FFB456875FF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "71C204D712B89072"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "692A557A0D92B9CE",
+   "x": 12.0,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_green",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 750,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "390100AC5360F03E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "112FCDC50FEEF4ED",
+     "type": "command",
+     "command": "/gaby book pay {p} 692A557A0D92B9CE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "400D6FFB456875FF"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6C2C0771A2F651EB",
+   "x": 13.5,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_red",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 900,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "1089E70B6943C661"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "43895769F8972F1C",
+     "type": "command",
+     "command": "/gaby book pay {p} 6C2C0771A2F651EB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "692A557A0D92B9CE"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "62A34575A29EA67C",
+   "x": 15.0,
+   "y": 33.575,
+   "icon": {
+    "id": "cobblemon:pokedex_blue",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1025,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "28DB7AB5097CE8BC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "12EA7C70EACFAC3B",
+     "type": "command",
+     "command": "/gaby book pay {p} 62A34575A29EA67C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6C2C0771A2F651EB"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "45C24CAC3ECA1C68",
+   "x": 0.0,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:bulbasaur",
+     "id": "42ADB00BB0438EA0"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:charmander",
+     "id": "36A8488C9BBBEBD7"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:squirtle",
+     "id": "7D26941D72E98B2B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "22E6E561BDA9D7D5",
+     "type": "command",
+     "command": "/gaby book pay {p} 45C24CAC3ECA1C68",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "67A140DC8FABC52D",
+   "x": 1.5,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:chikorita",
+     "id": "1DE8EE25DBEC38F7"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:cyndaquil",
+     "id": "611FB1DEAAF49E6E"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:totodile",
+     "id": "55DE052C4D9A05A3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "49E320C6EBEF064D",
+     "type": "command",
+     "command": "/gaby book pay {p} 67A140DC8FABC52D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4C4C882E9C8890CB",
+   "x": 3.0,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:treecko",
+     "id": "2364C085EEFCAF2D"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:torchic",
+     "id": "1742E0B9EC24343F"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:mudkip",
+     "id": "6E1D8BD74721FD56"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1AE8F3036730B983",
+     "type": "command",
+     "command": "/gaby book pay {p} 4C4C882E9C8890CB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "166CA8A6141C2301",
+   "x": 4.5,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:turtwig",
+     "id": "2FB740BA89FD544F"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:chimchar",
+     "id": "5C659D330F2019CA"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:piplup",
+     "id": "76C18D6639992A81"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6150CB75C07730BC",
+     "type": "command",
+     "command": "/gaby book pay {p} 166CA8A6141C2301",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2C170C9D6A10AC16",
+   "x": 6.0,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:snivy",
+     "id": "64861CD4E4AB08C4"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:tepig",
+     "id": "51F2139FC202E6F4"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:oshawott",
+     "id": "673A569AB92FC951"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7034181F392E1DAB",
+     "type": "command",
+     "command": "/gaby book pay {p} 2C170C9D6A10AC16",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "33C9990E2756D11B",
+   "x": 7.5,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:chespin",
+     "id": "10F9DBF2FB589010"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:fennekin",
+     "id": "7791EBD20302BA83"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:froakie",
+     "id": "467E86B6ACA146C8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "21F5B4D8447817C9",
+     "type": "command",
+     "command": "/gaby book pay {p} 33C9990E2756D11B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1BB46636480F5B72",
+   "x": 9.0,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:rowlet",
+     "id": "4FB9B1F524578AC1"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:litten",
+     "id": "478B4A3DB3CC5BAA"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:popplio",
+     "id": "2734EBABBC3EAE2C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "512C7195BDDE60C8",
+     "type": "command",
+     "command": "/gaby book pay {p} 1BB46636480F5B72",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "579C5EC1709AAF03",
+   "x": 10.5,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:grookey",
+     "id": "1AA3B200AFD6904D"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:scorbunny",
+     "id": "3B9DCD5F5CA6D918"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:sobble",
+     "id": "599B2E3A93469672"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3D1AE0922F221CB1",
+     "type": "command",
+     "command": "/gaby book pay {p} 579C5EC1709AAF03",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "12704E8831365B77",
+   "x": 12.0,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:sprigatito",
+     "id": "73C3420039C656FC"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:fuecoco",
+     "id": "3C1DC388A08DE97C"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:quaxly",
+     "id": "18D115AA55156252"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1E2BEB711C739357",
+     "type": "command",
+     "command": "/gaby book pay {p} 12704E8831365B77",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "48C119FB7B795C21",
+   "x": 13.5,
+   "y": 35.075,
+   "icon": {
+    "id": "cobblemon:moon_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:vaporeon",
+     "id": "2781BAF7457DA023"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:jolteon",
+     "id": "151F563473BE4B21"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:flareon",
+     "id": "270D44B4BA196895"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:espeon",
+     "id": "6FAEE2F84F9FACAE"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:umbreon",
+     "id": "47AC7E33F7EB91AA"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:leafeon",
+     "id": "714C2547DFB1D984"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:glaceon",
+     "id": "46A5D26555EE68B4"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "have_registered",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:sylveon",
+     "id": "458F33D7F576C21E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "26293E4B3D4D6959",
+     "type": "command",
+     "command": "/gaby book pay {p} 48C119FB7B795C21",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "318E5E5EA3076990",
+   "x": 0.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:normal_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_normal",
+     "value": 10,
+     "id": "7DE0DBC516A34604"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2E06F2A0D921B18A",
+     "type": "command",
+     "command": "/gaby book pay {p} 318E5E5EA3076990",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "5A23EE5DA04615AE",
+   "x": 0.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:normal_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_normal",
+     "value": 50,
+     "id": "2AA6BFB834A0E65C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5EAE47C19172F871",
+     "type": "command",
+     "command": "/gaby book pay {p} 5A23EE5DA04615AE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "318E5E5EA3076990"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "5E32E43A19106F64",
+   "x": 0.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:normal_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_normal",
+     "value": 200,
+     "id": "2BE0D8DB8A64CD8A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "78017E68C7CEDC6D",
+     "type": "command",
+     "command": "/gaby book pay {p} 5E32E43A19106F64",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5A23EE5DA04615AE"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "667797499D2C65CD",
+   "x": 0.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:normal_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_normal",
+     "value": 1000,
+     "id": "5E447B63799FBFF9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7510A9FB7345E255",
+     "type": "command",
+     "command": "/gaby book pay {p} 667797499D2C65CD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5E32E43A19106F64"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "20CF794A7AD45B90",
+   "x": 1.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:fire_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fire",
+     "value": 10,
+     "id": "3C4DF826D0C60119"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "187B9C6281C55D9A",
+     "type": "command",
+     "command": "/gaby book pay {p} 20CF794A7AD45B90",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "41BB1ABB90D2C604",
+   "x": 1.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:fire_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fire",
+     "value": 50,
+     "id": "120C6168B6970529"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "239B0AE90FF1864D",
+     "type": "command",
+     "command": "/gaby book pay {p} 41BB1ABB90D2C604",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "20CF794A7AD45B90"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "227EF448B79B8E5C",
+   "x": 1.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:fire_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fire",
+     "value": 200,
+     "id": "55D70F5CDC13E054"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "18A180AEF697B117",
+     "type": "command",
+     "command": "/gaby book pay {p} 227EF448B79B8E5C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "41BB1ABB90D2C604"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "357D6A75EDE46FE7",
+   "x": 1.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:fire_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fire",
+     "value": 1000,
+     "id": "2474CBC59DDC2BF1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6AE14D6156B695E8",
+     "type": "command",
+     "command": "/gaby book pay {p} 357D6A75EDE46FE7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "227EF448B79B8E5C"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1F52100AB00172BD",
+   "x": 3.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:water_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_water",
+     "value": 10,
+     "id": "4902300EC0CD50E8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2A7F439AC326847C",
+     "type": "command",
+     "command": "/gaby book pay {p} 1F52100AB00172BD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3967D169C1DFF026",
+   "x": 3.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:water_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_water",
+     "value": 50,
+     "id": "26F18A27C59F561E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "332CC7FAA843E7B6",
+     "type": "command",
+     "command": "/gaby book pay {p} 3967D169C1DFF026",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1F52100AB00172BD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6FF897CD1781BCCC",
+   "x": 3.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:water_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_water",
+     "value": 200,
+     "id": "7A5009F2D4377DA6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4A34F346F0421857",
+     "type": "command",
+     "command": "/gaby book pay {p} 6FF897CD1781BCCC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3967D169C1DFF026"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1F1EDF527E4719D3",
+   "x": 3.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:water_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_water",
+     "value": 1000,
+     "id": "5989EC174D7F3E17"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "209AD79BDAEFFC00",
+     "type": "command",
+     "command": "/gaby book pay {p} 1F1EDF527E4719D3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6FF897CD1781BCCC"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "31D4C0DED666838A",
+   "x": 4.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:electric_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_electric",
+     "value": 10,
+     "id": "13451481DAB4432C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "720B493AF832A1DB",
+     "type": "command",
+     "command": "/gaby book pay {p} 31D4C0DED666838A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "22D0BE6D72928050",
+   "x": 4.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:electric_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_electric",
+     "value": 50,
+     "id": "5FCF28E2C48B2A80"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "69F8EA278D95BC30",
+     "type": "command",
+     "command": "/gaby book pay {p} 22D0BE6D72928050",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "31D4C0DED666838A"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3F46AE0EF0EBC0C0",
+   "x": 4.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:electric_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_electric",
+     "value": 200,
+     "id": "3DBC9F1E5F69FA0B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "40BEEA6ADDA081F1",
+     "type": "command",
+     "command": "/gaby book pay {p} 3F46AE0EF0EBC0C0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "22D0BE6D72928050"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "62AF6562FC11A9DA",
+   "x": 4.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:electric_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_electric",
+     "value": 1000,
+     "id": "28D8D60C71BB653A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7BF6C8484133E502",
+     "type": "command",
+     "command": "/gaby book pay {p} 62AF6562FC11A9DA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F46AE0EF0EBC0C0"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "544205BDE7E711F8",
+   "x": 6.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:grass_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_grass",
+     "value": 10,
+     "id": "4DF27D90E68BDFF7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2F3C5069B6E662C4",
+     "type": "command",
+     "command": "/gaby book pay {p} 544205BDE7E711F8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "11D88238AEB854E9",
+   "x": 6.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:grass_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_grass",
+     "value": 50,
+     "id": "3E25858A56FBDFA5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "72F56939A768CF18",
+     "type": "command",
+     "command": "/gaby book pay {p} 11D88238AEB854E9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "544205BDE7E711F8"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1710755BCE16392D",
+   "x": 6.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:grass_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_grass",
+     "value": 200,
+     "id": "5721B7871C61208B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "27E849CE39EAB1F7",
+     "type": "command",
+     "command": "/gaby book pay {p} 1710755BCE16392D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "11D88238AEB854E9"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2A64B40E39ED9E10",
+   "x": 6.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:grass_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_grass",
+     "value": 1000,
+     "id": "1FFC29280C7BBAE3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6D5044C4AFADC5A0",
+     "type": "command",
+     "command": "/gaby book pay {p} 2A64B40E39ED9E10",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1710755BCE16392D"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "29E8A2A02170A939",
+   "x": 7.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:ice_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ice",
+     "value": 10,
+     "id": "18B6A6ECC901F7F8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7E6012355E1F88F7",
+     "type": "command",
+     "command": "/gaby book pay {p} 29E8A2A02170A939",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1370B7F22EACCE50",
+   "x": 7.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:ice_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ice",
+     "value": 50,
+     "id": "5B20E94FDEE424FA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "630F08EAEC00BDFF",
+     "type": "command",
+     "command": "/gaby book pay {p} 1370B7F22EACCE50",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "29E8A2A02170A939"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3747E6E3DCD967F9",
+   "x": 7.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:ice_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ice",
+     "value": 200,
+     "id": "748F964F93B64D75"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "126B24CB49A8C764",
+     "type": "command",
+     "command": "/gaby book pay {p} 3747E6E3DCD967F9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1370B7F22EACCE50"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "11EF3A7738DC1724",
+   "x": 7.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:ice_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ice",
+     "value": 1000,
+     "id": "327F8F8F7D17F37B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2759FF71E3B08730",
+     "type": "command",
+     "command": "/gaby book pay {p} 11EF3A7738DC1724",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3747E6E3DCD967F9"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3C4918984C529C44",
+   "x": 9.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:fighting_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fighting",
+     "value": 10,
+     "id": "51C3BC2C00F039C6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "377351938A1D9FF3",
+     "type": "command",
+     "command": "/gaby book pay {p} 3C4918984C529C44",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2594F7310B61AEA6",
+   "x": 9.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:fighting_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fighting",
+     "value": 50,
+     "id": "20327A216A674130"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2555A378030E22D7",
+     "type": "command",
+     "command": "/gaby book pay {p} 2594F7310B61AEA6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3C4918984C529C44"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "180F01013C6167F1",
+   "x": 9.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:fighting_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fighting",
+     "value": 200,
+     "id": "141C09DCFCFEBD66"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1C1E568A7B236BFE",
+     "type": "command",
+     "command": "/gaby book pay {p} 180F01013C6167F1",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2594F7310B61AEA6"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "5041E4863B850924",
+   "x": 9.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:fighting_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fighting",
+     "value": 1000,
+     "id": "7DAE2A014E8569B5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "74E113F93CB85A40",
+     "type": "command",
+     "command": "/gaby book pay {p} 5041E4863B850924",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "180F01013C6167F1"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1D0170E01E97A51A",
+   "x": 10.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:poison_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_poison",
+     "value": 10,
+     "id": "5AE51E0057FC816D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "16427BAB35501F48",
+     "type": "command",
+     "command": "/gaby book pay {p} 1D0170E01E97A51A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2968747352ECD11E",
+   "x": 10.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:poison_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_poison",
+     "value": 50,
+     "id": "76080F9E6993206F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "61A89E1F223E3568",
+     "type": "command",
+     "command": "/gaby book pay {p} 2968747352ECD11E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1D0170E01E97A51A"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2823A2DAEE214799",
+   "x": 10.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:poison_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_poison",
+     "value": 200,
+     "id": "166988A73E2704D7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "19CB14A854F4AF71",
+     "type": "command",
+     "command": "/gaby book pay {p} 2823A2DAEE214799",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2968747352ECD11E"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1625C0DA3CE21DF3",
+   "x": 10.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:poison_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_poison",
+     "value": 1000,
+     "id": "1404F54C499777C0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "39CB48A4131BF220",
+     "type": "command",
+     "command": "/gaby book pay {p} 1625C0DA3CE21DF3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2823A2DAEE214799"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "717025CA5FDA1398",
+   "x": 12.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:ground_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ground",
+     "value": 10,
+     "id": "4921425D17E0755F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "45808EDBB8B71DFA",
+     "type": "command",
+     "command": "/gaby book pay {p} 717025CA5FDA1398",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "268D1C34339C7353",
+   "x": 12.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:ground_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ground",
+     "value": 50,
+     "id": "677BF07568E183BF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7E20176E259CB46D",
+     "type": "command",
+     "command": "/gaby book pay {p} 268D1C34339C7353",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "717025CA5FDA1398"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "55B00ECFF1212009",
+   "x": 12.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:ground_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ground",
+     "value": 200,
+     "id": "31AB436B25F93993"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7BA9070258185669",
+     "type": "command",
+     "command": "/gaby book pay {p} 55B00ECFF1212009",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "268D1C34339C7353"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "13ED3EC23989B639",
+   "x": 12.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:ground_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ground",
+     "value": 1000,
+     "id": "15E76EE4EBCA9EB8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6B3C500074C95DA9",
+     "type": "command",
+     "command": "/gaby book pay {p} 13ED3EC23989B639",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "55B00ECFF1212009"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "34228C3EE5D98B15",
+   "x": 13.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:flying_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_flying",
+     "value": 10,
+     "id": "696072F2F2CE81AB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2A452299CD7DA0DB",
+     "type": "command",
+     "command": "/gaby book pay {p} 34228C3EE5D98B15",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "46DB715CDF589B44",
+   "x": 13.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:flying_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_flying",
+     "value": 50,
+     "id": "66176E7D60E6BDDC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "38A29DF438B767C4",
+     "type": "command",
+     "command": "/gaby book pay {p} 46DB715CDF589B44",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "34228C3EE5D98B15"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "4BB876E982F59098",
+   "x": 13.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:flying_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_flying",
+     "value": 200,
+     "id": "6EE3148DAD76FE3F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4B07D22A870C434B",
+     "type": "command",
+     "command": "/gaby book pay {p} 4BB876E982F59098",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "46DB715CDF589B44"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "639277C457858A9E",
+   "x": 13.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:flying_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_flying",
+     "value": 1000,
+     "id": "5CC03275918FD815"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "22CC64C9A971A433",
+     "type": "command",
+     "command": "/gaby book pay {p} 639277C457858A9E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4BB876E982F59098"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "2FB78DB56A7881C8",
+   "x": 15.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:psychic_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_psychic",
+     "value": 10,
+     "id": "5E834BB6E5C33F9F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "20CE7EB2908E2114",
+     "type": "command",
+     "command": "/gaby book pay {p} 2FB78DB56A7881C8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7A93DC8733314AD0",
+   "x": 15.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:psychic_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_psychic",
+     "value": 50,
+     "id": "22AA043CC6CB7E24"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "27097CCD32473F0E",
+     "type": "command",
+     "command": "/gaby book pay {p} 7A93DC8733314AD0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2FB78DB56A7881C8"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "4E6198CB66B1E32B",
+   "x": 15.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:psychic_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_psychic",
+     "value": 200,
+     "id": "6D7B28514176DE2F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5575B9AF9EC54868",
+     "type": "command",
+     "command": "/gaby book pay {p} 4E6198CB66B1E32B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7A93DC8733314AD0"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "4515E7DA9C8096E6",
+   "x": 15.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:psychic_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_psychic",
+     "value": 1000,
+     "id": "2F25DC1F2AE598C2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6572F451C88CB1E3",
+     "type": "command",
+     "command": "/gaby book pay {p} 4515E7DA9C8096E6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4E6198CB66B1E32B"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3383E50EFA926BA4",
+   "x": 16.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:bug_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_bug",
+     "value": 10,
+     "id": "6FF9630E479F8764"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1281CDA186ADD9A6",
+     "type": "command",
+     "command": "/gaby book pay {p} 3383E50EFA926BA4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3D385E07A56FD65F",
+   "x": 16.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:bug_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_bug",
+     "value": 50,
+     "id": "2534811C9126EE27"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2208CB11FAFD06F7",
+     "type": "command",
+     "command": "/gaby book pay {p} 3D385E07A56FD65F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3383E50EFA926BA4"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "5F1701463E4C7FC9",
+   "x": 16.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:bug_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_bug",
+     "value": 200,
+     "id": "3CB25AEB22642599"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "719D606DF54B249E",
+     "type": "command",
+     "command": "/gaby book pay {p} 5F1701463E4C7FC9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3D385E07A56FD65F"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "7326DF52CD31D10D",
+   "x": 16.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:bug_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_bug",
+     "value": 1000,
+     "id": "632CF8A5E340EB6B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4E648431AFD46EC3",
+     "type": "command",
+     "command": "/gaby book pay {p} 7326DF52CD31D10D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5F1701463E4C7FC9"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "4FFF27E0760E2B8E",
+   "x": 18.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:rock_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_rock",
+     "value": 10,
+     "id": "19795FB6494F47ED"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1F153065D5D6B5C5",
+     "type": "command",
+     "command": "/gaby book pay {p} 4FFF27E0760E2B8E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "361FC74569A2543B",
+   "x": 18.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:rock_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_rock",
+     "value": 50,
+     "id": "4BC19C21AECB8B95"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1C32A5DB0B70BC2F",
+     "type": "command",
+     "command": "/gaby book pay {p} 361FC74569A2543B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4FFF27E0760E2B8E"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "382E02EF0FBC6A01",
+   "x": 18.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:rock_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_rock",
+     "value": 200,
+     "id": "4021CF6055C4B0CE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4302F1C7DE5CE5BE",
+     "type": "command",
+     "command": "/gaby book pay {p} 382E02EF0FBC6A01",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "361FC74569A2543B"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "12E1D1901FB651E0",
+   "x": 18.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:rock_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_rock",
+     "value": 1000,
+     "id": "5DE53224431347BD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1E87DE77D308F6A8",
+     "type": "command",
+     "command": "/gaby book pay {p} 12E1D1901FB651E0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "382E02EF0FBC6A01"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "419DDF9D90EDE946",
+   "x": 19.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:ghost_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ghost",
+     "value": 10,
+     "id": "1B461A806EC6E407"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "12109133D31CAAF6",
+     "type": "command",
+     "command": "/gaby book pay {p} 419DDF9D90EDE946",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "128534853CFE856E",
+   "x": 19.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:ghost_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ghost",
+     "value": 50,
+     "id": "350078E58753947D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "51A11AAACA68EA26",
+     "type": "command",
+     "command": "/gaby book pay {p} 128534853CFE856E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "419DDF9D90EDE946"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2990F70B5D215A1B",
+   "x": 19.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:ghost_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ghost",
+     "value": 200,
+     "id": "29A36376775D38B8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7B3826ED7FD6E07D",
+     "type": "command",
+     "command": "/gaby book pay {p} 2990F70B5D215A1B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "128534853CFE856E"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "145C163D47C8D861",
+   "x": 19.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:ghost_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_ghost",
+     "value": 1000,
+     "id": "2BCEBD0E8809CE07"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4FEECCF35AE907F5",
+     "type": "command",
+     "command": "/gaby book pay {p} 145C163D47C8D861",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2990F70B5D215A1B"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3328D8FBFBB6A3AD",
+   "x": 21.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:dragon_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_dragon",
+     "value": 10,
+     "id": "63EAE338BE0371AB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "221737D47D9F23A2",
+     "type": "command",
+     "command": "/gaby book pay {p} 3328D8FBFBB6A3AD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2F23228A1F6B73DA",
+   "x": 21.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:dragon_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_dragon",
+     "value": 50,
+     "id": "16A5B0743E068521"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "75D98A938756AA59",
+     "type": "command",
+     "command": "/gaby book pay {p} 2F23228A1F6B73DA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3328D8FBFBB6A3AD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3A2B00409DF26A8E",
+   "x": 21.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:dragon_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_dragon",
+     "value": 200,
+     "id": "4CFAE000FEC5B39A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5FA8D251D1F96CF6",
+     "type": "command",
+     "command": "/gaby book pay {p} 3A2B00409DF26A8E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2F23228A1F6B73DA"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2D1D3406F93A2B51",
+   "x": 21.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:dragon_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_dragon",
+     "value": 1000,
+     "id": "6F7C3864D5414540"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "106E181D61B9BA6B",
+     "type": "command",
+     "command": "/gaby book pay {p} 2D1D3406F93A2B51",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3A2B00409DF26A8E"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "4E3C80696F65E561",
+   "x": 22.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:dark_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_dark",
+     "value": 10,
+     "id": "2D86FFB06928BD02"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "20531A264BBD9585",
+     "type": "command",
+     "command": "/gaby book pay {p} 4E3C80696F65E561",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1A28D4681A922AD2",
+   "x": 22.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:dark_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_dark",
+     "value": 50,
+     "id": "186B7B113C36E5FF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "31A224A2929D8735",
+     "type": "command",
+     "command": "/gaby book pay {p} 1A28D4681A922AD2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4E3C80696F65E561"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1C73230D5F065536",
+   "x": 22.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:dark_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_dark",
+     "value": 200,
+     "id": "548169984D341A68"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4B1256C6E2364C1C",
+     "type": "command",
+     "command": "/gaby book pay {p} 1C73230D5F065536",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1A28D4681A922AD2"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "26F65260273DF200",
+   "x": 22.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:dark_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_dark",
+     "value": 1000,
+     "id": "379CA9C97469F627"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3E029F015337F844",
+     "type": "command",
+     "command": "/gaby book pay {p} 26F65260273DF200",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1C73230D5F065536"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "42787FD9FA2C3C8A",
+   "x": 24.0,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:steel_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_steel",
+     "value": 10,
+     "id": "2FE73C59C1399480"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1ECA4D2BC15F02F1",
+     "type": "command",
+     "command": "/gaby book pay {p} 42787FD9FA2C3C8A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3A91059F92FD7868",
+   "x": 24.0,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:steel_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_steel",
+     "value": 50,
+     "id": "4E8F43661C1DB68E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1DB88EE7699AC889",
+     "type": "command",
+     "command": "/gaby book pay {p} 3A91059F92FD7868",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "42787FD9FA2C3C8A"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3A34FF4A9EC9F9AC",
+   "x": 24.0,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:steel_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_steel",
+     "value": 200,
+     "id": "23E06C8BB4657287"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5FE7F805FF5336EC",
+     "type": "command",
+     "command": "/gaby book pay {p} 3A34FF4A9EC9F9AC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3A91059F92FD7868"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "7BF4F32A77BC2753",
+   "x": 24.0,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:steel_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_steel",
+     "value": 1000,
+     "id": "3EECDB138CE0DD6E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "794FDAEDB5045220",
+     "type": "command",
+     "command": "/gaby book pay {p} 7BF4F32A77BC2753",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3A34FF4A9EC9F9AC"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "4687F5D87711F264",
+   "x": 25.5,
+   "y": 37.575,
+   "icon": {
+    "id": "cobblemon:fairy_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fairy",
+     "value": 10,
+     "id": "27AA14ABEB440BAE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5294E0F85923BAB6",
+     "type": "command",
+     "command": "/gaby book pay {p} 4687F5D87711F264",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2D7F8CD2AB25E19B",
+   "x": 25.5,
+   "y": 38.775000000000006,
+   "icon": {
+    "id": "cobblemon:fairy_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fairy",
+     "value": 50,
+     "id": "5F47121D2EAB4FC1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5BB495DB23D0DF46",
+     "type": "command",
+     "command": "/gaby book pay {p} 2D7F8CD2AB25E19B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4687F5D87711F264"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6221853C7E6957FF",
+   "x": 25.5,
+   "y": 39.975,
+   "icon": {
+    "id": "cobblemon:fairy_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fairy",
+     "value": 200,
+     "id": "68D2E3E42BC30047"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4B2B33B7C4D8BE5E",
+     "type": "command",
+     "command": "/gaby book pay {p} 6221853C7E6957FF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D7F8CD2AB25E19B"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3668009066618966",
+   "x": 25.5,
+   "y": 41.175000000000004,
+   "icon": {
+    "id": "cobblemon:fairy_gem",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:type_fairy",
+     "value": 1000,
+     "id": "3BC5504F020231EA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "64275801D95E7735",
+     "type": "command",
+     "command": "/gaby book pay {p} 3668009066618966",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6221853C7E6957FF"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "6C07AB591C7EDD50",
+   "x": 0.0,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:red_apricorn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:red_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "1073F86232045952"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:white_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "7032BBF8051458DF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1516B126FAC16240",
+     "type": "command",
+     "command": "/gaby book pay {p} 6C07AB591C7EDD50",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7BAF765D1E869A32",
+   "x": 1.5,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:love_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "poke_ball_used": "cobblemon:love_ball",
+     "id": "2B115D422CD98C91"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "111179B7BF584DC4",
+     "type": "command",
+     "command": "/gaby book pay {p} 7BAF765D1E869A32",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4FEDC2A77E0B9A88",
+   "x": 3.0,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:moon_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "poke_ball_used": "cobblemon:moon_ball",
+     "id": "68290706FCFFF28D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5CCFFABE9962049A",
+     "type": "command",
+     "command": "/gaby book pay {p} 4FEDC2A77E0B9A88",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "75D4377AB64336EA",
+   "x": 4.5,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:fast_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "poke_ball_used": "cobblemon:fast_ball",
+     "id": "6D3C7EB201E6A3F3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4EB95FF3EDA61DCF",
+     "type": "command",
+     "command": "/gaby book pay {p} 75D4377AB64336EA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "5ABA672F399A7897",
+   "x": 6.0,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:heavy_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "poke_ball_used": "cobblemon:heavy_ball",
+     "id": "21BE4A85A91D5B35"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "11142FEA912B52D4",
+     "type": "command",
+     "command": "/gaby book pay {p} 5ABA672F399A7897",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "158BE1301A33A1F7",
+   "x": 7.5,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:dusk_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "poke_ball_used": "cobblemon:dusk_ball",
+     "id": "47B613FFC9EF4607"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "25C4C8D340C2E50C",
+     "type": "command",
+     "command": "/gaby book pay {p} 158BE1301A33A1F7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "5F394A99B3BB7053",
+   "x": 9.0,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:net_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "poke_ball_used": "cobblemon:net_ball",
+     "id": "565C97C5FD2AEB09"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "493F8A24E6C852B2",
+     "type": "command",
+     "command": "/gaby book pay {p} 5F394A99B3BB7053",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1CB228AC5F87CC9F",
+   "x": 10.5,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:quick_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "poke_ball_used": "cobblemon:quick_ball",
+     "id": "7A7E5679FAF1E583"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1FD638344DAA41EA",
+     "type": "command",
+     "command": "/gaby book pay {p} 1CB228AC5F87CC9F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "257FBFA357F29FEF",
+   "x": 12.0,
+   "y": 43.675000000000004,
+   "icon": {
+    "id": "cobblemon:luxury_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "poke_ball_used": "cobblemon:luxury_ball",
+     "id": "712A5ED0CE6F9719"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5D2B18DEEE8AA12C",
+     "type": "command",
+     "command": "/gaby book pay {p} 257FBFA357F29FEF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "52B9042564CA3AF9",
+   "x": 0.0,
+   "y": 46.175000000000004,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "defeat",
+     "amount": 50,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "17E6920F2A1BF0B6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "23AA9A0E3F96019E",
+     "type": "command",
+     "command": "/gaby book pay {p} 52B9042564CA3AF9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "249C1574B9164FA3",
+   "x": 1.5,
+   "y": 46.175000000000004,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "defeat",
+     "amount": 250,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "60824282D9CE806B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "20A3021A6921A041",
+     "type": "command",
+     "command": "/gaby book pay {p} 249C1574B9164FA3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52B9042564CA3AF9"
+   ]
+  },
+  {
+   "id": "55A396094904DFF3",
+   "x": 3.0,
+   "y": 46.175000000000004,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "defeat",
+     "amount": 1000,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "18118F7FB0216EE4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7D14B527D4B8384A",
+     "type": "command",
+     "command": "/gaby book pay {p} 55A396094904DFF3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "249C1574B9164FA3"
+   ]
+  },
+  {
+   "id": "5D5CC965E90A2E67",
+   "x": 4.5,
+   "y": 46.175000000000004,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "defeat",
+     "amount": 3000,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "36E39B4F5A4A4278"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3D628C7E67A5FE8D",
+     "type": "command",
+     "command": "/gaby book pay {p} 5D5CC965E90A2E67",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "55A396094904DFF3"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2109DDB64246B508",
+   "x": 0.0,
+   "y": 47.675000000000004,
+   "icon": {
+    "id": "cobblemon:exp_candy_m",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "level_up",
+     "amount": 100,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "38E3CB179EA91BDA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "62BC81FAB6E9E21E",
+     "type": "command",
+     "command": "/gaby book pay {p} 2109DDB64246B508",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7DDC4321BA39D586",
+   "x": 1.5,
+   "y": 47.675000000000004,
+   "icon": {
+    "id": "cobblemon:exp_candy_m",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "level_up",
+     "amount": 500,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "177FB0265F862AE2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "32C37E0D9E65C5A0",
+     "type": "command",
+     "command": "/gaby book pay {p} 7DDC4321BA39D586",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2109DDB64246B508"
+   ]
+  },
+  {
+   "id": "14AE01862CBC18DB",
+   "x": 3.0,
+   "y": 47.675000000000004,
+   "icon": {
+    "id": "cobblemon:exp_candy_m",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "level_up",
+     "amount": 2000,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "3FD0E23D6497AC83"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7BB3351DDD789039",
+     "type": "command",
+     "command": "/gaby book pay {p} 14AE01862CBC18DB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7DDC4321BA39D586"
+   ]
+  },
+  {
+   "id": "5AB026FDFBD81E80",
+   "x": 4.5,
+   "y": 47.675000000000004,
+   "icon": {
+    "id": "cobblemon:exp_candy_m",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "level_up",
+     "amount": 6000,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "35DF6CEC05CE3D71"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2D2AC9F1D256717D",
+     "type": "command",
+     "command": "/gaby book pay {p} 5AB026FDFBD81E80",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14AE01862CBC18DB"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "568BD9573FF012AE",
+   "x": 0.0,
+   "y": 49.175000000000004,
+   "icon": {
+    "id": "cobblemon:poke_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "fishing",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "4DE031DE20130443"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2C2A0AC55DA27D1C",
+     "type": "command",
+     "command": "/gaby book pay {p} 568BD9573FF012AE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3985FB4B3AFD44C5",
+   "x": 1.5,
+   "y": 49.175000000000004,
+   "icon": {
+    "id": "cobblemon:poke_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "fishing",
+     "amount": 25,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "295D6A66DCC16F72"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "495AAE087E129382",
+     "type": "command",
+     "command": "/gaby book pay {p} 3985FB4B3AFD44C5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "568BD9573FF012AE"
+   ]
+  },
+  {
+   "id": "3052FE4C5EDB8A15",
+   "x": 3.0,
+   "y": 49.175000000000004,
+   "icon": {
+    "id": "cobblemon:poke_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "fishing",
+     "amount": 100,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "6DCF7188B7A3557C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4C08CA468D500E20",
+     "type": "command",
+     "command": "/gaby book pay {p} 3052FE4C5EDB8A15",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3985FB4B3AFD44C5"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "14BC5458D4137167",
+   "x": 0.0,
+   "y": 51.675000000000004,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:pasture",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "33ADBDC1A3F30F27"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3703FEAFD08D2ACA",
+     "type": "command",
+     "command": "/gaby book pay {p} 14BC5458D4137167",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "115D2199210B5D16",
+   "x": 1.5,
+   "y": 51.675000000000004,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "collect_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "51101D0B0E21D927"
+    },
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "id": "7DF034C4DFC7DD45"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "22D3C5E302B21FC4",
+     "type": "command",
+     "command": "/gaby book pay {p} 115D2199210B5D16",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ]
+  },
+  {
+   "id": "1B438D9284E0D697",
+   "x": 3.0,
+   "y": 51.675000000000004,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "shiny": true,
+     "id": "53A489D81B6191CA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "243B1185458A1452",
+     "type": "command",
+     "command": "/gaby book pay {p} 1B438D9284E0D697",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "115D2199210B5D16"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "41C41BF9D8885A23",
+   "x": 4.5,
+   "y": 51.675000000000004,
+   "icon": {
+    "id": "cobblemon:pasture",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "catch",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "pokemon": "cobblemon:ditto",
+     "id": "48941D5C3B7C0ECE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "60ED4CA4CE004BF3",
+     "type": "command",
+     "command": "/gaby book pay {p} 41C41BF9D8885A23",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "260F193514A7CA8A",
+   "x": 0.0,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "adamant",
+     "id": "2C6183CC69E238A6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "175D4EC777A1E9E5",
+     "type": "command",
+     "command": "/gaby book pay {p} 260F193514A7CA8A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "115D2199210B5D16"
+   ]
+  },
+  {
+   "id": "3CCA9ADC01D1B06B",
+   "x": 1.5,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "jolly",
+     "id": "171C581F9702B4BF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "36E896CA66B2A029",
+     "type": "command",
+     "command": "/gaby book pay {p} 3CCA9ADC01D1B06B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "115D2199210B5D16"
+   ]
+  },
+  {
+   "id": "38447840B03DFA4B",
+   "x": 3.0,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "modest",
+     "id": "2D4633BBB64CDB34"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6733621BED247D63",
+     "type": "command",
+     "command": "/gaby book pay {p} 38447840B03DFA4B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "115D2199210B5D16"
+   ]
+  },
+  {
+   "id": "63A81EE5733AD3F6",
+   "x": 4.5,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "timid",
+     "id": "59B91AED78355248"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1AA09C871DBC9AAE",
+     "type": "command",
+     "command": "/gaby book pay {p} 63A81EE5733AD3F6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "115D2199210B5D16"
+   ]
+  },
+  {
+   "id": "443AC867A931974A",
+   "x": 6.0,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "bold",
+     "id": "5AA677D9CB97AB15"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "61990E3EDAD03483",
+     "type": "command",
+     "command": "/gaby book pay {p} 443AC867A931974A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "115D2199210B5D16"
+   ]
+  },
+  {
+   "id": "1902B7CFEE14ED05",
+   "x": 7.5,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "cobblemon_tasks:cobblemon_task",
+     "action": "hatch_egg",
+     "amount": 1,
+     "time_min": 0,
+     "time_max": 24000,
+     "min_level": 0,
+     "max_level": 0,
+     "dex_progress": "caught",
+     "natures": "calm",
+     "id": "74FA4855C42B2D70"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3EECC01BF5B13FB7",
+     "type": "command",
+     "command": "/gaby book pay {p} 1902B7CFEE14ED05",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "115D2199210B5D16"
+   ]
+  },
+  {
+   "id": "45F0CE86ACD9CFB6",
+   "x": 0.0,
+   "y": 54.675000000000004,
+   "icon": {
+    "id": "cobblemon:destiny_knot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:destiny_knot",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "21276AFC0104DBA5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "667FED0A4F75B258",
+     "type": "command",
+     "command": "/gaby book pay {p} 45F0CE86ACD9CFB6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ]
+  },
+  {
+   "id": "30B72F4BE1FD62E4",
+   "x": 1.5,
+   "y": 54.675000000000004,
+   "icon": {
+    "id": "cobblemon:everstone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:everstone",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "325E23AC14EEE3C0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "47BDF987D83F557B",
+     "type": "command",
+     "command": "/gaby book pay {p} 30B72F4BE1FD62E4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ]
+  },
+  {
+   "id": "1002A1B1F9BE2FE5",
+   "x": 3.0,
+   "y": 54.675000000000004,
+   "icon": {
+    "id": "cobblemon:ability_capsule",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:ability_capsule",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "61632C5CC5ABCBB8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2BAD751F24F0041F",
+     "type": "command",
+     "command": "/gaby book pay {p} 1002A1B1F9BE2FE5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14BC5458D4137167"
+   ]
+  },
+  {
+   "id": "1F2005C8A73672CD",
+   "x": 0.0,
+   "y": 56.175000000000004,
+   "icon": {
+    "id": "cobbreeding:pokemon_egg",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:eggs",
+     "value": 10,
+     "id": "75CAFD3D1994E131"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1BCE8C5783E639BE",
+     "type": "command",
+     "command": "/gaby book pay {p} 1F2005C8A73672CD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7A0D74A5ECAA4830",
+   "x": 1.5,
+   "y": 56.175000000000004,
+   "icon": {
+    "id": "cobbreeding:pokemon_egg",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:eggs",
+     "value": 100,
+     "id": "7B27C1037FD04AE5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "436C8E788920B80D",
+     "type": "command",
+     "command": "/gaby book pay {p} 7A0D74A5ECAA4830",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1F2005C8A73672CD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "67D0E26FD89F7800",
+   "x": 3.0,
+   "y": 56.175000000000004,
+   "icon": {
+    "id": "cobbreeding:pokemon_egg",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:eggs",
+     "value": 500,
+     "id": "16CE9A35634B8420"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "27FC6E20554F970A",
+     "type": "command",
+     "command": "/gaby book pay {p} 67D0E26FD89F7800",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7A0D74A5ECAA4830"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2F7A0ED1112DD83F",
+   "x": 4.5,
+   "y": 56.175000000000004,
+   "icon": {
+    "id": "cobbreeding:pokemon_egg",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:eggs",
+     "value": 2000,
+     "id": "55E4F0AF6841876D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1B5C22FF7855D38A",
+     "type": "command",
+     "command": "/gaby book pay {p} 2F7A0ED1112DD83F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "67D0E26FD89F7800"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "138FE12BCEC42AA3",
+   "x": 0.0,
+   "y": 57.675000000000004,
+   "icon": {
+    "id": "cobblemon:oval_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:hatched",
+     "value": 10,
+     "id": "4A622A3CFF746684"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7B6E7B387A2EE05F",
+     "type": "command",
+     "command": "/gaby book pay {p} 138FE12BCEC42AA3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3B7552EAC5F3ACBF",
+   "x": 1.5,
+   "y": 57.675000000000004,
+   "icon": {
+    "id": "cobblemon:oval_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:hatched",
+     "value": 100,
+     "id": "1F1D07CE8E28069E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "60BE8A6B7B80D1B6",
+     "type": "command",
+     "command": "/gaby book pay {p} 3B7552EAC5F3ACBF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "138FE12BCEC42AA3"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2064236750DCECB8",
+   "x": 3.0,
+   "y": 57.675000000000004,
+   "icon": {
+    "id": "cobblemon:oval_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:hatched",
+     "value": 500,
+     "id": "54A3BA2BC69148B7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7FE02B05AA98B914",
+     "type": "command",
+     "command": "/gaby book pay {p} 2064236750DCECB8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3B7552EAC5F3ACBF"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "7A418965C88698DC",
+   "x": 4.5,
+   "y": 57.675000000000004,
+   "icon": {
+    "id": "cobblemon:oval_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:hatched",
+     "value": 2000,
+     "id": "3651A8EB3BB89045"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1A36B1CBA8278199",
+     "type": "command",
+     "command": "/gaby book pay {p} 7A418965C88698DC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2064236750DCECB8"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "20F21450D182B100",
+   "x": 10.5,
+   "y": 51.675000000000004,
+   "icon": {
+    "id": "gaby_core:oval_charm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:eggs",
+     "value": 100,
+     "id": "313E5112BF7E106A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1BB2B39B36BD0CE2",
+     "type": "command",
+     "command": "/gaby book pay {p} 20F21450D182B100",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "54C8A8038BD9773F",
+   "x": 10.5,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "gaby_core:shiny_charm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/charm/shiny_kanto",
+     "criterion": "",
+     "id": "29975991F7943C06"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "20468B5F0114DCB3",
+     "type": "command",
+     "command": "/gaby book pay {p} 54C8A8038BD9773F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3256BF1B9E64E0B9",
+   "x": 12.0,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "gaby_core:shiny_charm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/charm/shiny_johto",
+     "criterion": "",
+     "id": "398B07A21533EE98"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "12FC221A9FB98D80",
+     "type": "command",
+     "command": "/gaby book pay {p} 3256BF1B9E64E0B9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "455EF1E6E4868955",
+   "x": 13.5,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "gaby_core:shiny_charm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/charm/shiny_hoenn",
+     "criterion": "",
+     "id": "2A73B926BC7AB8C0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "555F5252154F41C3",
+     "type": "command",
+     "command": "/gaby book pay {p} 455EF1E6E4868955",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "7B7AF25AD122D620",
+   "x": 15.0,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "gaby_core:shiny_charm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/charm/shiny_sinnoh",
+     "criterion": "",
+     "id": "235E60DF3B2A8FB5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "36203B30616D9536",
+     "type": "command",
+     "command": "/gaby book pay {p} 7B7AF25AD122D620",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "25DFC41DF6598ADE",
+   "x": 16.5,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "gaby_core:shiny_charm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/charm/shiny_unova",
+     "criterion": "",
+     "id": "74548BCF81F72D46"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6580A049118007C0",
+     "type": "command",
+     "command": "/gaby book pay {p} 25DFC41DF6598ADE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2C802B3928127678",
+   "x": 18.0,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "gaby_core:shiny_charm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/charm/shiny_kalos",
+     "criterion": "",
+     "id": "15BBBACB528A68B1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "515C3B806055C65D",
+     "type": "command",
+     "command": "/gaby book pay {p} 2C802B3928127678",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3E750879966C2DE6",
+   "x": 19.5,
+   "y": 53.175000000000004,
+   "icon": {
+    "id": "gaby_core:shiny_charm",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/charm/shiny_galar",
+     "criterion": "",
+     "id": "237AC4C7376EE107"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "55F9C73AE95CA2FB",
+     "type": "command",
+     "command": "/gaby book pay {p} 3E750879966C2DE6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6CF8D6747F043F66",
+   "x": 10.5,
+   "y": 54.675000000000004,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:shiny",
+     "value": 1,
+     "id": "1F8A7698EC013211"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6C96B4EC57665DBA",
+     "type": "command",
+     "command": "/gaby book pay {p} 6CF8D6747F043F66",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7AB24E86B4182ADA",
+   "x": 12.0,
+   "y": 54.675000000000004,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:shiny",
+     "value": 10,
+     "id": "68B9A78FD27159C6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "259AEC52E497DEEC",
+     "type": "command",
+     "command": "/gaby book pay {p} 7AB24E86B4182ADA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6CF8D6747F043F66"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "64682610400B574B",
+   "x": 13.5,
+   "y": 54.675000000000004,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:shiny",
+     "value": 50,
+     "id": "577B762044C56439"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "53C5155321452553",
+     "type": "command",
+     "command": "/gaby book pay {p} 64682610400B574B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7AB24E86B4182ADA"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "593EFB1904549E01",
+   "x": 15.0,
+   "y": 54.675000000000004,
+   "icon": {
+    "id": "minecraft:nether_star",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:shiny",
+     "value": 200,
+     "id": "3B1C40D5C75ABEC9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "726A264C9BF15B8F",
+     "type": "command",
+     "command": "/gaby book pay {p} 593EFB1904549E01",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "64682610400B574B"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3DCFB018A88A2DB5",
+   "x": 0.0,
+   "y": 60.175000000000004,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:caught",
+     "value": 50,
+     "id": "620156E0E5DD431F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1A04C7597F70E28D",
+     "type": "command",
+     "command": "/gaby book pay {p} 3DCFB018A88A2DB5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "108664508D938E30",
+   "x": 1.5,
+   "y": 60.175000000000004,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:caught",
+     "value": 250,
+     "id": "4FA6BF4A390743DD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2AF268865FB161EE",
+     "type": "command",
+     "command": "/gaby book pay {p} 108664508D938E30",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3DCFB018A88A2DB5"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "55CBE9BC4013DFC5",
+   "x": 3.0,
+   "y": 60.175000000000004,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:caught",
+     "value": 1000,
+     "id": "6DC54B35D4603C05"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "464644B2F412DC54",
+     "type": "command",
+     "command": "/gaby book pay {p} 55CBE9BC4013DFC5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "108664508D938E30"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "72858FE5606CF597",
+   "x": 4.5,
+   "y": 60.175000000000004,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:caught",
+     "value": 3000,
+     "id": "2D9F86E74C623B56"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "68BB717E7A363BEA",
+     "type": "command",
+     "command": "/gaby book pay {p} 72858FE5606CF597",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "55CBE9BC4013DFC5"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "2B4EF5B011D8B41F",
+   "x": 7.5,
+   "y": 60.175000000000004,
+   "icon": {
+    "id": "cobblemon:thunder_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:evolved",
+     "value": 10,
+     "id": "1D977FE6D0A0476D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "77DC1133AE7917D0",
+     "type": "command",
+     "command": "/gaby book pay {p} 2B4EF5B011D8B41F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "202B8090B0786E61",
+   "x": 9.0,
+   "y": 60.175000000000004,
+   "icon": {
+    "id": "cobblemon:thunder_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:evolved",
+     "value": 100,
+     "id": "345C7C11410FC396"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "74B98EDC9418141A",
+     "type": "command",
+     "command": "/gaby book pay {p} 202B8090B0786E61",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2B4EF5B011D8B41F"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3A61E8B23F5D9F8C",
+   "x": 10.5,
+   "y": 60.175000000000004,
+   "icon": {
+    "id": "cobblemon:thunder_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:evolved",
+     "value": 500,
+     "id": "72C966BC922F15AA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4FB9122998ED1945",
+     "type": "command",
+     "command": "/gaby book pay {p} 3A61E8B23F5D9F8C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "202B8090B0786E61"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "13F9054874405790",
+   "x": 12.0,
+   "y": 60.175000000000004,
+   "icon": {
+    "id": "cobblemon:thunder_stone",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:evolved",
+     "value": 2000,
+     "id": "5E89FEBE21EC7152"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7DCF5D739103E581",
+     "type": "command",
+     "command": "/gaby book pay {p} 13F9054874405790",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3A61E8B23F5D9F8C"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3EB6255549BD1937",
+   "x": 0.0,
+   "y": 61.675000000000004,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:legend",
+     "value": 1,
+     "id": "2096FB812BAECB80"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2D73B0FF52136273",
+     "type": "command",
+     "command": "/gaby book pay {p} 3EB6255549BD1937",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7E149B6B0BBE2861",
+   "x": 1.5,
+   "y": 61.675000000000004,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:legend",
+     "value": 10,
+     "id": "4698A51F5B118195"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "66EEB16693A15BA3",
+     "type": "command",
+     "command": "/gaby book pay {p} 7E149B6B0BBE2861",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3EB6255549BD1937"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "443984D0E7DC62FF",
+   "x": 3.0,
+   "y": 61.675000000000004,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:legend",
+     "value": 25,
+     "id": "480BE94607738C56"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6E1F95DD32B5663F",
+     "type": "command",
+     "command": "/gaby book pay {p} 443984D0E7DC62FF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7E149B6B0BBE2861"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1E5ABF179E8394D8",
+   "x": 4.5,
+   "y": 61.675000000000004,
+   "icon": {
+    "id": "gaby_core:legend_lure",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:legend",
+     "value": 45,
+     "id": "3CF4CEF57F44BC54"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6565ABB7883B4C1F",
+     "type": "command",
+     "command": "/gaby book pay {p} 1E5ABF179E8394D8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "443984D0E7DC62FF"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "318191EBA2481EC6",
+   "x": 7.5,
+   "y": 61.675000000000004,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:trainer_wins",
+     "value": 10,
+     "id": "191953BD46D34303"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2A1DCB95752FE6D4",
+     "type": "command",
+     "command": "/gaby book pay {p} 318191EBA2481EC6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1765C70C359FEA17",
+   "x": 9.0,
+   "y": 61.675000000000004,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:trainer_wins",
+     "value": 100,
+     "id": "72C15C4B58487E25"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6CF3D2852B509050",
+     "type": "command",
+     "command": "/gaby book pay {p} 1765C70C359FEA17",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "318191EBA2481EC6"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "22A925ECEF838008",
+   "x": 10.5,
+   "y": 61.675000000000004,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:trainer_wins",
+     "value": 500,
+     "id": "5B5003376E42FBAD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "26C6A8B0FC1259E8",
+     "type": "command",
+     "command": "/gaby book pay {p} 22A925ECEF838008",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1765C70C359FEA17"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "60FA71420B078ECC",
+   "x": 12.0,
+   "y": 61.675000000000004,
+   "icon": {
+    "id": "minecraft:iron_sword",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:trainer_wins",
+     "value": 1500,
+     "id": "69746D1C3BB04DB7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "264CB9A3B1EB586F",
+     "type": "command",
+     "command": "/gaby book pay {p} 60FA71420B078ECC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "22A925ECEF838008"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "25B06728233D5F6E",
+   "x": 0.0,
+   "y": 63.175000000000004,
+   "icon": {
+    "id": "minecraft:beacon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:raids",
+     "value": 1,
+     "id": "1937DB3163C41FD7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5A187A143928126C",
+     "type": "command",
+     "command": "/gaby book pay {p} 25B06728233D5F6E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "55C667D40D0330AD",
+   "x": 1.5,
+   "y": 63.175000000000004,
+   "icon": {
+    "id": "minecraft:beacon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:raids",
+     "value": 10,
+     "id": "5672BE852086542C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "28D1A8F6F4E45A93",
+     "type": "command",
+     "command": "/gaby book pay {p} 55C667D40D0330AD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "25B06728233D5F6E"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "44ACAA07239ABAC7",
+   "x": 3.0,
+   "y": 63.175000000000004,
+   "icon": {
+    "id": "minecraft:beacon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:raids",
+     "value": 50,
+     "id": "55D29C5F200EE09F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4F184F73D7B453A6",
+     "type": "command",
+     "command": "/gaby book pay {p} 44ACAA07239ABAC7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "55C667D40D0330AD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "56F6736F97E0C7DD",
+   "x": 4.5,
+   "y": 63.175000000000004,
+   "icon": {
+    "id": "minecraft:beacon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:raids",
+     "value": 200,
+     "id": "2ABEA8CCEBD10B94"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "159C89FCF1779AAF",
+     "type": "command",
+     "command": "/gaby book pay {p} 56F6736F97E0C7DD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "44ACAA07239ABAC7"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "7D080551BAE2EBD5",
+   "x": 7.5,
+   "y": 63.175000000000004,
+   "icon": {
+    "id": "cobblemonpokemonbadges:boulder_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:rematches",
+     "value": 1,
+     "id": "1BA4761A4ACC7AB2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1EE4409349B94757",
+     "type": "command",
+     "command": "/gaby book pay {p} 7D080551BAE2EBD5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7BA3202CCFC2B75C",
+   "x": 9.0,
+   "y": 63.175000000000004,
+   "icon": {
+    "id": "cobblemonpokemonbadges:boulder_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:rematches",
+     "value": 10,
+     "id": "45EBE4FBE6BCE903"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "35C47FA96150AA08",
+     "type": "command",
+     "command": "/gaby book pay {p} 7BA3202CCFC2B75C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7D080551BAE2EBD5"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "58350C0D4EC722A6",
+   "x": 10.5,
+   "y": 63.175000000000004,
+   "icon": {
+    "id": "cobblemonpokemonbadges:boulder_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:rematches",
+     "value": 30,
+     "id": "5A40D4ADF5FDB3C6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "18E82B6D8D43AE90",
+     "type": "command",
+     "command": "/gaby book pay {p} 58350C0D4EC722A6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7BA3202CCFC2B75C"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2EF1FFDB1A972DAB",
+   "x": 12.0,
+   "y": 63.175000000000004,
+   "icon": {
+    "id": "cobblemonpokemonbadges:boulder_badge",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:rematches",
+     "value": 100,
+     "id": "2304246DEF78CCEA"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1D68C5EFBECCF0EC",
+     "type": "command",
+     "command": "/gaby book pay {p} 2EF1FFDB1A972DAB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58350C0D4EC722A6"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1AB60420D825E3D3",
+   "x": 0.0,
+   "y": 64.67500000000001,
+   "icon": {
+    "id": "minecraft:bell",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:outbreak",
+     "value": 10,
+     "id": "6E10BB6A7CF32C25"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3EB92619BA57A1DF",
+     "type": "command",
+     "command": "/gaby book pay {p} 1AB60420D825E3D3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "1A3E7F67E1BE6810",
+   "x": 1.5,
+   "y": 64.67500000000001,
+   "icon": {
+    "id": "minecraft:bell",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:outbreak",
+     "value": 50,
+     "id": "3F049F3EC3C304A1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "695FF7AC900A3625",
+     "type": "command",
+     "command": "/gaby book pay {p} 1A3E7F67E1BE6810",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1AB60420D825E3D3"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1C5FB4EEDD83F01E",
+   "x": 3.0,
+   "y": 64.67500000000001,
+   "icon": {
+    "id": "minecraft:bell",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:outbreak",
+     "value": 200,
+     "id": "63CAC54A959E14BD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3ED7CD57C0FF6307",
+     "type": "command",
+     "command": "/gaby book pay {p} 1C5FB4EEDD83F01E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1A3E7F67E1BE6810"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1F3B62F81DEB8CBE",
+   "x": 4.5,
+   "y": 64.67500000000001,
+   "icon": {
+    "id": "minecraft:bell",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:outbreak",
+     "value": 1000,
+     "id": "5811E2CF3B526864"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2C0B86406741C1EE",
+     "type": "command",
+     "command": "/gaby book pay {p} 1F3B62F81DEB8CBE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1C5FB4EEDD83F01E"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  }
+ ]
+}

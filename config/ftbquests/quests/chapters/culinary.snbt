@@ -1,0 +1,3070 @@
+{
+ "id": "249AC6B5E052F4D5",
+ "filename": "culinary",
+ "group": "71C7157F1269A7DC",
+ "order_index": 4,
+ "icon": {
+  "id": "farmersdelight:cooking_pot",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "482FCF9EE742E1A4",
+   "x": 0.0,
+   "y": 4.5,
+   "icon": {
+    "id": "farmersdelight:cooking_pot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/root",
+     "criterion": "",
+     "id": "409B89FB7A803B25"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "54FF894574C48292",
+     "type": "command",
+     "command": "/gaby book pay {p} 482FCF9EE742E1A4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2B558CB4084CE2FD",
+   "x": 1.5,
+   "y": 1.2,
+   "icon": {
+    "id": "farmersdelight:flint_knife",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/craft_knife",
+     "criterion": "",
+     "id": "26A5A9F8A76AB462"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "121D073D7FABCCE7",
+     "type": "command",
+     "command": "/gaby book pay {p} 2B558CB4084CE2FD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "482FCF9EE742E1A4"
+   ]
+  },
+  {
+   "id": "4340664F253C25D7",
+   "x": 3.0,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:ham",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/get_ham",
+     "criterion": "",
+     "id": "6581612DBF56035C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "522BF3D4FD81BC72",
+     "type": "command",
+     "command": "/gaby book pay {p} 4340664F253C25D7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2B558CB4084CE2FD"
+   ]
+  },
+  {
+   "id": "16EE7C7C78DB468A",
+   "x": 3.0,
+   "y": 1.2,
+   "icon": {
+    "id": "farmersdelight:straw",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/harvest_straw",
+     "criterion": "",
+     "id": "34BBE6F05206C6F8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2B4AC6717132498A",
+     "type": "command",
+     "command": "/gaby book pay {p} 16EE7C7C78DB468A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2B558CB4084CE2FD"
+   ]
+  },
+  {
+   "id": "654172A7E2E0FF03",
+   "x": 4.5,
+   "y": 1.2,
+   "icon": {
+    "id": "farmersdelight:organic_compost",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/place_organic_compost",
+     "criterion": "",
+     "id": "2D383ACDF3EED722"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "792B62E64D7E5ED3",
+     "type": "command",
+     "command": "/gaby book pay {p} 654172A7E2E0FF03",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "16EE7C7C78DB468A"
+   ]
+  },
+  {
+   "id": "6D9F942CFE500BDD",
+   "x": 6.0,
+   "y": 1.2,
+   "icon": {
+    "id": "farmersdelight:rich_soil",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/get_rich_soil",
+     "criterion": "",
+     "id": "38CA06B6E497123D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "416A7B6E1D28F95C",
+     "type": "command",
+     "command": "/gaby book pay {p} 6D9F942CFE500BDD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "654172A7E2E0FF03"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "30B629BFC698FBE5",
+   "x": 3.0,
+   "y": 2.4,
+   "icon": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/use_cutting_board",
+     "criterion": "",
+     "id": "6678F726911B99E5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4629B96AF6CCBB3A",
+     "type": "command",
+     "command": "/gaby book pay {p} 30B629BFC698FBE5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2B558CB4084CE2FD"
+   ]
+  },
+  {
+   "id": "105B0B8D417AF463",
+   "x": 4.5,
+   "y": 2.4,
+   "icon": {
+    "id": "farmersdelight:netherite_knife",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/obtain_netherite_knife",
+     "criterion": "",
+     "id": "2188714C84A51314"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "71DF2B7EDA0169AA",
+     "type": "command",
+     "command": "/gaby book pay {p} 105B0B8D417AF463",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "30B629BFC698FBE5"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "3F80BBD2D068E1AA",
+   "x": 1.5,
+   "y": 4.8,
+   "icon": {
+    "id": "farmersdelight:wild_onions",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/get_fd_seed",
+     "criterion": "",
+     "id": "7E8706052111B550"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3459EEEDBC041FC8",
+     "type": "command",
+     "command": "/gaby book pay {p} 3F80BBD2D068E1AA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "482FCF9EE742E1A4"
+   ]
+  },
+  {
+   "id": "1E10068F5BF1315A",
+   "x": 3.0,
+   "y": 3.6,
+   "icon": {
+    "id": "farmersdelight:red_mushroom_colony",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/get_mushroom_colony",
+     "criterion": "",
+     "id": "55C53C5EE0259194"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "16BED620FD6BE1FB",
+     "type": "command",
+     "command": "/gaby book pay {p} 1E10068F5BF1315A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F80BBD2D068E1AA"
+   ]
+  },
+  {
+   "id": "7EB3A314A467A5A7",
+   "x": 3.0,
+   "y": 4.8,
+   "icon": {
+    "id": "farmersdelight:tomato",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/harvest_ropelogged_tomato",
+     "criterion": "",
+     "id": "79F14BC118D186BD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "62AADDEBF579052E",
+     "type": "command",
+     "command": "/gaby book pay {p} 7EB3A314A467A5A7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F80BBD2D068E1AA"
+   ]
+  },
+  {
+   "id": "4EC0F14E46EED2A5",
+   "x": 4.5,
+   "y": 4.8,
+   "icon": {
+    "id": "farmersdelight:rotten_tomato",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/hit_raider_with_rotten_tomato",
+     "criterion": "",
+     "id": "1D22E96DD5AF53D5"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "40C43368F1EA524E",
+     "type": "command",
+     "command": "/gaby book pay {p} 4EC0F14E46EED2A5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7EB3A314A467A5A7"
+   ]
+  },
+  {
+   "id": "40F1D515CE216DAC",
+   "x": 3.0,
+   "y": 6.0,
+   "icon": {
+    "id": "farmersdelight:rice",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/plant_rice",
+     "criterion": "",
+     "id": "6C719ABDBC9CE836"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "169E9ECB80EB8CAC",
+     "type": "command",
+     "command": "/gaby book pay {p} 40F1D515CE216DAC",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F80BBD2D068E1AA"
+   ]
+  },
+  {
+   "id": "3DCA918EAC15F558",
+   "x": 4.5,
+   "y": 6.0,
+   "icon": {
+    "id": "farmersdelight:cabbage",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/plant_all_crops",
+     "criterion": "",
+     "id": "2D5E73095C6198FB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6AD50A47654287B8",
+     "type": "command",
+     "command": "/gaby book pay {p} 3DCA918EAC15F558",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "40F1D515CE216DAC"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "26C446CF172C937B",
+   "x": 1.5,
+   "y": 7.800000000000001,
+   "icon": {
+    "id": "minecraft:campfire",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/place_campfire",
+     "criterion": "",
+     "id": "2013522E66852ADE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "40D455C643A766ED",
+     "type": "command",
+     "command": "/gaby book pay {p} 26C446CF172C937B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "482FCF9EE742E1A4"
+   ]
+  },
+  {
+   "id": "7215B25D7C7D9967",
+   "x": 3.0,
+   "y": 7.2,
+   "icon": {
+    "id": "farmersdelight:cooking_pot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/place_cooking_pot",
+     "criterion": "",
+     "id": "2E33BACADA1EFBE4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "76D0417A2EAE67B0",
+     "type": "command",
+     "command": "/gaby book pay {p} 7215B25D7C7D9967",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "26C446CF172C937B"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1A5DB60B88178B66",
+   "x": 4.5,
+   "y": 7.2,
+   "icon": {
+    "id": "farmersdelight:steak_and_potatoes",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/eat_nourishing_food",
+     "criterion": "",
+     "id": "7454674D35DBFE23"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4DF06CB32DF4E39A",
+     "type": "command",
+     "command": "/gaby book pay {p} 1A5DB60B88178B66",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7215B25D7C7D9967"
+   ]
+  },
+  {
+   "id": "1CA0A21925C21F89",
+   "x": 6.0,
+   "y": 7.2,
+   "icon": {
+    "id": "farmersdelight:roast_chicken_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/place_feast",
+     "criterion": "",
+     "id": "4B36995634F78CA3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "514D2CB4A76AB938",
+     "type": "command",
+     "command": "/gaby book pay {p} 1CA0A21925C21F89",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1A5DB60B88178B66"
+   ]
+  },
+  {
+   "id": "108FAB0619814575",
+   "x": 7.5,
+   "y": 7.2,
+   "icon": {
+    "id": "farmersdelight:honey_glazed_ham",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/master_chef",
+     "criterion": "",
+     "id": "273E8B61253742AF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "400D9CADFCDF10E9",
+     "type": "command",
+     "command": "/gaby book pay {p} 108FAB0619814575",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1CA0A21925C21F89"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "385DF00161C3DAB5",
+   "x": 3.0,
+   "y": 8.4,
+   "icon": {
+    "id": "farmersdelight:skillet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/use_skillet",
+     "criterion": "",
+     "id": "4AC7E7F8A269F4A3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4EDF30A30C859A05",
+     "type": "command",
+     "command": "/gaby book pay {p} 385DF00161C3DAB5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "26C446CF172C937B"
+   ]
+  },
+  {
+   "id": "6C1E51FADEBEFD09",
+   "x": 4.5,
+   "y": 8.4,
+   "icon": {
+    "id": "farmersdelight:skillet",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "farmersdelight:main/place_skillet",
+     "criterion": "",
+     "id": "51D6005A5CA428AB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6C731974EDC410FE",
+     "type": "command",
+     "command": "/gaby book pay {p} 6C1E51FADEBEFD09",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "385DF00161C3DAB5"
+   ]
+  },
+  {
+   "id": "199277FDBEBB2519",
+   "x": 10.5,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:rice",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:rice",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "3C7F79422B970CD2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "29F710052298F170",
+     "type": "command",
+     "command": "/gaby book pay {p} 199277FDBEBB2519",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F80BBD2D068E1AA"
+   ]
+  },
+  {
+   "id": "5E1009F579811744",
+   "x": 10.5,
+   "y": 1.2,
+   "icon": {
+    "id": "farmersdelight:onion",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:onion",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "164F9DB07085A8C6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3ADDEC1CA36D8F23",
+     "type": "command",
+     "command": "/gaby book pay {p} 5E1009F579811744",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F80BBD2D068E1AA"
+   ]
+  },
+  {
+   "id": "3567910612B77A67",
+   "x": 10.5,
+   "y": 2.4,
+   "icon": {
+    "id": "farmersdelight:tomato",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:tomato",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "2D2E4543F1F00A31"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6780F14FE0090E7D",
+     "type": "command",
+     "command": "/gaby book pay {p} 3567910612B77A67",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F80BBD2D068E1AA"
+   ]
+  },
+  {
+   "id": "1CAF56AA73700374",
+   "x": 10.5,
+   "y": 3.6,
+   "icon": {
+    "id": "farmersdelight:cabbage",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:cabbage",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "224DD74547E7E378"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4A89F48C6A17FE84",
+     "type": "command",
+     "command": "/gaby book pay {p} 1CAF56AA73700374",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F80BBD2D068E1AA"
+   ]
+  },
+  {
+   "id": "149B78B1416A8E30",
+   "x": 0.0,
+   "y": 14.399999999999999,
+   "icon": {
+    "id": "croptopia:coffee",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:root",
+     "criterion": "",
+     "id": "2C8B037BE936A9B6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "262A16AF708549AC",
+     "type": "command",
+     "command": "/gaby book pay {p} 149B78B1416A8E30",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3D7520D58437B385",
+   "x": 1.5,
+   "y": 11.4,
+   "icon": {
+    "id": "croptopia:tofuburger",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:eatcrafted",
+     "criterion": "",
+     "id": "49E88AD0A452DAEC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "79C046F8C7F5B6E0",
+     "type": "command",
+     "command": "/gaby book pay {p} 3D7520D58437B385",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "149B78B1416A8E30"
+   ]
+  },
+  {
+   "id": "1F8191FFA703D5A3",
+   "x": 3.0,
+   "y": 11.4,
+   "icon": {
+    "id": "croptopia:lemon_chicken",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:eatbig",
+     "criterion": "",
+     "id": "19668D4D6C06DDE4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1CF600A1E9C1A2AC",
+     "type": "command",
+     "command": "/gaby book pay {p} 1F8191FFA703D5A3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3D7520D58437B385"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "504D57EAF7CD5388",
+   "x": 4.5,
+   "y": 11.4,
+   "icon": {
+    "id": "croptopia:supreme_pizza",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_food",
+     "criterion": "",
+     "id": "3CF38BF29347A066"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5CF7F0874BA69DB9",
+     "type": "command",
+     "command": "/gaby book pay {p} 504D57EAF7CD5388",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1F8191FFA703D5A3"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "252DD04C1A9CF064",
+   "x": 6.0,
+   "y": 11.4,
+   "icon": {
+    "id": "croptopia:transcendental_breakfast",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:transcendental_breakfast",
+     "criterion": "",
+     "id": "72A8AAE8996C47E3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3B161DA39030D1AC",
+     "type": "command",
+     "command": "/gaby book pay {p} 252DD04C1A9CF064",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "504D57EAF7CD5388"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "5769FD3A1D758206",
+   "x": 1.5,
+   "y": 13.2,
+   "icon": {
+    "id": "croptopia:mango_sapling",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:getsapling",
+     "criterion": "",
+     "id": "40815006395F07CE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "750BFA8DA1D28421",
+     "type": "command",
+     "command": "/gaby book pay {p} 5769FD3A1D758206",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "149B78B1416A8E30"
+   ]
+  },
+  {
+   "id": "52FEB85F4BEA4038",
+   "x": 3.0,
+   "y": 12.6,
+   "icon": {
+    "id": "croptopia:cashew_sapling",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_tree_dark_forest",
+     "criterion": "",
+     "id": "29E6FC8BCE602DD6"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "501BE44653E3258D",
+     "type": "command",
+     "command": "/gaby book pay {p} 52FEB85F4BEA4038",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5769FD3A1D758206"
+   ]
+  },
+  {
+   "id": "54ADB07CFEB2956D",
+   "x": 4.5,
+   "y": 12.6,
+   "icon": {
+    "id": "croptopia:banana_sapling",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_tree_jungle",
+     "criterion": "",
+     "id": "5559213AAC8306C9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2AB8AD8982EB4495",
+     "type": "command",
+     "command": "/gaby book pay {p} 54ADB07CFEB2956D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "52FEB85F4BEA4038"
+   ]
+  },
+  {
+   "id": "1A68DC1766AC62E3",
+   "x": 6.0,
+   "y": 12.6,
+   "icon": {
+    "id": "croptopia:apple_sapling",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_tree_plains",
+     "criterion": "",
+     "id": "17A15FE887209351"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1A6D48857A749F62",
+     "type": "command",
+     "command": "/gaby book pay {p} 1A68DC1766AC62E3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "54ADB07CFEB2956D"
+   ]
+  },
+  {
+   "id": "261E07BD78578679",
+   "x": 7.5,
+   "y": 12.6,
+   "icon": {
+    "id": "croptopia:cherry_sapling",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_tree_forest",
+     "criterion": "",
+     "id": "4B595AB50B4F8C30"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7D92A5B5CB760184",
+     "type": "command",
+     "command": "/gaby book pay {p} 261E07BD78578679",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1A68DC1766AC62E3"
+   ]
+  },
+  {
+   "id": "40A5CD4A97FE4E1B",
+   "x": 9.0,
+   "y": 12.6,
+   "icon": {
+    "id": "croptopia:coconut_sapling",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_tree_all",
+     "criterion": "",
+     "id": "572C0D7321BE21AE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "10CDFD2487E6A7AD",
+     "type": "command",
+     "command": "/gaby book pay {p} 40A5CD4A97FE4E1B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "261E07BD78578679"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "1FC61FC566E37E6D",
+   "x": 3.0,
+   "y": 13.8,
+   "icon": {
+    "id": "croptopia:apple_juice",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:getdrinks",
+     "criterion": "",
+     "id": "430A3FEBF290E5D2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "152966417209D596",
+     "type": "command",
+     "command": "/gaby book pay {p} 1FC61FC566E37E6D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5769FD3A1D758206"
+   ]
+  },
+  {
+   "id": "6A0E7C05B18A7168",
+   "x": 4.5,
+   "y": 13.8,
+   "icon": {
+    "id": "croptopia:beer",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_drinks",
+     "criterion": "",
+     "id": "68315441483C08B0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5BDEAEFA800F2DA3",
+     "type": "command",
+     "command": "/gaby book pay {p} 6A0E7C05B18A7168",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1FC61FC566E37E6D"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "48C8DAD6C0AEDBA4",
+   "x": 1.5,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:basil_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:getseeds",
+     "criterion": "",
+     "id": "2BADC240D26A09B3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1AE2DDBB0A8F8671",
+     "type": "command",
+     "command": "/gaby book pay {p} 48C8DAD6C0AEDBA4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "149B78B1416A8E30"
+   ]
+  },
+  {
+   "id": "1C21E16C1C52D66F",
+   "x": 3.0,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:broccoli_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_plains",
+     "criterion": "",
+     "id": "602A23815534401B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "580C6A088142ACDE",
+     "type": "command",
+     "command": "/gaby book pay {p} 1C21E16C1C52D66F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "48C8DAD6C0AEDBA4"
+   ]
+  },
+  {
+   "id": "76F263E5EF47606B",
+   "x": 4.5,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:saguaro_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_desert",
+     "criterion": "",
+     "id": "4A42CDD537C20066"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "27D02F9C806BE7BD",
+     "type": "command",
+     "command": "/gaby book pay {p} 76F263E5EF47606B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1C21E16C1C52D66F"
+   ]
+  },
+  {
+   "id": "74F0558B2501E27C",
+   "x": 6.0,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:celery_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_forest",
+     "criterion": "",
+     "id": "7F8AB046170E6456"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6C670030D7FE39A3",
+     "type": "command",
+     "command": "/gaby book pay {p} 74F0558B2501E27C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "76F263E5EF47606B"
+   ]
+  },
+  {
+   "id": "2D4EF67846D94573",
+   "x": 7.5,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:yam_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_savanna",
+     "criterion": "",
+     "id": "2537E73CF649A8F1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3C0096E3B4A5C119",
+     "type": "command",
+     "command": "/gaby book pay {p} 2D4EF67846D94573",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "74F0558B2501E27C"
+   ]
+  },
+  {
+   "id": "30F492BD233119F8",
+   "x": 9.0,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:coffee_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_jungle",
+     "criterion": "",
+     "id": "6D3E5FD328F61A68"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "795B25548C43E508",
+     "type": "command",
+     "command": "/gaby book pay {p} 30F492BD233119F8",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D4EF67846D94573"
+   ]
+  },
+  {
+   "id": "30B304A84CDDD17D",
+   "x": 10.5,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:cranberry_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_swamp",
+     "criterion": "",
+     "id": "76ABD6B1A3452746"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2B97F9F625122EA5",
+     "type": "command",
+     "command": "/gaby book pay {p} 30B304A84CDDD17D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "30F492BD233119F8"
+   ]
+  },
+  {
+   "id": "5567064F5787FF71",
+   "x": 12.0,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:turnip_seed",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:gather_all",
+     "criterion": "",
+     "id": "363AD60D304CC078"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "52392BAFCC60DB32",
+     "type": "command",
+     "command": "/gaby book pay {p} 5567064F5787FF71",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "30B304A84CDDD17D"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6D55BFA623A8C451",
+   "x": 1.5,
+   "y": 16.2,
+   "icon": {
+    "id": "croptopia:mortar_and_pestle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:mortar_and_pestle",
+     "criterion": "",
+     "id": "659483F404705295"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "10F0257B199E5F72",
+     "type": "command",
+     "command": "/gaby book pay {p} 6D55BFA623A8C451",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "149B78B1416A8E30"
+   ]
+  },
+  {
+   "id": "7B2A3FF8D455E701",
+   "x": 3.0,
+   "y": 16.2,
+   "icon": {
+    "id": "croptopia:knife",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:knife",
+     "criterion": "",
+     "id": "7A0AF2F893CF4D13"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "280B6A32196BB4F1",
+     "type": "command",
+     "command": "/gaby book pay {p} 7B2A3FF8D455E701",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6D55BFA623A8C451"
+   ]
+  },
+  {
+   "id": "2A72AC070C396262",
+   "x": 4.5,
+   "y": 16.2,
+   "icon": {
+    "id": "croptopia:cooking_pot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:pot",
+     "criterion": "",
+     "id": "4A83217BA5B762A9"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5C9D010517FFBF10",
+     "type": "command",
+     "command": "/gaby book pay {p} 2A72AC070C396262",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7B2A3FF8D455E701"
+   ]
+  },
+  {
+   "id": "73AAE1154ED14454",
+   "x": 6.0,
+   "y": 16.2,
+   "icon": {
+    "id": "croptopia:frying_pan",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:frying_pan",
+     "criterion": "",
+     "id": "5BC5E38429CBBD06"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1106565BD84558AB",
+     "type": "command",
+     "command": "/gaby book pay {p} 73AAE1154ED14454",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2A72AC070C396262"
+   ]
+  },
+  {
+   "id": "5BDC2EB98D06DDCB",
+   "x": 7.5,
+   "y": 16.2,
+   "icon": {
+    "id": "croptopia:food_press",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:food_press",
+     "criterion": "",
+     "id": "2B961E24D02D3171"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7C6510AA38782527",
+     "type": "command",
+     "command": "/gaby book pay {p} 5BDC2EB98D06DDCB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "73AAE1154ED14454"
+   ]
+  },
+  {
+   "id": "671DC565703D2C8C",
+   "x": 1.5,
+   "y": 17.4,
+   "icon": {
+    "id": "croptopia:salt",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:salt",
+     "criterion": "",
+     "id": "17B63BCEE905090A"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "468E387C16E72229",
+     "type": "command",
+     "command": "/gaby book pay {p} 671DC565703D2C8C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "149B78B1416A8E30"
+   ]
+  },
+  {
+   "id": "19ABDCA10C29E543",
+   "x": 3.0,
+   "y": 17.4,
+   "icon": {
+    "id": "croptopia:cinnamon",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "croptopia:cinnamon",
+     "criterion": "",
+     "id": "1E86352A5E6E7AF0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "40FFA88FED24FF67",
+     "type": "command",
+     "command": "/gaby book pay {p} 19ABDCA10C29E543",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "671DC565703D2C8C"
+   ]
+  },
+  {
+   "id": "51DBA8AA87D6CD5F",
+   "x": 15.0,
+   "y": 11.4,
+   "icon": {
+    "id": "croptopia:corn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:corn",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "15008C24CE5D47E7"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "66CABA5AD500A1B1",
+     "type": "command",
+     "command": "/gaby book pay {p} 51DBA8AA87D6CD5F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "48C8DAD6C0AEDBA4"
+   ]
+  },
+  {
+   "id": "60756A95974BAC54",
+   "x": 15.0,
+   "y": 12.6,
+   "icon": {
+    "id": "croptopia:strawberry",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:strawberry",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "3D30D368839BB735"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6AC1ACC97CCFB7E4",
+     "type": "command",
+     "command": "/gaby book pay {p} 60756A95974BAC54",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "48C8DAD6C0AEDBA4"
+   ]
+  },
+  {
+   "id": "1B448F03C9DA6324",
+   "x": 15.0,
+   "y": 13.8,
+   "icon": {
+    "id": "croptopia:pineapple",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:pineapple",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "1EBCE8660774D15E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "46036B3328BBD0EB",
+     "type": "command",
+     "command": "/gaby book pay {p} 1B448F03C9DA6324",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "48C8DAD6C0AEDBA4"
+   ]
+  },
+  {
+   "id": "22E71ADEC08FAB70",
+   "x": 15.0,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:coffee_beans",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:coffee_beans",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "2F644D1DAB46F29D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "42C0F066E7D43C36",
+     "type": "command",
+     "command": "/gaby book pay {p} 22E71ADEC08FAB70",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "48C8DAD6C0AEDBA4"
+   ]
+  },
+  {
+   "id": "69FF14AF8D9A1D64",
+   "x": 16.5,
+   "y": 11.4,
+   "icon": {
+    "id": "croptopia:tea_leaves",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:tea_leaves",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "1411335037E55F96"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "48F686ED5516E84F",
+     "type": "command",
+     "command": "/gaby book pay {p} 69FF14AF8D9A1D64",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "48C8DAD6C0AEDBA4"
+   ]
+  },
+  {
+   "id": "235F86BD9630EA03",
+   "x": 16.5,
+   "y": 12.6,
+   "icon": {
+    "id": "croptopia:vanilla",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:vanilla",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "2C6FA67EAF69F85F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4173839E9A8B5451",
+     "type": "command",
+     "command": "/gaby book pay {p} 235F86BD9630EA03",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "48C8DAD6C0AEDBA4"
+   ]
+  },
+  {
+   "id": "36EF8A620890ADF2",
+   "x": 16.5,
+   "y": 13.8,
+   "icon": {
+    "id": "croptopia:banana",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:banana",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "505E377E75655A60"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "747BFF0A6FAAE26A",
+     "type": "command",
+     "command": "/gaby book pay {p} 36EF8A620890ADF2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5769FD3A1D758206"
+   ]
+  },
+  {
+   "id": "718E9584EB95152B",
+   "x": 16.5,
+   "y": 15.0,
+   "icon": {
+    "id": "croptopia:mango",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:mango",
+      "count": 1
+     },
+     "count": 16,
+     "consume_items": false,
+     "id": "4CC0AB6F994726F4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "70201720EF99203C",
+     "type": "command",
+     "command": "/gaby book pay {p} 718E9584EB95152B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "5769FD3A1D758206"
+   ]
+  },
+  {
+   "id": "27D1C068532200BD",
+   "x": 0.0,
+   "y": 20.4,
+   "icon": {
+    "id": "cobblemon:red_apricorn",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:red_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "434F8C71609A5BBF"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:blue_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "440AACEB293B9C68"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:green_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "600B34C133A76374"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:yellow_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "475A91DB686C07F4"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:pink_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "38AA08DEE35877EC"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:black_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "1B27C0C624771C53"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:white_apricorn",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "1BAAEEAE808D70EB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7A1039C462542BF0",
+     "type": "command",
+     "command": "/gaby book pay {p} 27D1C068532200BD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "5AF5F8EF51205E01",
+   "x": 1.5,
+   "y": 20.4,
+   "icon": {
+    "id": "cobblemon:oran_berry",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:oran_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "2BD0D47C71B1937E"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:sitrus_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "6582E54E22235551"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:lum_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "60746DFB9BE6B968"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:leppa_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "4BD9045D0DE7A641"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:chesto_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "68B897A8C84B2B2F"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:pecha_berry",
+      "count": 1
+     },
+     "count": 8,
+     "consume_items": false,
+     "id": "7619B39963D4F77B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "661701B8946705CF",
+     "type": "command",
+     "command": "/gaby book pay {p} 5AF5F8EF51205E01",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "27D1C068532200BD"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3F4EEC776989A755",
+   "x": 1.5,
+   "y": 21.6,
+   "icon": {
+    "id": "cobblemon:revival_herb",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:revival_herb",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "1CF1698EDC47BBAF"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:medicinal_leek",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "6AE44BD4F290435C"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "cobblemon:big_root",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "301CABCA18665453"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6F0839D6B6CADCE2",
+     "type": "command",
+     "command": "/gaby book pay {p} 3F4EEC776989A755",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "27D1C068532200BD"
+   ]
+  },
+  {
+   "id": "732CB919EA195753",
+   "x": 6.0,
+   "y": 20.4,
+   "icon": {
+    "id": "minecraft:wheat",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "minecraft:wheat",
+      "count": 1
+     },
+     "count": 32,
+     "consume_items": false,
+     "id": "5514E887ACFC23BC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "15E9D377FA2DA7EA",
+     "type": "command",
+     "command": "/gaby book pay {p} 732CB919EA195753",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "371777C47EED1422",
+   "x": 0.0,
+   "y": 24.6,
+   "icon": {
+    "id": "aquaculture:iron_fishing_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:iron_fishing_rod",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "57A9CF02285108B1"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:tackle_box",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "19236EDCC39F00AE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5D6962466EB6F8EA",
+     "type": "command",
+     "command": "/gaby book pay {p} 371777C47EED1422",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "3B88DC548AD0DB54",
+   "x": 1.5,
+   "y": 24.6,
+   "icon": {
+    "id": "aquaculture:atlantic_cod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:atlantic_cod",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "33F16F838ECA1561"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3FB71103F14578B0",
+     "type": "command",
+     "command": "/gaby book pay {p} 3B88DC548AD0DB54",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "296022E1518D9923",
+   "x": 3.0,
+   "y": 24.6,
+   "icon": {
+    "id": "aquaculture:pacific_halibut",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:pacific_halibut",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "799CD709D782D5E3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1B003FC65A301CBD",
+     "type": "command",
+     "command": "/gaby book pay {p} 296022E1518D9923",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "5D6439424948A50D",
+   "x": 4.5,
+   "y": 24.6,
+   "icon": {
+    "id": "aquaculture:tuna",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:tuna",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "405B46A2C366E04B"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5B3006820ECA7A47",
+     "type": "command",
+     "command": "/gaby book pay {p} 5D6439424948A50D",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "4247E7B7DEDAAB30",
+   "x": 6.0,
+   "y": 24.6,
+   "icon": {
+    "id": "aquaculture:catfish",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:catfish",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1B7CECE537F2161D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "34190F0AED7CAEE0",
+     "type": "command",
+     "command": "/gaby book pay {p} 4247E7B7DEDAAB30",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "3A837C059C6FAE8A",
+   "x": 7.5,
+   "y": 24.6,
+   "icon": {
+    "id": "aquaculture:bluegill",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:bluegill",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "17780B72C8A177C4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4955CF7CAA4562A9",
+     "type": "command",
+     "command": "/gaby book pay {p} 3A837C059C6FAE8A",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "3C7E1D59D83B08DE",
+   "x": 1.5,
+   "y": 25.8,
+   "icon": {
+    "id": "aquaculture:arapaima",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:arapaima",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "252A52D0821A4C95"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "17DCDB4203F8E426",
+     "type": "command",
+     "command": "/gaby book pay {p} 3C7E1D59D83B08DE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "415DD5B3B96E8231",
+   "x": 3.0,
+   "y": 25.8,
+   "icon": {
+    "id": "aquaculture:piranha",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:piranha",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2EEC15B44FF3C56C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "60D5843D9E2A2BDE",
+     "type": "command",
+     "command": "/gaby book pay {p} 415DD5B3B96E8231",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "7AD9D545A7E4E378",
+   "x": 4.5,
+   "y": 25.8,
+   "icon": {
+    "id": "aquaculture:goldfish",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:goldfish",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "4DD4AA7D4A643B24"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "210AC12648879BDE",
+     "type": "command",
+     "command": "/gaby book pay {p} 7AD9D545A7E4E378",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "2E7E58A4B52EF8EB",
+   "x": 6.0,
+   "y": 25.8,
+   "icon": {
+    "id": "aquaculture:jellyfish",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:jellyfish",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3BDFB58C32A621D8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "40E459A247F1A046",
+     "type": "command",
+     "command": "/gaby book pay {p} 2E7E58A4B52EF8EB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "1AB87F716CCFF4DF",
+   "x": 9.0,
+   "y": 24.6,
+   "icon": {
+    "id": "aquaculture:box_turtle",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:box_turtle",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "6312FA9E8EF41B04"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:arrau_turtle",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "7B910C5920E1CAED"
+    },
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:starshell_turtle",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "2575885E0375CC50"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7C3C94C43B9626E5",
+     "type": "command",
+     "command": "/gaby book pay {p} 1AB87F716CCFF4DF",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "466B774A01FF9585",
+   "x": 9.0,
+   "y": 25.8,
+   "icon": {
+    "id": "aquaculture:neptunium_ingot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "aquaculture:neptunium_ingot",
+      "count": 1
+     },
+     "count": 4,
+     "consume_items": false,
+     "id": "67A15F71B26B2158"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "202F4A69A5FBC267",
+     "type": "command",
+     "command": "/gaby book pay {p} 466B774A01FF9585",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "371777C47EED1422"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "14ECC702A712EB70",
+   "x": 21.0,
+   "y": 2.4,
+   "icon": {
+    "id": "farmersdelight:beef_stew",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:beef_stew",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "719E49FEFAD5F0D8"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5742DAFCAE46B7C1",
+     "type": "command",
+     "command": "/gaby book pay {p} 14ECC702A712EB70",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7215B25D7C7D9967",
+    "2A72AC070C396262"
+   ]
+  },
+  {
+   "id": "537479AA65018E7E",
+   "x": 22.5,
+   "y": 0.0,
+   "icon": {
+    "id": "farmersdelight:mixed_salad",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:mixed_salad",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "28B35051552E66A2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3581D849050D0C81",
+     "type": "command",
+     "command": "/gaby book pay {p} 537479AA65018E7E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70"
+   ]
+  },
+  {
+   "id": "2C54EB9B1D93D334",
+   "x": 22.5,
+   "y": 1.2,
+   "icon": {
+    "id": "farmersdelight:dumplings",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:dumplings",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "22D3F022822DC28D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6D44D9EE1BF3E576",
+     "type": "command",
+     "command": "/gaby book pay {p} 2C54EB9B1D93D334",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70"
+   ]
+  },
+  {
+   "id": "140CCB337CC210CD",
+   "x": 22.5,
+   "y": 2.4,
+   "icon": {
+    "id": "farmersdelight:fish_stew",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:fish_stew",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "5A11A6C025986FEE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5D0132B88F912931",
+     "type": "command",
+     "command": "/gaby book pay {p} 140CCB337CC210CD",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70",
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "106AEA0618E8C424",
+   "x": 22.5,
+   "y": 3.6,
+   "icon": {
+    "id": "farmersdelight:pasta_with_meatballs",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:pasta_with_meatballs",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "50700C36E3D9C857"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6C5B85EA99758700",
+     "type": "command",
+     "command": "/gaby book pay {p} 106AEA0618E8C424",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70"
+   ]
+  },
+  {
+   "id": "217517FDEA7717C3",
+   "x": 22.5,
+   "y": 4.8,
+   "icon": {
+    "id": "farmersdelight:steak_and_potatoes",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:steak_and_potatoes",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "436AEA4502ED4124"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "62C2AF3C55A1B9D4",
+     "type": "command",
+     "command": "/gaby book pay {p} 217517FDEA7717C3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70"
+   ]
+  },
+  {
+   "id": "3AAB8FFAF2486C76",
+   "x": 22.5,
+   "y": 6.0,
+   "icon": {
+    "id": "croptopia:pizza",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:pizza",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "3AB31C1151C0370E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3C26D121DE7F2633",
+     "type": "command",
+     "command": "/gaby book pay {p} 3AAB8FFAF2486C76",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2A72AC070C396262"
+   ]
+  },
+  {
+   "id": "1E313A57DEDF159F",
+   "x": 22.5,
+   "y": 7.2,
+   "icon": {
+    "id": "croptopia:sushi",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:sushi",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "22DFB4D5B8D16B7D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5A9139D2AFE143C9",
+     "type": "command",
+     "command": "/gaby book pay {p} 1E313A57DEDF159F",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2A72AC070C396262",
+    "371777C47EED1422"
+   ]
+  },
+  {
+   "id": "20FEF1242879E257",
+   "x": 22.5,
+   "y": 8.4,
+   "icon": {
+    "id": "croptopia:cheese",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "croptopia:cheese",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "47D5E9626B6FA656"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1AEA6313964BA8E4",
+     "type": "command",
+     "command": "/gaby book pay {p} 20FEF1242879E257",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2A72AC070C396262"
+   ]
+  },
+  {
+   "id": "487C7D607D8C5C08",
+   "x": 25.5,
+   "y": 1.8,
+   "icon": {
+    "id": "farmersdelight:roast_chicken_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:roast_chicken_block",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "71D3FD98FA8DB9BB"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "51FAEA9222735A58",
+     "type": "command",
+     "command": "/gaby book pay {p} 487C7D607D8C5C08",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6A2745FE9F55CD09",
+   "x": 25.5,
+   "y": 3.0,
+   "icon": {
+    "id": "farmersdelight:stuffed_pumpkin_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:stuffed_pumpkin_block",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "5A1362B13F6F31BE"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "29B570DF17CC68F6",
+     "type": "command",
+     "command": "/gaby book pay {p} 6A2745FE9F55CD09",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "7B23FBC0DF24EAB7",
+   "x": 25.5,
+   "y": 4.2,
+   "icon": {
+    "id": "farmersdelight:honey_glazed_ham_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:honey_glazed_ham_block",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "1C53615A0D01DC64"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "500FFCBBB983C135",
+     "type": "command",
+     "command": "/gaby book pay {p} 7B23FBC0DF24EAB7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70",
+    "5AF5F8EF51205E01"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "505105D74ADEBC43",
+   "x": 25.5,
+   "y": 5.4,
+   "icon": {
+    "id": "farmersdelight:shepherds_pie_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "item",
+     "item": {
+      "id": "farmersdelight:shepherds_pie_block",
+      "count": 1
+     },
+     "count": 1,
+     "consume_items": false,
+     "id": "354602F7EC9E7514"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "35FE3C5764D22FAA",
+     "type": "command",
+     "command": "/gaby book pay {p} 505105D74ADEBC43",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "14ECC702A712EB70"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  }
+ ]
+}

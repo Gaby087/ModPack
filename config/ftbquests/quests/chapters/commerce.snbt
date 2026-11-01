@@ -1,0 +1,866 @@
+{
+ "id": "2FE39C4714282BD8",
+ "filename": "commerce",
+ "group": "71C7157F1269A7DC",
+ "order_index": 7,
+ "icon": {
+  "id": "minecraft:gold_ingot",
+  "count": 1
+ },
+ "default_quest_shape": "",
+ "default_hide_dependency_lines": false,
+ "quests": [
+  {
+   "id": "357C1F4945D52D06",
+   "x": 0.0,
+   "y": 1.2,
+   "icon": {
+    "id": "minecraft:gold_ingot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/first_sale",
+     "criterion": "",
+     "id": "53A1D305FAA97EAF"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "550B6C6E2C38B5B2",
+     "type": "command",
+     "command": "/gaby book pay {p} 357C1F4945D52D06",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "5056A840BC79E6E3",
+   "x": 1.5,
+   "y": 0.0,
+   "icon": {
+    "id": "minecraft:writable_book",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/orders_1",
+     "criterion": "",
+     "id": "26E52CEB67758DEC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "36981EA68EA736E6",
+     "type": "command",
+     "command": "/gaby book pay {p} 5056A840BC79E6E3",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "357C1F4945D52D06"
+   ]
+  },
+  {
+   "id": "1D17EE48163CE4B7",
+   "x": 1.5,
+   "y": 2.4,
+   "icon": {
+    "id": "minecraft:spyglass",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/bounties_1",
+     "criterion": "",
+     "id": "2721641F29823EF3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "553986C8F73A7DE3",
+     "type": "command",
+     "command": "/gaby book pay {p} 1D17EE48163CE4B7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "357C1F4945D52D06"
+   ]
+  },
+  {
+   "id": "3075A65947E42D68",
+   "x": 0.0,
+   "y": 3.6,
+   "icon": {
+    "id": "minecraft:barrel",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/economy/cargo",
+     "criterion": "",
+     "id": "21DC6FC20A1BC406"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1635850596FEC6BC",
+     "type": "command",
+     "command": "/gaby book pay {p} 3075A65947E42D68",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "58D7099638DBAA58",
+   "x": 3.0,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:export_depot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:orders",
+     "value": 10,
+     "id": "65A121A8BF5182B2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6193B888545654C1",
+     "type": "command",
+     "command": "/gaby book pay {p} 58D7099638DBAA58",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7AD75CFE6A1847BE",
+   "x": 4.5,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:export_depot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:orders",
+     "value": 50,
+     "id": "7CFCFCA3DFB4B333"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4BDC9705DD0F6171",
+     "type": "command",
+     "command": "/gaby book pay {p} 7AD75CFE6A1847BE",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "58D7099638DBAA58"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2D5FF06441827A75",
+   "x": 6.0,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:export_depot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:orders",
+     "value": 200,
+     "id": "7023C4A3A4B082DD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3BD31C170C56C908",
+     "type": "command",
+     "command": "/gaby book pay {p} 2D5FF06441827A75",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7AD75CFE6A1847BE"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "230AB08F1BF9416C",
+   "x": 7.5,
+   "y": 0.0,
+   "icon": {
+    "id": "gaby_core:export_depot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:orders",
+     "value": 1000,
+     "id": "192330293B185179"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4944C0558315A03B",
+     "type": "command",
+     "command": "/gaby book pay {p} 230AB08F1BF9416C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2D5FF06441827A75"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1125692EF2D8D03B",
+   "x": 3.0,
+   "y": 2.4,
+   "icon": {
+    "id": "minecraft:crossbow",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:bounties",
+     "value": 10,
+     "id": "26089B2D60D85C19"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3FF01C1F549182E5",
+     "type": "command",
+     "command": "/gaby book pay {p} 1125692EF2D8D03B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "211DCFBE1521EA97",
+   "x": 4.5,
+   "y": 2.4,
+   "icon": {
+    "id": "minecraft:crossbow",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:bounties",
+     "value": 50,
+     "id": "4D06498BC5293504"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "199234D2B0F8E8CA",
+     "type": "command",
+     "command": "/gaby book pay {p} 211DCFBE1521EA97",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1125692EF2D8D03B"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "18D19A8910749A7E",
+   "x": 6.0,
+   "y": 2.4,
+   "icon": {
+    "id": "minecraft:crossbow",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:bounties",
+     "value": 200,
+     "id": "7C26EA7F20AC1473"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "662CD169800452BD",
+     "type": "command",
+     "command": "/gaby book pay {p} 18D19A8910749A7E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "211DCFBE1521EA97"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "783A61376D30DA22",
+   "x": 7.5,
+   "y": 2.4,
+   "icon": {
+    "id": "minecraft:crossbow",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:bounties",
+     "value": 500,
+     "id": "39D98FA91B196904"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "77147615D040B2AC",
+     "type": "command",
+     "command": "/gaby book pay {p} 783A61376D30DA22",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18D19A8910749A7E"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "467A0C5108B14D6B",
+   "x": 1.5,
+   "y": 3.6,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/commerce/pokeshop",
+     "criterion": "",
+     "id": "4E85196A6C2AE55D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "53E64F394E34433D",
+     "type": "command",
+     "command": "/gaby book pay {p} 467A0C5108B14D6B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "2A993E78D81C5AD2",
+   "x": 0.0,
+   "y": 6.0,
+   "icon": {
+    "id": "minecraft:gold_nugget",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_earned",
+     "value": 10000,
+     "id": "46346EC54256BCE0"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "45458018E2339F3F",
+     "type": "command",
+     "command": "/gaby book pay {p} 2A993E78D81C5AD2",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "20145E804FBBE324",
+   "x": 1.5,
+   "y": 6.0,
+   "icon": {
+    "id": "minecraft:gold_ingot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_earned",
+     "value": 100000,
+     "id": "783D71EA789BEC89"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "61CA3306808D48AF",
+     "type": "command",
+     "command": "/gaby book pay {p} 20145E804FBBE324",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2A993E78D81C5AD2"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "39B4A39BD9EFEBB0",
+   "x": 3.0,
+   "y": 6.0,
+   "icon": {
+    "id": "minecraft:gold_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_earned",
+     "value": 1000000,
+     "id": "64D5FB05C1A091B2"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "74A491C9DCB92E2C",
+     "type": "command",
+     "command": "/gaby book pay {p} 39B4A39BD9EFEBB0",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "20145E804FBBE324"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "6D524C979D385650",
+   "x": 4.5,
+   "y": 6.0,
+   "icon": {
+    "id": "minecraft:diamond_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_earned",
+     "value": 10000000,
+     "id": "2A5FD00DE326DD59"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1604FB2A5CDA61E0",
+     "type": "command",
+     "command": "/gaby book pay {p} 6D524C979D385650",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "39B4A39BD9EFEBB0"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "7DC18684465C5B79",
+   "x": 0.0,
+   "y": 7.2,
+   "icon": {
+    "id": "minecraft:emerald",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_spent",
+     "value": 10000,
+     "id": "4C3D499F0D636F33"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "64DAE41A980FAA5A",
+     "type": "command",
+     "command": "/gaby book pay {p} 7DC18684465C5B79",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4DA0B4DBCAAD7E4C",
+   "x": 1.5,
+   "y": 7.2,
+   "icon": {
+    "id": "minecraft:paper",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_spent",
+     "value": 100000,
+     "id": "77B2F697A049943E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7D23396592576F6F",
+     "type": "command",
+     "command": "/gaby book pay {p} 4DA0B4DBCAAD7E4C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7DC18684465C5B79"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "304539C86BFA2A22",
+   "x": 3.0,
+   "y": 7.2,
+   "icon": {
+    "id": "minecraft:emerald_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_spent",
+     "value": 1000000,
+     "id": "651A7BECFC3FBF74"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6EEED301E908A61F",
+     "type": "command",
+     "command": "/gaby book pay {p} 304539C86BFA2A22",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4DA0B4DBCAAD7E4C"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "2F13D8AC2555C1F6",
+   "x": 4.5,
+   "y": 7.2,
+   "icon": {
+    "id": "minecraft:lava_bucket",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_spent",
+     "value": 10000000,
+     "id": "2CE15DF072850215"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "553648BF4B359770",
+     "type": "command",
+     "command": "/gaby book pay {p} 2F13D8AC2555C1F6",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "304539C86BFA2A22"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "210DCB149B2395C5",
+   "x": 0.0,
+   "y": 8.4,
+   "icon": {
+    "id": "minecraft:paper",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_given",
+     "value": 1,
+     "id": "4E1CB6D0313B163E"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "5BB5D12DA5B5A54F",
+     "type": "command",
+     "command": "/gaby book pay {p} 210DCB149B2395C5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "66DB02A96B9378FB",
+   "x": 1.5,
+   "y": 8.4,
+   "icon": {
+    "id": "minecraft:cake",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_given",
+     "value": 100000,
+     "id": "6E364A1F14AB2DB4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "6278B44A0B19FCF4",
+     "type": "command",
+     "command": "/gaby book pay {p} 66DB02A96B9378FB",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "210DCB149B2395C5"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "3A62E6FAA6D32FE5",
+   "x": 3.0,
+   "y": 8.4,
+   "icon": {
+    "id": "minecraft:golden_apple",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_given",
+     "value": 1000000,
+     "id": "5106D70D5428B36D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "23D1770C4BBCF9B8",
+     "type": "command",
+     "command": "/gaby book pay {p} 3A62E6FAA6D32FE5",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "66DB02A96B9378FB"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "5E03213CC7842327",
+   "x": 4.5,
+   "y": 8.4,
+   "icon": {
+    "id": "minecraft:enchanted_golden_apple",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_given",
+     "value": 10000000,
+     "id": "4EADDAC9097DBB18"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1374CAD9E8791A6B",
+     "type": "command",
+     "command": "/gaby book pay {p} 5E03213CC7842327",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3A62E6FAA6D32FE5"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1C307A6C49D787D9",
+   "x": 0.0,
+   "y": 9.6,
+   "icon": {
+    "id": "minecraft:bowl",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/commerce/beggar",
+     "criterion": "",
+     "id": "190F12982C7BE25C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "18476FD0E692B54A",
+     "type": "command",
+     "command": "/gaby book pay {p} 1C307A6C49D787D9",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "26211BAB77640241",
+   "x": 1.5,
+   "y": 9.6,
+   "icon": {
+    "id": "minecraft:golden_carrot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:money_received",
+     "value": 1000000,
+     "id": "27296A41E63C9FE1"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "70F36C2FFE5E435E",
+     "type": "command",
+     "command": "/gaby book pay {p} 26211BAB77640241",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "5EA3AA2F5A5C6CB7",
+   "x": 3.0,
+   "y": 9.6,
+   "icon": {
+    "id": "minecraft:rotten_flesh",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/commerce/indebted",
+     "criterion": "",
+     "id": "5EC2C0B7C44F3E78"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "3975B849786A0440",
+     "type": "command",
+     "command": "/gaby book pay {p} 5EA3AA2F5A5C6CB7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  }
+ ]
+}
