@@ -82,7 +82,7 @@ hash = "51bfb42bddf91fbd6515c712003b16ad35584b4187447427ce82630b0156b567"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cobblemon.snbt"
-hash = "7319cffaf59ffdc1ac6a929fdb3e0f6b9268eff0d5288916dd45e8fad918e4cf"
+hash = "06366ebd14eeb56137e49a8ec51f1c91c6a9760a968c00535e9a1757e8cb7905"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/commerce.snbt"
@@ -90,23 +90,23 @@ hash = "dd920e6f6e32eef5de0e9ac47a12ca6f59118e78008890ad290a0c0bbba6a1f6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/culinary.snbt"
-hash = "2027a2c36a15c4ae257b886bd8f3257c1fba0d401ed8e035191b106b9fe2d99d"
+hash = "c69e6b4f6573f844a69d2a2fe2661639f3d89327c10438cc4fa11eae1c2e7c65"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/exploration.snbt"
-hash = "052685ffc6323a85ed9d8aaaeddc959610377b9d474202f314a8b14965738187"
+hash = "b97e2239340f7f9af6025500bb5677482d518bf55d37c546eb9808f1a59ede83"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gyms.snbt"
-hash = "6106bdf146fc17500af6862bbee43c31c11c8d1bd89fc250a521de12f64dae0f"
+hash = "da2f205dae0fb7a2e2a443a9d12f5e6a7ba927fb476e0aeab95df8fca085ece0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/industry.snbt"
-hash = "02acca434681a2f04dc6e8a93272a72a45d0672e7028d0c404e1b6ae0df9d461"
+hash = "af54af3bf6172039d7f6d6960f68c63d02a979b3be7124593b41975050c5a869"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/minecraft.snbt"
-hash = "c33291ef370d8f6b7e7e1606a260f75e115f9fa17d787aa8edd0dfe6e0773c89"
+hash = "9b5d1d4236549e1277edd20e9ab376783e9d1e9f3a9016e19edafae7b49858d7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/town.snbt"
@@ -11458,12 +11458,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "5e52ca1693dd03bacd7c708ecadb70f7523b995c7a0c189dfb7a3d71aad2abc6"
+hash = "0516788de53dea95fe51344a4062072bccc5ff3f7b60c0e261ee47ef66baed16"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "2cecb7a57c4522e23d919fb521f2b7e1456b88f85c9b6330796a90e456167aaa"
+hash = "cd052f1b532931f47f4b083093523d0afc545ae7f9b2b6140ae352a79fbae277"
 metafile = true
 
 [[files]]
@@ -11483,7 +11483,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "5e76aa8c7d9a609355d862f3fa667c94132f3a8cf59331f2a403647fb0f70753"
+hash = "e083217ecb6b231db4ffaa3631c2f585f2c68e5b445364b7d1ba57ea0b616fee"
 metafile = true
 
 [[files]]

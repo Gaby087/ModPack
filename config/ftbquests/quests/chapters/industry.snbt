@@ -840,7 +840,8 @@
     "6B9523CA6BA3EA52"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "24102E8EA85A04FC",
@@ -874,7 +875,8 @@
    ],
    "dependencies": [
     "6B9523CA6BA3EA52"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "43097513DDEE0B05",
@@ -1036,7 +1038,8 @@
    ],
    "dependencies": [
     "3BBC545EBD1B32E6"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "772BB27F61A2852D",
@@ -2211,7 +2214,8 @@
    ],
    "dependencies": [
     "24D76E6BDBD7B706"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "31F8B64ED9BD0D68",
@@ -2255,7 +2259,8 @@
    ],
    "dependencies": [
     "6A5AA02494340D85"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "7171A2CD90646723",
@@ -2299,7 +2304,8 @@
    ],
    "dependencies": [
     "6A5AA02494340D85"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "31100B90ECCB89AA",
@@ -2377,7 +2383,8 @@
    ],
    "dependencies": [
     "50D96E6B1990048C"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "2721DADDFAC02A4E",
@@ -2411,7 +2418,8 @@
    ],
    "dependencies": [
     "50D96E6B1990048C"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "2915882E194EDCC2",
@@ -2477,7 +2485,8 @@
    ],
    "dependencies": [
     "5988B2296BF6D03D"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "75658E2EBF0C84A8",
@@ -2975,7 +2984,8 @@
    ],
    "dependencies": [
     "3BBC545EBD1B32E6"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "4C53AEF6424A4648",
@@ -3253,7 +3263,8 @@
     "6824376BC476315C"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "1C4AF57DDE3E4B01",
@@ -3413,7 +3424,8 @@
     "3606AE0F402C0C0D"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "600E9E483AF4E786",
@@ -3541,7 +3553,8 @@
     "772BB27F61A2852D"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "266847D6C0016FD5",
@@ -3693,7 +3706,8 @@
     "26DF5B09C41CAD1F"
    ],
    "shape": "gear",
-   "size": 1.5
+   "size": 1.5,
+   "hide_dependency_lines": true
   },
   {
    "id": "357F5CFBD91DAF47",
@@ -3727,7 +3741,8 @@
    ],
    "dependencies": [
     "744E3B10FA6C6587"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "2F14DB2ACD864F29",
@@ -5105,7 +5120,8 @@
    ],
    "shape": "diamond",
    "size": 1.2,
-   "hide_text_until_complete": true
+   "hide_text_until_complete": true,
+   "hide_dependency_lines": true
   },
   {
    "id": "25CCADBCA6DF9B1D",
@@ -5933,7 +5949,8 @@
    ],
    "dependencies": [
     "1F176F3B34EAF89D"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "7EEC26C6BDD0929A",
@@ -5977,7 +5994,8 @@
    ],
    "dependencies": [
     "1F176F3B34EAF89D"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "59309F00572DF65D",
@@ -6052,7 +6070,8 @@
    "dependencies": [
     "37F6F8526051BFBD",
     "19B738C6A012C58B"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "7CEA84644D774ED3",
@@ -6110,7 +6129,8 @@
    ],
    "dependencies": [
     "7CEA84644D774ED3"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "18314F71BADBC5E3",
@@ -7008,12 +7028,13 @@
    ],
    "dependencies": [
     "7CEA84644D774ED3"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "63FCEF69961F16AC",
    "x": 39.0,
-   "y": 16.8,
+   "y": 18.0,
    "icon": {
     "id": "modernfoundry:battlesign",
     "count": 1
@@ -7040,12 +7061,13 @@
     "342EDABE9E2FCE64"
    ],
    "shape": "gear",
-   "size": 1.5
+   "size": 1.5,
+   "hide_dependency_lines": true
   },
   {
    "id": "5B9B12B63BD5FF22",
    "x": 39.0,
-   "y": 18.0,
+   "y": 19.2,
    "icon": {
     "id": "modernfoundry:blood_slime_sapling",
     "count": 1
@@ -7072,12 +7094,13 @@
     "342EDABE9E2FCE64"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "57EE49E1FF1473AB",
    "x": 39.0,
-   "y": 19.2,
+   "y": 20.4,
    "icon": {
     "id": "minecraft:clay_ball",
     "count": 1
@@ -7104,12 +7127,13 @@
     "342EDABE9E2FCE64"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "1C693E512B10FEE5",
    "x": 39.0,
-   "y": 20.4,
+   "y": 21.6,
    "icon": {
     "id": "modernfoundry:earth_slime_sapling",
     "count": 1
@@ -7136,12 +7160,13 @@
     "342EDABE9E2FCE64"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "63421B6EC3A415D1",
    "x": 39.0,
-   "y": 21.6,
+   "y": 22.8,
    "icon": {
     "id": "modernfoundry:ender_slime_sapling",
     "count": 1
@@ -7168,12 +7193,13 @@
     "342EDABE9E2FCE64"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "29211409FB3FDD6B",
    "x": 39.0,
-   "y": 22.8,
+   "y": 24.0,
    "icon": {
     "id": "modernfoundry:piggy_backpack",
     "count": 1
@@ -7200,12 +7226,13 @@
     "342EDABE9E2FCE64"
    ],
    "shape": "diamond",
-   "size": 1.2
+   "size": 1.2,
+   "hide_dependency_lines": true
   },
   {
    "id": "7D2D691F8C56C313",
    "x": 39.0,
-   "y": 24.0,
+   "y": 16.8,
    "icon": {
     "id": "modernfoundry:sky_slime_sapling",
     "count": 1
@@ -7237,7 +7264,7 @@
   {
    "id": "340ABE5111A4BF83",
    "x": 40.5,
-   "y": 24.0,
+   "y": 16.8,
    "icon": {
     "id": "modernfoundry:slimy_chestplate",
     "count": 1
@@ -7269,7 +7296,7 @@
   {
    "id": "4AB15C846CF151ED",
    "x": 42.0,
-   "y": 24.0,
+   "y": 16.8,
    "icon": {
     "id": "modernfoundry:slime_helmet",
     "count": 1
@@ -7326,7 +7353,8 @@
    ],
    "dependencies": [
     "342EDABE9E2FCE64"
-   ]
+   ],
+   "hide_dependency_lines": true
   },
   {
    "id": "408E057C8B69D7B0",
@@ -7363,7 +7391,8 @@
     "1B05CA9265975440"
    ],
    "shape": "gear",
-   "size": 1.5
+   "size": 1.5,
+   "hide_dependency_lines": true
   }
  ]
 }
