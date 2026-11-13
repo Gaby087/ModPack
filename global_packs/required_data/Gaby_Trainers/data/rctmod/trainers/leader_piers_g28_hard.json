@@ -1,0 +1,192 @@
+{
+ "name": "Leader Piers",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "scrafty",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "drainpunch",
+    "knockoff",
+    "bulkup",
+    "fakeout"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "malamar",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "superpower",
+    "knockoff",
+    "psychocut",
+    "rest"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "contrary",
+   "heldItem": [
+    "chesto_berry"
+   ]
+  },
+  {
+   "species": "skuntank",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "crunch",
+    "poisonjab",
+    "suckerpunch",
+    "fireblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "aftermath",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "toxicroak",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "drainpunch",
+    "gunkshot",
+    "suckerpunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "dryskin",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "grimmsnarl",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "spiritbreak",
+    "darkestlariat",
+    "thunderwave",
+    "reflect"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "prankster",
+   "heldItem": [
+    "light_clay"
+   ]
+  },
+  {
+   "species": "obstagoon",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "obstruct",
+    "knockoff",
+    "closecombat",
+    "partingshot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "mega_showdown:scraftinite"
+   ]
+  }
+ ]
+}

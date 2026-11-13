@@ -1,0 +1,192 @@
+{
+ "name": "Leader Cilan, Chili and Cress",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "simisage",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "nastyplot",
+    "gigadrain",
+    "focusblast",
+    "grassknot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "gluttony",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "simisear",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "nastyplot",
+    "fireblast",
+    "focusblast",
+    "grassknot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "blaze",
+   "heldItem": [
+    "choice_specs"
+   ]
+  },
+  {
+   "species": "simipour",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "nastyplot",
+    "hydropump",
+    "icebeam",
+    "focusblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "torrent",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "serperior",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "leafstorm",
+    "glare",
+    "dragonpulse",
+    "synthesis"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "contrary",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "emboar",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "superpower",
+    "headsmash",
+    "wildcharge"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "reckless",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "samurott",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "razorshell",
+    "megahorn",
+    "aquajet",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "shellarmor",
+   "heldItem": [
+    "mega_showdown:normalium_z"
+   ]
+  }
+ ]
+}

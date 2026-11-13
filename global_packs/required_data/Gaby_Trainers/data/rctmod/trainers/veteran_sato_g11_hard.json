@@ -1,0 +1,192 @@
+{
+ "name": "Veteran Sato",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "charizard",
+   "level": 99,
+   "nature": "timid",
+   "moveset": [
+    "flamethrower",
+    "airslash",
+    "solarbeam",
+    "focusblast"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solarpower",
+   "heldItem": [
+    "cobblemon:leftovers"
+   ]
+  },
+  {
+   "species": "darmanitan",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "uturn",
+    "earthquake",
+    "rockslide"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sheerforce",
+   "heldItem": [
+    "cobblemon:life_orb"
+   ]
+  },
+  {
+   "species": "camerupt",
+   "level": 99,
+   "nature": "modest",
+   "moveset": [
+    "eruption",
+    "earthpower",
+    "fireblast",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solidrock",
+   "heldItem": [
+    "cobblemon:sitrus_berry"
+   ]
+  },
+  {
+   "species": "houndoom",
+   "level": 99,
+   "nature": "timid",
+   "moveset": [
+    "darkpulse",
+    "fireblast",
+    "nastyplot",
+    "sludgebomb"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "cobblemon:focus_sash"
+   ]
+  },
+  {
+   "species": "rapidash",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "flareblitz",
+    "wildcharge",
+    "drillrun",
+    "morningsun"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "cobblemon:expert_belt"
+   ]
+  },
+  {
+   "species": "infernape",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "flareblitz",
+    "uturn",
+    "machpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "ironfist",
+   "heldItem": [
+    "cobblemon:lum_berry"
+   ]
+  }
+ ]
+}

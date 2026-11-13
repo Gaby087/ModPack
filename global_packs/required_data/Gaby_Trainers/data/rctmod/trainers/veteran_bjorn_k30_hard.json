@@ -1,0 +1,192 @@
+{
+ "name": "Veteran Bjorn",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "lapras",
+   "level": 99,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "hydropump",
+    "thunderbolt",
+    "icebeam"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb",
+   "heldItem": [
+    "cobblemon:leftovers"
+   ]
+  },
+  {
+   "species": "frosmoth",
+   "level": 99,
+   "nature": "timid",
+   "moveset": [
+    "quiverdance",
+    "icebeam",
+    "bugbuzz",
+    "gigadrain"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "icescales",
+   "heldItem": [
+    "cobblemon:life_orb"
+   ]
+  },
+  {
+   "species": "vanilluxe",
+   "level": 99,
+   "nature": "modest",
+   "moveset": [
+    "blizzard",
+    "freezedry",
+    "flashcannon",
+    "autotomize"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning",
+   "heldItem": [
+    "cobblemon:sitrus_berry"
+   ]
+  },
+  {
+   "species": "glalie",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "iceshard",
+    "earthquake",
+    "crunch",
+    "explosion"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "innerfocus",
+   "heldItem": [
+    "cobblemon:focus_sash"
+   ]
+  },
+  {
+   "species": "arctozolt",
+   "level": 99,
+   "nature": "adamant",
+   "moveset": [
+    "boltbeak",
+    "iciclecrash",
+    "lowkick",
+    "stoneedge"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "voltabsorb",
+   "heldItem": [
+    "cobblemon:expert_belt"
+   ]
+  },
+  {
+   "species": "cloyster",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "shellsmash",
+    "iceshard"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "skilllink",
+   "heldItem": [
+    "cobblemon:lum_berry"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "name": "Boarder Shaun",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "chienpao",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "iciclecrash",
+    "suckerpunch",
+    "sacredsword",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swordofruin",
+   "heldItem": [
+    "cobblemon:leftovers"
+   ]
+  },
+  {
+   "species": "cetitan",
+   "level": 99,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "heavyslam",
+    "earthquake",
+    "bellydrum"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "cobblemon:life_orb"
+   ]
+  },
+  {
+   "species": "lapras",
+   "level": 99,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "hydropump",
+    "thunderbolt",
+    "icebeam"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb",
+   "heldItem": [
+    "cobblemon:sitrus_berry"
+   ]
+  },
+  {
+   "species": "arctozolt",
+   "level": 99,
+   "nature": "adamant",
+   "moveset": [
+    "boltbeak",
+    "iciclecrash",
+    "lowkick",
+    "stoneedge"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "voltabsorb",
+   "heldItem": [
+    "cobblemon:focus_sash"
+   ]
+  },
+  {
+   "species": "cloyster",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "iciclespear",
+    "rockblast",
+    "shellsmash",
+    "iceshard"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "skilllink",
+   "heldItem": [
+    "cobblemon:expert_belt"
+   ]
+  },
+  {
+   "species": "sawk",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "icepunch",
+    "knockoff",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moldbreaker",
+   "heldItem": [
+    "cobblemon:lum_berry"
+   ]
+  }
+ ]
+}

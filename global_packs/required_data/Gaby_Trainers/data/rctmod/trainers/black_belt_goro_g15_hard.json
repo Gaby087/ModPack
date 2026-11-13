@@ -1,0 +1,192 @@
+{
+ "name": "Black Belt Goro",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "breloom",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "spore",
+    "machpunch",
+    "bulletseed",
+    "rocktomb"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "technician",
+   "heldItem": [
+    "cobblemon:leftovers"
+   ]
+  },
+  {
+   "species": "scrafty",
+   "level": 99,
+   "nature": "careful",
+   "moveset": [
+    "closecombat",
+    "knockoff",
+    "bulkup",
+    "drainpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "cobblemon:life_orb"
+   ]
+  },
+  {
+   "species": "passimian",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "uturn",
+    "knockoff",
+    "gunkshot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "defiant",
+   "heldItem": [
+    "cobblemon:sitrus_berry"
+   ]
+  },
+  {
+   "species": "hitmontop",
+   "level": 99,
+   "nature": "adamant",
+   "moveset": [
+    "closecombat",
+    "suckerpunch",
+    "rapidspin",
+    "stoneedge"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate",
+   "heldItem": [
+    "cobblemon:focus_sash"
+   ]
+  },
+  {
+   "species": "sawk",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "closecombat",
+    "knockoff",
+    "icepunch",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sturdy",
+   "heldItem": [
+    "cobblemon:expert_belt"
+   ]
+  },
+  {
+   "species": "quaquaval",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "aquastep",
+    "closecombat",
+    "bravebird",
+    "rapidspin"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "moxie",
+   "heldItem": [
+    "cobblemon:lum_berry"
+   ]
+  }
+ ]
+}

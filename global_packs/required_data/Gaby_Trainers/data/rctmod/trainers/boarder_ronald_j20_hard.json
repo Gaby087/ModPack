@@ -1,0 +1,192 @@
+{
+ "name": "Boarder Ronald",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:hyper_potion",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "lapras",
+   "level": 99,
+   "nature": "modest",
+   "moveset": [
+    "freezedry",
+    "hydropump",
+    "thunderbolt",
+    "icebeam"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "waterabsorb",
+   "heldItem": [
+    "cobblemon:leftovers"
+   ]
+  },
+  {
+   "species": "baxcalibur",
+   "level": 99,
+   "nature": "adamant",
+   "moveset": [
+    "glaiverush",
+    "iciclecrash",
+    "earthquake",
+    "dragondance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thermalexchange",
+   "heldItem": [
+    "cobblemon:life_orb"
+   ]
+  },
+  {
+   "species": "arctozolt",
+   "level": 99,
+   "nature": "adamant",
+   "moveset": [
+    "boltbeak",
+    "iciclecrash",
+    "lowkick",
+    "stoneedge"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "voltabsorb",
+   "heldItem": [
+    "cobblemon:sitrus_berry"
+   ]
+  },
+  {
+   "species": "vanilluxe",
+   "level": 99,
+   "nature": "modest",
+   "moveset": [
+    "blizzard",
+    "freezedry",
+    "flashcannon",
+    "autotomize"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "snowwarning",
+   "heldItem": [
+    "cobblemon:focus_sash"
+   ]
+  },
+  {
+   "species": "cetitan",
+   "level": 99,
+   "nature": "adamant",
+   "moveset": [
+    "iciclecrash",
+    "heavyslam",
+    "earthquake",
+    "bellydrum"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "cobblemon:expert_belt"
+   ]
+  },
+  {
+   "species": "medicham",
+   "level": 99,
+   "nature": "jolly",
+   "moveset": [
+    "highjumpkick",
+    "zenheadbutt",
+    "icepunch",
+    "bulletpunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "purepower",
+   "heldItem": [
+    "cobblemon:lum_berry"
+   ]
+  }
+ ]
+}

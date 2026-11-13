@@ -283,7 +283,7 @@
    "tasks": [
     {
      "type": "stat",
-     "stat": "gaby_core:expeditions",
+     "stat": "gaby_core:dungeons",
      "value": 1,
      "id": "1AD3D6A8A470D53F"
     }
@@ -311,7 +311,7 @@
    "tasks": [
     {
      "type": "stat",
-     "stat": "gaby_core:expeditions",
+     "stat": "gaby_core:dungeons",
      "value": 10,
      "id": "212919BE4700B064"
     }
@@ -343,7 +343,7 @@
    "tasks": [
     {
      "type": "stat",
-     "stat": "gaby_core:expeditions",
+     "stat": "gaby_core:dungeons",
      "value": 30,
      "id": "2F338B77538BDED5"
     }
@@ -375,7 +375,7 @@
    "tasks": [
     {
      "type": "stat",
-     "stat": "gaby_core:expeditions",
+     "stat": "gaby_core:dungeons",
      "value": 100,
      "id": "4F7BF126B874E8CA"
     }
@@ -407,7 +407,7 @@
    "tasks": [
     {
      "type": "stat",
-     "stat": "gaby_core:expeditions",
+     "stat": "gaby_core:dungeons",
      "value": 33,
      "id": "5EEBC56B26D1C7CD"
     }

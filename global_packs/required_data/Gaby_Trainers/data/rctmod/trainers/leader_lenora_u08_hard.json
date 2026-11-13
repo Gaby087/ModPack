@@ -1,0 +1,192 @@
+{
+ "name": "Leader Lenora",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "stoutland",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "return",
+    "superpower",
+    "crunch",
+    "wildcharge"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "scrappy",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "watchog",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "hypnosis",
+    "superfang",
+    "knockoff",
+    "hyperfang"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "analytic",
+   "heldItem": [
+    "focus_sash"
+   ]
+  },
+  {
+   "species": "cinccino",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "tailslap",
+    "bulletseed",
+    "rockblast",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "skilllink",
+   "heldItem": [
+    "kings_rock"
+   ]
+  },
+  {
+   "species": "bouffalant",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "headcharge",
+    "earthquake",
+    "megahorn",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sapsipper",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "braviary",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "bravebird",
+    "closecombat",
+    "rockslide",
+    "bulkup"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "defiant",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "snorlax",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "bodyslam",
+    "curse",
+    "rest",
+    "sleeptalk"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "mega_showdown:audinite"
+   ]
+  }
+ ]
+}

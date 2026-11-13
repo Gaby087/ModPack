@@ -1,0 +1,180 @@
+{
+ "name": "Leader Flannery",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "ninetales",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "fireblast",
+    "solarbeam",
+    "nastyplot",
+    "willowisp"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "drought"
+  },
+  {
+   "species": "camerupt",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "eruption",
+    "earthpower",
+    "fireblast",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "solidrock"
+  },
+  {
+   "species": "arcanine",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "flareblitz",
+    "extremespeed",
+    "closecombat",
+    "wildcharge"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "intimidate"
+  },
+  {
+   "species": "magmortar",
+   "level": 100,
+   "nature": "modest",
+   "moveset": [
+    "fireblast",
+    "thunderbolt",
+    "focusblast",
+    "psychic"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flamebody"
+  },
+  {
+   "species": "houndoom",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "darkpulse",
+    "fireblast",
+    "nastyplot",
+    "sludgebomb"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "flashfire",
+   "heldItem": [
+    "life_orb"
+   ]
+  },
+  {
+   "species": "torkoal",
+   "level": 100,
+   "nature": "quiet",
+   "moveset": [
+    "eruption",
+    "solarbeam",
+    "rapidspin",
+    "stealthrock"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spa": 252,
+    "spd": 4
+   },
+   "aspects": [],
+   "ability": "drought",
+   "heldItem": [
+    "mega_showdown:cameruptite"
+   ]
+  }
+ ]
+}

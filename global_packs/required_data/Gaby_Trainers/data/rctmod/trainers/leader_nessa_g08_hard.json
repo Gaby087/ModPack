@@ -1,0 +1,192 @@
+{
+ "name": "Leader Nessa",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "pelipper",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "hurricane",
+    "uturn",
+    "roost"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "drizzle",
+   "heldItem": [
+    "damp_rock"
+   ]
+  },
+  {
+   "species": "barraskewda",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "liquidation",
+    "closecombat",
+    "psychicfangs",
+    "aquajet"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "choice_band"
+   ]
+  },
+  {
+   "species": "golisopod",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "firstimpression",
+    "liquidation",
+    "knockoff",
+    "leechlife"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "emergencyexit",
+   "heldItem": [
+    "assault_vest"
+   ]
+  },
+  {
+   "species": "inteleon",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "hydropump",
+    "icebeam",
+    "darkpulse",
+    "uturn"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "sniper",
+   "heldItem": [
+    "scope_lens"
+   ]
+  },
+  {
+   "species": "toxapex",
+   "level": 100,
+   "nature": "bold",
+   "moveset": [
+    "scald",
+    "recover",
+    "toxicspikes",
+    "haze"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "def": 252,
+    "spa": 4
+   },
+   "aspects": [],
+   "ability": "regenerator",
+   "heldItem": [
+    "black_sludge"
+   ]
+  },
+  {
+   "species": "drednaw",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "liquidation",
+    "stoneedge",
+    "shellsmash",
+    "superpower"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "swiftswim",
+   "heldItem": [
+    "mega_showdown:waterium_z"
+   ]
+  }
+ ]
+}

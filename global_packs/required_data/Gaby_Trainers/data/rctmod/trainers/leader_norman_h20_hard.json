@@ -1,0 +1,186 @@
+{
+ "name": "Leader Norman",
+ "ai": {
+  "type": "rb",
+  "data": {}
+ },
+ "battleRules": {
+  "maxItemUses": 2
+ },
+ "bag": [
+  {
+   "item": "cobblemon:full_restore",
+   "quantity": 2
+  }
+ ],
+ "team": [
+  {
+   "species": "kangaskhan",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "fakeout",
+    "doubleedge",
+    "suckerpunch",
+    "earthquake"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "scrappy"
+  },
+  {
+   "species": "porygonz",
+   "level": 100,
+   "nature": "timid",
+   "moveset": [
+    "triattack",
+    "shadowball",
+    "thunderbolt",
+    "nastyplot"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "spa": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "adaptability",
+   "heldItem": [
+    "choice_scarf"
+   ]
+  },
+  {
+   "species": "snorlax",
+   "level": 100,
+   "nature": "careful",
+   "moveset": [
+    "bodyslam",
+    "earthquake",
+    "curse",
+    "rest"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "hp": 252,
+    "spd": 252,
+    "atk": 4
+   },
+   "aspects": [],
+   "ability": "thickfat",
+   "heldItem": [
+    "leftovers"
+   ]
+  },
+  {
+   "species": "ursaluna",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "headlongrush",
+    "facade",
+    "crunch",
+    "swordsdance"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "guts",
+   "heldItem": [
+    "flame_orb"
+   ]
+  },
+  {
+   "species": "lopunny",
+   "level": 100,
+   "nature": "jolly",
+   "moveset": [
+    "fakeout",
+    "highjumpkick",
+    "return",
+    "icepunch"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "limber"
+  },
+  {
+   "species": "slaking",
+   "level": 100,
+   "nature": "adamant",
+   "moveset": [
+    "gigaimpact",
+    "earthquake",
+    "firepunch",
+    "slackoff"
+   ],
+   "ivs": {
+    "hp": 31,
+    "atk": 31,
+    "def": 31,
+    "spa": 31,
+    "spd": 31,
+    "spe": 31
+   },
+   "evs": {
+    "atk": 252,
+    "spe": 252,
+    "hp": 4
+   },
+   "aspects": [],
+   "ability": "truant",
+   "heldItem": [
+    "mega_showdown:kangaskhanite"
+   ]
+  }
+ ]
+}

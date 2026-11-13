@@ -1,0 +1,8 @@
+name = "cobblemoncinematiccombat-neoforge-1.0.1-beta.1"
+filename = "cobblemoncinematiccombat-neoforge-1.0.1-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7yUiclGw/versions/SgMkk4TR/cobblemoncinematiccombat-neoforge-1.0.1-beta.1.jar"
+hash-format = "sha1"
+hash = "01fc26c38aded5028f4ebf118a811a054b651063"

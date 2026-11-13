@@ -1,0 +1,8 @@
+name = "envelope-neoforge-1.21.1-0.8.2"
+filename = "envelope-neoforge-1.21.1-0.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bINSbhYK/versions/6mpcJy5P/envelope-neoforge-1.21.1-0.8.2.jar"
+hash-format = "sha1"
+hash = "46ab43001206f6f1f99f5aa29e1300fbaafb6a28"
