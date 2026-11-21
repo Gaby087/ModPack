@@ -1591,23 +1591,23 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/cobbledollars/cobbledollars/shop/default.json"
-hash = "7549e86b4c0b3bca0380864b5af6f8d65079ca43fa07815982a6882d4bb4aefa"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/gaby_core/cobbledollars/shop/battle_shop.json"
-hash = "7549e86b4c0b3bca0380864b5af6f8d65079ca43fa07815982a6882d4bb4aefa"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/gaby_core/cobbledollars/shop/department_store.json"
-hash = "7549e86b4c0b3bca0380864b5af6f8d65079ca43fa07815982a6882d4bb4aefa"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/gaby_core/cobbledollars/shop/herbalist.json"
-hash = "7549e86b4c0b3bca0380864b5af6f8d65079ca43fa07815982a6882d4bb4aefa"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/gaby_core/cobbledollars/shop/poke_mart.json"
-hash = "7549e86b4c0b3bca0380864b5af6f8d65079ca43fa07815982a6882d4bb4aefa"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/pack.mcmeta"
@@ -13671,8 +13671,13 @@ hash = "59a007c7544d81e3ec12136e12e5cf8bdd814716b9a927014489018f35dc770a"
 metafile = true
 
 [[files]]
+file = "mods/gaby-battleui-0-8-0.pw.toml"
+hash = "6f33574183ba187a697ad06ad6982929d2877b12fdc20560cc195a7d9c524938"
+metafile = true
+
+[[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "35b16aef40973ab9bd37605d43359476c329041d7c1f6e892587339472dab539"
+hash = "ba5c5f513afee73d87bd6e5a00875c45c7b7d544f0d16741b5324045e5913829"
 metafile = true
 
 [[files]]
@@ -13692,7 +13697,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "b0d917b99a5e2fe17058d0bc880b314dd04bb975fb98464e8ff652134008bb52"
+hash = "326df9df90054f9473f2455297c9478ba6582c50baae6780512a2265d6530c06"
 metafile = true
 
 [[files]]

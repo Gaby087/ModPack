@@ -186,7 +186,52 @@
   ]
  },
  {
-  "name": "Battle Items",
+  "name": "Breeding",
+  "offers": [
+   {
+    "item": "cobblemon:destiny_knot",
+    "price": "30000"
+   },
+   {
+    "item": "cobblemon:power_anklet",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_band",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_belt",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_bracer",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_lens",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:power_weight",
+    "price": "10000"
+   },
+   {
+    "item": "cobblemon:everstone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:ability_capsule",
+    "price": "25000"
+   },
+   {
+    "item": "cobblemon:ability_patch",
+    "price": "80000"
+   }
+  ]
+ },
+ {
+  "name": "Battle",
   "offers": [
    {
     "item": "cobblemon:x_attack",
@@ -219,180 +264,7 @@
    {
     "item": "cobblemon:guard_spec",
     "price": "1500"
-   }
-  ]
- },
- {
-  "name": "Evolution",
-  "offers": [
-   {
-    "item": "cobblemon:fire_stone",
-    "price": "3000"
    },
-   {
-    "item": "cobblemon:water_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:thunder_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:leaf_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:moon_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:sun_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:shiny_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:dusk_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:dawn_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:ice_stone",
-    "price": "3000"
-   },
-   {
-    "item": "cobblemon:link_cable",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:everstone",
-    "price": "3000"
-   }
-  ]
- },
- {
-  "name": "Vitamins",
-  "offers": [
-   {
-    "item": "cobblemon:pp_up",
-    "price": "10000"
-   }
-  ]
- },
- {
-  "name": "Experience",
-  "offers": [
-   {
-    "item": "cobblemon:exp_candy_xs",
-    "price": "300"
-   },
-   {
-    "item": "cobblemon:exp_candy_s",
-    "price": "800"
-   },
-   {
-    "item": "cobblemon:exp_candy_m",
-    "price": "2000"
-   },
-   {
-    "item": "cobblemon:exp_candy_l",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:exp_candy_xl",
-    "price": "12000"
-   },
-   {
-    "item": "cobblemon:rare_candy",
-    "price": "6000"
-   }
-  ]
- },
- {
-  "name": "Type Boosters",
-  "offers": [
-   {
-    "item": "cobblemon:charcoal_stick",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:mystic_water",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:magnet",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:miracle_seed",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:never_melt_ice",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:black_belt",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:poison_barb",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:soft_sand",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:sharp_beak",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:twisted_spoon",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:silver_powder",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:hard_stone",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:spell_tag",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:dragon_fang",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:black_glasses",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:metal_coat",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:silk_scarf",
-    "price": "5000"
-   },
-   {
-    "item": "cobblemon:fairy_feather",
-    "price": "5000"
-   }
-  ]
- },
- {
-  "name": "Held Items",
-  "offers": [
    {
     "item": "cobblemon:leftovers",
     "price": "15000"
@@ -464,38 +336,226 @@
    {
     "item": "cobblemon:air_balloon",
     "price": "6000"
+   },
+   {
+    "item": "cobblemon:charcoal_stick",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:mystic_water",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:magnet",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:miracle_seed",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:never_melt_ice",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:black_belt",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:poison_barb",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:soft_sand",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:sharp_beak",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:twisted_spoon",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:silver_powder",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:hard_stone",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:spell_tag",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:dragon_fang",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:black_glasses",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:metal_coat",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:silk_scarf",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:fairy_feather",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:normal_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:fire_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:water_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:electric_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:grass_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:ice_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:fighting_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:poison_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:ground_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:flying_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:psychic_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:bug_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:rock_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:ghost_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:dragon_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:dark_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:steel_gem",
+    "price": "1500"
+   },
+   {
+    "item": "cobblemon:fairy_gem",
+    "price": "1500"
    }
   ]
  },
  {
-  "name": "Breeding",
+  "name": "Training",
   "offers": [
    {
-    "item": "cobblemon:destiny_knot",
-    "price": "30000"
+    "item": "cobblemon:exp_candy_xs",
+    "price": "300"
    },
    {
-    "item": "cobblemon:power_anklet",
-    "price": "10000"
+    "item": "cobblemon:exp_candy_s",
+    "price": "800"
    },
    {
-    "item": "cobblemon:power_band",
-    "price": "10000"
+    "item": "cobblemon:exp_candy_m",
+    "price": "2000"
    },
    {
-    "item": "cobblemon:power_belt",
-    "price": "10000"
+    "item": "cobblemon:exp_candy_l",
+    "price": "5000"
    },
    {
-    "item": "cobblemon:power_bracer",
-    "price": "10000"
+    "item": "cobblemon:exp_candy_xl",
+    "price": "12000"
    },
    {
-    "item": "cobblemon:power_lens",
-    "price": "10000"
+    "item": "cobblemon:rare_candy",
+    "price": "6000"
    },
    {
-    "item": "cobblemon:power_weight",
+    "item": "cobblemon:fire_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:water_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:thunder_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:leaf_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:moon_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:sun_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:shiny_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:dusk_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:dawn_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:ice_stone",
+    "price": "3000"
+   },
+   {
+    "item": "cobblemon:link_cable",
+    "price": "5000"
+   },
+   {
+    "item": "cobblemon:pp_up",
     "price": "10000"
    },
    {
@@ -509,12 +569,7 @@
    {
     "item": "cobblemon:soothe_bell",
     "price": "8000"
-   }
-  ]
- },
- {
-  "name": "Mints",
-  "offers": [
+   },
    {
     "item": "cobblemon:lonely_mint",
     "price": "10000"
@@ -598,19 +653,6 @@
    {
     "item": "cobblemon:serious_mint",
     "price": "10000"
-   }
-  ]
- },
- {
-  "name": "Abilities",
-  "offers": [
-   {
-    "item": "cobblemon:ability_capsule",
-    "price": "25000"
-   },
-   {
-    "item": "cobblemon:ability_patch",
-    "price": "80000"
    }
   ]
  },
@@ -892,12 +934,7 @@
    {
     "item": "cobblemon:custap_berry",
     "price": "8000"
-   }
-  ]
- },
- {
-  "name": "Garden",
-  "offers": [
+   },
    {
     "item": "cobblemon:growth_mulch",
     "price": "300"
@@ -957,79 +994,1057 @@
   ]
  },
  {
-  "name": "Gems",
+  "name": "Earth & Stone",
   "offers": [
    {
-    "item": "cobblemon:normal_gem",
+    "item": "minecraft:dirt",
+    "price": "8"
+   },
+   {
+    "item": "minecraft:gravel",
+    "price": "10"
+   },
+   {
+    "item": "minecraft:cobblestone",
+    "price": "10"
+   },
+   {
+    "item": "minecraft:stone",
+    "price": "14"
+   },
+   {
+    "item": "minecraft:smooth_stone",
+    "price": "18"
+   },
+   {
+    "item": "minecraft:stone_bricks",
+    "price": "18"
+   },
+   {
+    "item": "minecraft:andesite",
+    "price": "12"
+   },
+   {
+    "item": "minecraft:diorite",
+    "price": "12"
+   },
+   {
+    "item": "minecraft:granite",
+    "price": "12"
+   },
+   {
+    "item": "minecraft:tuff",
+    "price": "14"
+   },
+   {
+    "item": "minecraft:calcite",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:cobbled_deepslate",
+    "price": "14"
+   },
+   {
+    "item": "minecraft:deepslate",
+    "price": "16"
+   },
+   {
+    "item": "minecraft:deepslate_bricks",
+    "price": "22"
+   },
+   {
+    "item": "minecraft:clay",
+    "price": "30"
+   },
+   {
+    "item": "minecraft:bricks",
+    "price": "40"
+   },
+   {
+    "item": "minecraft:mud_bricks",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:moss_block",
+    "price": "30"
+   }
+  ]
+ },
+ {
+  "name": "Wood",
+  "offers": [
+   {
+    "item": "minecraft:oak_log",
+    "price": "60"
+   },
+   {
+    "item": "minecraft:spruce_log",
+    "price": "60"
+   },
+   {
+    "item": "minecraft:birch_log",
+    "price": "60"
+   },
+   {
+    "item": "minecraft:jungle_log",
+    "price": "100"
+   },
+   {
+    "item": "minecraft:acacia_log",
+    "price": "100"
+   },
+   {
+    "item": "minecraft:dark_oak_log",
+    "price": "100"
+   },
+   {
+    "item": "minecraft:mangrove_log",
+    "price": "100"
+   },
+   {
+    "item": "minecraft:cherry_log",
+    "price": "120"
+   },
+   {
+    "item": "minecraft:oak_planks",
+    "price": "18"
+   },
+   {
+    "item": "minecraft:spruce_planks",
+    "price": "18"
+   },
+   {
+    "item": "minecraft:birch_planks",
+    "price": "18"
+   },
+   {
+    "item": "minecraft:jungle_planks",
+    "price": "28"
+   },
+   {
+    "item": "minecraft:acacia_planks",
+    "price": "28"
+   },
+   {
+    "item": "minecraft:dark_oak_planks",
+    "price": "28"
+   },
+   {
+    "item": "minecraft:mangrove_planks",
+    "price": "28"
+   },
+   {
+    "item": "minecraft:cherry_planks",
+    "price": "32"
+   },
+   {
+    "item": "minecraft:bamboo_planks",
+    "price": "20"
+   }
+  ]
+ },
+ {
+  "name": "Sand & Glass",
+  "offers": [
+   {
+    "item": "minecraft:sand",
+    "price": "10"
+   },
+   {
+    "item": "minecraft:sandstone",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:smooth_sandstone",
+    "price": "26"
+   },
+   {
+    "item": "minecraft:red_sand",
+    "price": "70"
+   },
+   {
+    "item": "minecraft:red_sandstone",
+    "price": "90"
+   },
+   {
+    "item": "minecraft:glass",
+    "price": "16"
+   },
+   {
+    "item": "minecraft:glass_pane",
+    "price": "8"
+   },
+   {
+    "item": "minecraft:tinted_glass",
+    "price": "60"
+   }
+  ]
+ },
+ {
+  "name": "Colours",
+  "offers": [
+   {
+    "item": "minecraft:white_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:light_gray_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:gray_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:black_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:brown_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:red_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:orange_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:yellow_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:lime_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:green_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:cyan_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:light_blue_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:blue_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:purple_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:magenta_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:pink_wool",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:white_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:light_gray_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:gray_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:black_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:brown_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:red_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:orange_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:yellow_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:lime_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:green_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:cyan_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:light_blue_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:blue_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:purple_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:magenta_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:pink_concrete",
+    "price": "24"
+   },
+   {
+    "item": "minecraft:terracotta",
+    "price": "90"
+   },
+   {
+    "item": "minecraft:white_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:light_gray_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:gray_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:black_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:brown_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:red_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:orange_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:yellow_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:lime_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:green_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:cyan_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:light_blue_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:blue_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:purple_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:magenta_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:pink_terracotta",
+    "price": "95"
+   },
+   {
+    "item": "minecraft:white_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:light_gray_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:gray_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:black_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:brown_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:red_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:orange_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:yellow_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:lime_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:green_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:cyan_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:light_blue_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:blue_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:purple_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:magenta_stained_glass",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:pink_stained_glass",
+    "price": "20"
+   }
+  ]
+ },
+ {
+  "name": "Nether & End",
+  "offers": [
+   {
+    "item": "minecraft:netherrack",
+    "price": "8"
+   },
+   {
+    "item": "minecraft:nether_bricks",
+    "price": "30"
+   },
+   {
+    "item": "minecraft:blackstone",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:basalt",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:soul_sand",
+    "price": "30"
+   },
+   {
+    "item": "minecraft:magma_block",
+    "price": "30"
+   },
+   {
+    "item": "minecraft:glowstone",
+    "price": "80"
+   },
+   {
+    "item": "minecraft:quartz_block",
+    "price": "120"
+   },
+   {
+    "item": "minecraft:obsidian",
+    "price": "100"
+   },
+   {
+    "item": "minecraft:prismarine",
+    "price": "60"
+   },
+   {
+    "item": "minecraft:sea_lantern",
+    "price": "120"
+   },
+   {
+    "item": "minecraft:end_stone",
+    "price": "40"
+   },
+   {
+    "item": "minecraft:end_stone_bricks",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:purpur_block",
+    "price": "60"
+   }
+  ]
+ },
+ {
+  "name": "Create",
+  "offers": [
+   {
+    "item": "create:wrench",
     "price": "1500"
    },
    {
-    "item": "cobblemon:fire_gem",
+    "item": "create:goggles",
+    "price": "2000"
+   },
+   {
+    "item": "create:andesite_alloy",
+    "price": "400"
+   },
+   {
+    "item": "create:zinc_ingot",
+    "price": "500"
+   },
+   {
+    "item": "create:belt_connector",
+    "price": "1200"
+   },
+   {
+    "item": "create:super_glue",
+    "price": "3000"
+   },
+   {
+    "item": "create:extendo_grip",
+    "price": "8000"
+   },
+   {
+    "item": "create:brass_ingot",
     "price": "1500"
    },
    {
-    "item": "cobblemon:water_gem",
+    "item": "create:electron_tube",
+    "price": "2500"
+   },
+   {
+    "item": "create:copper_backtank",
+    "price": "12000"
+   },
+   {
+    "item": "create:precision_mechanism",
+    "price": "6000"
+   },
+   {
+    "item": "create:potato_cannon",
+    "price": "15000"
+   },
+   {
+    "item": "create:sturdy_sheet",
+    "price": "4000"
+   },
+   {
+    "item": "create:blaze_burner",
+    "price": "40000"
+   },
+   {
+    "item": "create:schematicannon",
+    "price": "50000"
+   },
+   {
+    "item": "create:shaft",
+    "price": "300"
+   },
+   {
+    "item": "create:cogwheel",
+    "price": "400"
+   },
+   {
+    "item": "create:large_cogwheel",
+    "price": "650"
+   },
+   {
+    "item": "create:gearbox",
+    "price": "1100"
+   },
+   {
+    "item": "create:water_wheel",
+    "price": "1000"
+   },
+   {
+    "item": "create:hand_crank",
+    "price": "600"
+   },
+   {
+    "item": "create:andesite_casing",
+    "price": "800"
+   },
+   {
+    "item": "create:millstone",
+    "price": "2400"
+   },
+   {
+    "item": "create:mechanical_press",
+    "price": "4500"
+   },
+   {
+    "item": "create:basin",
+    "price": "1400"
+   },
+   {
+    "item": "create:mechanical_mixer",
+    "price": "4500"
+   },
+   {
+    "item": "create:encased_fan",
+    "price": "3200"
+   },
+   {
+    "item": "create:depot",
+    "price": "700"
+   },
+   {
+    "item": "create:andesite_funnel",
+    "price": "650"
+   },
+   {
+    "item": "create:mechanical_pump",
+    "price": "2200"
+   },
+   {
+    "item": "create:fluid_pipe",
+    "price": "380"
+   },
+   {
+    "item": "create:fluid_tank",
+    "price": "1800"
+   },
+   {
+    "item": "create:spout",
+    "price": "3500"
+   },
+   {
+    "item": "create:mechanical_drill",
+    "price": "4000"
+   },
+   {
+    "item": "create:mechanical_saw",
+    "price": "4000"
+   },
+   {
+    "item": "create:mechanical_harvester",
+    "price": "3800"
+   },
+   {
+    "item": "create:mechanical_bearing",
+    "price": "3200"
+   },
+   {
+    "item": "create:portable_storage_interface",
+    "price": "3000"
+   },
+   {
+    "item": "create:brass_funnel",
+    "price": "2500"
+   },
+   {
+    "item": "create:smart_chute",
+    "price": "3200"
+   },
+   {
+    "item": "create:item_vault",
+    "price": "2500"
+   },
+   {
+    "item": "create:deployer",
+    "price": "6500"
+   },
+   {
+    "item": "create:mechanical_crafter",
+    "price": "6000"
+   },
+   {
+    "item": "create:crushing_wheel",
+    "price": "5000"
+   },
+   {
+    "item": "create:steam_engine",
+    "price": "9500"
+   },
+   {
+    "item": "create:track",
+    "price": "400"
+   },
+   {
+    "item": "create:track_station",
+    "price": "7500"
+   },
+   {
+    "item": "create:controls",
+    "price": "4500"
+   }
+  ]
+ },
+ {
+  "name": "Redstone",
+  "offers": [
+   {
+    "item": "minecraft:redstone",
+    "price": "80"
+   },
+   {
+    "item": "minecraft:lever",
+    "price": "40"
+   },
+   {
+    "item": "minecraft:redstone_torch",
+    "price": "100"
+   },
+   {
+    "item": "minecraft:repeater",
+    "price": "250"
+   },
+   {
+    "item": "minecraft:comparator",
+    "price": "400"
+   },
+   {
+    "item": "minecraft:target",
+    "price": "200"
+   },
+   {
+    "item": "minecraft:dropper",
+    "price": "250"
+   },
+   {
+    "item": "minecraft:dispenser",
+    "price": "400"
+   },
+   {
+    "item": "minecraft:piston",
+    "price": "400"
+   },
+   {
+    "item": "minecraft:sticky_piston",
+    "price": "600"
+   },
+   {
+    "item": "minecraft:observer",
+    "price": "500"
+   },
+   {
+    "item": "minecraft:hopper",
+    "price": "800"
+   },
+   {
+    "item": "minecraft:redstone_lamp",
+    "price": "400"
+   },
+   {
+    "item": "minecraft:daylight_detector",
+    "price": "500"
+   },
+   {
+    "item": "minecraft:rail",
+    "price": "60"
+   },
+   {
+    "item": "minecraft:powered_rail",
+    "price": "400"
+   },
+   {
+    "item": "minecraft:slime_ball",
+    "price": "300"
+   }
+  ]
+ },
+ {
+  "name": "Tinkers",
+  "offers": [
+   {
+    "item": "modernfoundry:grout",
+    "price": "60"
+   },
+   {
+    "item": "modernfoundry:seared_brick",
+    "price": "80"
+   },
+   {
+    "item": "modernfoundry:seared_bricks",
+    "price": "300"
+   },
+   {
+    "item": "modernfoundry:pattern",
+    "price": "40"
+   },
+   {
+    "item": "modernfoundry:crafting_station",
+    "price": "400"
+   },
+   {
+    "item": "modernfoundry:part_builder",
+    "price": "600"
+   },
+   {
+    "item": "modernfoundry:seared_melter",
+    "price": "3000"
+   },
+   {
+    "item": "modernfoundry:seared_heater",
+    "price": "2500"
+   },
+   {
+    "item": "modernfoundry:seared_faucet",
+    "price": "800"
+   },
+   {
+    "item": "modernfoundry:seared_casting_tank",
+    "price": "2000"
+   }
+  ]
+ },
+ {
+  "name": "Inks",
+  "offers": [
+   {
+    "item": "irons_spellbooks:common_ink",
     "price": "1500"
    },
    {
-    "item": "cobblemon:electric_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:uncommon_ink",
+    "price": "5000"
    },
    {
-    "item": "cobblemon:grass_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:rare_ink",
+    "price": "15000"
    },
    {
-    "item": "cobblemon:ice_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:epic_ink",
+    "price": "30000"
    },
    {
-    "item": "cobblemon:fighting_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:legendary_ink",
+    "price": "60000"
+   }
+  ]
+ },
+ {
+  "name": "Runes",
+  "offers": [
+   {
+    "item": "irons_spellbooks:blank_rune",
+    "price": "3000"
    },
    {
-    "item": "cobblemon:poison_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:fire_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:ground_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:ice_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:flying_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:lightning_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:psychic_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:holy_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:bug_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:ender_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:rock_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:blood_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:ghost_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:evocation_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:dragon_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:nature_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:dark_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:arcane_rune",
+    "price": "8000"
    },
    {
-    "item": "cobblemon:steel_gem",
-    "price": "1500"
+    "item": "irons_spellbooks:cooldown_rune",
+    "price": "12000"
    },
    {
-    "item": "cobblemon:fairy_gem",
+    "item": "irons_spellbooks:protection_rune",
+    "price": "12000"
+   }
+  ]
+ },
+ {
+  "name": "Essences",
+  "offers": [
+   {
+    "item": "irons_spellbooks:arcane_essence",
+    "price": "800"
+   },
+   {
+    "item": "irons_spellbooks:scroll",
+    "price": "500"
+   },
+   {
+    "item": "irons_spellbooks:cinder_essence",
+    "price": "3000"
+   },
+   {
+    "item": "irons_spellbooks:upgrade_orb",
+    "price": "40000"
+   }
+  ]
+ },
+ {
+  "name": "Spell Books",
+  "offers": [
+   {
+    "item": "irons_spellbooks:copper_spell_book",
+    "price": "15000"
+   },
+   {
+    "item": "irons_spellbooks:iron_spell_book",
+    "price": "25000"
+   },
+   {
+    "item": "irons_spellbooks:gold_spell_book",
+    "price": "40000"
+   }
+  ]
+ },
+ {
+  "name": "Food",
+  "offers": [
+   {
+    "item": "minecraft:bread",
+    "price": "60"
+   },
+   {
+    "item": "minecraft:baked_potato",
+    "price": "60"
+   },
+   {
+    "item": "minecraft:cooked_beef",
+    "price": "120"
+   },
+   {
+    "item": "minecraft:golden_carrot",
+    "price": "300"
+   },
+   {
+    "item": "minecraft:golden_apple",
+    "price": "3000"
+   }
+  ]
+ },
+ {
+  "name": "Travel",
+  "offers": [
+   {
+    "item": "minecraft:torch",
+    "price": "20"
+   },
+   {
+    "item": "minecraft:lantern",
+    "price": "150"
+   },
+   {
+    "item": "minecraft:white_bed",
+    "price": "400"
+   },
+   {
+    "item": "minecraft:map",
+    "price": "300"
+   },
+   {
+    "item": "minecraft:compass",
+    "price": "400"
+   },
+   {
+    "item": "minecraft:saddle",
+    "price": "2000"
+   },
+   {
+    "item": "minecraft:name_tag",
     "price": "1500"
+   }
+  ]
+ },
+ {
+  "name": "Utilities",
+  "offers": [
+   {
+    "item": "minecraft:bucket",
+    "price": "500"
+   },
+   {
+    "item": "minecraft:shield",
+    "price": "600"
+   },
+   {
+    "item": "minecraft:arrow",
+    "price": "20"
+   },
+   {
+    "item": "gaby_core:research_kit",
+    "price": "3000"
+   },
+   {
+    "item": "minecraft:ladder",
+    "price": "40"
+   },
+   {
+    "item": "minecraft:chest",
+    "price": "160"
+   },
+   {
+    "item": "minecraft:crafting_table",
+    "price": "100"
+   },
+   {
+    "item": "minecraft:glass_bottle",
+    "price": "50"
+   },
+   {
+    "item": "minecraft:spyglass",
+    "price": "900"
+   },
+   {
+    "item": "minecraft:lead",
+    "price": "600"
+   },
+   {
+    "item": "minecraft:anvil",
+    "price": "4500"
+   },
+   {
+    "item": "minecraft:ender_chest",
+    "price": "8500"
    }
   ]
  }
