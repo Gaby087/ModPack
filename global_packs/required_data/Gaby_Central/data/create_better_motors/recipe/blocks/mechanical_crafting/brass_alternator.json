@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    "  A  ",
+    " ISI ",
+    "GSRSG",
+    " ICI "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "I": {
+      "item": "createnuclear:reactor_casing"
+    },
+    "R": {
+      "item": "create_better_motors:copper_alternator"
+    },
+    "S": {
+      "item": "createaddition:copper_spool"
+    },
+    "A": {
+      "item": "createnuclear:reactor_output"
+    },
+    "G": {
+      "item": "create_better_motors:reggarfonite_sheet"
+    }
+  },
+  "result": {
+    "id": "create_better_motors:brass_alternator"
+  }
+}

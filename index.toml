@@ -49,6 +49,10 @@ file = "config/create-client.toml"
 hash = "eec64681017779e529ab998ca131d3c0532bd00509520cdaa19e1e0f9caa3b3c"
 
 [[files]]
+file = "config/create_better_motors-common.toml"
+hash = "58079a438a123008e2ee1c811c33663d79fe5d7767402be845fc50972268a959"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "db0738daa9022daf3fbf3862686419c834077798e843ed509471a88b9be9500c"
 
@@ -1568,6 +1572,18 @@ hash = "401ee71171af57e89554a6633e9be647d35c3fd991f7e0c3d4068f3ba95c7b52"
 [[files]]
 file = "global_packs/required_data/CobbleTowns_Continued/pack.png"
 hash = "0be3e89ac6d95dca8179f675aed8154bc4382cc11de065b8cc2a68aa25865824"
+
+[[files]]
+file = "global_packs/required_data/Gaby_Central/data/create_better_motors/recipe/blocks/mechanical_crafting/brass_alternator.json"
+hash = "bc0bfae59f620cde464ee05e76a345a5a5cebfd6f2fbb8524e5c8b32a1a1fb0e"
+
+[[files]]
+file = "global_packs/required_data/Gaby_Central/data/create_better_motors/recipe/items/mechanical_crafting/upgrades/brass_alternator.json"
+hash = "4568038d05f0e191c22da09d0d4708b15edd478374c6c306e656697ea457cce3"
+
+[[files]]
+file = "global_packs/required_data/Gaby_Central/pack.mcmeta"
+hash = "0fa94e8bd4a1838f0b21353b91e200aab08e9a371df97b12230d6f0cedbb653c"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/cobbledollars/cobbledollars/bank/default.json"
@@ -13330,6 +13346,11 @@ hash = "f7e8dece7d3119f1bd33a75d5d03ced8fb57159b0638b900e64daefc250948f9"
 metafile = true
 
 [[files]]
+file = "mods/better-lib-neoforge-1-21-1-1-0-113.pw.toml"
+hash = "73d4342c80d49dd4b90e7469beac2552f214947fcd18e1491947f1897c6f0ab4"
+metafile = true
+
+[[files]]
 file = "mods/betteradvancements-neoforge-1-21-1-0-4-3-21.pw.toml"
 hash = "82fd47f742934525127a3cc37730c7f2708d18988346b18cd38aa3c2cb6051a0"
 metafile = true
@@ -13470,6 +13491,11 @@ hash = "2181be9dd6d57ad45fc0d81d34f19ce3075636604e27ee1dd697558263f4dc3f"
 metafile = true
 
 [[files]]
+file = "mods/create-better-motors-4-0-0.pw.toml"
+hash = "022c2a3c1690ff6d082e8ea5e356e1b1d55388245f7eed889275a331b9967665"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-2-4-2.pw.toml"
 hash = "9f2e67f406b3f2bca3569b81725b3c73227ea38c11b1c94443db968889169612"
 metafile = true
@@ -13492,6 +13518,11 @@ metafile = true
 [[files]]
 file = "mods/createdragonsplus-1-11-9.pw.toml"
 hash = "7ef3c88bfb07089438977ffdf8474ac7cc0758f9fc43d6bfa32385bd00cd49b7"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear-2-0-1-neoforge.pw.toml"
+hash = "d833776a475b9fd59f3b444efba2e9f3bd39fe61274dce65bd525d1c91dfd9bf"
 metafile = true
 
 [[files]]
@@ -13641,12 +13672,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "d7532ecf15198df05c0bb7ba2e4a0140d1e700c92c13d2ad2e7b34dcf16f607c"
+hash = "7495a241058f0198680bcf70526ba4245d8070549010a9d0abdd78666e26bfb4"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "3cadf4029a81588ffbbe4bb570c0223e8392ef07485312e2aa52ca909bed7a80"
+hash = "d19d8b998e161552f05f63cd9d641f9863de6d3b929c92d4bd7d56b8333bbc36"
 metafile = true
 
 [[files]]
@@ -13666,7 +13697,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "9f2a1fba20e31fe1372105f95022e6f00a6fe55947c9ea9044a09dd62d37f582"
+hash = "4f8170385388ab6bf6833a7048b27d4f744de653b68ec335bcc2b50b1006e47a"
 metafile = true
 
 [[files]]

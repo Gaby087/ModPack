@@ -1,0 +1,7 @@
+[brass_alternator]
+max_output = 80000
+capacity = 800000
+efficiency = 0.8
+fe_at_max_rpm = 100000
+max_stress = 4000000
+audio_enabled = true

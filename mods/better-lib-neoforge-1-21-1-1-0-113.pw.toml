@@ -1,0 +1,8 @@
+name = "better_lib-neoforge-1.21.1-1.0.113"
+filename = "better_lib-neoforge-1.21.1-1.0.113.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2x0ULgTj/versions/Tj8g4uLA/better_lib-neoforge-1.21.1-1.0.113.jar"
+hash-format = "sha1"
+hash = "e998bbb4ac83da51e7d0a17fe4fedaca7463eeab"
