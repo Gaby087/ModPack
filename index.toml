@@ -13672,12 +13672,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "20bcd0e7ad9ff8e824fe16a2ce3962c503695e0cbf0edbec40d820b3cfb5d76d"
+hash = "629853fdff74d6baac2af230ba90eb82c483dc052afd7dc1486405078f54fb26"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "1b86178287fd2cbcb370792acd401acbcb7cd23ac77cee5aa960d039489cbdcf"
+hash = "3e1178625b381036bafcee839b39b930fae96529ae7d437489b91278f6fcd37a"
 metafile = true
 
 [[files]]
@@ -13697,7 +13697,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "47e5abdf660cb13a16235b7c66f21422cf5467c988ef5910a37871920e662257"
+hash = "9ffce0b165c3b04f9b753375b243aa5297ca81678390744635ae55fb71229ba8"
 metafile = true
 
 [[files]]
