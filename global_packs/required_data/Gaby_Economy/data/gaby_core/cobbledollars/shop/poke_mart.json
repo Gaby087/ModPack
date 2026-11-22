@@ -3431,6 +3431,131 @@
   ]
  },
  {
+  "name": "Logistics",
+  "offers": [
+   {
+    "item": "create:filter",
+    "price": "150"
+   },
+   {
+    "item": "create:attribute_filter",
+    "price": "250"
+   },
+   {
+    "item": "create:package_filter",
+    "price": "250"
+   },
+   {
+    "item": "create:clipboard",
+    "price": "100"
+   },
+   {
+    "item": "create:stock_link",
+    "price": "1500"
+   },
+   {
+    "item": "create:stock_ticker",
+    "price": "5000"
+   },
+   {
+    "item": "create:packager",
+    "price": "1800"
+   },
+   {
+    "item": "create:repackager",
+    "price": "2000"
+   },
+   {
+    "item": "create:package_frogport",
+    "price": "2500"
+   },
+   {
+    "item": "create:redstone_requester",
+    "price": "3000"
+   },
+   {
+    "item": "create:factory_gauge",
+    "price": "2500"
+   },
+   {
+    "item": "create:item_hatch",
+    "price": "800"
+   },
+   {
+    "item": "create:stockpile_switch",
+    "price": "600"
+   },
+   {
+    "item": "create:linked_controller",
+    "price": "3000"
+   },
+   {
+    "item": "create:white_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:light_gray_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:gray_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:black_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:brown_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:red_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:orange_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:yellow_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:lime_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:green_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:cyan_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:light_blue_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:blue_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:purple_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:magenta_postbox",
+    "price": "1200"
+   },
+   {
+    "item": "create:pink_postbox",
+    "price": "1200"
+   }
+  ]
+ },
+ {
   "name": "Create Decor",
   "offers": [
    {

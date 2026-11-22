@@ -20,3 +20,12 @@ key_key.cobblemon.hideparty:key.keyboard.o
 key_key.ftbultimine:key.keyboard.grave.accent
 key_key.keybindatlas.open_keyboard:key.keyboard.f8
 key_key.keybindatlas.cycle_sets:key.keyboard.unknown
+key_key.irons_spellbooks.spell_wheel:key.keyboard.x
+key_key.irons_spellbooks.spellbook_cast:key.keyboard.v
+key_key.irons_spellbooks.spell_quick_cast_1:key.keyboard.g
+key_key.irons_spellbooks.spell_quick_cast_2:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_3:key.keyboard.unknown
+key_key.do_a_barrel_roll.yaw_left:key.keyboard.unknown
+key_key.do_a_barrel_roll.yaw_right:key.keyboard.unknown
+key_key.do_a_barrel_roll.thrust_forward:key.keyboard.unknown
+key_key.toastcontrol.clear:key.keyboard.unknown
