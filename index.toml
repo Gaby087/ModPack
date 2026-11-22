@@ -18,7 +18,7 @@ hash = "a07173958d44b3eb378ccacaeaebc9510868f54f0619d51b8a152265e9d54e10"
 
 [[files]]
 file = "config/cobbledollars/common.json"
-hash = "574645e43d7e6de995bc77ed558ba6eba0f6e59028ae9cad97bb86ec4d60a5a4"
+hash = "9c92803e075d514553912552f604e2985f93ad722dca488a2fa7d423c6b14b4c"
 
 [[files]]
 file = "config/cobblemon/starters.json"
@@ -13672,12 +13672,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "b6f6cb0794baa3c2fd21cde758118bac490d7f05484f060a6ee7af1edd517687"
+hash = "b1f6862eacee6856465a11018e4dbed16348249b4e2e34f74553755fb49ddd79"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "7d6ff47c29aef6d7c134a84be4393cc12674038a4aab35c86924caf4381c8ed7"
+hash = "030a98e72362a8167c120c883ef44ed6c38e939870a7507632aa5defa133f06b"
 metafile = true
 
 [[files]]
@@ -13697,7 +13697,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "d50bddeebe2722858f3fdf5ff7153fbab13cf6d9692daf3b2d056edb9c87e3cb"
+hash = "042072835355c3f42a8e30386e2dc077f9621abbf6ea83476c475ba0dd6727f0"
 metafile = true
 
 [[files]]
