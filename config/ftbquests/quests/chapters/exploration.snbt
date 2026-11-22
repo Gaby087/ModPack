@@ -149,36 +149,6 @@
    "size": 1.2
   },
   {
-   "id": "29B7C6C4A8F53674",
-   "x": 0.0,
-   "y": 3.6,
-   "icon": {
-    "id": "gaby_core:yamato",
-    "count": 1
-   },
-   "tasks": [
-    {
-     "type": "advancement",
-     "advancement": "gaby_core:milestone/combat/yamato_storm",
-     "criterion": "",
-     "id": "7DC80FDD3B196253"
-    }
-   ],
-   "rewards": [
-    {
-     "id": "15AFDE816CAC5BB8",
-     "type": "command",
-     "command": "/gaby book pay {p} 29B7C6C4A8F53674",
-     "elevate_perms": true,
-     "silent": true,
-     "auto": "no_toast"
-    }
-   ],
-   "dependencies": [],
-   "shape": "gear",
-   "size": 1.5
-  },
-  {
    "id": "5C924ABA0B025408",
    "x": 4.5,
    "y": 0.0,

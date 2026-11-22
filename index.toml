@@ -106,7 +106,7 @@ hash = "c69e6b4f6573f844a69d2a2fe2661639f3d89327c10438cc4fa11eae1c2e7c65"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/exploration.snbt"
-hash = "f1e5f2e1ccc00ea95b9f61da369e198e36186c9276803cafd26d9ccd19671df7"
+hash = "aa05380f4802ed8f11a505ccc862ab48060238fd61cd79afe0ca69179b5e0e9c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gyms.snbt"
@@ -130,11 +130,11 @@ hash = "ccdb63e92199fdb87e2ed0b7bc4bfbc31c90a88cd6d84877d2da64d9efc33a46"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "a078cdc71afed101233d652876c2a96c8e6b69ec79271fe07ab0b40fd21669a5"
+hash = "e1280436e877193d64be8511a54967cefefa4b9fb8efcc25b958bce1a240a1d7"
 
 [[files]]
 file = "config/ftbquests/quests/lang/es_es.snbt"
-hash = "7f463b86f5ae106f4b4dba1402a2596b7adbe07fcacd00c9243a8f7d48db672e"
+hash = "879a29bada21d904ef64bb7d23bd1ce1e939a9e9ee2b24eea8aa563341064d1a"
 
 [[files]]
 file = "config/global_packs.toml"
@@ -1591,23 +1591,23 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/cobbledollars/cobbledollars/shop/default.json"
-hash = "627b62efc838c6ebab036b0c9d412cd138a32ca8e25a235b06287c5eee2c097c"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/gaby_core/cobbledollars/shop/battle_shop.json"
-hash = "627b62efc838c6ebab036b0c9d412cd138a32ca8e25a235b06287c5eee2c097c"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/gaby_core/cobbledollars/shop/department_store.json"
-hash = "627b62efc838c6ebab036b0c9d412cd138a32ca8e25a235b06287c5eee2c097c"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/gaby_core/cobbledollars/shop/herbalist.json"
-hash = "627b62efc838c6ebab036b0c9d412cd138a32ca8e25a235b06287c5eee2c097c"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/data/gaby_core/cobbledollars/shop/poke_mart.json"
-hash = "627b62efc838c6ebab036b0c9d412cd138a32ca8e25a235b06287c5eee2c097c"
+hash = "c0105c9c1b7b6da4fe71859e9755efba16462301de2c9fc17e221ecf5de1b694"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Economy/pack.mcmeta"
@@ -13672,12 +13672,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "391b17159a78cae85ebbe9c8c3989acf9901bc01e756c82f6af9f1465586bb1f"
+hash = "2030b8de118197f4f32550a58ae48319cb948a16e1f095f4c0eee80085a30908"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "4ee12eaff864a266cd9403d2daa277df71d312db8b2963963dce4b56a8d4108b"
+hash = "2246d77696ea6e0b455dd79484689c73c3624ae0f106caa3483e223e4f687061"
 metafile = true
 
 [[files]]
@@ -13697,7 +13697,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "91c280c5e904c7c0e7b0a37659701d7814f763731661b79ff0bef0c484c451f7"
+hash = "840f08389551ace6f8187ae21e9849a658a9cfc4d8cde6e81654fb43f586e60f"
 metafile = true
 
 [[files]]
