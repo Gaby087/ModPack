@@ -21,7 +21,7 @@
    "moveset": [
     "fakeout",
     "uturn",
-    "return",
+    "bodyslam",
     "knockoff"
    ],
    "ivs": {
@@ -149,7 +149,7 @@
    "level": 100,
    "nature": "jolly",
    "moveset": [
-    "return",
+    "facade",
     "highjumpkick",
     "icepunch",
     "fakeout"

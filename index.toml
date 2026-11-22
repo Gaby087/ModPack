@@ -61,6 +61,10 @@ file = "config/defaultoptions/options.txt"
 hash = "212a699dbd895e5a072f65b2b49fa72364a7423398f543e02a167e317b28cd67"
 
 [[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "60fe107eee3547dceebda84e6aa961c93d5e67bb92f1a4e213cbe20c150ace8f"
+
+[[files]]
 file = "config/fallingtree.json"
 hash = "d95b4b1bc275a03703b3ff02c6a0dca1b44a76e8228b5429b363c7e19a47f854"
 
@@ -8175,7 +8179,7 @@ hash = "7b153f07dcf218c14f741c833453215e1138a118630bb441a2a7ffa745cba232"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/apprentice_lenora_1.json"
-hash = "e5eb0d5196e61ed0b0649c2689b51709fa7d7d363ee2ce9888c880c09f2cfeb2"
+hash = "ef30b0674973d1577da83917ffd7798cd593ac7712365e473a86fc4fa6ed39f5"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/apprentice_lenora_2.json"
@@ -8183,7 +8187,7 @@ hash = "ffdba509ec41af50f9d89eb7c98256e29bc182969d5331f7ad3133309cc27378"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/apprentice_lenora_3.json"
-hash = "16453c561a5c326eac3de14af292b08e3fe673c539a8a3752459b4397041bdc9"
+hash = "51f296a6a1a6f94afec6dabb483d11078ddc3a774253826d0ec6664d74dcd5ff"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/apprentice_maylene_1.json"
@@ -8247,7 +8251,7 @@ hash = "6485bd220f520051d6d8576a822f626ba02bf26117680d778863f9d4d66c3f16"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/apprentice_norman_2.json"
-hash = "4bb59bc517e6fd4a96efaccd597ee53e0c964afaceea4727c5f3f285e343b58f"
+hash = "62b05fb5be254ae1315b3cfcf8799d1de876ec683d6f1be8efa83e022b56dfa8"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/apprentice_norman_3.json"
@@ -8467,7 +8471,7 @@ hash = "14fe946b5d149f56eafee3373e5b3a7fc78a1806e27a12748068794471d4d068"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/apprentice_whitney_3.json"
-hash = "55d136dc5e1cbacb96ba979f085b68f274ceaf7854c85bd918ccec7f34802fdc"
+hash = "010966c8f3bb35d8cf0445f0edcf0f4fe2016ac1a949d15f557395a78c518edb"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/apprentice_winona_1.json"
@@ -8655,11 +8659,11 @@ hash = "fe141d98c802deba0d771613d2bfd5ad11d9cac4a41046df02d4a31a7d49879a"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/beauty_samantha_j09_duo.json"
-hash = "62a421b8db54d6408a14bad5fd1f725d4fd5fe57c8bdb09c6c6c535fcea585ad"
+hash = "c35b5843c9a8da35815726f7ea90b2d811de4f6c0716f79cf70dd54cfad217f0"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/beauty_samantha_j09_duo_solo.json"
-hash = "760651ea29a3759a8c1518059b957309da532e6bdda554408cb78ab2ccd9a4ec"
+hash = "70fe93427ec8abf8d2c6911b50c3b102de94fa954555eb0c3f426c7acc64474e"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/beauty_samantha_j09_hard.json"
@@ -8667,19 +8671,19 @@ hash = "8f9180ad41b68908d11e897a4f1ac8172bb6ad9c69d28ec9f95447e16cb77cf8"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/beauty_victoria_j08.json"
-hash = "b233636a95df0ee45a71aacb184760935498363dd5aa5b60f7fc7bcabeae4552"
+hash = "45a07bca704ed60347398ae6c85cf13555b8ca374c90cc3377083a9ed90b5a75"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/beauty_victoria_j08_duo.json"
-hash = "46662b8b5184e05f0da0b48f06a313b28bc369a60ff2707e3eee447e1819a3eb"
+hash = "9d42f72462c214c779f67c422dc649f59ebe41fa1846572b87d92642ef4ceff8"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/beauty_victoria_j08_duo_solo.json"
-hash = "f5e28bf4aa75c6d4122111ed4b4702e103c13c1e9ea30a9fe5848d66d7f986f6"
+hash = "9bf23db87488631fe3986c16cc0b3fbebb5d4ce9770da11e952c2abc49245b50"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/beauty_victoria_j08_hard.json"
-hash = "22b3b0cdf6203d8bc6fb545f0bbc9b074b4bd1d1733abc7a0e7102bc89ec4d14"
+hash = "4457bdec884bb761a2d1791da325042f673d84dd5190f7ab9c546490101d785d"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_abe_j02.json"
@@ -8695,7 +8699,7 @@ hash = "83ed0cf5d7a5a52ebe714d5cb0de24a41b5f4c61884e4c9f7340ecec434a5a7a"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_abe_j02_hard.json"
-hash = "403cb8ada611b84e6365d335cb1a72d3271ff809df3b3b68302cb2afa57b71e7"
+hash = "2a6dc81cce232333891313765bca4dc964b5f4dd04c55b864903119889139474"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_humberto_h23.json"
@@ -8711,7 +8715,7 @@ hash = "7ca2edbdcd2b509ba10876d7b7fddb3df445066444e37493dbaa744c66a4ce0a"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_humberto_h23_hard.json"
-hash = "9f40c5fc02383439c5ab4882f4c9662d48ddd523208dbd9a9812ac1825887d9e"
+hash = "2ff629b09d7e1ff6080398f82e0b248acfadd00ccc47b38298674eb5a06ec89f"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_jared_h21.json"
@@ -8731,15 +8735,15 @@ hash = "fa7544dd8f7443fb9420f5935a570ca0898a3781b1ba5f49b050557655a2843a"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_nina_u21.json"
-hash = "088f863d77d634f6fcfc20be0439cb95f2757af5c02047e90958cd3628edbd5d"
+hash = "20bff3d26a49fc19aeceab59c9ed10a374ac8a67ab6d0c7ceb0a3b4a5766aa9e"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_nina_u21_duo.json"
-hash = "e5601ed5d82c72bf32eb9d07d03fc58a4470b21ed669d0226fc8f44b03c99aa4"
+hash = "c451bb515ce5019bddfb08729fa013a1b445c3bb9314c7ba64e522643df03247"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_nina_u21_duo_solo.json"
-hash = "55e68429ee92b91fbbc6f75c7792deb3cf91203df7c75bb7240c0e599ce34b00"
+hash = "4a5f66824e22926d236ddfe80df6dd164f0a7a1ed37c30c5684ce0766d8975ec"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/bird_keeper_nina_u21_hard.json"
@@ -9375,7 +9379,7 @@ hash = "6f5cd5158969abe5ffeb6fad59be38dcdf7b8da8be1b875970b877d9a6c2a34f"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/cooltrainer_mary_h18_duo_solo.json"
-hash = "5a5e92894fb5ef96b1d92fa72273c0028c3970d2dcb08bfa2122729db1f234bd"
+hash = "3dbf27dcab75d6a4420482f91b60677a7ad2df2345d9673b7316ca9383fdc8bb"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/cooltrainer_mary_h18_hard.json"
@@ -9387,15 +9391,15 @@ hash = "10e14da8eabeedcdf6ed7657aaf7c3d8573c18d60e7fe9409242eb196ac62998"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/cooltrainer_parker_h19_duo.json"
-hash = "58d4d10ee3ecc9ef69a276fb10cd1b01254f0c41d8a25cd016fc1997e205eb89"
+hash = "25910498b75e0befcf8436a199a3d1d893d694874b7ed76003cc248514813d19"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/cooltrainer_parker_h19_duo_solo.json"
-hash = "cc17b35004b56ecfb252fa3c1aa649c6c04fb05f9c4f45fbaba6d29872a289fe"
+hash = "89944fa22c4414ea9f6b860a516a841fb9193e3fa3fdf8cda264f7c13cd63e4c"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/cooltrainer_parker_h19_hard.json"
-hash = "4f6e4ab452fb5692f0e07b8c992c117afa1928923ef710d2e8dc910306165903"
+hash = "99d11d5bb8fbc0bd25acc39ba313ba53ac8fb55e5cfedffb5db27b563dab7e60"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/cooltrainer_randall_h17.json"
@@ -9411,7 +9415,7 @@ hash = "8bbf1e83d5b8371037a99496133c0714d2213176c2231517ee15a3f6d9b3d96a"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/cooltrainer_randall_h17_hard.json"
-hash = "29deb674d7bdee8366bd1516a8cba855e67b676318b5aea08bf1f8c79791a3cd"
+hash = "d61f570860369a5ff3b8f9eecf77a35e39e672a97a25ff98b02464056a1d5404"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/cowgirl_sasha_s07.json"
@@ -10055,7 +10059,7 @@ hash = "053c3e55c26057231e4bee7ffd317c74f3c37bd964069bff0546331de087c502"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/galactic_mars_v0.json"
-hash = "57b772b82bd23701918bf6669d489db26717bee7a706e94cd2ecced56119cc62"
+hash = "6472aea03c357963f70d82b8ba621fe7e5081dddd09d1590fd9500882e1736f6"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/galactic_saturn_v1.json"
@@ -10415,7 +10419,7 @@ hash = "8e4654deed0ae6583c8894a7ef6a402cf8fe5d0319dace7b9d76cbc826ea6a81"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/lady_rosa_k21.json"
-hash = "39769f63112b6aac38c70b141ba05e1a6371fbc745bca40be09cdcc9ab999ebc"
+hash = "d84c3bfd4d3d8e4d1109e2ab7bf0332a2c044a9fda4a732a0142c6a60d1dc656"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/lady_rosa_k21_duo.json"
@@ -10475,7 +10479,7 @@ hash = "d700e1de05add7e6fc4a7ec6ee4fcf6d1c653dd80317216882953b4c795fcad1"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/lass_carrie_j07_hard.json"
-hash = "1fbd0270339470482c381366b9a9f494b335041cceea0d8199e6a7a84017b493"
+hash = "208b860940eb902a71bba73c6d0d6f91fe9c6190cc451c19522ebdd668339980"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/lass_sarah_s06.json"
@@ -11215,7 +11219,7 @@ hash = "f2fe93c387f941eebd951c7d72b886dad3a6ad3b9b4b20e23e1e7f317b793d29"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_lenora_u08.json"
-hash = "058cbdc84e94b4d502530cfbc80a067e2b06a14db2acfa966e23aaef3407dc5d"
+hash = "d2c0dec6d253cab0748e530fda192bb5eb425136eddaebf594c18fda61261d97"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_lenora_u08_duo.json"
@@ -11227,7 +11231,7 @@ hash = "134b40ec20ab92ea2a5145c1b92f788282663dcc2ab49370280fe3ebf4b7e75b"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_lenora_u08_hard.json"
-hash = "55f2ab3b3b40111815bbbdc11addb38a1ec1c60c78ba4c007e1e18bb66cf1ac3"
+hash = "db6f68c8e0619fe21a89d5539b1f078af465948c9f65087f48f5a5f32d1b66b0"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_lenora_u08_partner.json"
@@ -11235,7 +11239,7 @@ hash = "4041f9402c953287694ad8b8813c53af8614e8975f7640c239c89125dfe5d7aa"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_lenora_u08_rm.json"
-hash = "55f2ab3b3b40111815bbbdc11addb38a1ec1c60c78ba4c007e1e18bb66cf1ac3"
+hash = "db6f68c8e0619fe21a89d5539b1f078af465948c9f65087f48f5a5f32d1b66b0"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_lt_surge_01a0.json"
@@ -11383,7 +11387,7 @@ hash = "bda8d6d9e2240fcdfd4f942b79a3c6c814cc16d4732888453cc70d4138d6dadd"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_norman_h20.json"
-hash = "164c82c912b6634939678dc51d23256eeb4effc931da5988ff4ef03358a045f9"
+hash = "54a16b824c0b86dc041a32e6f2069830764eda7cfb8418f93d1046609081ca14"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_norman_h20_duo.json"
@@ -11395,7 +11399,7 @@ hash = "0d9839dd10b8f4368d08d3c4724c22c166220461aaf514178bf957089423fea1"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_norman_h20_hard.json"
-hash = "644ec6ebdc906f7a7d46fdad0a20de418d362a2ef619c593a19d41488fc4361d"
+hash = "ae222aad54a5004c26f3342a996d15ed6edba1d8d3882c211abe3ad02b9d96e9"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_norman_h20_partner.json"
@@ -11403,7 +11407,7 @@ hash = "5e542f4276d0d40198ecc4b43caccf94c663fa11f6c979ee5313dcf875f9ac19"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_norman_h20_rm.json"
-hash = "644ec6ebdc906f7a7d46fdad0a20de418d362a2ef619c593a19d41488fc4361d"
+hash = "ae222aad54a5004c26f3342a996d15ed6edba1d8d3882c211abe3ad02b9d96e9"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_olympia_k28.json"
@@ -11623,7 +11627,7 @@ hash = "f7a99405ad50beeb982f953d5d4e4863b4e282fb5df6184641fab34c2b51b7bb"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_skyla_u24.json"
-hash = "2cfb8680177f51c2422fca827ce7c0d3cf3a937a07f6759ecd3c0ab5064619d7"
+hash = "fc4c0b0ce0812a4baee2921d0df02cf30843866461dcaba836de5806a8d4e768"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_skyla_u24_duo.json"
@@ -11635,7 +11639,7 @@ hash = "1fead181f4de554d96045edd059115dad95e2d5c6d7ac1cb7d2f63c5cdeaa051"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_skyla_u24_hard.json"
-hash = "9be41ab85f573492827404d9a623d0ccee9e68eb0f2901f89f5cc015ee294767"
+hash = "b44ebd911eff96b68994e23d56ab057ed24d246505f8aeabd3df67468ae27ce8"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_skyla_u24_partner.json"
@@ -11643,7 +11647,7 @@ hash = "ecc12ebb2197d8af6921f938e260b9da4fcf1f9e4747f82bd444b204533afa90"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_skyla_u24_rm.json"
-hash = "9be41ab85f573492827404d9a623d0ccee9e68eb0f2901f89f5cc015ee294767"
+hash = "b44ebd911eff96b68994e23d56ab057ed24d246505f8aeabd3df67468ae27ce8"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_tate_liza_h28.json"
@@ -11671,7 +11675,7 @@ hash = "bfc40b0e5e71c822e50d642980a1ac121a21083c1e2715137e1eee3775b46c13"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_valerie_k24.json"
-hash = "175389e6e76cba5a10d0c1c4697d8f46dfd63f3882df0468c4f8df65a49d54f2"
+hash = "4e2c5f2aecd22906c97a330f3a025de667c55e718317343dd7c00bdb1bb91d5b"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_valerie_k24_duo.json"
@@ -11683,7 +11687,7 @@ hash = "c64243bd10da202bde96340e1be6119a9881f2b6b2a8cb1f778eaa6e57ecf762"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_valerie_k24_hard.json"
-hash = "23cf11d9803172ac08d3c1c19473e272a4af739f288eae47ded7424ce3539465"
+hash = "0020e0a50a80d3e84a67c8d0c5f05cd7b862b17f69026d2f2f6441009450121b"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_valerie_k24_partner.json"
@@ -11691,7 +11695,7 @@ hash = "07b3b5279d691e2b7348d3849a4130c26285194761f6eebedc65eaf54dbddfef"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_valerie_k24_rm.json"
-hash = "23cf11d9803172ac08d3c1c19473e272a4af739f288eae47ded7424ce3539465"
+hash = "0020e0a50a80d3e84a67c8d0c5f05cd7b862b17f69026d2f2f6441009450121b"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_viola_k04.json"
@@ -11767,19 +11771,19 @@ hash = "757cc478097683accde037f93c4174cb20d30bb0fc87a95d2a4ea6ee831e6074"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_whitney_004c.json"
-hash = "beed199f7efcef4cff7b74de2c1429018cc93fe312e652b68ee9706cb6ef45b0"
+hash = "4744da43a610d3d7d36720f32b0c164fd0c48dff4ddbd2aa1cd20ae4ed43f012"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_whitney_004c_duo.json"
-hash = "753fd3bd780f790859ebe7d3851a1537fff8a299b07cf73c15f8aa49fd3d5aed"
+hash = "446c5723d1fcdf5ed4e9298b1873fc520d5be96210236c456ad087d6809a74fc"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_whitney_004c_duo_solo.json"
-hash = "676563aefe45ca722324e7c66a2da29c77f483e086dd6fa6430f0f0845db0aa9"
+hash = "373ce558804a082065f84ad0f3142d128ebf4e3dc6cb8ab8e1b435e728bf8cb7"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_whitney_004c_hard.json"
-hash = "2fdfb38533e274b4c732a2d26eb50e094c358609876730d73d37f5eb363ad1fa"
+hash = "114c30312b071574da43f70144ca24e7722002be883a4695f10b20846d60ba40"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_whitney_004c_partner.json"
@@ -11787,7 +11791,7 @@ hash = "22ca250d0d6fe10ef060795241b6d05231c573da9efc1bfe43176342e65ce07e"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_whitney_004c_rm.json"
-hash = "2fdfb38533e274b4c732a2d26eb50e094c358609876730d73d37f5eb363ad1fa"
+hash = "114c30312b071574da43f70144ca24e7722002be883a4695f10b20846d60ba40"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/leader_winona_h24.json"
@@ -12535,15 +12539,15 @@ hash = "de9d56813f73463d4779717308476013b13604e283837990946ca84ec596b623"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/school_kid_ann_u05.json"
-hash = "fb33cbd003b5fba9f144d024f0f49a2561a091663282b8cd11c497bda67f7b7f"
+hash = "69c03a0bb8484169b5e700d30e25a98af761baaa7be0a922c9d8255b18a2b9b4"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/school_kid_ann_u05_duo.json"
-hash = "ef38196683c8c728ee0d3a15ac99ba7bde7cff5ec81b395262bcf4838110294b"
+hash = "c76f0023994ad56db94c945418cd7d2763b8e0661e01db9d1d992125d44142b4"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/school_kid_ann_u05_duo_solo.json"
-hash = "d4bf72e816ea9976b81642487d98de44bf3ce8cd5d8075b21621f6a71211d537"
+hash = "c672065b430aedcb8e9caa79068f28d2a5ddda5ba019989bfee393604bf039a6"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/school_kid_ann_u05_hard.json"
@@ -12575,7 +12579,7 @@ hash = "eb0141bfd023794c33fae6ff83800dfa279206cc456bbd64fa49d53b50ad295d"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/scientist_gideon_u07_duo_solo.json"
-hash = "4eb48264ff8560d255fa5174a3d3472db562e35d49ae0a2623e24240d0e74734"
+hash = "c16cf21ace83d703b3e2cc8186e7678dd6a595f3573a7b42ce36eae202618c12"
 
 [[files]]
 file = "global_packs/required_data/Gaby_Trainers/data/rctmod/trainers/scientist_gideon_u07_hard.json"
@@ -13672,12 +13676,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "b1f6862eacee6856465a11018e4dbed16348249b4e2e34f74553755fb49ddd79"
+hash = "948f7a4887021e4f35e15c13f604249c433f7a5974a18e599638e999e83547e6"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "030a98e72362a8167c120c883ef44ed6c38e939870a7507632aa5defa133f06b"
+hash = "74374d6d9ca9e3b73d041337a1a28c762931d23c2604894460b77b93db516691"
 metafile = true
 
 [[files]]
@@ -13697,7 +13701,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "042072835355c3f42a8e30386e2dc077f9621abbf6ea83476c475ba0dd6727f0"
+hash = "ba928f537c3b0a4c4c52071b10d5ea3dc25f0b1cad581fbb9295f04dc031b997"
 metafile = true
 
 [[files]]

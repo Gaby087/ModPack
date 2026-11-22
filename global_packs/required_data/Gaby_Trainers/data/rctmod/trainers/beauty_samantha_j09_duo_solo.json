@@ -36,7 +36,7 @@
    "level": 67,
    "nature": "adamant",
    "moveset": [
-    "return",
+    "facade",
     "crunch",
     "thunderwave",
     "protect"
@@ -81,7 +81,7 @@
    "nature": "adamant",
    "moveset": [
     "hammerarm",
-    "return",
+    "bodyslam",
     "lowsweep",
     "protect"
    ],
@@ -124,7 +124,7 @@
    "level": 67,
    "nature": "jolly",
    "moveset": [
-    "return",
+    "doubleedge",
     "helpinghand",
     "bodyslam",
     "protect"

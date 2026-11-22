@@ -43,7 +43,7 @@
    "moveset": [
     "fakeout",
     "highjumpkick",
-    "return",
+    "facade",
     "protect"
    ],
    "ivs": {
