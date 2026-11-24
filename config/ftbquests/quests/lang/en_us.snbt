@@ -5729,6 +5729,36 @@
   "Are you the storm that is approaching? Unleash Judgement Cut End with Yamato."
  ],
  "reward.15AFDE816CAC5BB8.title": "$70,400 · 1× Ability Patch · 5× Exp. Candy XL · 1× Music Disc",
+ "quest.1592837CB00AAA71.title": "Nights of Terror",
+ "quest.1592837CB00AAA71.quest_desc": [
+  "Complete a Night of Terror: turn them on in your Trainer Pad, defeat 10 of its monsters and see the dawn."
+ ],
+ "reward.54C62A9FB7867A27.title": "$1,000 · 3× Potion",
+ "quest.7928652E78B0DE9B.title": "Vigil",
+ "quest.7928652E78B0DE9B.quest_desc": [
+  "Complete a Night of Terror of level 5."
+ ],
+ "reward.2139E89231C4F23A.title": "$6,700 · 3× Hyper Potion · 5× Ultra Ball",
+ "quest.767616B30211A644.title": "Night Hunt",
+ "quest.767616B30211A644.quest_desc": [
+  "Complete a Night of Terror of level 10."
+ ],
+ "reward.227CAB781129A5CE.title": "$11,100 · 2× Rare Candy · 2× Exp. Candy L",
+ "quest.57D27670619A7B63.title": "Blood Moon",
+ "quest.57D27670619A7B63.quest_desc": [
+  "Complete a Night of Terror of level 15."
+ ],
+ "reward.4437DBCBEF5811AE.title": "$16,700 · 2× Rare Candy · 2× Exp. Candy L",
+ "quest.655D20233CF24A71.title": "Endless Night",
+ "quest.655D20233CF24A71.quest_desc": [
+  "Complete a Night of Terror of level 20."
+ ],
+ "reward.7A0146A8451643FC.title": "$70,400 · 1× Ability Patch · 5× Exp. Candy XL",
+ "quest.1CB62F7ED3BD16FA.title": "Midnight Duel",
+ "quest.1CB62F7ED3BD16FA.quest_desc": [
+  "Defeat the elite that challenges you at midnight in a Night of Terror."
+ ],
+ "reward.149681BFFA3B9F75.title": "$6,700 · 3× Hyper Potion · 5× Ultra Ball",
  "quest.5C924ABA0B025408.title": "Traveler Bronze",
  "quest.5C924ABA0B025408.quest_desc": [
   "Kilometres travelled: 10.",
@@ -7142,5 +7172,69 @@
  "quest.5EA3AA2F5A5C6CB7.quest_desc": [
   "Have spent more money in total than you have earned. Transfers received from other players are not counted as earned: you live on other people's money."
  ],
- "reward.3975B849786A0440.title": "$2,000 · 2× Super Potion"
+ "reward.3975B849786A0440.title": "$2,000 · 2× Super Potion",
+ "quest.568536DEC290B45C.title": "Let's See What Comes Out",
+ "quest.568536DEC290B45C.quest_desc": [
+  "Gamble $10,000 in total at L.G.G. It is a title you can wear."
+ ],
+ "reward.13DF946E17D952A1.title": "For the glory",
+ "quest.541D177C33C33F68.title": "One More and I'm Out",
+ "quest.541D177C33C33F68.quest_desc": [
+  "Gamble $50,000 in total at L.G.G. It is a title you can wear."
+ ],
+ "reward.46AC5068528452E6.title": "For the glory",
+ "quest.6525F0C8F48BDC90.title": "It's Just a Hobby",
+ "quest.6525F0C8F48BDC90.quest_desc": [
+  "Gamble $100,000 in total at L.G.G. It is a title you can wear."
+ ],
+ "reward.16A4749D533C401A.title": "$10,000",
+ "quest.18BBD98C16D772F7.title": "This Is the One",
+ "quest.18BBD98C16D772F7.quest_desc": [
+  "Gamble $250,000 in total at L.G.G. It is a title you can wear."
+ ],
+ "reward.77AADBF59DC57E58.title": "$10,000",
+ "quest.2AE237A49DF1C594.title": "Almost Had It",
+ "quest.2AE237A49DF1C594.quest_desc": [
+  "Gamble $500,000 in total at L.G.G. It is a title you can wear."
+ ],
+ "reward.120727E331ACC8E1.title": "$10,000",
+ "quest.3F2FE90C8C967C34.title": "I Can Quit Anytime",
+ "quest.3F2FE90C8C967C34.quest_desc": [
+  "Gamble $1,000,000 in total at L.G.G. It is a title you can wear."
+ ],
+ "reward.713484E9FFEDA21E.title": "$10,000",
+ "quest.61639116D2E09C62.title": "I'll Win It Back",
+ "quest.61639116D2E09C62.quest_desc": [
+  "Gamble $2,500,000 in total at L.G.G. It is a title you can wear."
+ ],
+ "reward.79349F4A5C4D1544.title": "$10,000",
+ "quest.30EA58566F43D74E.title": "The House Always Wins",
+ "quest.30EA58566F43D74E.quest_desc": [
+  "Gamble $5,000,000 in total at L.G.G. It is a title you can wear."
+ ],
+ "reward.1728C3C259FC788C.title": "$10,000",
+ "quest.122098D961BEA5B4.title": "Gambler Bronze",
+ "quest.122098D961BEA5B4.quest_desc": [
+  "Money gambled at L.G.G.: 10,000.",
+  "A Trainer Card medal: the card shows it too."
+ ],
+ "reward.547DF6A04D0A11CF.title": "For the glory",
+ "quest.4C44A8452ED6A833.title": "Gambler Silver",
+ "quest.4C44A8452ED6A833.quest_desc": [
+  "Money gambled at L.G.G.: 100,000.",
+  "A Trainer Card medal: the card shows it too."
+ ],
+ "reward.43BE424F7A3EAAE6.title": "For the glory",
+ "quest.233CFF69297576EA.title": "Gambler Gold",
+ "quest.233CFF69297576EA.quest_desc": [
+  "Money gambled at L.G.G.: 1,000,000.",
+  "A Trainer Card medal: the card shows it too."
+ ],
+ "reward.1D0C5ED3F5C1DBC0.title": "For the glory",
+ "quest.4BDF116C287DAC27.title": "Gambler Platinum",
+ "quest.4BDF116C287DAC27.quest_desc": [
+  "Money gambled at L.G.G.: 5,000,000.",
+  "A Trainer Card medal: the card shows it too."
+ ],
+ "reward.55D287432AFE38B8.title": "For the glory"
 }

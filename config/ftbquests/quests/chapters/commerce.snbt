@@ -861,6 +861,370 @@
     }
    ],
    "dependencies": []
+  },
+  {
+   "id": "568536DEC290B45C",
+   "x": 0.0,
+   "y": 12.0,
+   "icon": {
+    "id": "cobblemon:poke_ball",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/lgg/title_0",
+     "criterion": "",
+     "id": "38DA6084FEC7F37C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "13DF946E17D952A1",
+     "type": "command",
+     "command": "/gaby book pay {p} 568536DEC290B45C",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "541D177C33C33F68",
+   "x": 1.5,
+   "y": 12.0,
+   "icon": {
+    "id": "minecraft:oak_door",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/lgg/title_1",
+     "criterion": "",
+     "id": "74738A3057A42A38"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "46AC5068528452E6",
+     "type": "command",
+     "command": "/gaby book pay {p} 541D177C33C33F68",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "568536DEC290B45C"
+   ]
+  },
+  {
+   "id": "6525F0C8F48BDC90",
+   "x": 3.0,
+   "y": 12.0,
+   "icon": {
+    "id": "minecraft:fishing_rod",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/lgg/title_2",
+     "criterion": "",
+     "id": "7E91C85F5BBCC070"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "16A4749D533C401A",
+     "type": "command",
+     "command": "/gaby book pay {p} 6525F0C8F48BDC90",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "541D177C33C33F68"
+   ]
+  },
+  {
+   "id": "18BBD98C16D772F7",
+   "x": 4.5,
+   "y": 12.0,
+   "icon": {
+    "id": "gaby_core:surprise_egg",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/lgg/title_3",
+     "criterion": "",
+     "id": "20593F366F99615C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "77AADBF59DC57E58",
+     "type": "command",
+     "command": "/gaby book pay {p} 18BBD98C16D772F7",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "6525F0C8F48BDC90"
+   ]
+  },
+  {
+   "id": "2AE237A49DF1C594",
+   "x": 0.0,
+   "y": 13.2,
+   "icon": {
+    "id": "minecraft:gold_nugget",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/lgg/title_4",
+     "criterion": "",
+     "id": "136D950E7C27CD5C"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "120727E331ACC8E1",
+     "type": "command",
+     "command": "/gaby book pay {p} 2AE237A49DF1C594",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "18BBD98C16D772F7"
+   ]
+  },
+  {
+   "id": "3F2FE90C8C967C34",
+   "x": 1.5,
+   "y": 13.2,
+   "icon": {
+    "id": "minecraft:clock",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/lgg/title_5",
+     "criterion": "",
+     "id": "63AF6A35D4BA76A4"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "713484E9FFEDA21E",
+     "type": "command",
+     "command": "/gaby book pay {p} 3F2FE90C8C967C34",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "2AE237A49DF1C594"
+   ]
+  },
+  {
+   "id": "61639116D2E09C62",
+   "x": 3.0,
+   "y": 13.2,
+   "icon": {
+    "id": "minecraft:rabbit_foot",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/lgg/title_6",
+     "criterion": "",
+     "id": "7C7119BC430A7987"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "79349F4A5C4D1544",
+     "type": "command",
+     "command": "/gaby book pay {p} 61639116D2E09C62",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "3F2FE90C8C967C34"
+   ]
+  },
+  {
+   "id": "30EA58566F43D74E",
+   "x": 4.5,
+   "y": 13.2,
+   "icon": {
+    "id": "gaby_core:lgg_token",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/lgg/title_7",
+     "criterion": "",
+     "id": "6176AEADE0694947"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1728C3C259FC788C",
+     "type": "command",
+     "command": "/gaby book pay {p} 30EA58566F43D74E",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "61639116D2E09C62"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "122098D961BEA5B4",
+   "x": 0.0,
+   "y": 14.4,
+   "icon": {
+    "id": "gaby_core:lgg_token",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:gambled",
+     "value": 10000,
+     "id": "3E8971AE4CEBA07F"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "547DF6A04D0A11CF",
+     "type": "command",
+     "command": "/gaby book pay {p} 122098D961BEA5B4",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "4C44A8452ED6A833",
+   "x": 1.5,
+   "y": 14.4,
+   "icon": {
+    "id": "gaby_core:lgg_token",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:gambled",
+     "value": 100000,
+     "id": "135F878D64E75878"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "43BE424F7A3EAAE6",
+     "type": "command",
+     "command": "/gaby book pay {p} 4C44A8452ED6A833",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "122098D961BEA5B4"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "233CFF69297576EA",
+   "x": 3.0,
+   "y": 14.4,
+   "icon": {
+    "id": "gaby_core:lgg_token",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:gambled",
+     "value": 1000000,
+     "id": "2238B461335F75B3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "1D0C5ED3F5C1DBC0",
+     "type": "command",
+     "command": "/gaby book pay {p} 233CFF69297576EA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "4C44A8452ED6A833"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "4BDF116C287DAC27",
+   "x": 4.5,
+   "y": 14.4,
+   "icon": {
+    "id": "gaby_core:lgg_token",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "stat",
+     "stat": "gaby_core:gambled",
+     "value": 5000000,
+     "id": "2521E4F084B356AD"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "55D287432AFE38B8",
+     "type": "command",
+     "command": "/gaby book pay {p} 4BDF116C287DAC27",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "233CFF69297576EA"
+   ],
+   "shape": "gear",
+   "size": 1.5
   }
  ]
 }

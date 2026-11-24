@@ -5729,6 +5729,36 @@
   "¿Eres la tormenta que se acerca? Desata Judgement Cut End con Yamato."
  ],
  "reward.15AFDE816CAC5BB8.title": "$70.400 · 1× Parche habilidad · 5× Caramelo experiencia XL · 1× Disco de música",
+ "quest.1592837CB00AAA71.title": "Noches de Terror",
+ "quest.1592837CB00AAA71.quest_desc": [
+  "Completa una Noche de Terror: actívalas en tu tablet, derrota a 10 de sus monstruos y llega al amanecer."
+ ],
+ "reward.54C62A9FB7867A27.title": "$1.000 · 3× Poción",
+ "quest.7928652E78B0DE9B.title": "Vigilia",
+ "quest.7928652E78B0DE9B.quest_desc": [
+  "Completa una Noche de Terror de nivel 5."
+ ],
+ "reward.2139E89231C4F23A.title": "$6.700 · 3× Hiperpoción · 5× Ultra Ball",
+ "quest.767616B30211A644.title": "Caza nocturna",
+ "quest.767616B30211A644.quest_desc": [
+  "Completa una Noche de Terror de nivel 10."
+ ],
+ "reward.227CAB781129A5CE.title": "$11.100 · 2× Caramelo raro · 2× Caramelo experiencia L",
+ "quest.57D27670619A7B63.title": "Luna de sangre",
+ "quest.57D27670619A7B63.quest_desc": [
+  "Completa una Noche de Terror de nivel 15."
+ ],
+ "reward.4437DBCBEF5811AE.title": "$16.700 · 2× Caramelo raro · 2× Caramelo experiencia L",
+ "quest.655D20233CF24A71.title": "Noche eterna",
+ "quest.655D20233CF24A71.quest_desc": [
+  "Completa una Noche de Terror de nivel 20."
+ ],
+ "reward.7A0146A8451643FC.title": "$70.400 · 1× Parche habilidad · 5× Caramelo experiencia XL",
+ "quest.1CB62F7ED3BD16FA.title": "Duelo de medianoche",
+ "quest.1CB62F7ED3BD16FA.quest_desc": [
+  "Derrota al élite que te reta a medianoche en una Noche de Terror."
+ ],
+ "reward.149681BFFA3B9F75.title": "$6.700 · 3× Hiperpoción · 5× Ultra Ball",
  "quest.5C924ABA0B025408.title": "Viajero Bronce",
  "quest.5C924ABA0B025408.quest_desc": [
   "Kilómetros recorridos: 10.",
@@ -7142,5 +7172,69 @@
  "quest.5EA3AA2F5A5C6CB7.quest_desc": [
   "Haber gastado en total más dinero del que has ganado. Las transferencias recibidas de otros jugadores no cuentan como ganadas: vives del dinero ajeno."
  ],
- "reward.3975B849786A0440.title": "$2.000 · 2× Superpoción"
+ "reward.3975B849786A0440.title": "$2.000 · 2× Superpoción",
+ "quest.568536DEC290B45C.title": "Veamos qué sale",
+ "quest.568536DEC290B45C.quest_desc": [
+  "Apuesta $10.000 en total en L.G.G. Es un título que puedes llevar."
+ ],
+ "reward.13DF946E17D952A1.title": "Por la gloria",
+ "quest.541D177C33C33F68.title": "Una más y me voy",
+ "quest.541D177C33C33F68.quest_desc": [
+  "Apuesta $50.000 en total en L.G.G. Es un título que puedes llevar."
+ ],
+ "reward.46AC5068528452E6.title": "Por la gloria",
+ "quest.6525F0C8F48BDC90.title": "Es solo un hobby",
+ "quest.6525F0C8F48BDC90.quest_desc": [
+  "Apuesta $100.000 en total en L.G.G. Es un título que puedes llevar."
+ ],
+ "reward.16A4749D533C401A.title": "$10.000",
+ "quest.18BBD98C16D772F7.title": "Esta es la buena",
+ "quest.18BBD98C16D772F7.quest_desc": [
+  "Apuesta $250.000 en total en L.G.G. Es un título que puedes llevar."
+ ],
+ "reward.77AADBF59DC57E58.title": "$10.000",
+ "quest.2AE237A49DF1C594.title": "Casi me toca",
+ "quest.2AE237A49DF1C594.quest_desc": [
+  "Apuesta $500.000 en total en L.G.G. Es un título que puedes llevar."
+ ],
+ "reward.120727E331ACC8E1.title": "$10.000",
+ "quest.3F2FE90C8C967C34.title": "Lo dejo cuando quiero",
+ "quest.3F2FE90C8C967C34.quest_desc": [
+  "Apuesta $1.000.000 en total en L.G.G. Es un título que puedes llevar."
+ ],
+ "reward.713484E9FFEDA21E.title": "$10.000",
+ "quest.61639116D2E09C62.title": "Ya lo recupero",
+ "quest.61639116D2E09C62.quest_desc": [
+  "Apuesta $2.500.000 en total en L.G.G. Es un título que puedes llevar."
+ ],
+ "reward.79349F4A5C4D1544.title": "$10.000",
+ "quest.30EA58566F43D74E.title": "La casa siempre gana",
+ "quest.30EA58566F43D74E.quest_desc": [
+  "Apuesta $5.000.000 en total en L.G.G. Es un título que puedes llevar."
+ ],
+ "reward.1728C3C259FC788C.title": "$10.000",
+ "quest.122098D961BEA5B4.title": "Apostador Bronce",
+ "quest.122098D961BEA5B4.quest_desc": [
+  "Dinero apostado en L.G.G.: 10.000.",
+  "Un logro de la Tarjeta de Entrenador: también sale en ella."
+ ],
+ "reward.547DF6A04D0A11CF.title": "Por la gloria",
+ "quest.4C44A8452ED6A833.title": "Apostador Plata",
+ "quest.4C44A8452ED6A833.quest_desc": [
+  "Dinero apostado en L.G.G.: 100.000.",
+  "Un logro de la Tarjeta de Entrenador: también sale en ella."
+ ],
+ "reward.43BE424F7A3EAAE6.title": "Por la gloria",
+ "quest.233CFF69297576EA.title": "Apostador Oro",
+ "quest.233CFF69297576EA.quest_desc": [
+  "Dinero apostado en L.G.G.: 1.000.000.",
+  "Un logro de la Tarjeta de Entrenador: también sale en ella."
+ ],
+ "reward.1D0C5ED3F5C1DBC0.title": "Por la gloria",
+ "quest.4BDF116C287DAC27.title": "Apostador Platino",
+ "quest.4BDF116C287DAC27.quest_desc": [
+  "Dinero apostado en L.G.G.: 5.000.000.",
+  "Un logro de la Tarjeta de Entrenador: también sale en ella."
+ ],
+ "reward.55D287432AFE38B8.title": "Por la gloria"
 }

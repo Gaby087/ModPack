@@ -179,6 +179,194 @@
    "size": 1.5
   },
   {
+   "id": "1592837CB00AAA71",
+   "x": 0.0,
+   "y": 4.8,
+   "icon": {
+    "id": "minecraft:rotten_flesh",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/terror/night_1",
+     "criterion": "",
+     "id": "4F2E905087209D94"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "54C62A9FB7867A27",
+     "type": "command",
+     "command": "/gaby book pay {p} 1592837CB00AAA71",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": []
+  },
+  {
+   "id": "7928652E78B0DE9B",
+   "x": 1.5,
+   "y": 4.8,
+   "icon": {
+    "id": "minecraft:lantern",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/terror/level_5",
+     "criterion": "",
+     "id": "37178D7EB99B5185"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "2139E89231C4F23A",
+     "type": "command",
+     "command": "/gaby book pay {p} 7928652E78B0DE9B",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1592837CB00AAA71"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "767616B30211A644",
+   "x": 3.0,
+   "y": 4.8,
+   "icon": {
+    "id": "minecraft:crossbow",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/terror/level_10",
+     "criterion": "",
+     "id": "773BB6AA1254C7F3"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "227CAB781129A5CE",
+     "type": "command",
+     "command": "/gaby book pay {p} 767616B30211A644",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "7928652E78B0DE9B"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "57D27670619A7B63",
+   "x": 4.5,
+   "y": 4.8,
+   "icon": {
+    "id": "minecraft:redstone_block",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/terror/level_15",
+     "criterion": "",
+     "id": "3B380668DF4451AC"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "4437DBCBEF5811AE",
+     "type": "command",
+     "command": "/gaby book pay {p} 57D27670619A7B63",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "767616B30211A644"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
+   "id": "655D20233CF24A71",
+   "x": 6.0,
+   "y": 4.8,
+   "icon": {
+    "id": "minecraft:crying_obsidian",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/terror/level_20",
+     "criterion": "",
+     "id": "2A4CFC8F65A3DE79"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "7A0146A8451643FC",
+     "type": "command",
+     "command": "/gaby book pay {p} 655D20233CF24A71",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "57D27670619A7B63"
+   ],
+   "shape": "gear",
+   "size": 1.5
+  },
+  {
+   "id": "1CB62F7ED3BD16FA",
+   "x": 1.5,
+   "y": 6.0,
+   "icon": {
+    "id": "minecraft:wither_skeleton_skull",
+    "count": 1
+   },
+   "tasks": [
+    {
+     "type": "advancement",
+     "advancement": "gaby_core:milestone/terror/elite",
+     "criterion": "",
+     "id": "1DB6A9A0E383879D"
+    }
+   ],
+   "rewards": [
+    {
+     "id": "149681BFFA3B9F75",
+     "type": "command",
+     "command": "/gaby book pay {p} 1CB62F7ED3BD16FA",
+     "elevate_perms": true,
+     "silent": true,
+     "auto": "no_toast"
+    }
+   ],
+   "dependencies": [
+    "1592837CB00AAA71"
+   ],
+   "shape": "diamond",
+   "size": 1.2
+  },
+  {
    "id": "5C924ABA0B025408",
    "x": 4.5,
    "y": 0.0,
@@ -585,7 +773,7 @@
   {
    "id": "2EFC7852CA925C20",
    "x": 0.0,
-   "y": 6.6,
+   "y": 9.0,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -612,7 +800,7 @@
   {
    "id": "7C497AD607B53F7A",
    "x": 1.5,
-   "y": 6.6,
+   "y": 9.0,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -639,7 +827,7 @@
   {
    "id": "4F9766877527403A",
    "x": 3.0,
-   "y": 6.6,
+   "y": 9.0,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -666,7 +854,7 @@
   {
    "id": "2E11472C4EC6770A",
    "x": 4.5,
-   "y": 6.6,
+   "y": 9.0,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -693,7 +881,7 @@
   {
    "id": "13EC7C22410F3CA3",
    "x": 6.0,
-   "y": 6.6,
+   "y": 9.0,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -720,7 +908,7 @@
   {
    "id": "32CF835F82553EB7",
    "x": 7.5,
-   "y": 6.6,
+   "y": 9.0,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -747,7 +935,7 @@
   {
    "id": "4B5B619C7FC1147C",
    "x": 9.0,
-   "y": 6.6,
+   "y": 9.0,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -774,7 +962,7 @@
   {
    "id": "4A03D49592EDBFDD",
    "x": 10.5,
-   "y": 6.6,
+   "y": 9.0,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -801,7 +989,7 @@
   {
    "id": "1676270B38EB0EC4",
    "x": 0.0,
-   "y": 7.8,
+   "y": 10.2,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -828,7 +1016,7 @@
   {
    "id": "72095BCADD09B2B2",
    "x": 1.5,
-   "y": 7.8,
+   "y": 10.2,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -855,7 +1043,7 @@
   {
    "id": "661658B455F6616A",
    "x": 3.0,
-   "y": 7.8,
+   "y": 10.2,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -882,7 +1070,7 @@
   {
    "id": "4A5B87721B3D4818",
    "x": 4.5,
-   "y": 7.8,
+   "y": 10.2,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -909,7 +1097,7 @@
   {
    "id": "7F5D197CDAF00CBC",
    "x": 6.0,
-   "y": 7.8,
+   "y": 10.2,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -936,7 +1124,7 @@
   {
    "id": "707E371A90DA78AC",
    "x": 7.5,
-   "y": 7.8,
+   "y": 10.2,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -963,7 +1151,7 @@
   {
    "id": "47ADBAE58A7B2E25",
    "x": 9.0,
-   "y": 7.8,
+   "y": 10.2,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -990,7 +1178,7 @@
   {
    "id": "103DE44BAF7DD155",
    "x": 10.5,
-   "y": 7.8,
+   "y": 10.2,
    "icon": {
     "id": "minecraft:map",
     "count": 1
@@ -1017,7 +1205,7 @@
   {
    "id": "248A0E873C124B33",
    "x": 0.0,
-   "y": 9.0,
+   "y": 11.4,
    "icon": {
     "id": "minecraft:compass",
     "count": 1
@@ -1044,7 +1232,7 @@
   {
    "id": "54DA38DD6A3752E7",
    "x": 1.5,
-   "y": 9.0,
+   "y": 11.4,
    "icon": {
     "id": "minecraft:compass",
     "count": 1
@@ -1071,7 +1259,7 @@
   {
    "id": "49F4361810D36F16",
    "x": 3.0,
-   "y": 9.0,
+   "y": 11.4,
    "icon": {
     "id": "minecraft:compass",
     "count": 1
@@ -1098,7 +1286,7 @@
   {
    "id": "66A3FB9FC1836EB8",
    "x": 4.5,
-   "y": 9.0,
+   "y": 11.4,
    "icon": {
     "id": "minecraft:compass",
     "count": 1
@@ -1125,7 +1313,7 @@
   {
    "id": "1D90AD2DEAC943C5",
    "x": 6.0,
-   "y": 9.0,
+   "y": 11.4,
    "icon": {
     "id": "minecraft:compass",
     "count": 1
@@ -1152,7 +1340,7 @@
   {
    "id": "65AD1D815D8FD480",
    "x": 7.5,
-   "y": 9.0,
+   "y": 11.4,
    "icon": {
     "id": "minecraft:compass",
     "count": 1
@@ -1179,7 +1367,7 @@
   {
    "id": "584DD12D4A0B6EDA",
    "x": 9.0,
-   "y": 9.0,
+   "y": 11.4,
    "icon": {
     "id": "minecraft:compass",
     "count": 1
@@ -1206,7 +1394,7 @@
   {
    "id": "7EC5D489425F4882",
    "x": 0.0,
-   "y": 10.2,
+   "y": 12.6,
    "icon": {
     "id": "minecraft:prismarine_shard",
     "count": 1
@@ -1236,7 +1424,7 @@
   {
    "id": "3464FAD73E97ECA9",
    "x": 1.5,
-   "y": 10.2,
+   "y": 12.6,
    "icon": {
     "id": "minecraft:sculk_catalyst",
     "count": 1
@@ -1266,7 +1454,7 @@
   {
    "id": "3F36892991E6C24B",
    "x": 3.0,
-   "y": 10.2,
+   "y": 12.6,
    "icon": {
     "id": "minecraft:nether_star",
     "count": 1
@@ -1296,7 +1484,7 @@
   {
    "id": "2C968B00A1AF1500",
    "x": 0.0,
-   "y": 18.6,
+   "y": 21.0,
    "icon": {
     "id": "minecraft:chest",
     "count": 1
@@ -1324,7 +1512,7 @@
   {
    "id": "50AA19238B0B1FD1",
    "x": 1.5,
-   "y": 13.2,
+   "y": 15.6,
    "icon": {
     "id": "lootr:lootr_barrel",
     "count": 1
@@ -1354,7 +1542,7 @@
   {
    "id": "13C49B0F198CFACF",
    "x": 1.5,
-   "y": 14.4,
+   "y": 16.8,
    "icon": {
     "id": "minecraft:chest_minecart",
     "count": 1
@@ -1384,7 +1572,7 @@
   {
    "id": "3A5DE10FCE6C59C0",
    "x": 1.5,
-   "y": 16.8,
+   "y": 19.2,
    "icon": {
     "id": "lootr:lootr_chest",
     "count": 1
@@ -1414,7 +1602,7 @@
   {
    "id": "347D47D0F21D54E0",
    "x": 3.0,
-   "y": 15.6,
+   "y": 18.0,
    "icon": {
     "id": "minecraft:gold_block",
     "count": 1
@@ -1444,7 +1632,7 @@
   {
    "id": "101F7648650CA8E0",
    "x": 4.5,
-   "y": 15.6,
+   "y": 18.0,
    "icon": {
     "id": "minecraft:emerald_block",
     "count": 1
@@ -1474,7 +1662,7 @@
   {
    "id": "748C7A86DAEA81D2",
    "x": 6.0,
-   "y": 15.6,
+   "y": 18.0,
    "icon": {
     "id": "minecraft:diamond_block",
     "count": 1
@@ -1504,7 +1692,7 @@
   {
    "id": "48E201827ACCD1AB",
    "x": 7.5,
-   "y": 15.6,
+   "y": 18.0,
    "icon": {
     "id": "minecraft:netherite_block",
     "count": 1
@@ -1536,7 +1724,7 @@
   {
    "id": "295978C744DD0D52",
    "x": 3.0,
-   "y": 16.8,
+   "y": 19.2,
    "icon": {
     "id": "minecraft:enchanted_golden_apple",
     "count": 1
@@ -1569,7 +1757,7 @@
   {
    "id": "2BD3020F5E2BE151",
    "x": 3.0,
-   "y": 18.0,
+   "y": 20.4,
    "icon": {
     "id": "minecraft:tnt",
     "count": 1
@@ -1600,7 +1788,7 @@
   {
    "id": "46B94526C43F9D97",
    "x": 1.5,
-   "y": 19.2,
+   "y": 21.6,
    "icon": {
     "id": "minecraft:item_frame",
     "count": 1
@@ -1630,7 +1818,7 @@
   {
    "id": "216A5B18B02B8A4F",
    "x": 1.5,
-   "y": 20.4,
+   "y": 22.8,
    "icon": {
     "id": "lootr:lootr_shulker",
     "count": 1
@@ -1660,7 +1848,7 @@
   {
    "id": "12596A0F51A8DF7E",
    "x": 1.5,
-   "y": 21.6,
+   "y": 24.0,
    "icon": {
     "id": "lootr:suspicious_gravel",
     "count": 1
@@ -1690,7 +1878,7 @@
   {
    "id": "1D41A28F997B04FC",
    "x": 1.5,
-   "y": 22.8,
+   "y": 25.2,
    "icon": {
     "id": "minecraft:iron_trapdoor",
     "count": 1
@@ -1723,7 +1911,7 @@
   {
    "id": "152F60EA2C733F79",
    "x": 1.5,
-   "y": 24.0,
+   "y": 26.4,
    "icon": {
     "id": "lootr:decorated_pot",
     "count": 1
@@ -1753,7 +1941,7 @@
   {
    "id": "2488FB5F3B6E8152",
    "x": 3.0,
-   "y": 24.0,
+   "y": 26.4,
    "icon": {
     "id": "minecraft:brush",
     "count": 1
@@ -1785,7 +1973,7 @@
   {
    "id": "6DED8AD190FB42DD",
    "x": 0.0,
-   "y": 27.0,
+   "y": 29.4,
    "icon": {
     "id": "alexsmobs:animal_dictionary",
     "count": 1
@@ -1813,7 +2001,7 @@
   {
    "id": "6DEBDE05E1B3F57F",
    "x": 3.0,
-   "y": 27.6,
+   "y": 30.0,
    "icon": {
     "id": "alexsmobs:acacia_blossom",
     "count": 1
@@ -1845,7 +2033,7 @@
   {
    "id": "7E4F0D7A0C3C81B4",
    "x": 4.5,
-   "y": 27.6,
+   "y": 30.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_elephant",
     "count": 1
@@ -1875,7 +2063,7 @@
   {
    "id": "236EB51A8CE4F3B9",
    "x": 6.0,
-   "y": 27.0,
+   "y": 29.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_elephant",
     "count": 1
@@ -1905,7 +2093,7 @@
   {
    "id": "1E70AFFB1827414D",
    "x": 6.0,
-   "y": 28.2,
+   "y": 30.6,
    "icon": {
     "id": "alexsmobs:spawn_egg_elephant",
     "count": 1
@@ -1937,7 +2125,7 @@
   {
    "id": "566120E60EE39795",
    "x": 3.0,
-   "y": 30.6,
+   "y": 33.0,
    "icon": {
     "id": "alexsmobs:banana",
     "count": 1
@@ -1967,7 +2155,7 @@
   {
    "id": "4F65BD04ADA8F797",
    "x": 4.5,
-   "y": 29.4,
+   "y": 31.8,
    "icon": {
     "id": "alexsmobs:spawn_egg_banana_slug",
     "count": 1
@@ -1997,7 +2185,7 @@
   {
    "id": "67106ECC6108FAA5",
    "x": 4.5,
-   "y": 30.6,
+   "y": 33.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_capuchin_monkey",
     "count": 1
@@ -2027,7 +2215,7 @@
   {
    "id": "52DEA5E67798951A",
    "x": 6.0,
-   "y": 30.6,
+   "y": 33.0,
    "icon": {
     "id": "alexsmobs:sopa_de_macaco",
     "count": 1
@@ -2059,7 +2247,7 @@
   {
    "id": "64F9C1627069D6C2",
    "x": 4.5,
-   "y": 31.8,
+   "y": 34.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_gorilla",
     "count": 1
@@ -2089,7 +2277,7 @@
   {
    "id": "16E0AA5282BAF496",
    "x": 3.0,
-   "y": 33.0,
+   "y": 35.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_bison",
     "count": 1
@@ -2121,7 +2309,7 @@
   {
    "id": "31B3CF6480912E72",
    "x": 3.0,
-   "y": 34.2,
+   "y": 36.6,
    "icon": {
     "id": "alexsmobs:spawn_egg_hummingbird",
     "count": 1
@@ -2151,7 +2339,7 @@
   {
    "id": "29CC6DFEE983EF4C",
    "x": 4.5,
-   "y": 34.2,
+   "y": 36.6,
    "icon": {
     "id": "alexsmobs:hummingbird_feeder",
     "count": 1
@@ -2181,7 +2369,7 @@
   {
    "id": "4D4E2EEAD8C3006F",
    "x": 3.0,
-   "y": 36.599999999999994,
+   "y": 39.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_crimson_mosquito",
     "count": 1
@@ -2212,7 +2400,7 @@
   {
    "id": "2A955EFC33F09931",
    "x": 4.5,
-   "y": 35.4,
+   "y": 37.8,
    "icon": {
     "id": "alexsmobs:blood_sprayer",
     "count": 1
@@ -2242,7 +2430,7 @@
   {
    "id": "13F6B4E8BBB9CF20",
    "x": 4.5,
-   "y": 36.6,
+   "y": 39.0,
    "icon": {
     "id": "alexsmobs:mosquito_larva",
     "count": 1
@@ -2272,7 +2460,7 @@
   {
    "id": "7CFD2064DC94D7CA",
    "x": 6.0,
-   "y": 36.6,
+   "y": 39.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_warped_toad",
     "count": 1
@@ -2302,7 +2490,7 @@
   {
    "id": "2073AD82232A7BF6",
    "x": 4.5,
-   "y": 37.8,
+   "y": 40.2,
    "icon": {
     "id": "minecraft:warped_fungus",
     "count": 1
@@ -2332,7 +2520,7 @@
   {
    "id": "2DD6083910367168",
    "x": 6.0,
-   "y": 37.8,
+   "y": 40.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_warped_mosco",
     "count": 1
@@ -2364,7 +2552,7 @@
   {
    "id": "58C324170DFD3D85",
    "x": 7.5,
-   "y": 37.8,
+   "y": 40.2,
    "icon": {
     "id": "alexsmobs:hemolymph_blaster",
     "count": 1
@@ -2394,7 +2582,7 @@
   {
    "id": "6693BD72D75FDB23",
    "x": 3.0,
-   "y": 39.6,
+   "y": 42.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_crocodile",
     "count": 1
@@ -2425,7 +2613,7 @@
   {
    "id": "18C87F2E2D1234F9",
    "x": 4.5,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_alligator_snapping_turtle",
     "count": 1
@@ -2455,7 +2643,7 @@
   {
    "id": "21198E6ACDBBEEB5",
    "x": 6.0,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:spiked_scute",
     "count": 1
@@ -2485,7 +2673,7 @@
   {
    "id": "571A1B68615BDD2A",
    "x": 7.5,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:spiked_turtle_shell",
     "count": 1
@@ -2517,7 +2705,7 @@
   {
    "id": "432E19A502F66AE0",
    "x": 4.5,
-   "y": 40.2,
+   "y": 42.6,
    "icon": {
     "id": "alexsmobs:crocodile_egg",
     "count": 1
@@ -2547,7 +2735,7 @@
   {
    "id": "1C99F8DB41CD31EE",
    "x": 6.0,
-   "y": 40.2,
+   "y": 42.6,
    "icon": {
     "id": "alexsmobs:crocodile_chestplate",
     "count": 1
@@ -2579,7 +2767,7 @@
   {
    "id": "29E34BC8873B7625",
    "x": 3.0,
-   "y": 44.55,
+   "y": 46.95,
    "icon": {
     "id": "alexsmobs:spawn_egg_enderiophage",
     "count": 1
@@ -2610,7 +2798,7 @@
   {
    "id": "1EE89E1CF0C74F0A",
    "x": 4.5,
-   "y": 42.9,
+   "y": 45.3,
    "icon": {
     "id": "alexsmobs:capsid",
     "count": 1
@@ -2640,7 +2828,7 @@
   {
    "id": "475EE7CD0797867D",
    "x": 6.0,
-   "y": 41.4,
+   "y": 43.8,
    "icon": {
     "id": "alexsmobs:cosmic_cod",
     "count": 1
@@ -2670,7 +2858,7 @@
   {
    "id": "146DC23509F19E65",
    "x": 7.5,
-   "y": 41.4,
+   "y": 43.8,
    "icon": {
     "id": "alexsmobs:spawn_egg_cosmaw",
     "count": 1
@@ -2700,7 +2888,7 @@
   {
    "id": "20556F1EE942BA78",
    "x": 6.0,
-   "y": 42.6,
+   "y": 45.0,
    "icon": {
     "id": "alexsmobs:enderiophage_rocket",
     "count": 1
@@ -2730,7 +2918,7 @@
   {
    "id": "6923EFE49ED69CAE",
    "x": 6.0,
-   "y": 44.4,
+   "y": 46.8,
    "icon": {
     "id": "alexsmobs:mysterious_worm",
     "count": 1
@@ -2760,7 +2948,7 @@
   {
    "id": "5B351EAF2CF3AAEC",
    "x": 7.5,
-   "y": 44.4,
+   "y": 46.8,
    "icon": {
     "id": "alexsmobs:spawn_egg_void_worm",
     "count": 1
@@ -2792,7 +2980,7 @@
   {
    "id": "4C9285A2A8E518CD",
    "x": 9.0,
-   "y": 43.8,
+   "y": 46.2,
    "icon": {
     "id": "alexsmobs:void_worm_beak",
     "count": 1
@@ -2824,7 +3012,7 @@
   {
    "id": "7B1BB9035A65C317",
    "x": 10.5,
-   "y": 43.8,
+   "y": 46.2,
    "icon": {
     "id": "alexsmobs:dimensional_carver",
     "count": 1
@@ -2854,7 +3042,7 @@
   {
    "id": "6712A7D1E61A7430",
    "x": 12.0,
-   "y": 43.8,
+   "y": 46.2,
    "icon": {
     "id": "alexsmobs:shattered_dimensional_carver",
     "count": 1
@@ -2884,7 +3072,7 @@
   {
    "id": "68C1E1101C56FBEE",
    "x": 13.5,
-   "y": 43.8,
+   "y": 46.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_farseer",
     "count": 1
@@ -2914,7 +3102,7 @@
   {
    "id": "29BF39BB26DE9990",
    "x": 15.0,
-   "y": 43.8,
+   "y": 46.2,
    "icon": {
     "id": "alexsmobs:transmutation_table",
     "count": 1
@@ -2944,7 +3132,7 @@
   {
    "id": "24248195D842E789",
    "x": 16.5,
-   "y": 43.8,
+   "y": 46.2,
    "icon": {
     "id": "alexsmobs:transmutation_table",
     "count": 1
@@ -2974,7 +3162,7 @@
   {
    "id": "520812CDA2410B1E",
    "x": 9.0,
-   "y": 45.0,
+   "y": 47.4,
    "icon": {
     "id": "alexsmobs:void_worm_eye",
     "count": 1
@@ -3004,7 +3192,7 @@
   {
    "id": "359A4561351B91B3",
    "x": 4.5,
-   "y": 46.2,
+   "y": 48.6,
    "icon": {
     "id": "alexsmobs:spawn_egg_enderiophage",
     "count": 1
@@ -3034,7 +3222,7 @@
   {
    "id": "24624EFCF7DE3032",
    "x": 19.5,
-   "y": 27.0,
+   "y": 29.4,
    "icon": {
     "id": "alexsmobs:froststalker_horn",
     "count": 1
@@ -3067,7 +3255,7 @@
   {
    "id": "28578CF1D5BDCD9B",
    "x": 21.0,
-   "y": 27.0,
+   "y": 29.4,
    "icon": {
     "id": "alexsmobs:froststalker_helmet",
     "count": 1
@@ -3097,7 +3285,7 @@
   {
    "id": "70890BC82E3D9C7F",
    "x": 22.5,
-   "y": 27.0,
+   "y": 29.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_froststalker",
     "count": 1
@@ -3129,7 +3317,7 @@
   {
    "id": "2BD4AA8D5EBAE520",
    "x": 19.5,
-   "y": 28.2,
+   "y": 30.6,
    "icon": {
     "id": "alexsmobs:spawn_egg_grizzly_bear",
     "count": 1
@@ -3160,7 +3348,7 @@
   {
    "id": "5D4B40FD202A6632",
    "x": 21.0,
-   "y": 28.2,
+   "y": 30.6,
    "icon": {
     "id": "minecraft:salmon",
     "count": 1
@@ -3190,7 +3378,7 @@
   {
    "id": "1C46B11C07E107B1",
    "x": 19.5,
-   "y": 30.0,
+   "y": 32.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_guster",
     "count": 1
@@ -3221,7 +3409,7 @@
   {
    "id": "7659456AC0007F79",
    "x": 21.0,
-   "y": 29.4,
+   "y": 31.8,
    "icon": {
     "id": "alexsmobs:gustmaker",
     "count": 1
@@ -3251,7 +3439,7 @@
   {
    "id": "46C3A175F2185865",
    "x": 21.0,
-   "y": 30.6,
+   "y": 33.0,
    "icon": {
     "id": "alexsmobs:pocket_sand",
     "count": 1
@@ -3281,7 +3469,7 @@
   {
    "id": "1C3F6A31A8BD645B",
    "x": 19.5,
-   "y": 31.8,
+   "y": 34.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_kangaroo",
     "count": 1
@@ -3312,7 +3500,7 @@
   {
    "id": "5F4B6A8E3ACDF81E",
    "x": 21.0,
-   "y": 31.8,
+   "y": 34.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_emu",
     "count": 1
@@ -3342,7 +3530,7 @@
   {
    "id": "72876EB3316A4BCE",
    "x": 22.5,
-   "y": 31.8,
+   "y": 34.2,
    "icon": {
     "id": "minecraft:blue_banner",
     "count": 1
@@ -3372,7 +3560,7 @@
   {
    "id": "293FCE93F5057301",
    "x": 19.5,
-   "y": 33.0,
+   "y": 35.4,
    "icon": {
     "id": "minecraft:spyglass",
     "count": 1
@@ -3405,7 +3593,7 @@
   {
    "id": "3AA95DBB23708145",
    "x": 19.5,
-   "y": 34.2,
+   "y": 36.6,
    "icon": {
     "id": "alexsmobs:lost_tentacle",
     "count": 1
@@ -3436,7 +3624,7 @@
   {
    "id": "776AECEE73A10DF0",
    "x": 21.0,
-   "y": 34.2,
+   "y": 36.6,
    "icon": {
     "id": "alexsmobs:squid_grapple",
     "count": 1
@@ -3466,7 +3654,7 @@
   {
    "id": "2F0259538DD0C65A",
    "x": 19.5,
-   "y": 35.4,
+   "y": 37.8,
    "icon": {
     "id": "alexsmobs:spawn_egg_maned_wolf",
     "count": 1
@@ -3497,7 +3685,7 @@
   {
    "id": "5038E4AC4FA77A4E",
    "x": 19.5,
-   "y": 36.6,
+   "y": 39.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_murmur",
     "count": 1
@@ -3528,7 +3716,7 @@
   {
    "id": "1D516CF402AFDEBC",
    "x": 19.5,
-   "y": 37.8,
+   "y": 40.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_orca",
     "count": 1
@@ -3561,7 +3749,7 @@
   {
    "id": "7C4746E74919BEAC",
    "x": 19.5,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_comb_jelly",
     "count": 1
@@ -3592,7 +3780,7 @@
   {
    "id": "2334E0DA73EF8A21",
    "x": 21.0,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:rainbow_glass",
     "count": 1
@@ -3622,7 +3810,7 @@
   {
    "id": "468EF3841F7D4B78",
    "x": 19.5,
-   "y": 40.2,
+   "y": 42.6,
    "icon": {
     "id": "alexsmobs:spawn_egg_rattlesnake",
     "count": 1
@@ -3653,7 +3841,7 @@
   {
    "id": "764376DA2D18AD63",
    "x": 21.0,
-   "y": 40.2,
+   "y": 42.6,
    "icon": {
     "id": "alexsmobs:maraca",
     "count": 1
@@ -3683,7 +3871,7 @@
   {
    "id": "52DA95567C0EF553",
    "x": 22.5,
-   "y": 40.2,
+   "y": 42.6,
    "icon": {
     "id": "alexsmobs:spawn_egg_cockroach",
     "count": 1
@@ -3715,7 +3903,7 @@
   {
    "id": "7F33EAD96EDE57B5",
    "x": 19.5,
-   "y": 41.4,
+   "y": 43.8,
    "icon": {
     "id": "alexsmobs:spawn_egg_rocky_roller",
     "count": 1
@@ -3746,7 +3934,7 @@
   {
    "id": "775C8DC25F32B662",
    "x": 21.0,
-   "y": 41.4,
+   "y": 43.8,
    "icon": {
     "id": "alexsmobs:rocky_shell",
     "count": 1
@@ -3776,7 +3964,7 @@
   {
    "id": "5A3C73B50C242DE3",
    "x": 22.5,
-   "y": 41.4,
+   "y": 43.8,
    "icon": {
     "id": "alexsmobs:rocky_chestplate",
     "count": 1
@@ -3806,7 +3994,7 @@
   {
    "id": "5B74BB3909ADDD04",
    "x": 19.5,
-   "y": 42.6,
+   "y": 45.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_cachalot_whale",
     "count": 1
@@ -3839,7 +4027,7 @@
   {
    "id": "1E06917190454DF2",
    "x": 21.0,
-   "y": 42.6,
+   "y": 45.0,
    "icon": {
     "id": "alexsmobs:echolocator",
     "count": 1
@@ -3869,7 +4057,7 @@
   {
    "id": "6CA9BC7AB2958463",
    "x": 22.5,
-   "y": 42.6,
+   "y": 45.0,
    "icon": {
     "id": "alexsmobs:endolocator",
     "count": 1
@@ -3899,7 +4087,7 @@
   {
    "id": "72D64AB6A434EBEF",
    "x": 19.5,
-   "y": 43.8,
+   "y": 46.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_seagull",
     "count": 1
@@ -3930,7 +4118,7 @@
   {
    "id": "24DEEF19EB928830",
    "x": 25.5,
-   "y": 27.6,
+   "y": 30.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_skelewag",
     "count": 1
@@ -3961,7 +4149,7 @@
   {
    "id": "227EBEC30BACAA46",
    "x": 27.0,
-   "y": 27.0,
+   "y": 29.4,
    "icon": {
     "id": "alexsmobs:fish_bones",
     "count": 1
@@ -3991,7 +4179,7 @@
   {
    "id": "25FB187E5AFC8269",
    "x": 28.5,
-   "y": 27.0,
+   "y": 29.4,
    "icon": {
     "id": "alexsmobs:pupfish_locator",
     "count": 1
@@ -4021,7 +4209,7 @@
   {
    "id": "597E6115F21735D0",
    "x": 30.0,
-   "y": 27.0,
+   "y": 29.4,
    "icon": {
     "id": "alexsmobs:devils_hole_pupfish_bucket",
     "count": 1
@@ -4053,7 +4241,7 @@
   {
    "id": "6E54F4A94E794A23",
    "x": 27.0,
-   "y": 28.2,
+   "y": 30.6,
    "icon": {
     "id": "alexsmobs:skelewag_sword",
     "count": 1
@@ -4083,7 +4271,7 @@
   {
    "id": "1B910CB6411CA9A0",
    "x": 28.5,
-   "y": 28.2,
+   "y": 30.6,
    "icon": {
     "id": "alexsmobs:novelty_hat",
     "count": 1
@@ -4113,7 +4301,7 @@
   {
    "id": "6DEFADBA4324CAC3",
    "x": 25.5,
-   "y": 29.4,
+   "y": 31.8,
    "icon": {
     "id": "alexsmobs:spawn_egg_skreecher",
     "count": 1
@@ -4144,7 +4332,7 @@
   {
    "id": "289FBD2C7EB5DD42",
    "x": 27.0,
-   "y": 29.4,
+   "y": 31.8,
    "icon": {
     "id": "alexsmobs:sculk_boomer",
     "count": 1
@@ -4174,7 +4362,7 @@
   {
    "id": "61E077C9021B58E0",
    "x": 25.5,
-   "y": 30.6,
+   "y": 33.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_skunk",
     "count": 1
@@ -4205,7 +4393,7 @@
   {
    "id": "52BF9D5E6575CEFE",
    "x": 27.0,
-   "y": 30.6,
+   "y": 33.0,
    "icon": {
     "id": "alexsmobs:stink_bottle",
     "count": 1
@@ -4235,7 +4423,7 @@
   {
    "id": "13C8C673F624DB7F",
    "x": 28.5,
-   "y": 30.6,
+   "y": 33.0,
    "icon": {
     "id": "alexsmobs:stink_ray",
     "count": 1
@@ -4265,7 +4453,7 @@
   {
    "id": "17C928A461F07035",
    "x": 25.5,
-   "y": 31.8,
+   "y": 34.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_soul_vulture",
     "count": 1
@@ -4296,7 +4484,7 @@
   {
    "id": "7219C2EAC38550F2",
    "x": 27.0,
-   "y": 31.8,
+   "y": 34.2,
    "icon": {
     "id": "alexsmobs:soul_heart",
     "count": 1
@@ -4326,7 +4514,7 @@
   {
    "id": "45BBC086FE6555B0",
    "x": 28.5,
-   "y": 31.8,
+   "y": 34.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_spectre",
     "count": 1
@@ -4356,7 +4544,7 @@
   {
    "id": "4E43E8A9D3458D9A",
    "x": 25.5,
-   "y": 33.0,
+   "y": 35.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_leafcutter_ant",
     "count": 1
@@ -4387,7 +4575,7 @@
   {
    "id": "698FACCD773D6090",
    "x": 27.0,
-   "y": 33.0,
+   "y": 35.4,
    "icon": {
     "id": "alexsmobs:gongylidia",
     "count": 1
@@ -4417,7 +4605,7 @@
   {
    "id": "583F01567D682106",
    "x": 28.5,
-   "y": 33.0,
+   "y": 35.4,
    "icon": {
     "id": "alexsmobs:leafcutter_ant_pupa",
     "count": 1
@@ -4447,7 +4635,7 @@
   {
    "id": "1832F8220C7143CE",
    "x": 30.0,
-   "y": 33.0,
+   "y": 35.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_anteater",
     "count": 1
@@ -4477,7 +4665,7 @@
   {
    "id": "1B69DCB913D3ED20",
    "x": 25.5,
-   "y": 35.400000000000006,
+   "y": 37.8,
    "icon": {
     "id": "alexsmobs:spawn_egg_straddler",
     "count": 1
@@ -4508,7 +4696,7 @@
   {
    "id": "2D2FCC1D2B007845",
    "x": 27.0,
-   "y": 34.2,
+   "y": 36.6,
    "icon": {
     "id": "alexsmobs:straddle_saddle",
     "count": 1
@@ -4540,7 +4728,7 @@
   {
    "id": "45A2E4A5081343AB",
    "x": 28.5,
-   "y": 34.2,
+   "y": 36.6,
    "icon": {
     "id": "alexsmobs:spawn_egg_laviathan",
     "count": 1
@@ -4570,7 +4758,7 @@
   {
    "id": "2315795196FCCEFE",
    "x": 27.0,
-   "y": 35.4,
+   "y": 37.8,
    "icon": {
     "id": "alexsmobs:straddleboard",
     "count": 1
@@ -4602,7 +4790,7 @@
   {
    "id": "51FC931451141873",
    "x": 27.0,
-   "y": 36.6,
+   "y": 39.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_stradpole",
     "count": 1
@@ -4632,7 +4820,7 @@
   {
    "id": "13B718FC4B9D2A0B",
    "x": 25.5,
-   "y": 37.8,
+   "y": 40.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_sunbird",
     "count": 1
@@ -4665,7 +4853,7 @@
   {
    "id": "65D1C2B7BA35C160",
    "x": 25.5,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_bald_eagle",
     "count": 1
@@ -4696,7 +4884,7 @@
   {
    "id": "1D6CF72CD8C16BA5",
    "x": 27.0,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:falconry_glove",
     "count": 1
@@ -4726,7 +4914,7 @@
   {
    "id": "60E93BB39C42D4AE",
    "x": 28.5,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:falconry_hood",
     "count": 1
@@ -4756,7 +4944,7 @@
   {
    "id": "71D5C46DD906DBFE",
    "x": 30.0,
-   "y": 39.0,
+   "y": 41.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_bald_eagle",
     "count": 1
@@ -4788,7 +4976,7 @@
   {
    "id": "3776EA0CC584C2F4",
    "x": 25.5,
-   "y": 40.2,
+   "y": 42.6,
    "icon": {
     "id": "alexsmobs:spawn_egg_flutter",
     "count": 1
@@ -4819,7 +5007,7 @@
   {
    "id": "4CC3B201577D750B",
    "x": 25.5,
-   "y": 41.4,
+   "y": 43.8,
    "icon": {
     "id": "alexsmobs:spawn_egg_mantis_shrimp",
     "count": 1
@@ -4850,7 +5038,7 @@
   {
    "id": "7566C259DF23AB4C",
    "x": 27.0,
-   "y": 41.4,
+   "y": 43.8,
    "icon": {
     "id": "minecraft:water_bucket",
     "count": 1
@@ -4880,7 +5068,7 @@
   {
    "id": "74F29F7B1897F385",
    "x": 25.5,
-   "y": 42.6,
+   "y": 45.0,
    "icon": {
     "id": "alexsmobs:spawn_egg_tarantula_hawk",
     "count": 1
@@ -4911,7 +5099,7 @@
   {
    "id": "1FE64F7DBC33B579",
    "x": 27.0,
-   "y": 42.6,
+   "y": 45.0,
    "icon": {
     "id": "minecraft:spider_eye",
     "count": 1
@@ -4941,7 +5129,7 @@
   {
    "id": "24B5DDD0969725BE",
    "x": 25.5,
-   "y": 43.8,
+   "y": 46.2,
    "icon": {
     "id": "alexsmobs:spawn_egg_tiger",
     "count": 1
@@ -4974,7 +5162,7 @@
   {
    "id": "28219C7D0B78A2BA",
    "x": 25.5,
-   "y": 45.0,
+   "y": 47.4,
    "icon": {
     "id": "alexsmobs:spawn_egg_underminer",
     "count": 1
@@ -5005,7 +5193,7 @@
   {
    "id": "26B2CA359B9FF17F",
    "x": 27.0,
-   "y": 45.0,
+   "y": 47.4,
    "icon": {
     "id": "alexsmobs:ghostly_pickaxe",
     "count": 1
@@ -5035,7 +5223,7 @@
   {
    "id": "1DBA49E67135AAD1",
    "x": 0.0,
-   "y": 50.7,
+   "y": 53.1,
    "icon": {
     "id": "unusualend:gloopstone",
     "count": 1
@@ -5065,7 +5253,7 @@
   {
    "id": "77671356B3F52A0A",
    "x": 1.5,
-   "y": 49.8,
+   "y": 52.2,
    "icon": {
     "id": "unusualend:gloopy_urn",
     "count": 1
@@ -5095,7 +5283,7 @@
   {
    "id": "14E1D9F181CA913F",
    "x": 3.0,
-   "y": 49.2,
+   "y": 51.6,
    "icon": {
     "id": "unusualend:end_blob",
     "count": 1
@@ -5125,7 +5313,7 @@
   {
    "id": "396E676DED27F338",
    "x": 4.5,
-   "y": 49.2,
+   "y": 51.6,
    "icon": {
     "id": "unusualend:bouncy_dagger",
     "count": 1
@@ -5155,7 +5343,7 @@
   {
    "id": "5BED1D24FB28A6E7",
    "x": 3.0,
-   "y": 50.4,
+   "y": 52.8,
    "icon": {
     "id": "unusualend:enderbulb_lens",
     "count": 1
@@ -5185,7 +5373,7 @@
   {
    "id": "606C4C382BF8E858",
    "x": 4.5,
-   "y": 50.4,
+   "y": 52.8,
    "icon": {
     "id": "unusualend:leeching_wand",
     "count": 1
@@ -5215,7 +5403,7 @@
   {
    "id": "638C78A51A480B1B",
    "x": 1.5,
-   "y": 51.6,
+   "y": 54.0,
    "icon": {
     "id": "unusualend:prismalite_gem",
     "count": 1
@@ -5245,7 +5433,7 @@
   {
    "id": "1A36E4A9571F6B84",
    "x": 3.0,
-   "y": 51.6,
+   "y": 54.0,
    "icon": {
     "id": "unusualend:pearlescent_infuser",
     "count": 1
@@ -5277,7 +5465,7 @@
   {
    "id": "10784B92A2F3E031",
    "x": 0.0,
-   "y": 57.0,
+   "y": 59.4,
    "icon": {
     "id": "unusualend:warped_end_stone",
     "count": 1
@@ -5307,7 +5495,7 @@
   {
    "id": "18B5580EAD48DCC4",
    "x": 1.5,
-   "y": 54.0,
+   "y": 56.4,
    "icon": {
     "id": "unusualend:raw_bluk",
     "count": 1
@@ -5337,7 +5525,7 @@
   {
    "id": "38365E2D2ADFCFC0",
    "x": 3.0,
-   "y": 52.8,
+   "y": 55.2,
    "icon": {
     "id": "unusualend:bluk_au_chocolat",
     "count": 1
@@ -5370,7 +5558,7 @@
   {
    "id": "563152F1810D970F",
    "x": 3.0,
-   "y": 55.2,
+   "y": 57.599999999999994,
    "icon": {
     "id": "unusualend:bolok_bucket",
     "count": 1
@@ -5400,7 +5588,7 @@
   {
    "id": "1CAD9F19F5A7DAE1",
    "x": 4.5,
-   "y": 54.0,
+   "y": 56.4,
    "icon": {
     "id": "minecraft:warped_nylium",
     "count": 1
@@ -5432,7 +5620,7 @@
   {
    "id": "236D1ABFEA89CE6B",
    "x": 4.5,
-   "y": 55.2,
+   "y": 57.6,
    "icon": {
     "id": "unusualend:bolok_fin",
     "count": 1
@@ -5462,7 +5650,7 @@
   {
    "id": "4FBD0194DA2A449F",
    "x": 4.5,
-   "y": 56.4,
+   "y": 58.8,
    "icon": {
     "id": "unusualend:warped_chestplate",
     "count": 1
@@ -5494,7 +5682,7 @@
   {
    "id": "1CC3679CFCC592D7",
    "x": 1.5,
-   "y": 57.6,
+   "y": 60.0,
    "icon": {
     "id": "unusualend:citrine_chunk",
     "count": 1
@@ -5524,7 +5712,7 @@
   {
    "id": "38CF4C1993207E86",
    "x": 3.0,
-   "y": 57.6,
+   "y": 60.0,
    "icon": {
     "id": "unusualend:crystal_catalyst",
     "count": 1
@@ -5554,7 +5742,7 @@
   {
    "id": "414024D4EF130E9C",
    "x": 1.5,
-   "y": 58.8,
+   "y": 61.2,
    "icon": {
     "id": "unusualend:warped_chest",
     "count": 1
@@ -5584,7 +5772,7 @@
   {
    "id": "4F895C99D849E982",
    "x": 3.0,
-   "y": 58.8,
+   "y": 61.2,
    "icon": {
     "id": "unusualend:bluk_bucket",
     "count": 1
@@ -5614,7 +5802,7 @@
   {
    "id": "51970CAF55EFC078",
    "x": 4.5,
-   "y": 58.8,
+   "y": 61.2,
    "icon": {
     "id": "unusualend:warped_infusion",
     "count": 1
@@ -5646,7 +5834,7 @@
   {
    "id": "10DE0602A8CA3B83",
    "x": 1.5,
-   "y": 60.0,
+   "y": 62.4,
    "icon": {
     "id": "unusualend:glub_bucket",
     "count": 1
@@ -5676,7 +5864,7 @@
   {
    "id": "35002109C363A0F4",
    "x": 3.0,
-   "y": 60.0,
+   "y": 62.4,
    "icon": {
     "id": "unusualend:warped_bubble",
     "count": 1
@@ -5706,7 +5894,7 @@
   {
    "id": "47D52E3456FD76DF",
    "x": 4.5,
-   "y": 60.0,
+   "y": 62.4,
    "icon": {
     "id": "unusualend:warped_balloon",
     "count": 1
@@ -5738,7 +5926,7 @@
   {
    "id": "6CE40A8D5B92C829",
    "x": 0.0,
-   "y": 63.6,
+   "y": 66.0,
    "icon": {
     "id": "minecraft:chorus_fruit",
     "count": 1
@@ -5766,7 +5954,7 @@
   {
    "id": "6A4B7AD328579B10",
    "x": 1.5,
-   "y": 61.2,
+   "y": 63.6,
    "icon": {
     "id": "unusualend:wandering_stew",
     "count": 1
@@ -5796,7 +5984,7 @@
   {
    "id": "22B27408ED4775F8",
    "x": 3.0,
-   "y": 61.2,
+   "y": 63.6,
    "icon": {
     "id": "unusualend:ender_firefly_egg",
     "count": 1
@@ -5828,7 +6016,7 @@
   {
    "id": "563EAB8743A27E3F",
    "x": 1.5,
-   "y": 63.0,
+   "y": 65.4,
    "icon": {
     "id": "unusualend:infested_end_stone",
     "count": 1
@@ -5858,7 +6046,7 @@
   {
    "id": "210EAD0C3E82904E",
    "x": 3.0,
-   "y": 62.4,
+   "y": 64.8,
    "icon": {
     "id": "minecraft:end_stone",
     "count": 1
@@ -5888,7 +6076,7 @@
   {
    "id": "5C18A7807053DB7B",
    "x": 3.0,
-   "y": 63.6,
+   "y": 66.0,
    "icon": {
     "id": "unusualend:spirit_grim_helmet",
     "count": 1
@@ -5918,7 +6106,7 @@
   {
    "id": "324D252A99D2C31C",
    "x": 1.5,
-   "y": 64.8,
+   "y": 67.2,
    "icon": {
     "id": "unusualend:chorus_flute",
     "count": 1
@@ -5948,7 +6136,7 @@
   {
    "id": "1DDBBE284398E4A6",
    "x": 1.5,
-   "y": 66.0,
+   "y": 68.4,
    "icon": {
     "id": "unusualend:wandering_pearl",
     "count": 1
@@ -5978,7 +6166,7 @@
   {
    "id": "77907D30818C547C",
    "x": 3.0,
-   "y": 66.0,
+   "y": 68.4,
    "icon": {
     "id": "unusualend:chorus_helmet",
     "count": 1
@@ -6010,7 +6198,7 @@
   {
    "id": "7D58A3CF2F2D9E3F",
    "x": 0.0,
-   "y": 68.7,
+   "y": 71.1,
    "icon": {
     "id": "unusualend:golem_altar",
     "count": 1
@@ -6040,7 +6228,7 @@
   {
    "id": "4A1B5E01F0914FE1",
    "x": 1.5,
-   "y": 67.80000000000001,
+   "y": 70.19999999999999,
    "icon": {
     "id": "unusualend:ancient_shard",
     "count": 1
@@ -6070,7 +6258,7 @@
   {
    "id": "3BD7BBDA065173CE",
    "x": 3.0,
-   "y": 67.2,
+   "y": 69.6,
    "icon": {
     "id": "unusualend:purpur_tank",
     "count": 1
@@ -6100,7 +6288,7 @@
   {
    "id": "34FC24B949468818",
    "x": 3.0,
-   "y": 68.4,
+   "y": 70.8,
    "icon": {
     "id": "unusualend:prismatic_mirror",
     "count": 1
@@ -6130,7 +6318,7 @@
   {
    "id": "1ED5807082A5A120",
    "x": 1.5,
-   "y": 69.6,
+   "y": 72.0,
    "icon": {
     "id": "unusualend:golem_orb",
     "count": 1
@@ -6162,7 +6350,7 @@
   {
    "id": "44037CB419E2E1ED",
    "x": 0.0,
-   "y": 70.8,
+   "y": 73.2,
    "icon": {
     "id": "minecraft:elytra",
     "count": 1
@@ -6192,7 +6380,7 @@
   {
    "id": "43B09281FEE6E0FF",
    "x": 0.0,
-   "y": 72.0,
+   "y": 74.4,
    "icon": {
     "id": "unusualend:void_totem",
     "count": 1
@@ -6222,7 +6410,7 @@
   {
    "id": "2E7DE4F5B74FE100",
    "x": 7.5,
-   "y": 51.6,
+   "y": 54.0,
    "icon": {
     "id": "unusualend:pearlescent_ingot",
     "count": 1
