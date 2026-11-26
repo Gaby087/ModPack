@@ -3,6 +3,6 @@ filename = "gaby_core-0.8.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Gaby087/ModPack/releases/download/v0.36.0-20261125-2118/gaby_core-0.8.0.jar"
+url = "https://github.com/Gaby087/ModPack/releases/download/v0.36.1-20261125-2126/gaby_core-0.8.0.jar"
 hash-format = "sha1"
-hash = "be0d156c415f5603053a2cf9760ff424ae19c833"
+hash = "271c9b2ac1cbcf8dd98ddf6d0a8dc526f8688b72"
