@@ -13681,12 +13681,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaby-battleui-0-8-0.pw.toml"
-hash = "a381ab5fee0b0d995f00d5df07a8393cfaeb5dd0a8bab64dd0c493c0c93d3b9f"
+hash = "2c8a77bb795e61d2fa9bf8b5de149c91b6dd625de9990b93504dd8c025590b9a"
 metafile = true
 
 [[files]]
 file = "mods/gaby-core-0-8-0.pw.toml"
-hash = "02012ddf8a69888d2f0c909a730c4d4a8450ad36c92d4be93c3e7ba4f183075d"
+hash = "6333fd7dd4384801c078d0f240510944888478883255a127f5768eca83c6fa5e"
 metafile = true
 
 [[files]]
@@ -13706,7 +13706,7 @@ metafile = true
 
 [[files]]
 file = "mods/grandteleport-neoforge-1-21-1-neoforge-1-0-1.pw.toml"
-hash = "e3547b71bcc723881326e294f0bf7ee6ed7c41386caa4bd77c0407d4cc942e79"
+hash = "847a6bdccd2c439ef36f1951e10460c9ebfbf9479aab155114c19f1277b2f10d"
 metafile = true
 
 [[files]]
@@ -13842,6 +13842,11 @@ metafile = true
 [[files]]
 file = "mods/melody-neoforge-1-0-10-mc-1-21.pw.toml"
 hash = "1dca32e9f92156a1a2fdb5682fe0a1e4f7dcf09c1c2c559843f36bfd3bf810fc"
+metafile = true
+
+[[files]]
+file = "mods/metalupscaler-neoforge-0-5-0-mc1-21-1.pw.toml"
+hash = "4442f3755bcf9f6ae8a193a687f8471924d5301acc58893b752b9d2e9dfcccff"
 metafile = true
 
 [[files]]
