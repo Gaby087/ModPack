@@ -1,12 +1,12 @@
 name = "Cobblemon Modpack"
 author = "Gaby"
-version = "0.37.8"
+version = "0.37.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "80a5728c487173312c6d07256ac87a28f79d3ca086ef8e62f42ba93b55728548"
+hash = "e05e8b5db1ed95a43eebaba62539d37026c37c2454c1c3312f01aa628cf35adc"
 
 [versions]
 minecraft = "1.21.1"
